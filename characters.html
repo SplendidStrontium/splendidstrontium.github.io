@@ -2,10 +2,38 @@
 <head>
 <title>Character Sheets</title>
 <link rel="stylesheet" type="text/css" href="charactersheets.css">
+
+<script type="text/javascript">
+
+function chgchar(dropdown)
+{
+    var mychar = dropdown.selectedIndex
+    alert("changed!");
+    return true;
+
+}
+
+</script>
 </head>
 
 <body>
 
+<select id="charselect" onchange='alert("hi!");'>
+<option>Lanna</option>
+<option>Shora</option>
+</select>
+
+
+<br>
+<div id="charname">Lanna</div>
+<div id="charclass">druid</div>
+<br>
+<div class="stat">STR 12</div>
+<div class="stat">DEX 16</div>
+<div class="stat">CON 18</div>
+<div class="stat">INT 18</div>
+<div class="stat">WIS 18</div>
+<div class="stat">CHA 12</div>
 
 </body>
 

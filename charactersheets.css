@@ -1,3 +1,12 @@
 body {
 	background-color: lightblue;
 }
+
+#charname {
+	color: blue;
+	font-weight: bold;
+}
+
+#charclass {
+	font-weight: bold:
+}
