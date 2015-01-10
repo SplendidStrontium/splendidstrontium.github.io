@@ -1,0 +1,28 @@
+<character_list>
+	<character>
+		<name>Lanna</name>
+		<class>druid</class>
+		<str>12</str>
+		<dex>16</dex>
+		<con>18</con>
+		<int>18</int>
+		<wis>18</wis>
+		<cha>12</cha>
+		<descr>
+			Lanna is a tall elf with blonde hair
+		</descr>
+	</character>
+	<character>
+		<name>Shora</name>
+		<class>psion</class>
+		<str>10</str>
+		<dex>16</dex>
+		<con>12</con>
+		<int>20</int>
+		<wis>16</wis>
+		<cha>10</cha>
+		<descr>
+			Shora is a slight woman with salt and peppered hair
+		</descr>
+	</character>
+</character_list>
