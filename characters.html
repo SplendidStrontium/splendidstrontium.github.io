@@ -1,19 +1,13 @@
 <html>
 <head>
+<meta charset="utf-8">
 <title>Character Sheets</title>
 <link rel="stylesheet" type="text/css" href="charactersheets.css">
 
 <script type="text/javascript">
 
-function chgchar(dropdown)
-{
-    var mychar = dropdown.selectedIndex
-    alert("changed!");
-    return true;
-
-}
-
 </script>
+<script src="jquery-1.11.2.js"></script>
 </head>
 
 <body>
@@ -35,6 +29,16 @@ function chgchar(dropdown)
 <div class="stat">WIS 18</div>
 <div class="stat">CHA 12</div>
 
-</body>
 
+<br>
+<a href="http://www.d20srd.org/indexes/monsters.htm">Monsters</a>
+<script>
+    $(document).ready( function() {
+	$("a").click( function(event) {
+	    alert("see ya!");
+	});
+    });
+</script>
+
+</body>
 </html>
