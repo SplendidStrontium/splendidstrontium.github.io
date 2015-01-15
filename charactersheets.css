@@ -10,3 +10,17 @@ body {
 #charclass {
 	font-weight: bold:
 }
+
+#tb_activestats{
+	border-collapse: collapse;
+	border: 2px solid black;
+}
+
+#tb_activestats td{
+	padding: 0;
+	border: 1px solid black;
+}
+
+#tb_activestats tr{
+	padding: 0;
+}
