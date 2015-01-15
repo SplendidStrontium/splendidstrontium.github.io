@@ -4,31 +4,81 @@
 <title>Character Sheets</title>
 <link rel="stylesheet" type="text/css" href="charactersheets.css">
 
-<script type="text/javascript">
-
-</script>
-<script src="jquery-1.11.2.js"></script>
+<script src="jquery-1.11.2.js" type="text/javascript"></script>
 </head>
 
 <body>
 
-<select id="charselect" onchange='alert("hi!");'>
-<option>Lanna</option>
-<option>Shora</option>
+<select id="chardropdown">
+<option value="lanna01">Lanna</option>
+<option value="shora01">Shora</option>
 </select>
 
+<script>
+    $(document).ready(function(){
+	var sel_char = $("#chardropdown option:selected").text();
+	$("#activename").html(sel_char);
+	console.log(sel_char);
+    });
+    
+    $("#chardropdown").change(function(){
+	sel_char = $("#chardropdown option:selected").val();
+	$("#activename").empty();
+	$("#activename").html(sel_char);
+	console.log(sel_char);
+    });
+</script>
+
+
+
+<script>
+$(document).ready(function(){
+    $.ajax({
+	type: "GET",
+	url: "char_data.xml",
+	dataType: "xml",
+	success: function(xml) {
+	    var xml_node = $('character_list', xml);
+	    console.log('what');
+	    console.log(xml_node.find('class').text());
+
+	    //$("#test").text(xml);
+	    }
+	}
+    );
+});
+</script>
 
 <br>
-<div id="charname">Lanna</div>
-<div id="charclass">druid</div>
-<br>
-<div class="stat">STR 12</div>
-<div class="stat">DEX 16</div>
-<div class="stat">CON 18</div>
-<div class="stat">INT 18</div>
-<div class="stat">WIS 18</div>
-<div class="stat">CHA 12</div>
 
+<table id="tb_activestats"><tbody>
+<tr>
+<td id="activename"></td>
+<td id="activeclass"></td>
+</tr>
+<tr>
+<td>STR</td>
+<td id="activestr"></td>
+</tr>
+<tr>
+<td>DEX</td>
+<td id="activedex"></td>
+</tr>
+<tr>
+<td>CON</td>
+<td id="activecon"></td>
+</tr><tr>
+<td>INT</td>
+<td id="activeint"></td>
+</tr><tr>
+<td>WIS</td>
+<td id="activewis"></td>
+</tr><tr>
+<td>CHA</td>
+<td id="activecha"></td>
+</tr></tbody></table>
+
+<div id="test"></div>
 
 <br>
 <a href="http://www.d20srd.org/indexes/monsters.htm">Monsters</a>

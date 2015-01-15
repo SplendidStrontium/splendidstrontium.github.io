@@ -1,5 +1,5 @@
 <character_list>
-	<character>
+	<character id="lanna01">
 		<name>Lanna</name>
 		<class>druid</class>
 		<str>12</str>
@@ -12,7 +12,7 @@
 			Lanna is a tall elf with blonde hair
 		</descr>
 	</character>
-	<character>
+	<character id="shora01">
 		<name>Shora</name>
 		<class>psion</class>
 		<str>10</str>
