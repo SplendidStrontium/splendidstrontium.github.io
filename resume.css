@@ -1,0 +1,15 @@
+body {
+	background-color: lightgrey;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#wrapper{
+    border: 3px solid black;
+	background: white;
+}
+
+.header{
+	text-align: center;
+	
+}
+
