@@ -9,11 +9,38 @@ body {
 	box-shadow: 0 0 8px #aaa;
 	padding: 20px;
 	background: white;
+	width: 1000px;
+	margin: 0px auto;
+	overflow: auto;
 }
 
 .header{
 	text-align: center;
 	
+}
+h1{
+	text-align: left;
+}
+#skills{
+	width: 900px;
+	height: 170px;
+	margin: 0px auto;
+}
+.skills_section{
+	width: 300px;
+	float: left;
+}
+.green{
+	background: rgba(138,230,138,0.5);
+	padding: 5px;
+}
+.yellow{
+	background: rgba(255,255,153,0.7);
+	padding: 5px;
+}
+.orange{
+	background: rgba(255,163,71,0.3);
+	padding: 5px;
 }
 
 @media (max-width: 600px){
