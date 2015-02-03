@@ -1,3 +1,34 @@
 body {
 	background-color: lightgreen;
 }
+
+a, a:visited, a:active{
+	color: grey;
+	text-decoration: none;
+}
+a:hover{
+	color: black;
+}
+
+#leftnav a{
+	font-family: "Courier New", monospace;
+	font-size: 10px;
+	text-align: center;
+	display: block;
+	border-style: solid;
+	padding: 5px;
+	width: 70px;
+	height: 20px;
+	line-height: 20px;
+	background: lightblue;
+}
+
+.leftnavimg{
+	width: 120px;
+	height: 120px;
+	margin: 3px;
+	background-color: purple;
+	border-width: 1px;
+	border-style: dashed;
+	border-color: yellow;
+}
