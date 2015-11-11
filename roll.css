@@ -1,3 +1,65 @@
 body {
 	background-color: plum;
 }
+
+#title_box{
+	width: 200px;
+	height: 50px;
+	display: flex;
+	justify-content: center; /*align horiz*/
+	align-items: center; /*align vert*/
+	border: 1px solid ghostwhite;
+	margin: 0 auto;
+	
+}
+
+#title_content{
+	display: inline-block;
+	vertical-align: middle;
+	line-height: normal;
+	border: 1px solid black;
+	text-align: center;
+	font-family: "Lucida Console", Monospace, serif;
+	
+}
+
+form {
+	display: inline;
+}
+
+input {
+	font-family: "Lucida Console", Monospace, serif;
+	display: inline;
+	text-align: center;
+}
+input[name="#d"] {
+	width: 40px;
+}
+input[name="d#"] {
+	width: 30px;
+}
+
+#roll_list{
+	border: 1px solid ghostwhite;
+	width: 800px;
+	margin: 0 auto;
+	position: relative;
+}
+
+.roller_entry{
+	font-family: "Lucida Console", Monospace, serif;
+	display: inline-block;
+	border: 1px solid black;
+	margin: 10px 50px;
+	width: 700px;
+	position: relative;
+	padding: 10px;
+}
+
+.dice_text{
+	display: inline;
+}
+
+button[name="rollme"] {
+	color: red;
+}
