@@ -1,6 +1,6 @@
 # splendidstrontium.github.io
 
-== todo
+@TODO
 
 * 404.html
 * sitemap.html
