@@ -1,0 +1,13 @@
+# Site settings
+title: Not a Number
+email: pnkrsnak@gmail.com 
+description: > # this means to ignore newlines until "baseurl:"
+  here, we are not only numbers
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://nan.nyc" # the base hostname & protocol for your site
+twitter_username: remington_sl3	
+github_username:  splendidstrontium
+
+# Build settings
+markdown: kramdown
+permalink: pretty

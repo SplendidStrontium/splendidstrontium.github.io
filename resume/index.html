@@ -1,0 +1,80 @@
+---
+layout: page
+title: Resume
+permalink: /resume/
+---
+
+<html>
+<head>
+<meta charset="utf-8">
+<title>Paige Thompson</title>
+<link rel="stylesheet" type="text/css" href="resume.css">
+
+<script src="jquery-1.11.2.js" type="text/javascript"></script>
+</head>
+
+<body>
+
+<script>
+    $(document).ready(function(){
+		var email = "paigenthompson";
+		var maildomain = "gmail.com";
+		var emailaddress = email + "@" + maildomain;
+		$("#contactme").append(emailaddress);
+		var areacd = "646";
+		var pnum1 = "963";
+		var pnum2 = "0491";
+		var pnumf = areacd + "-" + pnum1 + "-" + pnum2;
+		$("#callme").append(pnumf);
+    });
+    
+
+</script>
+<div id="wrapper">
+
+<div id="nameplate" class="header">Paige Thompson</div>
+<div id="contactme" class="header"></div>
+<div id="callme" class="header"></div>
+<div id="github" class="header"><a href="https://github.com/SplendidStrontium"><img src="GitHub-Mark-64px.png" alt="SplendidStrontium@github"></a></div>
+<div id="linkedin" class="header"><a href="http://www.linkedin.com/pub/paige-thompson/31/886/505"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_myprofile_160x33.png" width="160" height="33" border="0" alt="View Paige Thompson's profile on LinkedIn"></a></div>
+
+<br/>
+
+<h1>Skills</h1>
+<div id="skills">
+<div class="skills_section">
+	<p><em class="green">C</em> / <em class="yellow">C++</em></p>
+	<p><em class="yellow">Python</em></p>
+	<p><em class="yellow">Ruby</em></p>
+	<p><em class="orange">Java</em></p>
+</div>
+<div class="skills_section">
+	<p><em class="green">HTML/CSS</em></p>
+	<p><em class="yellow">Javascript</em></p>
+	<p><em class="green">SQL</em></p>
+</div>
+<div class="skills_section">
+	<p><em class="green">Windows 7/8</em></p>
+	<p><em class="green">Linux Mint</em> / <em class="yellow">Ubuntu</em></p>
+	<p><em class="yellow">OS X</em></p>
+</div>
+</div>
+
+<h1>Experience</h1>
+<div id="exp">
+<h2>Consultant at Lynxsy</h2>
+<h3>November 2013 - January 2014</h3>
+<p>- constructed MySQL database of over 70K startups to assist Lynxsy with placement<br/>
+- used APIs to extract information from Angellist, Crunchbase<br/>
+- wrote scripts in Ruby to crawl list of NYC startups and compare to db<br/>
+- created local prototype using PostgreSQL, later recreated on AWS RDS for public storage</p>
+<h2>Administrative Assistant at Columbia University Biology</h2>
+<h3>August 2011 - September 2014</h3>
+<p>- provided visual interface to work with Columbia API for recitation signups<br/>
+- managed testing logistics for 400+ students, proctors, TAs, and the professor</p>
+</div>
+
+</div>
+
+</body>
+</html>
