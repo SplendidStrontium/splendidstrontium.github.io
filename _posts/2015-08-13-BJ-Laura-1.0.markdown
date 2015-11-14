@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BJ Laura & Son 1.0"
-date: 	2015-08-13 11:40
+date: 	2015-08-13
 categories: 	webdev update
 ---
 # BJ Laura & Desco business website 1.0 completed
@@ -11,13 +11,13 @@ I deployed the first version of a brand new website for BJ Laura & Desco Service
 *	[BJ Laura & Son][bjl]
 *	[Desco Service][desco]
 
-The website will direct customers to their business through phone, email, and google location services.  A history of the business is listed.  The rudiments of a sign in system are in place.  SEO?
+The website will direct customers to their business through phone, email, and google location services.  A history of the business is listed.  The rudiments of a sign-in system are in place.  SEO?
 
 The graphics are placeholders for the most part.  Mobile, as well, still needs an overhaul.
 
 Future versions may include a marketplace for materials and parts.
 
-Currently researching best ways to incorporate transactions with existing RoR site.
+Currently researching best ways to incorporate transactions with existing Rails site.
 
 [bjl]:      http://www.bjlaura.com
 [desco]:		http://www.descoservice.com
