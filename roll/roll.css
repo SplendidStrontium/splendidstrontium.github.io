@@ -1,5 +1,5 @@
 body {
-	background-color: plum;
+
 }
 
 #title_box{
@@ -41,7 +41,6 @@ input[name="d#"] {
 
 #roll_list{
 	border: 1px solid ghostwhite;
-	width: 800px;
 	margin: 0 auto;
 	position: relative;
 }
@@ -51,7 +50,6 @@ input[name="d#"] {
 	display: inline-block;
 	border: 1px solid black;
 	margin: 10px 50px;
-	width: 700px;
 	position: relative;
 	padding: 10px;
 }

@@ -11,3 +11,6 @@ github_username:  splendidstrontium
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+#other options
+timezone: America/New_York
