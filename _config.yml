@@ -10,7 +10,7 @@ github_username:  splendidstrontium
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:categories/:title
 
 #other options
 timezone: America/New_York
