@@ -11,6 +11,8 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
-	<p class="post-meta">last update: {{ page.edited | date: "%b %-d, %Y" }}</p>
+	
+		<p>Last update:</p>
+		<p class="post-meta">{{ page.edited | date: "%b %-d, %Y" }}</p>
 
 </div>
