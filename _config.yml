@@ -14,3 +14,4 @@ permalink: /:categories/:title
 
 #other options
 timezone: America/New_York
+exclude:	[old]

@@ -3,7 +3,7 @@ layout: post
 title:	"Recipe: lactation cookies"
 date: 	2015-09-02
 categories: 	recipes
-description:	"many claim the oats and yeast encourage plentiful supply"
+description:	"many claim the oats, flax, and yeast encourage plentiful supply"
 ---
 * mix `2tbsp flax` & `4tbsp water`, let sit
 * cream `2c b.sugar`, `1c butter`

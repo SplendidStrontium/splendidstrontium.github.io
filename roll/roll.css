@@ -2,26 +2,6 @@ body {
 
 }
 
-#title_box{
-	width: 200px;
-	height: 50px;
-	display: flex;
-	justify-content: center; /*align horiz*/
-	align-items: center; /*align vert*/
-	border: 1px solid ghostwhite;
-	margin: 0 auto;
-	
-}
-
-#title_content{
-	display: inline-block;
-	vertical-align: middle;
-	line-height: normal;
-	border: 1px solid black;
-	text-align: center;
-	font-family: "Lucida Console", Monospace, serif;
-	
-}
 
 form {
 	display: inline;
