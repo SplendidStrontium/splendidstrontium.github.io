@@ -5,6 +5,7 @@ date:   2015-11-29
 categories: howto
 description:  "or another similar OS"
 tags:   [eve]
+lastmod:	2015-11-29
 ---
 I have recently been getting back into EVE Online, and now that I'm on Linux more often than not, I wondered whether it was possible to set up the game accessible by Linux.  It was a relatively simple installation.
 
