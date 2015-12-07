@@ -4,7 +4,6 @@ title: 	"Recipe: blueberry bread-cake"
 date:		2015-06-07
 categories: 	recipes
 description:	"inspired by banana bread, but much tastier"
-lastmod:	2015-06-07
 ---
 * cream `¾c sugar` and `½c butter`
 * add `2 eggs`

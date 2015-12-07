@@ -12,6 +12,7 @@ layout: default
     {{ content }}
   </article>
 	
-		<p class="post-meta">Last update: {{ page.lastmod | date: "%b %-d, %Y" }}</p>
-
+{% if page.lastmod %}
+	<p class="post-meta">Last update: {{ page.lastmod | date: "%b %-d, %Y" }}</p>
+{% endif %}
 </div>

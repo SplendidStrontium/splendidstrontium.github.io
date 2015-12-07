@@ -4,7 +4,6 @@ title: 	"Recipe: cornbread (just a bit sweet)"
 date:		2015-12-06
 categories:	recipes
 description: 	"not too cakey, not too dry"
-lastmod:	2015-12-06
 ---
 * in large mixing bowl, combine `1½c cornmeal`, `½c ap flour`, `½c sugar`, `¼tsp b.soda`, `1½tsp b.powder`, `1tsp salt`
 * make a hollow in the center of the dry ingredients

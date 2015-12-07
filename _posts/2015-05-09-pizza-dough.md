@@ -4,7 +4,6 @@ title: 	"Recipe: pizza dough"
 date: 	2015-05-09
 categories:	recipes
 description:	"working recipe while I develop the perfect one"
-lastmod:	2015-05-09
 ---
 * stir `¼c warm water` & `1tsp honey` (I use the lowest setting on my convection oven)
 * add `1pkg / 2¼ tsp yeast` & let sit
