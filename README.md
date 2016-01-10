@@ -3,4 +3,3 @@
 @TODO
 
 * sitemap.html
-* about.html

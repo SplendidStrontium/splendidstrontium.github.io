@@ -5,8 +5,4 @@ menu: main
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+When I'm not hanging out with my son, husband, dog, or two kitties, you might find me hanging around on EVE Online, sending snippets of code off to [github](https://github.com/splendidstrontium), or knit-witting away.
