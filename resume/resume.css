@@ -1,6 +1,5 @@
 body {
 	background-color: #ddd;
-	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
 #wrapper{
@@ -22,8 +21,7 @@ h1{
 	text-align: left;
 }
 #skills{
-	width: 600px;
-	height: 170px;
+
 	margin: 0px auto;
 }
 .skills_section{
