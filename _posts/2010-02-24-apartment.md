@@ -7,41 +7,41 @@ description: 	"excerpt"
 published: 	false
 ---
 holes in the walls<br/>
-crumbled drywall cowering
-cold air trickles in
+crumbled drywall cowering<br/>
+cold air trickles in<br/>
 
-a shattered dish
-in the corner
-sharp edges shrieked
-and now lay silenced
+a shattered dish<br/>
+in the corner<br/>
+sharp edges shrieked<br/>
+and now lay silenced<br/>
 
-the fridge is missing a foot
-can't stand up straight
-there's a dent in the right side
+the fridge is missing a foot<br/>
+can't stand up straight<br/>
+there's a dent in the right side<br/>
 
-black electrical tape
-holding up bathroom tile
-where the soap dish isn't
+black electrical tape<br/>
+holding up bathroom tile<br/>
+where the soap dish isn't<br/>
 
-missing a knob
-a hinge hangs useless
-the bathroom door
-bent in the middle
-as if perforated
-waiting
-to be put out of misery
+missing a knob<br/>
+a hinge hangs useless<br/>
+the bathroom door<br/>
+bent in the middle<br/>
+as if perforated<br/>
+waiting<br/>
+to be put out of misery<br/>
 
-from the pop can
-reborn as an ashtray
-the air is becoming opaque
-trying, trying not to choke
+from the pop can<br/>
+reborn as an ashtray<br/>
+the air is becoming opaque<br/>
+trying, trying not to choke<br/>
 
-i pretended not to see
-the roach scuttling
-toward the trash can
+i pretended not to see<br/>
+the roach scuttling<br/>
+toward the trash can<br/>
 
-he offers me the last draw
-i politely refuse
-i can't stop staring
-at the ashes
-that fell on the floor
+he offers me the last draw<br/>
+i politely refuse<br/>
+i can't stop staring<br/>
+at the ashes<br/>
+that fell on the floor<br/>
