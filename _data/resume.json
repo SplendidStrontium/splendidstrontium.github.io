@@ -1,0 +1,100 @@
+{
+	"skills":[ 
+		{
+			"name": "Ruby",
+			"highlight": "green",
+			"summary": "rubies are shiny"
+		},
+		{
+			"name": "HTML/CSS",
+			"highlight": "green",
+			"summary": "invoke some sassy css"
+		},
+		{
+			"name": "Javascript",
+			"highlight": "green",
+			"summary": "it was the best of times, it was"
+		},
+		{
+			"name": "SQL",
+			"highlight": "green",
+			"summary": "dry crud"
+		},
+		{
+			"name": "R",
+			"highlight": "yellow",
+			"summary": "because MATLAB is so 2003"
+		},
+		{
+			"name": "C/C++",
+			"highlight": "yellow",
+			"summary": "void ur pointer strs"
+		},
+		{
+			"name": "Python",
+			"highlight": "yellow",
+			"summary": "the prime directive is to pick the other number"
+		}
+	],
+	"platforms":[
+		{
+			"name": "Ruby on Rails",
+			"highlight": "green"
+		},
+		{
+			"name": "Jekyll",
+			"highlight": "yellow"
+		},
+		{
+			"name": "Windows 7/8",
+			"highlight": "green"
+		},
+		{
+			"name": "Linux Mint / Ubuntu",
+			"highlight": "green"
+		},
+		{
+			"name": "OS X",
+			"highlight": "yellow"
+		}
+	],
+	"misc_resources":[
+		{
+			"name": "Github",
+			"url": "https://github.com/splendidstrontium"
+		},
+		{
+			"name": "Vim"
+		},
+		{
+			"name": "GIMP(Linux)"
+		},
+		{
+			"name": "Stack Exchange",
+			"url":	"http://stackexchange.com/users/7429244"
+		}
+	],
+	"positions":[
+		{
+			"title": "Web Developer",
+			"company":	"BJ Laura and Son",
+			"url":	"http://bjlaura.com",
+			"st_date":	"April 2015",
+			"en_date":	"present"
+		},
+		{
+			"title":	"Consultant",
+			"company":	"Lynxsy (now Planted)",
+			"url":	"https://planted.com",
+			"st_date":	"Nov 2013",
+			"en_date":	"Jan 2014"
+		},
+		{
+			"title":	"Administrative Assistant",
+			"company":	"Columbia University Biology",
+			"url":	"http://biology.columbia.edu",
+			"st_date":	"Aug 2011",
+			"en_date":	"Sep 2014"
+		}
+	]
+}

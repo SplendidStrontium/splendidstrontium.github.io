@@ -3,6 +3,7 @@ body {
 }
 
 #wrapper{
+	max-width: 650px;
     border: 1px solid black;
 	border-radius: 4px;
 	box-shadow: 0 0 8px #aaa;
@@ -12,29 +13,35 @@ body {
 	overflow: auto;
 }
 
-.header{
-	text-align: center;
+#header_row{
+	display: inline-block;
 }
 
 #mypict{
 	display: inline-block;
+	padding-right: 10px;
 }
 
-#purp_statem{
-	display: inline;
+#my_statem{
+	width: 550px;
+	display: inline-block;
 }
 
 h1{
-	text-align: left;
+
 }
 
-#skills{
+#skills_tbl{
 	margin: 0px auto;
+	border: 1px solid #000;
+	width: 100%;
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
-.skills_section{
-	width: 200px;
-	float: left;
+th.lang_list, th.plat_list {
+	width: 33%;
 }
+
 .green{
 	background: rgba(138,230,138,0.5);
 	padding: 5px;
