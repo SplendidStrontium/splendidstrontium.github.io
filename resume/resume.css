@@ -14,17 +14,25 @@ body {
 
 .header{
 	text-align: center;
-	
 }
+
+#mypict{
+	display: inline-block;
+}
+
+#purp_statem{
+	display: inline;
+}
+
 h1{
 	text-align: left;
 }
-#skills{
 
+#skills{
 	margin: 0px auto;
 }
 .skills_section{
-	width: 300px;
+	width: 200px;
 	float: left;
 }
 .green{
