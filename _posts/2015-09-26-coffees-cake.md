@@ -4,6 +4,7 @@ title: 	"Recipe: coffee's cake"
 date:		2015-09-26
 categories:	recipes
 description: 	"this moist cake, covered, lasts a week at room temperature"
+lastmod: 2015-09-26 23:00
 ---
 * cream `½c butter` & `1c b.sugar`, add `2 eggs`
 * mix `2c flour`, `1tsp b.powder`, `¼tsp b.soda`, `1tsp salt`

@@ -6,7 +6,7 @@ categories:	parenting
 tags:		[diapering]
 description:	"some arguments in favor of cloth diapering your infant"
 published:	true
-lastmod:	2015-11-16
+lastmod:	2015-11-16 23:00
 ---
 ## Why do I use cloth diapers? ##
 

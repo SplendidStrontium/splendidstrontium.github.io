@@ -91,6 +91,48 @@
 			"cmt":	"water/snow proof, buy one with a hole for carseat straps"
 		}
 	],
+	"linens":[
+		{
+			"name": "Tide Powder",
+			"cmt":	"I have not found anything else that works as well on baby stains"
+		},
+		{
+			"name":	"cotton muslin swaddles (10)",
+			"cmt":	"lightweight; limitless uses"
+		},
+		{
+			"name":	"woven cotton blanket (4)",
+			"cmt":	"spring/fall, changing cover"
+		},
+		{
+			"name":	"knit blankets (4)",
+			"cmt":	"stroller, bed, carseat..."
+		},
+		{
+			"name":	"winter warm blankets (2)",
+			"cmt":	"polyester, fuzzy and soft"
+		},
+		{
+			"name":	"baby towels (3)",
+			"cmt":	"soft, absorbent, and light"
+		},
+		{
+			"name": "baby soap",
+			"cmt":	"gentle and free"
+		},
+		{
+			"name":	"clean-up cloths (30)",
+			"cmt": 	"squirrel away small scraps everywhere to wipe up bits of drool"
+		},
+		{	
+			"name":	"nail clippers (2)",
+			"cmt":	"baby nails are sharp and grow fast! get a spare."
+		},
+		{
+			"name":	"hairbrush/comb",
+			"cmt":	"depends on hair length/type"
+		}
+	],
 	"furniture":[
 		{
 			"name": "Playard AKA \"Pack n Play\" ",
