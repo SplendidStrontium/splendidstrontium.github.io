@@ -44,7 +44,11 @@ permalink: /resume/
 	</td>
 	<td>
 		{% for misc_resource in site.data.resume.misc_resources %}
-		<ul>{{ misc_resource.name }} </ul>
+			{% if misc_resource.url %}
+				<ul><a href="{{ misc_resource.url }}">{{ misc_resource.name }}</a> </ul>
+			{% else %}
+				<ul>{{ misc_resource.name }}</ul>
+			{% endif %}
 		{% endfor %}
 	</td>	
 </tr>
@@ -56,26 +60,24 @@ permalink: /resume/
 
 <div id="past_exp">
 {% for position in site.data.resume.positions %}
-	<ul>{{ position.title }} </ul>
+	<ul>
+		<b>{{ position.title }}</b>
+		<span> at </span>
+			{% if position.url %}
+				<a href="{{ position.url }}">{{ position.company }}</a><br/>
+			{% else %}
+				{{ position.company }}<br/>
+			{% endif %}
+		{{ position.st_date }} - {{ position.en_date }}<br/>
+		{% capture detailist %}
+			{% for bullet in position.details %}
+				{{ bullet | prepend:' - '}}<br/>
+			{% endfor %} 
+		{% endcapture %}
+		{{ detailist }}
+	</ul>
 {% endfor %}
 
-<div id="exp">
-<h1>Web Developer at <a href="http://bjlaura.com">BJ Laura</a> &amp; <a href="http://descoservice.com">Desco Services</a></h1>
-<h2>April 2015 - present</h2>
-<p>- maintain our business portal, created using Rails framework<br/>
-- provide technical support and advice<br/>
-- develop new business ventures and ideas</p>
-<h2>Consultant at Lynxsy</h2>
-<h3>November 2013 - January 2014</h3>
-<p>- constructed MySQL database of over 70K startups to assist Lynxsy with placement<br/>
-- used APIs to extract information from Angellist, Crunchbase<br/>
-- wrote scripts in Ruby to crawl list of NYC startups and compare to db<br/>
-- created local prototype using PostgreSQL, later recreated on AWS RDS for public storage</p>
-<h2>Administrative Assistant at Columbia University Biology</h2>
-<h3>August 2011 - September 2014</h3>
-<p>- provided visual interface to work with Columbia API for recitation signups<br/>
-- managed testing logistics for 400+ students, proctors, TAs, and the professor</p>
-</div> <!-- end exp -->
 
 </div> <!--end wrapper-->
 

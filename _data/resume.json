@@ -16,11 +16,6 @@
 			"summary": "it was the best of times, it was"
 		},
 		{
-			"name": "SQL",
-			"highlight": "green",
-			"summary": "dry crud"
-		},
-		{
 			"name": "R",
 			"highlight": "yellow",
 			"summary": "because MATLAB is so 2003"
@@ -52,10 +47,6 @@
 		{
 			"name": "Linux Mint / Ubuntu",
 			"highlight": "green"
-		},
-		{
-			"name": "OS X",
-			"highlight": "yellow"
 		}
 	],
 	"misc_resources":[
@@ -80,21 +71,36 @@
 			"company":	"BJ Laura and Son",
 			"url":	"http://bjlaura.com",
 			"st_date":	"April 2015",
-			"en_date":	"present"
+			"en_date":	"present",
+			"details": [
+						"maintain our business portal",
+						"provide technical support and advice",
+						"develop new business ventures and ideas"
+					]
 		},
 		{
 			"title":	"Consultant",
 			"company":	"Lynxsy (now Planted)",
-			"url":	"https://planted.com",
+			"url":	"https://www.planted.com",
 			"st_date":	"Nov 2013",
-			"en_date":	"Jan 2014"
+			"en_date":	"Jan 2014",
+			"details": [
+					"constructed MySQL db of startups to assist with placement",
+					"used APIs to extract information from Angellist, Crunchbase",
+					"wrote scripts in Ruby to crawl list of NYC and compare to db",
+					"created local prototype using PostgreSQL, later recreated on AWS RDS"
+				]
 		},
 		{
 			"title":	"Administrative Assistant",
 			"company":	"Columbia University Biology",
 			"url":	"http://biology.columbia.edu",
 			"st_date":	"Aug 2011",
-			"en_date":	"Sep 2014"
+			"en_date":	"Sep 2014",
+			"details":	[
+					"provided visual interface to work with Columbia for recitation signups",
+					"managed testing logistics for 400+ students, proctors, TAs, and the professor"
+				]
 		}
 	]
 }
