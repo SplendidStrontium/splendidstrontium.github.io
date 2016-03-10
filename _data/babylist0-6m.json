@@ -1,0 +1,105 @@
+{
+	"brf_accessories":[
+		{
+			"name": "vitamins for mom",
+			"cmt":	"you may continue your daily prenatals",
+			"note":	"DHA, Calcium, Iron"
+		},
+		{
+			"name":	"vitamins for baby",
+			"cmt":	"a once daily dose",
+			"note":	"breastmilk contains little Vitamin D, which is synthesized by the infant in the presence of sunlight. For the indoor dwelling baby, once eating solid food, replace this with a multi with iron"
+		},
+		{
+			"name": "pure lanolin wax",
+			"cmt":	"for application after feeding baby",
+			"note":	"very soothing, babysafe, but will stain clothes"
+		},
+		{
+			"name":	"nursing bra (4)",
+			"cmt":	"soft, cotton, no wire",
+			"note":	"extra leak shield inserts optional"
+		},
+		{
+			"name": "OTC pain relief",
+			"cmt":	"Tylenol, Advil, Motrin...?",
+			"note":	"have it on hand, but check type with your PCP/OBGYN"
+		},
+		{
+			"name":	"nursing pillow",
+			"cmt":	"helps to support infant during feeding",
+			"note":	"great for newborns, great for learning to sit"
+		}
+	],
+	"bof_accessories":[
+		{
+			"name": "breastpump, manual and/or electric",
+			"cmt":	"get your insurance to provide an electric, and purchase a manual for casual use",
+			"note":	"if you aren't working away from your baby, a manual is likely to satisfy your needs"
+		},
+		{
+			"name":	"milk storage containers",
+			"cmt":	"e.g. freezer bags, fridge capped cups",
+			"note":	"up to 3d in fridge, 3m in freezer, 1y in deep freeze"
+		},
+		{
+			"name":	"bottles",
+			"cmt":	"glass is hygienic and will last through many children",
+			"note":	"don't buy a lot of one kind until you know he likes it"
+		},
+		{
+			"name":	"bottle brush, sterilizer",
+			"cmt":	"without a sterilizer, boil 5+ min to sterilize",
+			"note":	"germaphobe or not, bottles and toys should be sterilized on first use and as needed, but at least quarterly"
+		}
+	],
+	"clothes":[
+		{
+			"name": "white bodysuits (6)",
+			"cmt":	"layering, lazy days"
+		},
+		{
+			"name":	"fun bodysuits (6)",
+			"cmt":	"every baby needs a few bright colors and patterns"
+		},
+		{
+			"name":	"baby pants (4)",
+			"cmt":	"keep those legs warm"
+		},
+		{
+			"name":	"socks (20)",
+			"cmt":	"these will get lost - wash them in a laundry bag and give up on matching them"
+		},
+		{
+			"name":	"hat (2)",
+			"cmt":	"for head warms"
+		},
+		{
+			"name":	"jacket",
+			"cmt":	"hoodies are great"
+		},
+		{
+			"name":	"kimonos (2)",
+			"cmt":	"classic cotton - no frills clothing for tiny, new babies"
+		},
+		{
+			"name":	"baby bag (indoor)",
+			"cmt":	"polyester will make for warm winter naps"
+		},
+		{
+			"name":	"baby bag (outdoor)",
+			"cmt":	"water/snow proof, buy one with a hole for carseat straps"
+		}
+	],
+	"furniture":[
+		{
+			"name": "Playard AKA \"Pack n Play\" ",
+			"cmt":	"with changer and dual level",
+			"sugg_ext": "playard sheets, mattress"
+		},
+		{
+			"name": "Napping swing",
+			"cmt":	"calm baby, calm parents"
+		}
+	]
+}
