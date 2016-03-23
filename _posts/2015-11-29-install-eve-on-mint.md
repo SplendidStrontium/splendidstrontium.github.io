@@ -4,7 +4,8 @@ title:  "How to install EVE Online on Linux Mint 17.2 Cinnamon [32-bit]"
 date:   2015-11-29
 categories: howto
 description:  "or another similar OS"
-tags:   [eve]
+tags:   [eve, linux-mint]
+published: true
 lastmod:	2015-11-29 23:00
 ---
 I have recently been getting back into EVE Online, and now that I'm on Linux more often than not, I wondered whether it was possible to set up the game accessible by Linux.  It was a relatively simple installation.

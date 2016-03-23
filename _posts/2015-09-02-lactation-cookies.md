@@ -3,7 +3,9 @@ layout: post
 title:	"Recipe: lactation cookies"
 date: 	2015-09-02
 categories: 	recipes
+tags:	[flax, butter, egg, wheat, oats]
 description:	"many claim the oats, flax, and yeast encourage plentiful supply"
+published: true
 lastmod:	2015-11-13 23:00
 ---
 * mix `2tbsp flax` & `4tbsp water`, let sit

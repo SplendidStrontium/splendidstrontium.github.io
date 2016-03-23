@@ -3,6 +3,8 @@ layout:	post
 title: 	"Recipe: pizza dough"
 date: 	2015-05-09
 categories:	recipes
+tags:	[wheat, yeast]
+published: true
 description:	"working recipe while I develop the perfect one"
 ---
 * stir `¼c warm water` & `1tsp honey` (I use the lowest setting on my convection oven)

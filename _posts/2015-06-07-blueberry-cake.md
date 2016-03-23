@@ -3,6 +3,8 @@ layout: post
 title: 	"Recipe: blueberry bread-cake"
 date:		2015-06-07
 categories: 	recipes
+tags:	[egg, milk, wheat, butter, berry]
+published: true
 description:	"inspired by banana bread, but much tastier"
 ---
 * cream `¾c sugar` and `½c butter`

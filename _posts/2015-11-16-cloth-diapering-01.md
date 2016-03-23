@@ -3,7 +3,7 @@ layout: post
 title:	"Cloth Diapering: an introduction"
 date:		2015-11-16
 categories:	parenting
-tags:		[diapering]
+tags:		[diapering, eco-interest, infants]
 description:	"some arguments in favor of cloth diapering your infant"
 published:	true
 lastmod:	2015-11-16 23:00

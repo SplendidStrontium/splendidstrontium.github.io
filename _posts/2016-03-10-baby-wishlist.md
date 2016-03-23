@@ -3,7 +3,7 @@ layout: post
 title: 	"the Big Baby List"
 date:		2016-03-10
 categories:	parenting
-tags:		[lists]
+tags:		[infants, lists, shopping]
 description: 	"what do you need(want) to get through the newborn phase?"
 published:	true
 lastmod:	2016-03-10 15:11

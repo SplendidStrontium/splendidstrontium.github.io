@@ -3,7 +3,9 @@ layout: post
 title: 	"Recipe: cornbread (just a bit sweet)"
 date:		2015-12-06
 categories:	recipes
+tags:		[bread, corn, wheat, milk, coconut-oil] 
 description: 	"not too cakey, not too dry"
+published: true
 lastmod:	2015-12-06 23:00
 ---
 * in large mixing bowl, combine `1½c cornmeal`, `½c ap flour`, `½c sugar`, `¼tsp b.soda`, `1½tsp b.powder`, `1tsp salt`

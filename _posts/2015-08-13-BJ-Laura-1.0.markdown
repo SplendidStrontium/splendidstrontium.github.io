@@ -4,7 +4,8 @@ title: "BJ Laura & Son 1.0"
 date: 	2015-08-13
 categories: 	webdev
 description:	"first version of business website deployed"
-tags:		[bjlaura]
+tags:		[bjlaura, rails]
+published: true
 lastmod:	2015-11-13 23:00
 ---
 # BJ Laura & Desco business website 1.0 completed

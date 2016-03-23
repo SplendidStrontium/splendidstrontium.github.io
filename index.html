@@ -4,6 +4,36 @@ layout: default
 
 <div class="home">
 
+<h1 class="page-heading">Posts by category</h1>
+<div class="category-post-list">
+	{% for category in site.categories %}
+
+		<li class="category-heading">{{ category | first | capitalize }}
+			<ul>
+			{% for posts in category %}
+				{% for post in posts %}
+					{% if post.url %}
+					<div class="post-box">
+					<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+					<li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+					<ul class="post-tag-list">
+						{% for tag in post.tags %}					
+							<li><div class="post-tag">{{ tag }}</div></li>
+						{% endfor %}
+					</ul>
+					<div class="post-desc">{{ post.description | truncatewords: 15 }}</div></li>
+					</div>
+					{% endif %}
+				{% endfor %}
+			{% endfor %}
+			</ul>
+		</li>
+
+	{% endfor %}
+</div>
+
+<!--
+
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
@@ -13,11 +43,18 @@ layout: default
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+					<ul class="post-tag-list">
+						{% for tag in post.tags %}					
+							<li><div class="post-tag">{{ tag }}</div></li>
+						{% endfor %}
+					</ul>
 					<div class="post-desc">{{ post.description | truncatewords: 15 }}</div>
         </h2>
       </li>
     {% endfor %}
   </ul>
+
+-->
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
