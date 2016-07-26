@@ -1,0 +1,51 @@
+{
+	"rules of acquisition": [{
+		"number": 1,
+		"rule": "Once you have their money, never give it back",
+		"source": [{
+			"DS9:1.11:The Nagus": "http://memory-alpha.wikia.com/wiki/The_Nagus_%28episode%29"
+		}, {
+			"DS9:3.14:Heart of Stone": "http://memory-alpha.wikia.com/wiki/Heart_of_Stone_%28episode%29"
+		}]
+	}, {
+		"number": 3,
+		"rule": "Never spend more for an acquisition than you have to.",
+		"source": [{
+			"DS9:2.21:The Maquis, Part II": "http://memory-alpha.wikia.com/wiki/The_Maquis,_Part_II_%28episode%29"
+		}]
+	}, {
+		"number": 6,
+		"rule": "Never allow family to stand in the way of opportunity.",
+		"source": [{
+			"DS9:1.11:The Nagus": "http://memory-alpha.wikia.com/wiki/The_Nagus_%28episode%29"
+		}, {
+			"ENT:1.19:Acquisition": "http://memory-alpha.wikia.com/wiki/Acquisition_%28episode%29"
+		}]
+	}, {
+		"number": 7,
+		"rule": "Keep your ears open and your eyes on the mark.",
+		"source": [{
+			"DS9:1.20:In the Hands of the Prophets": "http://memory-alpha.wikia.com/wiki/In_the_Hands_of_the_Prophets_%28episode%29"
+		}]
+	}, {
+		"number": 9,
+		"rule": "Opportunity plus instinct equals profit.",
+		"source": [{
+			"DS9:1.14:The Storyteller": "http://memory-alpha.wikia.com/wiki/The_Storyteller_%28episode%29"
+		}]
+	}, {
+		"number": 10,
+		"rule": "Greed is eternal.",
+		"source": [{
+			"DS9:3.16:Prophet Motive": "http://memory-alpha.wikia.com/wiki/Prophet_Motive_%28episode%29"
+		}, {
+			"VOY:3.05:False Profits": "http://memory-alpha.wikia.com/wiki/False_Profits_%28episode%29"
+		}]
+	}, {
+		"number": 286,
+		"rule": "",
+		"source": [{
+			"": ""
+		}]
+	}]
+}
