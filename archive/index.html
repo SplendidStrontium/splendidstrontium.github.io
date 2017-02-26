@@ -10,13 +10,18 @@ permalink: /archive/
 <meta charset="utf-8">
 <title>Archive</title>
 <link rel="stylesheet" type="text/css" href="archive.css">
-<script src="jquery-1.11.2.js" type="text/javascript"></script>
 </head>
 
 <body>
 
-Here will be a list of posts reverse chronologically
 
+<div id="arch-list">
+{% for post in site.posts %}
+	<li class="arch-post">
+	{{post.date | date: "%F"}} ... <a class="arch-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	</li>	
+{% endfor %}
+</div>
 
 </body>
 </html>

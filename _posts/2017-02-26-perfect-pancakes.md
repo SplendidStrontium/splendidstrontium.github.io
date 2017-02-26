@@ -8,6 +8,7 @@ description: 	"fluffy pancakes fit for a king"
 published: true
 lastmod:	2017-02-26 12:07
 ---
+
 * sour your milk by mixing `¼c vinegar` with `1-½c milk` and setting aside
 * whip together `2 eggs`, `2t vanilla`, `¼c melted butter`
 * add milk mix to egg mix and continue to whip

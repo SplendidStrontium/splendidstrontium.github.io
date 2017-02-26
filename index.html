@@ -2,6 +2,22 @@
 layout: default
 ---
 
+<head>
+<link rel="stylesheet" type="text/css" href="home.css">
+</head>
+
+<div class="home">
+
+Most recent topics
+
+	<div class="posts-most-recent">
+		hi
+	</div>
+
+</div>
+
+<!--
+
 <div class="home">
 
 <h1 class="page-heading">Posts by category</h1>
@@ -32,27 +48,6 @@ layout: default
 	{% endfor %}
 </div>
 
-<!--
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-					<ul class="post-tag-list">
-						{% for tag in post.tags %}					
-							<li><div class="post-tag">{{ tag }}</div></li>
-						{% endfor %}
-					</ul>
-					<div class="post-desc">{{ post.description | truncatewords: 15 }}</div>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
 
 -->
 
