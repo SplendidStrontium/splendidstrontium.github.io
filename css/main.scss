@@ -25,6 +25,14 @@ $on-palm:          600px;
 $on-laptop:        800px;
 
 
+.post-content li {
+	list-style: disc outside 	!important;
+}
+
+li.arch-post {
+	list-style: none	!important;
+}
+
 
 // Using media queries with like this:
 // @include media-query($palm) {
