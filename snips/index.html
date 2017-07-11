@@ -1,0 +1,29 @@
+---
+layout: page
+title: Worlds
+menu: main
+permalink: /snips/
+---
+
+<html>
+<head>
+<meta charset="utf-8">
+
+<link rel="stylesheet" type="text/css" href="worlds.css">
+</head>
+
+<body>
+
+
+<div id="schematics-list">
+{% for post in site.categories.snips %}
+
+	<li class="schematics-post">
+	{{post.date | date: "%F"}} ... <a class="arch-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	</li>	
+
+{% endfor %}
+</div>
+
+</body>
+</html>

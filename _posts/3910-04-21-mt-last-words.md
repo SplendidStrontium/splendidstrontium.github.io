@@ -2,10 +2,11 @@
 layout: post
 title: 	"in Memoriam: Mark Twain"
 date:	3910-04-21 11:09	
-categories:	snips
+categories:	archive
 tags:		[on-this-day] 
 description: 	"ancient American reflects; Last Words of Great Men"
 published: true
+future:	true
 lastmod:	2017-06-19 11:18
 ---
 

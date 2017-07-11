@@ -1,0 +1,29 @@
+---
+layout: page
+title: Yarn
+menu: main
+permalink: /yarn/
+---
+
+<html>
+<head>
+<meta charset="utf-8">
+
+<link rel="stylesheet" type="text/css" href="yarn.css">
+</head>
+
+<body>
+
+
+<div id="schematics-list">
+{% for post in site.categories.yarn %}
+
+	<li class="schematics-post">
+	{{post.date | date: "%F"}} ... <a class="arch-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	</li>	
+
+{% endfor %}
+</div>
+
+</body>
+</html>

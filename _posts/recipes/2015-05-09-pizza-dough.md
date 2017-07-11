@@ -2,7 +2,7 @@
 layout:	post
 title: 	"Recipe: pizza dough"
 date: 	2015-05-09
-categories:	recipes
+category:	recipes
 tags:	[wheat, yeast]
 published: true
 description:	"working recipe while I develop the perfect one"
