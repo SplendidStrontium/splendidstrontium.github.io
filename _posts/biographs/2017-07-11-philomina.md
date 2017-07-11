@@ -2,7 +2,7 @@
 layout:	page
 title:	"Philomina"
 date:	2017-07-11
-category:	biographs
+category:	who
 tags:	[biography]
 published:	true
 lastmod:	2017-07-10 21:51

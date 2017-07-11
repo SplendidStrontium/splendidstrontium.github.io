@@ -2,7 +2,7 @@
 layout: page
 title: Personnel
 menu: main
-permalink: /who/
+permalink: /personnel/
 ---
 
 <html>
@@ -14,7 +14,7 @@ permalink: /who/
 <body>
 
 <div id="who-list">
-{% for post in site.categories.biographs %}
+{% for post in site.categories.who %}
 	<li class="name">
 	{{post.date | date: "%F"}} ... <a class="arch-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 	</li>	
