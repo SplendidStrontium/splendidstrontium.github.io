@@ -7,7 +7,19 @@ tags:	[biography]
 published:	true
 lastmod:	2017-07-10 21:51
 ---
+<link rel="stylesheet" href="{{ site.url }}/css/biography.css">
 
-<img style="float: right;" src="{{ site.url }}/assets/images/philomina.gif" height="200" width="200">
+
+<table class="bio-stat-table">
+<tr>
+<th>This is Philomina</th>
+</tr>
+<tr>
+<td><img class="bio-portrait" src="{{ site.url }}/assets/images/philomina.gif"></td>	
+</tr>
+<tr>
+<td>Placeholder comment</td>
+</tr>
+</table>
 
 Philomina is knowledgeable about biology.

@@ -1,0 +1,10 @@
+.bio-stat-table {
+	float: right;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+.bio-portrait {
+	height: 200px;
+	width: 200px;
+}
