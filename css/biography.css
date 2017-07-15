@@ -1,18 +1,28 @@
-.bio-stat-table {
+#port-box {
 	float: right;
+	width: 200px;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+#stat-box{
 	width: 250px;
+}
+
+table, th, td {
 	border: 1px solid black;
 	border-collapse: collapse;
 }
 
 
-.bio-portrait {
+#portrait {
 	height: 250px;
-	width: 250px;
+	width: 200px;
+
 
 }
 
-.stat-blk{
-	width: 125px;
+.stat-name{
+	width: 50%;
 }
 
