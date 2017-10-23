@@ -9,7 +9,7 @@ published: true
 lastmod:	2017-10-23 08:52
 ---
 
-<img style="float: right;" src="{{ site.url }}/assets/images/arialanna-pet-battle-thumb.jpg" a href="{{ site.url }}/assets/images/arialanna-pet-battle.jpg" >
+<a href="{{ site.url }}/assets/images/arialanna-pet-battle.jpg" img style="float: right;" src="{{ site.url }}/assets/images/arialanna-pet-battle-thumb.jpg">
 
 I was lucky enough in my childhood to be the proud owner of the Red edition of what will here-after be referred to as "that game". Imagine my reaction to discovering the pet battle system added to World of Warcraft after Mists of Pandaria.
 
