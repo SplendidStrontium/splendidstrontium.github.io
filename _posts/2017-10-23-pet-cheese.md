@@ -9,9 +9,9 @@ published: true
 lastmod:	2017-10-23 08:52
 ---
 
-<a href="{{ site.url }}/assets/images/arialanna-pet-battle.jpg" img style="float: right;" src="{{ site.url }}/assets/images/arialanna-pet-battle-thumb.jpg">
+<img style="float: right;" src="{{ site.url }}/assets/images/arialanna-pet-battle-thumb.jpg">
 
-I was lucky enough in my childhood to be the proud owner of the Red edition of what will here-after be referred to as "that game". Imagine my reaction to discovering the pet battle system added to World of Warcraft after Mists of Pandaria.
+I was lucky enough in my childhood to be the proud owner of the Red edition of what will here-after be referred to as "that game". Imagine my reaction to discovering the [pet battle]({{ site.url }}/assets/images/arialanna-pet-battle.jpg) system added to World of Warcraft after Mists of Pandaria.
 
 There are two main advantages to pet battling over pet progression in _that game_. Pets in WoW do not evolve; no more crying over whether to give your favorite pet that thundery stone. Another nice change is that each pet has an unchangable moveset that unlocks as it levels up. No more forking over thousands of gold at the department store to get Super Punch on everyone.
 
