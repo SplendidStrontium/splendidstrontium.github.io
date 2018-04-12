@@ -2,8 +2,8 @@
 layout: post
 title: 	"The Death of the Jedi"
 date:	2018-04-09 09:45
-categories:	snips
-tags:		[entertainment] 
+categories:	entertainment
+tags:		[star-wars] 
 description: 	""
 published: true
 lastmod:	2018-04-09 21:13

@@ -1,14 +1,15 @@
 ---
 layout: post
 title: 	"in Memoriam: the Hundred Schools of Thought"
-date:	3913-11-14 12:00	
-categories:	archive
+date:	2017-09-06 20:58	
+categories:	snips
 tags:		[on-this-day] 
 description: 	"a treatise against deleting records"
 published: true
-future:	true
 lastmod:	2017-09-06 20:58
 ---
+
+_NANNY-C originally created this note on November 14, 3913 at 12:00 AM._
 
 Lost, corrupted, and otherwise unreadable data is nothing new. Some of the most tragic incidences of deletion without backup occured in the pre-modern era. I speak of book burnings; putting the flame to the written word.
 

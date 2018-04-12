@@ -28,11 +28,17 @@ $on-palm:          600px;
 $on-laptop:        800px;
 
 
-.post-content li {
-	list-style: disc outside 	!important;
-}
+
 
 li.arch-post {
+	list-style: none	!important;
+}
+
+li.snips-post {
+	list-style: none	!important;
+}
+
+li.entertainment-post {
 	list-style: none	!important;
 }
 

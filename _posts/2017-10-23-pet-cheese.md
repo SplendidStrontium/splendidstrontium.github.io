@@ -2,7 +2,7 @@
 layout: post
 title: 	"WoW: Pet Battle Cheese"
 date:	2017-10-23 08:52	
-categories:	snips
+categories:	entertainment
 tags:		[wow] 
 description: 	"Knowledge VS Power"
 published: true

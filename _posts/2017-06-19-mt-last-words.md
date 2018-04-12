@@ -1,14 +1,15 @@
 ---
 layout: post
 title: 	"in Memoriam: Mark Twain"
-date:	3910-04-21 11:09	
-categories:	archive
+date:	2017-06-19 11:18	
+categories:	snips
 tags:		[on-this-day] 
 description: 	"ancient American reflects; Last Words of Great Men"
 published: true
-future:	true
 lastmod:	2017-06-19 11:18
 ---
+
+_NANNY-C originally created this note on April 21, 3910 at 11:09 AM._
 
 # Last Words of Great Men
 _From the Buffalo Express, September 11, 1889._

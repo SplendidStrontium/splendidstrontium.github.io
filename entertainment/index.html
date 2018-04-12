@@ -1,23 +1,27 @@
 ---
 layout: page
-title: Personnel
+title: Entertainment
 menu: main
-permalink: /personnel/
+permalink: /entertainment/
 ---
 
 <html>
 <head>
 <meta charset="utf-8">
-<link rel="stylesheet" type="text/css" href="peoplelist.css">
+
+<link rel="stylesheet" type="text/css" href="entertainment.css">
 </head>
 
 <body>
 
-<div id="who-list">
-{% for post in site.categories.who %}
-	<li class="name">
+
+<div id="entertainment-list">
+{% for post in site.categories.entertainment %}
+
+	<li class="entertainment-post">
 	{{post.date | date: "%F"}} ... <a class="arch-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 	</li>	
+
 {% endfor %}
 </div>
 
