@@ -17,9 +17,9 @@ permalink: /entertainment/
 
 <div id="entertainment-list">
 {% for post in site.categories.entertainment %}
-
 	<li class="entertainment-post">
-	{{post.date | date: "%F"}} ... <a class="arch-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	{{post.date | date: "%F"}} : <a class="arch-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	<br><span class="entertainment-desc">{{post.description}}</span>
 	</li>	
 
 {% endfor %}

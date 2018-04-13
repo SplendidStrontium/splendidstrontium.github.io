@@ -1,3 +1,9 @@
-.welcome-pg{
-	border: 1px solid green;
+@media (max-width: 600px){
+#wrapper {
+    padding: 0;
+    border: none;
+    box-shadow: none;
+    border-radius: 0;
+  }
+
 }

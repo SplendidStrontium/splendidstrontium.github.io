@@ -6,6 +6,16 @@ h1{
 
 }
 
+.entertainment-desc{
+	font-style: italic;
+	font-size: .8em;
+	padding-left: 96px;
+}
+
+.entertainment-post{
+	padding-bottom: 3px;
+}
+
 @media (max-width: 600px){
 #wrapper {
     padding: 0;

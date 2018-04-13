@@ -19,7 +19,7 @@ permalink: /snips/
 {% for post in site.categories.snips %}
 
 	<li class="snips-post">
-	{{post.date | date: "%F"}} ... <a class="arch-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	{{post.date | date: "%F"}} : <a class="arch-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 	</li>	
 
 {% endfor %}

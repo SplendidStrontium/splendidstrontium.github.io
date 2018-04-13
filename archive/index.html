@@ -8,7 +8,7 @@ permalink: /archive/
 <html>
 <head>
 <meta charset="utf-8">
-<title>Archive</title>
+
 <link rel="stylesheet" type="text/css" href="archive.css">
 </head>
 
@@ -18,7 +18,7 @@ permalink: /archive/
 <div id="arch-list">
 {% for post in site.posts %}
 	<li class="arch-post">
-	{{post.date | date: "%F"}} ... <a class="arch-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	{{post.date | date: "%F"}} : <a class="arch-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 	</li>	
 {% endfor %}
 </div>
