@@ -46,6 +46,19 @@ li.entertainment-post {
 	font-size: .8em;
 }
 
+#ff_table {
+	border: 1px solid black;
+	border-collapse: collapse;
+	background-color: #ccc;
+}
+
+#ff_table td {
+	border:	1px solid black;
+	background-color: #eee;
+}
+
+
+
 
 // Using media queries with like this:
 // @include media-query($palm) {

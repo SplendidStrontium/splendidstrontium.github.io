@@ -1,0 +1,81 @@
+{
+	"ips":[
+		{
+			"name": "Alvin and the Chipmunks",
+			"yrs":	"1983-1990",
+			"mother":	"no",
+			"father":	"yes",
+			"children":	"Alvin, Simon, Theodore"
+		},
+		{
+			"name": "Arthur",
+			"yrs":	"1996-now",
+			"mother":	"yes",
+			"father":	"yes",
+			"children":	"Arthur, D.W., Kate"
+		},
+		{
+			"name": "Powerpuff Girls",
+			"yrs":	"1998-2005",
+			"mother":	"no",
+			"father":	"yes",
+			"children":	"Blossom, Bubbles, Buttercup"
+		},
+		{
+			"name": "The Iron Giant",
+			"yrs":	"1999",
+			"mother":	"yes",
+			"father":	"no",
+			"children":	"Hogarth"
+		},
+		{
+			"name": "The Incredibles",
+			"yrs":	"2004",
+			"mother":	"yes",
+			"father":	"yes",
+			"children":	"Violet, Dash, Jack-Jack"
+		},
+		{
+			"name": "Peg + Cat",
+			"yrs":	"2012-now",
+			"mother":	"yes",
+			"father":	"no",
+			"children":	"Peg"
+		},
+		{
+			"name": "Wishenpoof",
+			"yrs":	"2015-now",
+			"mother":	"yes",
+			"father":	"yes",
+			"children":	"Bianca, Ben"
+		},
+		{
+			"name": "Alvin and the Chipmunks",
+			"yrs":	"2015-now",
+			"mother":	"no",
+			"father":	"yes",
+			"children":	"Alvin, Simon, Theodore"
+		},
+		{
+			"name": "Trollhunters",
+			"yrs":	"2016-now",
+			"mother":	"yes",
+			"father":	"no",
+			"children":	"Jim"
+		},
+		{
+			"name": "Powerpuff Girls",
+			"yrs":	"2016-now",
+			"mother":	"no",
+			"father":	"yes",
+			"children":	"Blossom, Bubbles, Buttercup, Bliss"
+		},
+		{
+			"name": "Pinkalicious",
+			"yrs":	"2018-now",
+			"mother":	"yes",
+			"father":	"yes",
+			"children":	"Pinkalicious, Peter"
+		}
+	]
+}
