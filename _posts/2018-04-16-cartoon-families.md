@@ -4,8 +4,8 @@ title: 	"US Cartoon Family Structures"
 date:	2018-04-16 21:31
 categories:	entertainment
 tags:		[cartoons] 
-description: 	"Summary of cartoon character representation"
-published: false
+description: 	"Summary of cartoon family representation"
+published: true
 lastmod:	2018-04-16 21:31
 ---
 
@@ -18,6 +18,8 @@ lastmod:	2018-04-16 21:31
 | Alvin and the Chipmunks | 2015-now   | No     | Yes    | Alvin, Simon, Theodore       |
 | Wishenpoof              | 2015-now   | Yes    | Yes    | Bianca, Ben                  |
 | Peg + Cat               | 2012-now   | Yes    | No     | Peg                          |
+| The Incredibles         | 2004       | Yes    | Yes    | Violet, Dash, Jack-Jack      |
+| The Iron Giant          | 1999       | Yes    | No     | Hogarth                      |
 | Powerpuff Girls         | 1998-2005  | No     | Yes    | Blossom, Bubbles, Buttercup  |
 | Arthur                  | 1996-now   | Yes    | Yes    | Arthur, D.W., Kate           |
 | Alvin and the Chipmunks | 1983-1990  | No     | Yes    | Alvin, Simon, Theodore       |
