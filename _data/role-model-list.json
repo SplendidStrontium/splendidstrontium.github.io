@@ -1,0 +1,74 @@
+{
+	"ips":[
+		{
+			"name": "Little Mermaid",
+			"yrs":	"1989",
+			"main_char":	"Ariel (F)",
+			"n_females":	"Ursula (Witch, ambitious)",
+			"n_males":	"Father (King, traditionalist)"
+		},
+		{
+			"name": "Beauty and the Beast",
+			"yrs":	"1991",
+			"main_char":	"Belle (F)",
+			"n_females":	"Mrs. Potts (servant, caretaking)",
+			"n_males":	"Gaston (hunter, narcissistic), Father (inventor, doofus), Lumiere & Cogsworth (servants)"
+		},
+		{
+			"name": "Aladdin",
+			"yrs":	"1992",
+			"main_char":	"Aladdin (M)",
+			"n_females":	"Jasmine (princess, daddies-girl)",
+			"n_males":	"Genie (M), Abu(M), Jafar"
+		},
+		{
+			"name": "Finding Nemo",
+			"yrs":	"2003",
+			"main_char":	"Marlin (M), Dory (F)",
+			"n_females":	"Dory (NPC, disabled)",
+			"n_males":	"Marlin (Father, nervous)"
+		},
+		{
+			"name": "Cars",
+			"yrs":	"2006",
+			"main_char":	"Lightning McQueen (M)",
+			"n_females":	"Sally (Porsche lawyer, hard-working)",
+			"n_males":	"Doc Hudson (Mentor, proud), Mater (sidekick, redneck)"
+		},
+		{
+			"name": "Ratatouille",
+			"yrs":	"2007",
+			"main_char":	"Remy (M)",
+			"n_females":	"Colette (cook, hard-working)",
+			"n_males":	"Linguini (apprentice, incapable), Skinner (chef, greedy)"
+		},
+		{
+			"name": "Brave",
+			"yrs":	"2012",
+			"main_char":	"Merida (F)",
+			"n_females":	"Mother (Queen, traditionalist)",
+			"n_males":	"Father (King, doofus)"
+		},
+		{
+			"name": "Home",
+			"yrs":	"2015",
+			"main_char":	"Tip (F), Oh (M)",
+			"n_females":	"Mom (Single, working)",
+			"n_males":	"Oh (Alien, clueless)"
+		},
+		{
+			"name": "Zootopia",
+			"yrs":	"2016",
+			"main_char":	"Judy (F), Nick (M)",
+			"n_females":	"Judy (police officer, love-my-job)",
+			"n_males":	"Nick (sidekick, con artist)"
+		},
+		{
+			"name": "Trollhunters",
+			"yrs":	"2016-now",
+			"main_char":	"Jim (M)",
+			"n_females":	"Mother (Doctor, naive), Claire (student, capable)",
+			"n_males":	"Tobias (sidekick, buffoon)"
+		}
+	]
+}

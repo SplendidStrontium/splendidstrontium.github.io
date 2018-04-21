@@ -11,11 +11,11 @@ lastmod:	2018-04-16 21:31
 
 <table id="ff_table">
 	<tr>
-		<td>I.P.</td>
-		<td>Years</td>
-		<td>Mother</td>
-		<td>Father</td>
-		<td>Children</td>
+		<th>I.P.</th>
+		<th>Years</th>
+		<th>Mother</th>
+		<th>Father</th>
+		<th>Children</th>
 	</tr>
 	{% for ip in site.data.fam-film-list.ips %}
 	<tr>
