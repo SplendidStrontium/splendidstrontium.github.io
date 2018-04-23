@@ -78,6 +78,35 @@ li.entertainment-post {
 	background-color: #ddd;
 }
 
+#lol_table {
+	border: 1px solid black;
+	border-collapse: collapse;
+	background-color: #ccc;
+}
+
+#lol_table td {
+	border:	1px solid black;
+	background-color: #eee;
+}
+
+#lol_table th {
+	border: 1px solid black;
+	background-color: #ddd;
+}
+
+.champ_title {
+	font-size: .9em;
+	font-style:	italic;
+}
+
+.champ_lg_name {
+	font-size: 1.15em;
+}
+
+.champ_name {
+	padding: 2px;
+	padding-left: 5px;
+}
 
 
 // Using media queries with like this:

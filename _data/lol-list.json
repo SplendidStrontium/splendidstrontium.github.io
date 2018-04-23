@@ -1,0 +1,310 @@
+{
+	"champs":[
+		{
+			"name":	"Alistar",
+			"bday":	"2009-02-21",
+			"title":	"the Minotaur",
+			"form":	"talking-animal-male"
+		},
+		{
+			"name":	"Annie",
+			"bday":	"2009-02-21",
+			"title":	"the Dark Child",
+			"form":	"human-female"
+		},
+		{
+			"name":	"Ashe",
+			"bday":	"2009-02-21",
+			"title":	"The Frost Archer",
+			"form":	"human-female"
+		},
+		{
+			"name":	"Fiddlesticks",
+			"bday":	"2009-02-21",
+			"title":	"the Harbinger of Doom",
+			"form":	"construct-male"
+		},
+		{
+			"name":	"Jax",
+			"bday":	"2009-02-21",
+			"title":	", Grandmaster at Arms",
+			"form":	"humanoid-male"
+		},
+		{
+			"name":	"Kayle",
+			"bday":	"2009-02-21",
+			"title":	"the Judicator",
+			"form":	"humanoid-female"
+		},
+		{
+			"name":	"Master Yi",
+			"bday":	"2009-02-21",
+			"title":	"the Wuju Bladesman",
+			"form":	"humanoid-male"
+		},
+		{
+			"name":	"Morgana",
+			"bday":	"2009-02-21",
+			"title":	"Fallen Angel",
+			"form":	"humanoid-female"
+		},
+		{
+			"name":	"Nunu",
+			"bday":	"2009-02-21",
+			"title":	"the Yeti Rider",
+			"form":	"human-male-yeti-male"
+		},
+		{
+			"name":	"Ryze",
+			"bday":	"2009-02-21",
+			"title":	"the Rune Mage",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Sion",
+			"bday":	"2009-02-21",
+			"title":	"the Undead Juggernaut",
+			"form":	"humanoid-male"
+		},
+		{
+			"name":	"Siver",
+			"bday":	"2009-02-21",
+			"title":	"The Frost Archer",
+			"form":	"human-female"
+		},
+		{
+			"name":	"Soraka",
+			"bday":	"2009-02-21",
+			"title":	"The Starchild",
+			"form":	"humanoid-female"
+		},
+		{
+			"name":	"Teemo",
+			"bday":	"2009-02-21",
+			"title":	"the Swift Scout",
+			"form":	"yordle-male"
+		},
+		{
+			"name":	"Tristana",
+			"bday":	"2009-02-21",
+			"title":	"the Yordle Gunner",
+			"form":	"yordle-female"
+		},
+		{
+			"name":	"Twisted Fate",
+			"bday":	"2009-02-21",
+			"title":	"the Card Master",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Warwick",
+			"bday":	"2009-02-21",
+			"title":	"the Uncaged Wrath of Zaun",
+			"form":	"talking-animal-male"
+		},
+		{
+			"name":	"Singed",
+			"bday":	"2009-04-18",
+			"title":	"the Mad Chemist",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Zilean",
+			"bday":	"2009-04-18",
+			"title":	"The Chronokeeper",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Evelynn",
+			"bday":	"2009-05-01",
+			"title":	", Agony's Embrace",
+			"form":	"humanoid-female"
+		},
+		{
+			"name":	"Twitch",
+			"bday":	"2009-05-01",
+			"title":	"the Plague Rat",
+			"form":	"talking-animal-male"
+		},
+		{
+			"name":	"Tryndamere",
+			"bday":	"2009-05-01",
+			"title":	"the Barbarian King",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Karthus",
+			"bday":	"2009-06-12",
+			"title":	"the Deathsinger",
+			"form":	"spirit-male"
+		},
+		{
+			"name":	"Amumu",
+			"bday":	"2009-06-26",
+			"title":	"the Sad Mummy",
+			"form":	"yordle-male"
+		},
+		{
+			"name":	"Cho'Gath",
+			"bday":	"2009-06-26",
+			"title":	"the Terror of the Void",
+			"form":	"monster-male"
+		},
+		{
+			"name":	"Anivia",
+			"bday":	"2009-07-10",
+			"title":	"the Cryophoenix",
+			"form":	"animal-female"
+		},
+		{
+			"name":	"Rammus",
+			"bday":	"2009-07-10",
+			"title":	"the Armordillo",
+			"form":	"talking-animal-male"
+		},
+		{
+			"name":	"Veigar",
+			"bday":	"2009-07-24",
+			"title":	"the Tiny Master of Evil",
+			"form":	"yordle-male"
+		},
+		{
+			"name":	"Kassadin",
+			"bday":	"2009-08-07",
+			"title":	"the Void Walker",
+			"form":	"humanoid-monster-male"
+		},
+		{
+			"name":	"Gangplank",
+			"bday":	"2009-08-19",
+			"title":	"the Saltwater Scourge",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Taric",
+			"bday":	"2009-08-19",
+			"title":	"the Shield of Valoran",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Malphite",
+			"bday":	"2009-09-02",
+			"title":	", Shard of the Monolith",
+			"form":	"construct-male"
+		},
+		{
+			"name":	"Janna",
+			"bday":	"2009-09-02",
+			"title":	"the Storm's Fury",
+			"form":	"human-female"
+		},
+		{
+			"name":	"Blitzcrank",
+			"bday":	"2009-09-02",
+			"title":	"the Great Steam Golem",
+			"form":	"construct-male"
+		},
+		{
+			"name":	"Dr. Mundo",
+			"bday":	"2009-09-02",
+			"title":	"the Madman of Zaun",
+			"form":	"human-monster-male"
+		},
+		{
+			"name":	"Katarina",
+			"bday":	"2009-09-19",
+			"title":	"the Sinister Blade",
+			"form":	"human-female"
+		},
+		{
+			"name":	"Corki",
+			"bday":	"2009-09-19",
+			"title":	"the Daring Bombardier",
+			"form":	"yordle-male"
+		},
+		{
+			"name":	"Nasus",
+			"bday":	"2009-10-01",
+			"title":	"the Curator of the Sands",
+			"form":	"talking-animal-human-male"
+		},
+		{
+			"name":	"Heimerdinger",
+			"bday":	"2009-10-10",
+			"title":	"the Revered Inventor",
+			"form":	"yordle-male"
+		},
+		{
+			"name":	"Shaco",
+			"bday":	"2009-10-10",
+			"title":	"the Demon Jester",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Udyr",
+			"bday":	"2009-12-02",
+			"title":	"the Spirit Walker",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Nidalee",
+			"bday":	"2009-12-17",
+			"title":	"the Bestial Huntress",
+			"form":	"human-female"
+		},
+		{
+			"name":	"Poppy",
+			"bday":	"2010-01-13",
+			"title":	", Keeper of the Hammer",
+			"form":	"yordle-female"
+		},
+		{
+			"name":	"Gragas",
+			"bday":	"2010-02-02",
+			"title":	"the Rabble Rouser",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Pantheon",
+			"bday":	"2010-02-02",
+			"title":	"the Artisan of War",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Mordekaiser",
+			"bday":	"2010-02-24",
+			"title":	"the Iron Revenant",
+			"form":	"spirit-construct-male"
+		},
+		{
+			"name":	"Ezreal",
+			"bday":	"2010-03-16",
+			"title":	"the Prodigal Explorer",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Shen",
+			"bday":	"2010-03-24",
+			"title":	"the Eye of Twilight",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Kennen",
+			"bday":	"2010-04-08",
+			"title":	"the Heart of the Tempest",
+			"form":	"yordle-male"
+		},
+		{
+			"name":	"Garen",
+			"bday":	"2010-04-27",
+			"title":	"The Might of Demacia",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Akali",
+			"bday":	"2010-05-11",
+			"title":	"the Fist of Shadow",
+			"form":	"human-female"
+		}
+	]
+}
