@@ -22,7 +22,7 @@
 			"name":	"Fiddlesticks",
 			"bday":	"2009-02-21",
 			"title":	"the Harbinger of Doom",
-			"form":	"construct-male"
+			"form":	"spirit-male"
 		},
 		{
 			"name":	"Jax",
@@ -238,7 +238,7 @@
 			"name":	"Shaco",
 			"bday":	"2009-10-10",
 			"title":	"the Demon Jester",
-			"form":	"human-male"
+			"form":	"spirit-male"
 		},
 		{
 			"name":	"Udyr",
@@ -394,7 +394,7 @@
 			"name":	"Cassiopeia",
 			"bday":	"2010-12-14",
 			"title":	"the Serpent's Embrace",
-			"form":	"humanoid-female"
+			"form":	"humanoid-animal-female"
 		},
 		{
 			"name":	"Caitlyn",
@@ -437,6 +437,408 @@
 			"bday":	"2011-04-01",
 			"title":	"the Blind Monk",
 			"form":	"human-male"
+		},
+		{
+			"name":	"Brand",
+			"bday":	"2011-04-12",
+			"title":	"the Burning Vengeance",
+			"form":	"human-spirit-male"
+		},
+		{
+			"name":	"Rumble",
+			"bday":	"2011-04-26",
+			"title":	"the Mechanized Menace",
+			"form":	"yordle-male"
+		},
+		{
+			"name":	"Vayne",
+			"bday":	"2011-05-10",
+			"title":	"the Night Hunter",
+			"form":	"human-female"
+		},
+		{
+			"name":	"Orianna",
+			"bday":	"2011-06-01",
+			"title":	"the Lady of Clockwork",
+			"form":	"construct-female"
+		},
+		{
+			"name":	"Yorick",
+			"bday":	"2011-06-22",
+			"title":	", Shepherd of Souls",
+			"form":	"human-spirit-male"
+		},
+		{
+			"name":	"Leona",
+			"bday":	"2011-07-13",
+			"title":	"the Radiant Dawn",
+			"form":	"human-female"
+		},
+		{
+			"name":	"Wukong",
+			"bday":	"2011-07-26",
+			"title":	"the Monkey King",
+			"form":	"animal-male"
+		},
+		{
+			"name":	"Skarner",
+			"bday":	"2011-08-09",
+			"title":	"the Crystal Vanguard",
+			"form":	"animal-male"
+		},
+		{
+			"name":	"Talon",
+			"bday":	"2011-08-24",
+			"title":	"the Blade's Shadow",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Riven",
+			"bday":	"2011-09-14",
+			"title":	"the Exile",
+			"form":	"human-female"
+		},
+		{
+			"name":	"Xerath",
+			"bday":	"2011-10-05",
+			"title":	"the Magus Ascendant",
+			"form":	"spirit-male"
+		},
+		{
+			"name":	"Graves",
+			"bday":	"2011-10-19",
+			"title":	"the Outlaw",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Shyvana",
+			"bday":	"2011-11-01",
+			"title":	"the Half Dragon",
+			"form":	"humanoid-female"
+		},
+		{
+			"name":	"Fizz",
+			"bday":	"2011-11-15",
+			"title":	"the Tidal Trickster",
+			"form":	"yordle-male"
+		},
+		{
+			"name":	"Volibear",
+			"bday":	"2011-11-29",
+			"title":	"the Thunder's Roar",
+			"form":	"animal-male"
+		},
+		{
+			"name":	"Ahri",
+			"bday":	"2011-12-14",
+			"title":	"the the Nine-Tailed Fox",
+			"form":	"humanoid-female"
+		},
+		{
+			"name":	"Viktor",
+			"bday":	"2011-12-29",
+			"title":	"the Machine Herald",
+			"form":	"humanoid-male"
+		},
+		{
+			"name":	"Sejuani",
+			"bday":	"2012-01-17",
+			"title":	", Fury of the North",
+			"form":	"human-female-animal-mount"
+		},
+		{
+			"name":	"Ziggs",
+			"bday":	"2012-02-01",
+			"title":	"the Hexplosives Expert",
+			"form":	"yordle-male"
+		},
+		{
+			"name":	"Nautilus",
+			"bday":	"2012-02-14",
+			"title":	"the Titan of the Depths",
+			"form":	"construct-male"
+		},
+		{
+			"name":	"Fiora",
+			"bday":	"2012-02-29",
+			"title":	"the Grand Duelist",
+			"form":	"human-female"
+		},
+		{
+			"name":	"Lulu",
+			"bday":	"2012-03-20",
+			"title":	"the Fae Sorceress",
+			"form":	"yordle-female"
+		},
+		{
+			"name":	"Hecarim",
+			"bday":	"2012-04-18",
+			"title":	"the Shadow of War",
+			"form":	"animal-spirit-male"
+		},
+		{
+			"name":	"Varus",
+			"bday":	"2012-05-08",
+			"title":	"the Arrow of Retribution",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Darius",
+			"bday":	"2012-05-23",
+			"title":	"the Hand of Noxus",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Draven",
+			"bday":	"2012-06-06",
+			"title":	"the Glorious Executioner",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Jayce",
+			"bday":	"2012-07-07",
+			"title":	"the Defender of Tomorrow",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Zyra",
+			"bday":	"2012-07-24",
+			"title":	", Rise of the Thorns",
+			"form":	"humanoid-female"
+		},
+		{
+			"name":	"Diana",
+			"bday":	"2012-08-07",
+			"title":	", Scorn of the Moon",
+			"form":	"human-female"
+		},
+		{
+			"name":	"Rengar",
+			"bday":	"2012-08-21",
+			"title":	"the Pridestalker",
+			"form":	"talking-animal-male"
+		},
+		{
+			"name":	"Syndra",
+			"bday":	"2012-09-13",
+			"title":	"the Dark Sovereign",
+			"form":	"human-female"
+		},
+		{
+			"name":	"Kha'Zix",
+			"bday":	"2012-09-27",
+			"title":	"the Voidreaver",
+			"form":	"monster-male"
+		},
+		{
+			"name":	"Elise",
+			"bday":	"2012-10-26",
+			"title":	"the Spider Queen",
+			"form":	"humanoid-animal-female"
+		},
+		{
+			"name":	"Zed",
+			"bday":	"2012-11-13",
+			"title":	"the Master of Shadows",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Nami",
+			"bday":	"2012-12-07",
+			"title":	"the Tidecaller",
+			"form":	"humanoid-female"
+		},
+		{
+			"name":	"Vi",
+			"bday":	"2012-12-19",
+			"title":	"the Piltover Enforcer",
+			"form":	"human-female"
+		},
+		{
+			"name":	"Thresh",
+			"bday":	"2013-01-23",
+			"title":	"the Chain Warden",
+			"form":	"spirit-male"
+		},
+		{
+			"name":	"Quinn",
+			"bday":	"2013-03-01",
+			"title":	", Demacia's Wings",
+			"form":	"human-female"
+		},
+		{
+			"name":	"Zac",
+			"bday":	"2013-03-29",
+			"title":	"the Secret Weapon",
+			"form":	"construct-male"
+		},
+		{
+			"name":	"Lissandra",
+			"bday":	"2013-04-30",
+			"title":	"the Ice Witch",
+			"form":	"humanoid-female"
+		},
+		{
+			"name":	"Aatrox",
+			"bday":	"2013-06-13",
+			"title":	"the Darkin Blade",
+			"form":	"humanoid-male"
+		},
+		{
+			"name":	"Lucian",
+			"bday":	"2013-08-22",
+			"title":	"the Purifier",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Jinx",
+			"bday":	"2013-10-10",
+			"title":	"the Loose Cannon",
+			"form":	"human-female"
+		},
+		{
+			"name":	"Yasuo",
+			"bday":	"2013-12-13",
+			"title":	"the Unforgiven",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Vel'Koz",
+			"bday":	"2014-02-27",
+			"title":	"the Eye of the Void",
+			"form":	"monster-male"
+		},
+		{
+			"name":	"Braum",
+			"bday":	"2014-05-12",
+			"title":	"the Heart of the Freljord",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Gnar",
+			"bday":	"2014-08-14",
+			"title":	"the Missing Link",
+			"form":	"monster-male"
+		},
+		{
+			"name":	"Azir",
+			"bday":	"2014-09-16",
+			"title":	"the Emperor of the Sands",
+			"form":	"humanoid-male"
+		},
+		{
+			"name":	"Kalista",
+			"bday":	"2014-11-20",
+			"title":	"the Spear of Vengeance",
+			"form":	"spirit-female"
+		},
+		{
+			"name":	"Rek'Sai",
+			"bday":	"2014-12-11",
+			"title":	"the Void Burrower",
+			"form":	"monster-female"
+		},
+		{
+			"name":	"Bard",
+			"bday":	"2015-03-12",
+			"title":	"the Wandering Caretaker",
+			"form":	"spirit-monster-male"
+		},
+		{
+			"name":	"Ekko",
+			"bday":	"2015-05-28",
+			"title":	"the Boy Who Shattered Time",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Tahm Kench",
+			"bday":	"2015-07-09",
+			"title":	"the River King",
+			"form":	"monster-male"
+		},
+		{
+			"name":	"Kindred",
+			"bday":	"2015-10-14",
+			"title":	"the Eternal Hunters",
+			"form":	"monster-female-spirit-male"
+		},
+		{
+			"name":	"Illaoi",
+			"bday":	"2015-11-24",
+			"title":	"the Kraken Priestess",
+			"form":	"humanoid-female"
+		},
+		{
+			"name":	"Jhin",
+			"bday":	"2016-02-01",
+			"title":	"the Virtuoso",
+			"form":	"humanoid-male"
+		},
+		{
+			"name":	"Aurelion Sol",
+			"bday":	"2016-03-24",
+			"title":	"the Star Forger",
+			"form":	"monster-male"
+		},
+		{
+			"name":	"Taliyah",
+			"bday":	"2016-05-18",
+			"title":	"the Stoneweaver",
+			"form":	"human-female"
+		},
+		{
+			"name":	"Kled",
+			"bday":	"2016-08-10",
+			"title":	"the Cantankerous Cavalier",
+			"form":	"yordle-male-animal-mount"
+		},
+		{
+			"name":	"Ivern",
+			"bday":	"2016-10-05",
+			"title":	"the Green Father",
+			"form":	"construct-male"
+		},
+		{
+			"name":	"Camille",
+			"bday":	"2016-12-07",
+			"title":	"the Steel Shadow",
+			"form":	"humanoid-female"
+		},
+		{
+			"name":	"Rakan",
+			"bday":	"2017-04-19",
+			"title":	"the Charmer",
+			"form":	"humanoid-male"
+		},
+		{
+			"name":	"Xayah",
+			"bday":	"2017-04-19",
+			"title":	"the Rebel",
+			"form":	"humanoid-female"
+		},
+		{
+			"name":	"Kayn",
+			"bday":	"2017-07-12",
+			"title":	"the Shadow Reaper",
+			"form":	"humanoid-spirit-male"
+		},
+		{
+			"name":	"Ornn",
+			"bday":	"2017-08-23",
+			"title":	"the Fire Below the Mountain",
+			"form":	"humanoid-male"
+		},
+		{
+			"name":	"Zoe",
+			"bday":	"2017-11-21",
+			"title":	"the Aspect of Twilight",
+			"form":	"spirit-female"
+		},
+		{
+			"name":	"Kai'Sa",
+			"bday":	"2018-03-07",
+			"title":	", Daughter of the Void",
+			"form":	"human-monster-female"
 		}
 	]
 }
