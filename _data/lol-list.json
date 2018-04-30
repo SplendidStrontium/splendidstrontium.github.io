@@ -305,6 +305,138 @@
 			"bday":	"2010-05-11",
 			"title":	"the Fist of Shadow",
 			"form":	"human-female"
+		},
+		{
+			"name":	"Malzahar",
+			"bday":	"2010-06-01",
+			"title":	"the Prophet of the Void",
+			"form":	"humanoid-male"
+		},
+		{
+			"name":	"Olaf",
+			"bday":	"2010-06-09",
+			"title":	"the Berserker",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Kog'Maw",
+			"bday":	"2010-06-24",
+			"title":	"the Mouth of the Abyss",
+			"form":	"monster-male"
+		},
+		{
+			"name":	"Xin Zhao",
+			"bday":	"2010-07-13",
+			"title":	"the Seneschal of Demacia",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Vladimir",
+			"bday":	"2010-07-27",
+			"title":	"the Crimson Reaper",
+			"form":	"humanoid-male"
+		},
+		{
+			"name":	"Galio",
+			"bday":	"2010-08-10",
+			"title":	"the Colossus",
+			"form":	"construct-male"
+		},
+		{
+			"name":	"Urgot",
+			"bday":	"2010-08-24",
+			"title":	"the Dreadnought",
+			"form":	"monster-male"
+		},
+		{
+			"name":	"Miss Fortune",
+			"bday":	"2010-09-08",
+			"title":	"the Bounty Hunter",
+			"form":	"human-female"
+		},
+		{
+			"name":	"Sona",
+			"bday":	"2010-09-21",
+			"title":	", Maven of the Strings",
+			"form":	"human-female"
+		},
+		{
+			"name":	"Swain",
+			"bday":	"2010-10-05",
+			"title":	"the Noxian Grand General",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Lux",
+			"bday":	"2010-10-19",
+			"title":	"the Lady of Luminosity",
+			"form":	"human-female"
+		},
+		{
+			"name":	"LeBlanc",
+			"bday":	"2010-11-02",
+			"title":	"the Deceiver",
+			"form":	"human-female"
+		},
+		{
+			"name":	"Irelia",
+			"bday":	"2010-11-16",
+			"title":	"the Blade Dancer",
+			"form":	"human-female"
+		},
+		{
+			"name":	"Trundle",
+			"bday":	"2010-12-01",
+			"title":	"the Troll King",
+			"form":	"monster-male"
+		},
+		{
+			"name":	"Cassiopeia",
+			"bday":	"2010-12-14",
+			"title":	"the Serpent's Embrace",
+			"form":	"humanoid-female"
+		},
+		{
+			"name":	"Caitlyn",
+			"bday":	"2011-01-04",
+			"title":	"the Sheriff of Piltover",
+			"form":	"human-female"
+		},
+		{
+			"name":	"Renekton",
+			"bday":	"2011-01-18",
+			"title":	"the Butcher of the Sands",
+			"form":	"monster-male"
+		},
+		{
+			"name":	"Karma",
+			"bday":	"2011-02-01",
+			"title":	"the Enlightened One",
+			"form":	"human-female"
+		},
+		{
+			"name":	"Maokai",
+			"bday":	"2011-02-16",
+			"title":	"the Twisted Treant",
+			"form":	"construct-male"
+		},
+		{
+			"name":	"Jarvan IV",
+			"bday":	"2011-03-01",
+			"title":	"the Exemplar of Demacia",
+			"form":	"human-male"
+		},
+		{
+			"name":	"Nocturne",
+			"bday":	"2011-03-15",
+			"title":	"the Eternal Nightmare",
+			"form":	"spirit-male"
+		},
+		{
+			"name":	"Lee Sin",
+			"bday":	"2011-04-01",
+			"title":	"the Blind Monk",
+			"form":	"human-male"
 		}
 	]
 }
