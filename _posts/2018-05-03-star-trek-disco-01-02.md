@@ -17,7 +17,7 @@ The new Captain is stately, but does she pass muster? She is a bit like the brid
 
 The new series has an opening sequence that praises technology by turning it into something it is not: mystical and composed of lines and thought. It shows visuals of Star Trek technology pieces and though it's visually impressive, it makes a mockery of how these objects would actually work. Where ENT's intro was selling short the distance between sea-travel and faster-than-light space travel, DISCO forgets about the journey entirely to suppose that Star Trek is made of futuro-guns and pseudo-religious iconography. It steals the symbols while doing so little service to its forefathers. In what war do we fight? Culture wars with Klingons!! Waged with the symbols of diplomacy stolen from previous generations!
 
-## What's the deal with a boy's name for a lady captain?
+## What's the deal with a boy's name for a lady?
 
 I don't know and I'm not sure.
 
