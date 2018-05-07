@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 	"Recipe: Paige's perfect pancakes"
+title: 	"Recipe: Paige's perfect pancakes I"
 date:		2017-02-26
 categories:	recipes
 tags:		[quick-bread, wheat, milk, butter, eggs, sourdough-starter] 
@@ -14,3 +14,8 @@ lastmod:	2017-02-26 12:07
 *	add milk mix to egg mix and continue to whip
 *	add dry ingredients: `210g cake flour`, `60g sourdough starter`, `¼c sugar`, `1t b.soda`, `1t salt`
 *	whip until smooth, fry on oiled griddle on med-low heat, flipping just once while cooking
+
+*****
+`revised in`
+[Paige's perfect pancakes II]({{ site.url }}/recipes/perfect-pancakes-ii)
+
