@@ -19,7 +19,7 @@ permalink: /archive/
 {% for post in site.posts %}
 	<li class="arch-post">
 	{{post.date | date: "%F"}} : <a class="arch-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-	</li>	
+	</li>
 {% endfor %}
 </div>
 
