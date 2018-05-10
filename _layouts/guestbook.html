@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<div class="gb-post">
+
+  <header class="gb-header">
+    <h1 class="gb-title">{{ page.title }}</h1>
+  </header>
+
+  <article class="gb-content">
+    {{ content }}
+    {% include comments-new.html %}
+    {% include comments.html %}
+  </article>
+
+</div>

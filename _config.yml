@@ -11,6 +11,9 @@ github_username:  splendidstrontium
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title
+theme: minima
+plugins:
+  - jekyll-feed
 
 #other options
 timezone: America/New_York

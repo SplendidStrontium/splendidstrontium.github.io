@@ -1,0 +1,12 @@
+{% assign gbcomments = site.data.gbcomments | sort %}
+
+{% for comment in gbcomments reversed %}
+  {% assign commentData = comment[1] %}
+    <div>
+      {{ commentData.message }}<br/>
+      From: {{ commentData.name }}<br/>
+	  {{ commentData.url }}<br/>
+      {{ commentData.date | date_to_long_string }}
+    </div>
+{% endfor %}
+
