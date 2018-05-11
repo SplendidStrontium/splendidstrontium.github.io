@@ -6,9 +6,40 @@ h1{
 
 }
 
+#gb-intro{
+	padding-bottom: 10px;
+}
+
+#gb-new-form{
+	padding-bottom: 20px;
+}
+
 #gb-post-btn {
 	padding: 6px 24px;
 	font-size: 1.05em;
+}
+
+#hr-under-form{
+    border: none;
+    height: 1px;
+    /* Set the hr color */
+    color: #777; /* old IE */
+    background-color: #777; /* Modern Browsers */
+	margin-bottom: 10px;
+}
+
+#gb-comment-chunk{
+	padding: 4px 18px;
+	border:1px #999;
+	border-style: dashed;
+	margin-bottom: 10px;
+}
+
+#hr-after-post{
+	border: none;
+    height: 1px;
+	background-color: #777;
+
 }
 
 label{

@@ -2,11 +2,12 @@
 
 {% for comment in gbcomments reversed %}
   {% assign commentData = comment[1] %}
-    <div>
+    <div id="gb-comment-chunk">
       {{ commentData.message }}<br/>
       From: {{ commentData.name }}<br/>
 	  {{ commentData.url }}<br/>
       {{ commentData.date | date_to_long_string }}
+		<hr id="hr-after-post">
     </div>
 {% endfor %}
 
