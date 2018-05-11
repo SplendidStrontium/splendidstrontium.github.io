@@ -7,10 +7,17 @@ layout: default
     <h1 class="gb-title">{{ page.title }}</h1>
   </header>
 
-  <article class="gb-content">
-    {{ content }}
-    {% include comments-new.html %}
-    {% include comments.html %}
-  </article>
+  <div class="gb-content">
+    <div id="gb-intro">
+		{{ content }}
+	</div>
+	<div id="gb-new-form">
+    	{% include comments-new.html %}
+	</div>
+	<hr id="hr-under-form">
+	<div id="gb-old-msgs">
+    	{% include comments.html %}
+	</div>
+  </div>
 
 </div>
