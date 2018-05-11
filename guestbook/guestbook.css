@@ -6,6 +6,19 @@ h1{
 
 }
 
+#gb-post-btn {
+	padding: 6px 24px;
+	font-size: 1.05em;
+}
+
+label{
+	vertical-align: top;
+}
+
+form{
+	margin-left: 2.5em;
+}
+
 
 @media (max-width: 600px){
 #wrapper {
