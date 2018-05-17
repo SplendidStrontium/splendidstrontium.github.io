@@ -16,6 +16,7 @@ _This is my favorite version so far. Cooks up easily to the perfect balance of t
 * mix with `2 eggs` warmed to room temperature
 * by hand, thoroughly mix in `100g AP flour`
 * by hand, gently mix in `170g AP flour`, `1t salt`, `1t b.soda`, `1t AC vinegar`
+* stir in `1 bag (10oz) chocolate chips`
 * scoop into cylindrical shape on plastic wrap and shape
 * wrap in parchment as an outer layer
 * refrigerate dough at least 2 hours
