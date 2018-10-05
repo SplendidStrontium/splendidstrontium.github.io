@@ -10,6 +10,7 @@ lastmod:	2018-10-05 13:36
 ---
 
 ![velf-selfie-org]({{ site.url }}/assets/images/what-is-elf.jpg)
+
 _disclaimer: I am not actually a void elf._
 
 ## What is an elf?
