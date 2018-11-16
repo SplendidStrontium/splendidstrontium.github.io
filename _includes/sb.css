@@ -1,0 +1,21 @@
+.sb-title{
+	text-align: center;
+}
+
+.sb-content{
+	font-family: "Courier New", Courier, monospace
+}
+
+.sb-nav{
+	border: 1px solid black;
+}
+
+.sb-nav-prev{
+	font-size: 1.4em;
+}
+
+.sb-nav-next{
+	float: right;
+	font-size: 1.4em;
+}
+
