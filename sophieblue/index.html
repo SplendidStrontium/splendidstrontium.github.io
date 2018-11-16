@@ -1,5 +1,5 @@
 ---
-layout: sophieblue
+layout: default
 title: Sophie Blue's Diary
 menu: main
 permalink: /sophieblue/
@@ -14,9 +14,17 @@ permalink: /sophieblue/
 
 <body>
 
-Check the archive for updates from Sophie for the time being. 
+<p id="sb-intro">Sophie Blue was imprisoned for crimes against humanity. She was allowed to keep a diary in her quarters during her time served. Please start reading with the <a href="{{ '1' | prepend: site.baseurl }}">first entry</a>.</p>
 
-@TODO: list of posts here
+<div id="sb-list">
+{% for post in site.categories.sophieblue %}
+	<li class="sb-post">
+	<a class="sb-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+
+	</li>	
+
+{% endfor %}
+</div>
 
 </body>
 </html>
