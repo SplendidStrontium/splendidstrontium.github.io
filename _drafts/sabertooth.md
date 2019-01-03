@@ -15,6 +15,12 @@ The years began to pass and the earth dried up. Where no grass grew, no grazers 
 
 Embarrased to have become useless to his tribe, the last TwinFang wandered until he found the largest valley he had ever seen; trees and brushes only feathered the horizon. There, he laid down and without his children to keep him warm or blood to fill his heart, he took again to despair.  
 
+He wept. With one ear to the sky, he wept until he drowned in his own tears. He wept until the waters flowed from him, creating a great lake that all the animals could drink from. TwinFang's clan searched for him, but found only his lake. He had gone to the void beyond. 
+
+There he met the Greatmother of all Landwalkers. She was moved as she had not been in countless generations; but she knew that TwinFang's clan could not live on. She showed him the devastation their wars had wrought and he was shocked. He had not known that he was the last of his kind to walk the earth. She damned him for letting himself fall to misery while his tribe suffered without a leader. For this, she took from him his tears and spread them across the ground, making grass grow again.
+
+But TwinFang fought back.  
+
 <center>~</center>
 
 <span class="sb-nav-prev"><a href="{{ '4' | prepend: site.baseurl }}">Yesterday</a></span>
