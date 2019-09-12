@@ -37,7 +37,7 @@ In Stuart's article, he claims *Fortnite* boasts a **35%** female userbase. Rega
 
 Modern studies of IQ suggest that there is little difference between average male and female intelligence. What they do tend to note is that the distribution differs when measuring populations; a graphed curve of females will be flatter than the males -- more total males lie at extremes both high and low.
 
-But intelligence is only one factor of many: how is it that you [WIN A GAME](nan.nyc/entertainment/how-to-win-a-game)? If men and women have similar intelligences, where do they differ? I propose that while most popular games favor "male skills", the relatively small-medium difference in maximum-skill does not account for the tiny space females represent in the popular gamer cast. Social effects, of which chat-toxicity is only one, are broadening this game and pushing many, but especially females, out of competition. I will offer some theories.
+But intelligence is only one factor of many: how is it that you [WIN A GAME]({{ site.url }}/entertainment/how-to-win-a-game)? If men and women have similar intelligences, where do they differ? I propose that while most popular games favor "male skills", the relatively small-medium difference in maximum-skill does not account for the tiny space females represent in the popular gamer cast. Social effects, of which chat-toxicity is only one, are broadening this game and pushing many, but especially females, out of competition. I will offer some theories.
 
 1. ***Female gamers are often isolated and have fewer mentors and mentees.***
 2. ***Keyboards, mice, and console controllers are designed with the male user in mind; smaller versions may exist but are rare.***
