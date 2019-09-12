@@ -23,9 +23,13 @@ After reading Stuart's claim, backed up by other commenters mired in the feeling
 
 I shouldn't have looked into this question late before bed because I was so furious from my findings that it took me a while to calm down. I hadn't been this angry since I saw EU powderpuff *League of Legends*, complete with the 'players' wearing lengthy fake nails. Although they seem to be hiding their hands [here](https://esports-news.co.uk/2019/02/17/vaevictis-esports-all-female-team/) But the internet seems to be trying to cover up some of its past; the search engine distracts me with 'Women's Esports League Season 1', which took place in Spring 2019. Except for what looks to be a fan-contribution wiki, the web doesn't want to volunteer much information about what happened in those games. Most of the pictures feature the gamer-girls in heavy eye makeup -- wouldn't want to suggest that the players would go so far as to shirk from the socially-acceptable daily face-painting.
 
+![female russian lol team]({{ site.url }}/assets/images/femalerussianlolteam-ssAug172019-2118est.jpg)
+
 You know what, maybe I'm not against the idea of a female esports league. But not for such paltry things as to ensure a 'hate free' 'non-toxic' environment. I'm not there to make friends. I am there to play the game. Where is there mention of competition? Of skill development? Of improving teamplay? (https://www.challengermode.com/wel) And their chosen moniker 'challengermode' is undoubtedly meant to reference LoL's Challenger rank -- Does anyone out there know of a female who competes at this level? Is this a joke? I feel insulted. Should I?
 
 I'm not against the idea of a female esports league. But that's because -- yes, I'm going to say what no one else seems to want to say -- Women are NOT equal competition to men at video games.
+
+![she looks engaged]({{ site.url }}/assets/images/femalelegends-ssAug172019-2100est.jpg)
 
 Let me repeat that. Women do not compete on an equal playing field to men at video games. They're not there because they're scared away by some coarse language. They're not trying to make some non-participation stance about the 'toxicity' in gaming chatrooms. They are biologically disadvantaged at the tasks competitive gaming favors. Athletic sport does not pit men and women against each other because they do noit have the same starting conditions. Men have denser bones, higher endurance, more muscle mass than women. That does not mean all men beat all women. It means that, in the words of a famous streamer, "The best warrior will lose to your average frost mage."
 
@@ -43,6 +47,8 @@ But intelligence is only one factor of many: how is it that you [WIN A GAME](nan
 6. ***Males may be encouraged to separate parts of their personality (male/female avatars may help deal with inner vs outer self), while females are encouraged to meld the two -- 'be yourself', 'Let it Go'.***
 
 Despite the deck stack against them in social effects, certainly women would compete. And even more might compete if the biological constraints were less emphasized. I believe the average male has a better twitch response than the average female -- if we compare the eyes to a camera, a male has a higher framerate but a female's image has more MP; color depth and pattern recognition help her extract more information out of a given image. A male may tend toward objective-tunnel-vision; the emotional tie to a chosen strategy despite information to the contrary. Go big or go home might win the game as much as it loses the game.
+
+![where are the mothers]({{ site.url }}/assets/images/mothersingaming-ssAug172019-2159est.jpg)
 
 If females display less anti-social behavior, let's find roles that emphasize this strength. The healing/supportive role in MMOs attracts a higher percentage of females than other jobs; their winrate at the chosen role certainly contributes to player-retention. If they are more socially aware (arguable whether this is biological or cultural, probably both), then they should have a deeper game-state-matrix, especially in team games, where their social-pattern-recognition is at its peak usefulness. The more attention a healer can turn toward teammates, the sooner she can react. A male may tend to place a hostile as the highest-threat-priority, where a female may prioritize defensive play.
 
