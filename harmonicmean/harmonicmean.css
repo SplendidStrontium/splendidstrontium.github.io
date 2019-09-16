@@ -1,0 +1,14 @@
+body {
+	background-color: #ccc;
+}
+
+
+@media (max-width: 600px){
+#wrapper {
+    padding: 0;
+    border: none;
+    box-shadow: none;
+    border-radius: 0;
+  }
+
+}

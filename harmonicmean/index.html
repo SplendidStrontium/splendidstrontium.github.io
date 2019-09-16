@@ -1,0 +1,30 @@
+---
+layout: default
+title: Harmonic Mean
+menu: main
+permalink: /harmonicmean/
+---
+
+<html>
+<head>
+<meta charset="utf-8">
+
+<link rel="stylesheet" type="text/css" href="harmonicmean.css">
+</head>
+
+<body>
+
+<p id="hm-intro">Harmonic Mean is a webnovel. Please start reading with the <a href="{{ 'p1-ch0' | prepend: site.baseurl }}">first chapter</a>.</p>
+
+<div id="hm-list">
+{% for post in site.categories.harmonicmean %}
+	<li class="hm-post">
+	<a class="hm-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+
+	</li>	
+
+{% endfor %}
+</div>
+
+</body>
+</html>
