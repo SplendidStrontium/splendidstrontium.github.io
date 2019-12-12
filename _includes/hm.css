@@ -1,0 +1,21 @@
+.hm-title{
+	text-align: center;
+}
+
+.hm-content{
+	font-family: Arial, sans-serif;
+}
+
+.hm-nav{
+	
+}
+
+.hm-nav-prev{
+	font-size: 1.4em;
+}
+
+.hm-nav-next{
+	float: right;
+	font-size: 1.4em;
+}
+
