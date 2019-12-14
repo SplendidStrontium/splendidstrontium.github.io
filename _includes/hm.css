@@ -1,9 +1,12 @@
 .hm-title{
 	text-align: center;
+	margin-top: 0.2em;
+	margin-bottom: 1.5em;
 }
 
 .hm-content{
 	font-family: Arial, sans-serif;
+	margin-bottom: 2em;
 }
 
 .hm-nav{
