@@ -1,0 +1,25 @@
+.op-title{
+	font-size: 3em;
+	text-align: center;
+	margin-top: 0.2em;
+	margin-bottom: 1.5em;
+}
+
+.op-content{
+	font-family: Arial, sans-serif;
+	margin-bottom: 2em;
+}
+
+.op-nav{
+	
+}
+
+.op-nav-prev{
+	font-size: 1.4em;
+}
+
+.op-nav-next{
+	float: right;
+	font-size: 1.4em;
+}
+
