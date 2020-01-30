@@ -1,6 +1,6 @@
 # Site settings
 title: Not a Number
-email: pnkrsnak@gmail.com 
+email: nan@nan.nyc 
 description: > # this means to ignore newlines until "baseurl:"
   here, we are not only numbers
 baseurl: "" # the subpath of your site, e.g. /blog/
