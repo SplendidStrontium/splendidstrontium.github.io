@@ -17,4 +17,9 @@ layout: default
 {% if page.lastmod %}
 	<p class="post-meta">Last update: {{ page.lastmod | date_to_rfc822 }}</p>
 {% endif %}
+
+{% if page.comments_id %}
+	{% include comments.html %}
+{% endif %}
+
 </div>

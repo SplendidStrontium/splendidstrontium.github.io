@@ -6,7 +6,8 @@ categories:	recipes
 tags:		[wheat, rye, butter, corn] 
 description: 	"first try AP->rye"
 published: true
-lastmod:	2020-01-28 12:10
+comments_id:	20
+lastmod:	2020-02-03 12:00
 ---
 ![finished apple blackberry pie innards]({{ site.url }}/assets/images/apple-blackberry-pie.jpg)
 

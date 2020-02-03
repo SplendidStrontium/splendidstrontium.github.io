@@ -1,0 +1,58 @@
+#gh-comments-list {
+    list-style: none;
+    list-style-type: none;
+
+    li {
+        margin: 0;
+        padding: 1.5em 0;
+        display: flex;
+        flex-wrap: wrap;
+        border-top: 1px solid #aaa;
+
+        >a.user {
+            width: 2.7em;
+            height: 2.7em;
+            overflow: hidden;
+
+            img {
+                border-radius: 50%;
+                border: 3px solid #fff;
+                box-shadow: 0 0 3px #aaa;
+            }
+        }
+
+        >a.comment-url {
+            width: 100%;
+            text-align: right;
+            font-size: .8em;
+            opacity: .65;
+
+            &:hover {
+                opacity: 1;
+            }
+        }
+
+        .comment-content {
+            padding: 0 1.5em;
+        }
+    }
+}
+
+#leave-a-comment {
+    background: #000;
+    color: #fff;
+    padding: 1rem;
+
+    a {
+        color: #f4cf38;
+        border-bottom-color: #fff;
+        outline-color: #fff;
+    }
+}
+
+#no-comments-found {
+    font-size: .8rem;
+    display: none;
+}
+
+
