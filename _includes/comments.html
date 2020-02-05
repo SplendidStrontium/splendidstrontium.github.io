@@ -1,5 +1,5 @@
 <script>
-const GH_API_URL = 'https://api.github.com/repos/SplendidStrontium/splendidstrontium.github.io/issues/' + {{ page.comments_id }} + '/comments?client_id=57b4bb0f77971b29c674&client_secret=6abfb767b9e6e56520cd657682d3fe56b8ca7e03';
+const GH_API_URL = 'https://api.github.com/repos/SplendidStrontium/splendidstrontium.github.io/issues/' + {{ page.comments_id }} + '/comments';
 
 let request = new XMLHttpRequest();
 request.open( 'GET', GH_API_URL, true );
