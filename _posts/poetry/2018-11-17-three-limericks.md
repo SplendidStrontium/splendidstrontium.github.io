@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: poem
 title: 	"Bulbasaur, Charmander, Squirtle"
 date:	2018-11-17 13:21
 categories:	poetry

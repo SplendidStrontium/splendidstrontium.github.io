@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<div class="poem">
+
+  <header class="poem-header">
+    <h1 class="poem-title">{{ page.title }}</h1>
+
+  </header>
+
+  <article class="poem-content">
+    {{ content }}
+  </article>
+	
+
+    <span class="poem-published">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</span>
+{% if page.lastmod %}
+	<p class="poem-lastupdate">Last update: {{ page.lastmod | date_to_rfc822 }}</p>
+{% endif %}
+
+{% if page.comments_id %}
+	{% include comments.html %}
+{% endif %}
+
+</div>

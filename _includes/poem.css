@@ -1,0 +1,20 @@
+.poem-header{
+	text-align: center;
+}
+
+.poem{
+	font-family: "Courier New", Courier, monospace
+}
+
+.poem-content{
+	margin-top: 2em;
+	margin-bottom: 3em;
+}
+
+.poem-published{
+	font-size: .8em;
+}
+
+.poem-lastupdate{
+	font-size: .6em;
+}

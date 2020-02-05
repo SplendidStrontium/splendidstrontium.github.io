@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: poem
 title: 	"Poetry, from a youth"
 date:	2018-11-18 14:04
 categories:	poetry

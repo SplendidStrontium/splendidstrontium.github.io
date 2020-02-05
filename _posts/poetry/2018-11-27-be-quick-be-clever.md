@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: poem
 title: 	"Be Quick, Be Clever"
 date:	2018-11-27 14:19
 categories:	poetry
