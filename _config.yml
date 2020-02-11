@@ -4,7 +4,7 @@ email: nan@nan.nyc
 description: > # this means to ignore newlines until "baseurl:"
   here, we are not only numbers
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://nan.nyc" # the base hostname & protocol for your site
+url: "https://nan.nyc" # the base hostname & protocol for your site
 twitter_username: trrask_gaming	
 github_username:  splendidstrontium
 
