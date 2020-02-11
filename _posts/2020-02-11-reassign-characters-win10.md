@@ -6,6 +6,7 @@ categories: snips
 tags:	 []
 description: "Caret on a Stick; 6° of separation"
 published: true
+comments_id: 21
 lastmod: 2020-02-11 08:54
 ---
 
