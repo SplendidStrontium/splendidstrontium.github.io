@@ -4,10 +4,10 @@ title:	"Philomina"
 date:	2017-07-11
 category:	who
 tags:	[biography]
+description: ""
 published:	true
 lastmod:	2017-07-10 21:51
 ---
-<link rel="stylesheet" href="{{ site.url }}/css/biography.css">
 
 
 <table class="bio-stat-table">
@@ -15,7 +15,7 @@ lastmod:	2017-07-10 21:51
 <th>This is Philomina</th>
 </tr>
 <tr>
-<td><img class="bio-portrait" src="{{ site.url }}/assets/images/philomina.gif"></td>	
+<td><img class="bio-portrait" src="{{ site.url }}/assets/img/philomina.gif"></td>	
 </tr>
 <tr>
 <td>Placeholder comment</td>

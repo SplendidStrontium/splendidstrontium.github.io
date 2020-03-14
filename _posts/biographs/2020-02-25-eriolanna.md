@@ -10,7 +10,7 @@ lastmod: 2020-02-25 10:24
 
 <table class="bio-stat-table">
 <tr>
-<td><img class="bio-portrait" src="{{ site.url }}/assets/images/eri-portrait-pt4.jpg"></td>	
+<td><img class="bio-portrait" src="{{ site.url }}/assets/img/eri-portrait-pt4.jpg"></td>	
 </tr>
 </table>
 

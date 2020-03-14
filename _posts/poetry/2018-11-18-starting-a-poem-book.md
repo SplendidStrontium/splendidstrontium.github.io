@@ -9,4 +9,4 @@ published: true
 lastmod:	2018-11-18 14:04
 ---
 
-![better than a list]({{ site.url }}/assets/images/starting-poetry-web.jpg)
+![better than a list]({{ site.url }}/assets/img/starting-poetry-web.jpg)

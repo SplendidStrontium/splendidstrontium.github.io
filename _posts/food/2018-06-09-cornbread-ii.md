@@ -8,7 +8,7 @@ description: 	"an improvement after some testing"
 published: true
 lastmod:	2018-06-10 14:45
 ---
-![cornbread in tin]({{ site.url }}/assets/images/cornbread-ii.jpg)
+![cornbread in tin]({{ site.url }}/assets/img/cornbread-ii.jpg)
 
 _After making the old recipe a few times, I made some refinements. If you keep leaf lard in your kitchen, please feel free to substitute up to 30g of the butter for lard._
 

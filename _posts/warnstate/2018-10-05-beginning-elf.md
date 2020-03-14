@@ -9,7 +9,7 @@ published: true
 lastmod:	2018-10-05 13:36
 ---
 
-![velf-selfie-org]({{ site.url }}/assets/images/what-is-elf.jpg)
+![velf-selfie-org]({{ site.url }}/assets/img/what-is-elf.jpg)
 
 _disclaimer: I am not actually a void elf._
 

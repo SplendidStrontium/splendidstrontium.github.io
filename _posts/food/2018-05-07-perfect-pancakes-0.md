@@ -10,4 +10,4 @@ lastmod:	2018-05-07 16:14
 ---
 
 Some old ideas I scrapped on the way to what [I'm currently working with]({{ site.url }}/recipes/perfect-pancakes-ii)
-![pancake notecard scan]({{ site.url }}/assets/images/iterations-of-pancake-web.jpg)
+![pancake notecard scan]({{ site.url }}/assets/img/iterations-of-pancake-web.jpg)

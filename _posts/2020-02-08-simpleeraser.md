@@ -9,7 +9,7 @@ published: true
 lastmod:	2020-02-08 13:42
 ---
 
-<img src="https://nan.nyc/assets/images/cc-lesson6handwriting.jpg" max-width="1000" />
+<img src="{{ site.url }}/assets/img/cc-lesson6handwriting.jpg" max-width="1000" />
 
 I [once]({{ site.baseurl }}{% post_url 2017-09-06-book-burnings %}) spoke about the virtues of keeping all records, regardless of their current utility to the evaluator. But I decided to erase someone's handwriting in a book that had found its way to my hands. I didn't know this person; I bought the book on Amazon. Presumably they'd sold the book after they felt it would have no more use for them. Maybe they sold it to buy a loaf of bread. I really don't know. 
 

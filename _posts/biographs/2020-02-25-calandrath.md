@@ -10,7 +10,7 @@ lastmod: 2020-02-25 10:44
 
 <table class="bio-stat-table">
 <tr>
-<td><img class="bio-portrait" src="{{ site.url }}/assets/images/calandrath-charselect-2020feb25.jpg"></td>	
+<td><img class="bio-portrait" src="{{ site.url }}/assets/img/calandrath-charselect-2020feb25.jpg"></td>	
 </tr>
 </table>
 
@@ -22,4 +22,4 @@ Calandrath has seen employ as a bodyguard for a number of high-ranking Horde off
 
 The 'Mk II' designation occured when Gretchell modified Calandrath to permit self-guided maintenance and upgrades. Gretchell's current location is unknown. 
 
-<img src="{{ site.url }}/assets/images/calandrath-mechagon-2020feb25.jpg" />
+<img src="{{ site.url }}/assets/img/calandrath-mechagon-2020feb25.jpg" />

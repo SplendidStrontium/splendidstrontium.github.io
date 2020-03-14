@@ -10,4 +10,4 @@ comments_id:	22
 lastmod:	2020-02-21 07:47
 ---
 
-<img src="https://nan.nyc/assets/images/SUNP0004.JPG" max-width="1000" />
+<img src="{{ site.url }}/assets/img/SUNP0004.JPG" max-width="1000" />
