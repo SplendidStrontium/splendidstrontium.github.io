@@ -10,7 +10,7 @@ lastmod: 2020-02-23 10:58
 
 <table class="bio-stat-table">
 <tr>
-<td><img class="bio-portrait" src="{{ site.url }}/assets/images/capacitriste.jpg"></td>	
+<td><img class="bio-portrait" src="{{ site.url }}/assets/img/capacitriste.jpg"></td>	
 </tr>
 </table>
 

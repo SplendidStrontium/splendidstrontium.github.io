@@ -9,7 +9,7 @@ published: true
 comments_id:	20
 lastmod:	2020-02-03 12:00
 ---
-![finished apple blackberry pie innards]({{ site.url }}/assets/images/apple-blackberry-pie.jpg)
+![finished apple blackberry pie innards]({{ site.url }}/assets/img/apple-blackberry-pie.jpg)
 
 _My kitchen had too many apples, aging blackberries, and excess rye flour. Careful, berry juice stains._
 

@@ -2,6 +2,8 @@
 	float: right;
 	border: 1px solid black;
 	border-collapse: collapse;
+	margin-left: 25px;
+	margin-bottom: 15px;
 }
 
 .bio-portrait {
