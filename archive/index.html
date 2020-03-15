@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: Archive
 menu: main
 permalink: /archive/
@@ -10,6 +10,7 @@ permalink: /archive/
 <meta charset="utf-8">
 
 <link rel="stylesheet" type="text/css" href="archive.css">
+
 </head>
 
 <body>
@@ -18,7 +19,19 @@ permalink: /archive/
 <div id="arch-list">
 {% for post in site.posts %}
 	<li class="arch-post">
-	{{post.date | date: "%F"}} : <a class="arch-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	{{post.date | date: "%F"}}<span id="dayname-cn">
+    {% assign day = post.date | date: "%w" %}
+    {% case day %}
+      {% when '0' %}周日
+      {% when '1' %}周一
+      {% when '2' %}周二
+      {% when '3' %}周三
+      {% when '4' %}周四
+      {% when '5' %}周五
+      {% else %}周六
+    {% endcase %}
+
+  </span> : <a class="arch-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 	{% if post.description == "" %}
 	{% else %}<br>
     <span class="arch-desc">{{post.description}}</span>
@@ -26,6 +39,8 @@ permalink: /archive/
 	</li>
 {% endfor %}
 </div>
+
+
 
 </body>
 </html>
