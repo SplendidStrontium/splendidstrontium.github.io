@@ -24,7 +24,14 @@
 
 .site-nav {
     float: right;
-
+    position: absolute;
+    top: 9px;
+    right: 30px;
+    background-color: $background-color;
+    border: 1px solid $grey-color-light;
+    border-radius: 5px;
+    text-align: right;
+	
     .page-link {
         color: $text-color;
         line-height: $base-line-height;
@@ -33,13 +40,7 @@
 
     }
 
-    position: absolute;
-    top: 9px;
-    right: 30px;
-    background-color: $background-color;
-    border: 1px solid $grey-color-light;
-    border-radius: 5px;
-    text-align: right;
+    
 
     .menu-icon {
         display: block;
@@ -147,6 +148,13 @@
 /**
  * Page content
  */
+ 
+.page-title {
+    font-size: 3em;
+    letter-spacing: -0.05em;
+	text-align: center;
+} 
+ 
 .page-content {
     padding: $spacing-unit 0;
 }
@@ -214,13 +222,9 @@
 }
 
 .post-title {
-    font-size: 42px;
-    letter-spacing: -1px;
-    line-height: 1;
+    font-size: 3em;
+    letter-spacing: -0.05em;
 
-    @include media-query($on-laptop) {
-        font-size: 36px;
-    }
 }
 
 .post-content {
