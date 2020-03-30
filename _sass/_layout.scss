@@ -4,7 +4,7 @@
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
-    min-height: 46px;
+	background-color: #bbb;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -15,6 +15,7 @@
     letter-spacing: -0.06em;
     margin-bottom: 0;
     float: left;
+
 
     &,
     &:visited {
@@ -31,6 +32,7 @@
     border: 1px solid $grey-color-light;
     border-radius: 5px;
     text-align: right;
+	z-index: 9;
 	
     .page-link {
         color: $text-color;
@@ -45,8 +47,8 @@
     .menu-icon {
         display: block;
         float: right;
-        width: 36px;
-        height: 26px;
+        width: 2.5em;
+        height: 1.5em;
         line-height: 0;
         padding-top: 10px;
         text-align: center;
@@ -84,7 +86,7 @@
 }
 
 .footer-heading {
-    font-size: 18px;
+    font-size: 1.2em;
     margin-bottom: $spacing-unit / 2;
 }
 
@@ -108,13 +110,13 @@
 }
 
 .footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(25% - (#{$spacing-unit} / 2));
+    width:         calc(25% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+    width:         calc(30% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
