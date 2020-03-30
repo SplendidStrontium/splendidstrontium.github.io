@@ -11,9 +11,8 @@
 }
 
 .site-title {
-    font-size: 26px;
-    line-height: 46px;
-    letter-spacing: -1px;
+    font-size: 2em;
+    letter-spacing: -0.06em;
     margin-bottom: 0;
     float: left;
 
@@ -25,65 +24,52 @@
 
 .site-nav {
     float: right;
-    line-height: 46px;
-
-    .menu-icon {
-        display: none;
-    }
 
     .page-link {
         color: $text-color;
         line-height: $base-line-height;
+		display: block;
+        padding: 5px 10px;
 
-        // Gaps between nav items, but not on the first one
-        &:not(:first-child) {
-            margin-left: 20px;
-        }
     }
 
-    @include media-query($on-palm) {
-        position: absolute;
-        top: 9px;
-        right: 30px;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
-        text-align: right;
+    position: absolute;
+    top: 9px;
+    right: 30px;
+    background-color: $background-color;
+    border: 1px solid $grey-color-light;
+    border-radius: 5px;
+    text-align: right;
 
-        .menu-icon {
-            display: block;
-            float: right;
-            width: 36px;
-            height: 26px;
-            line-height: 0;
-            padding-top: 10px;
-            text-align: center;
+    .menu-icon {
+        display: block;
+        float: right;
+        width: 36px;
+        height: 26px;
+        line-height: 0;
+        padding-top: 10px;
+        text-align: center;
 
-            > svg {
-                width: 18px;
-                height: 15px;
+        > svg {
+            width: 18px;
+            height: 15px;
 
-                path {
-                    fill: $grey-color-dark;
-                }
+            path {
+                fill: $grey-color-dark;
             }
         }
-
-        .trigger {
-            clear: both;
-            display: none;
-        }
-
-        &:hover .trigger {
-            display: block;
-            padding-bottom: 5px;
-        }
-
-        .page-link {
-            display: block;
-            padding: 5px 10px;
-        }
     }
+
+    .trigger {
+        clear: both;
+        display: none;
+    }
+
+    &:hover .trigger {
+        display: block;
+        padding-bottom: 5px;
+    }
+
 }
 
 
