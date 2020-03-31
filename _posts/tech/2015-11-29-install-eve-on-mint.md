@@ -2,9 +2,9 @@
 layout: post
 title:  "How to install EVE Online on Linux Mint 17.2 Cinnamon [32-bit]"
 date:   2015-11-29
-categories: snips
+categories: tech
 description:  "or another similar OS"
-tags:   [eve, linux-mint]
+tags:   [eve-online, linux-mint, how-to]
 published: true
 lastmod:	2015-11-29 23:00
 ---

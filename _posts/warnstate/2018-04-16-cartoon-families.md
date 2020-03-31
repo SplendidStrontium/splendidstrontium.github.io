@@ -3,7 +3,7 @@ layout: post
 title: 	"US Cartoon Family Structures"
 date:	2018-04-16 21:31
 categories:	entertainment
-tags:		[cartoons] 
+tags:		[cartoons, character-analysis] 
 description: 	"Summary of cartoon family representation"
 published: true
 lastmod:	2018-04-16 21:31

@@ -3,8 +3,8 @@ layout: poem
 title: 	"Bulbasaur, Charmander, Squirtle"
 date:	2018-11-17 13:21
 categories:	poetry
-tags:		[] 
-description: 	""
+tags:		[poem] 
+description: 	"three 'limerix'"
 published: true
 lastmod:	2018-11-17 13:21
 ---

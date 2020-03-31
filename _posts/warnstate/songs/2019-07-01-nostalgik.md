@@ -3,7 +3,7 @@ layout: post
 title:  "Nostalgik"
 date:   2019-07-01 16:55
 categories:  entertainment
-tags:        [wow]
+tags:        [warcraft, song-lyrics]
 description: "a WoW parody of Ironic by Alanis Morissette"
 published:   true
 lastmod:     2019-07-01 16:55

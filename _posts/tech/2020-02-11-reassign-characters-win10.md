@@ -2,8 +2,8 @@
 layout: post
 title: "Reassign Keyboard Characters [Windows 10]"
 date: 2020-02-11 07:32
-categories: snips
-tags:	 []
+categories: tech
+tags:	 [windows10, how-to]
 description: "Caret on a Stick; 6° of separation"
 published: true
 comments_id: 21

@@ -3,6 +3,7 @@ layout: biograph
 title: "Aï'ree a'Lana"
 date: 2020-02-25 10:03
 category: who
+tags: [wow, bio]
 description: "currently researching strange dust"
 published: true
 lastmod: 2020-02-25 10:24

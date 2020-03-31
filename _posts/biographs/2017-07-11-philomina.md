@@ -3,7 +3,7 @@ layout:	page
 title:	"Philomina"
 date:	2017-07-11
 category:	who
-tags:	[biography]
+tags:	[fr, bio]
 description: ""
 published:	true
 lastmod:	2017-07-10 21:51

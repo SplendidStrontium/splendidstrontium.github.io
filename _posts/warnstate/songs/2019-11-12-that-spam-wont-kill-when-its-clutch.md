@@ -3,7 +3,7 @@ layout:	post
 title:	"That Spam Won't Kill When It's Clutch"
 date:	2019-11-12 10:14
 categories:	entertainment
-tags:	[wow]
+tags:	[warcraft, song-lyrics]
 description:	"a WoW parody of That Don't Impress Me Much by Shania Twain"
 published:	true
 lastmod:	2019-11-12 10:14

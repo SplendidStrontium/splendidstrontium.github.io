@@ -3,7 +3,7 @@ layout: post
 title: 	"Low Sugar... and baking"
 date:	2017-09-05 11:40	
 categories:	updates
-tags:		[health] 
+tags:		[health, eating] 
 description: 	"does lowering sugar intake mean no pastry?"
 published: true
 lastmod:	2017-09-06 19:38

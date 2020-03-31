@@ -3,7 +3,7 @@ layout: post
 title:  "Fort me, Priesty, One More Time"
 date:   2019-06-30 23:21
 categories:  entertainment
-tags:        [wow]
+tags:        [warcraft, song-lyrics]
 description: "a WoW parody of Hit Me Baby by Britney Spears"
 published:   true
 lastmod:     2019-06-30 23:21

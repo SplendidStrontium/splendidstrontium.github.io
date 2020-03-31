@@ -3,8 +3,8 @@ layout: post
 title: 	"Decadence"
 date:	2018-04-30 09:14
 categories:	snips
-tags:		[] 
-description: 	""
+tags:		[floating-memory] 
+description: 	"the agnostic's Sin"
 published: true
 lastmod:	2018-04-30 09:47
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 	"Simple Eraser"
 date:	2020-02-08 13:41
 categories:	snips
-tags:		[] 
+tags:		[pic-commentary] 
 description: 	"a treatise for deleting records"
 published: true
 lastmod:	2020-02-08 13:42

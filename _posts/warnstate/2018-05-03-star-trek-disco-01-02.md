@@ -3,7 +3,7 @@ layout: post
 title: 	"ST: Discovery 01 & 02"
 date:	2018-05-03 11:42
 categories:	entertainment
-tags:		[star-trek] 
+tags:		[star-trek, tv-reaction] 
 description: 	"Series originally about philosophical exploration has become weekly dose-o-melodrama"
 published: true
 lastmod:	2018-05-04 09:18

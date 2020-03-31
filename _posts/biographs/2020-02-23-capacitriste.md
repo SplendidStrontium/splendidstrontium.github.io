@@ -3,6 +3,7 @@ layout: biograph
 title: "Capacitriste"
 date: 2020-02-23 09:50
 category: who
+tags: [hm, bio]
 description: "from the 21º&a½ century"
 published: true
 lastmod: 2020-02-23 10:58

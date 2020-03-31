@@ -3,7 +3,7 @@ layout: post
 title: 	"The Death of the Jedi"
 date:	2018-04-09 09:45
 categories:	entertainment
-tags:		[star-wars] 
+tags:		[star-wars, character-analysis] 
 description: 	"Episodes VII & VIII deviate from the Hero's story"
 published: true
 lastmod:	2018-04-09 21:13

@@ -3,7 +3,7 @@ layout: post
 title: 	"My Sylvanas"
 date:	2018-11-26 14:21
 categories:	entertainment
-tags:		[wow] 
+tags:		[warcraft, song-lyrics] 
 description: 	"a WoW parody of My Sharona by The Knack"
 published: true
 lastmod:	2018-11-26 14:21
