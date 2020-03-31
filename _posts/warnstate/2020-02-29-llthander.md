@@ -4,6 +4,7 @@ title: "L. Sunstrider"
 date: 2020-02-29 09:18
 categories: wowtales 
 description: "requested copies"
+tags: [warcraft]
 published: true 
 lastmod: 2020-02-29 10:13
 ---

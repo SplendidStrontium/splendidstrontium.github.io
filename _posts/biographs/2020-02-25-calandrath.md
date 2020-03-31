@@ -3,6 +3,7 @@ layout: biograph
 title: "Calandrath, Mk II"
 date: 2020-02-25 10:27
 category: who
+tags: [wow, bio]
 description: "diplomat to the Mecha-Gnomes"
 published: true
 lastmod: 2020-02-25 10:44

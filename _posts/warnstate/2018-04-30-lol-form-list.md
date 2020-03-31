@@ -3,7 +3,7 @@ layout: post
 title: 	"LoL: Champion Shape List"
 date:	2018-04-30 14:12
 categories:	entertainment
-tags:		[league-of-legends] 
+tags:		[league-of-legends, character-analysis] 
 description: 	"Organized by release date"
 published: true
 lastmod:	2018-04-30 14:12

@@ -3,7 +3,7 @@ layout: post
 title: 	"Eskimofrenzy"
 date:	2018-11-29 15:41
 categories:	entertainment
-tags:		[wow] 
+tags:		[warcraft, song-lyrics] 
 description: 	"a WoW parody of Eleanor Rigby by the Beatles"
 published: true
 lastmod:	2018-11-29 15:41

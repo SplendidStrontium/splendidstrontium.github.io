@@ -3,8 +3,8 @@ layout: post
 title: 	"Dreams of Andromede (incomplete)"
 date:	2018-05-14 16:25
 categories:	snips
-tags:		[] 
-description: 	""
+tags:		[fantasy, cantrips] 
+description: 	"a list of ideas for small invocations"
 published: true
 lastmod:	2018-05-14 16:25
 ---

@@ -4,6 +4,7 @@ title: "Birthright Restored 1"
 date: 2020-02-28 08:19
 categories: wowtales 
 description: "Eriolanna alights!"
+tags: [warcraft]
 published: true 
 lastmod: 2020-02-28 3:00
 ---

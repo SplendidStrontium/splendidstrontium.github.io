@@ -3,8 +3,8 @@ layout:		post
 title:		"HOW TO WIN A GAME - CONCEPTS AND SKILLS"
 date:		2019-09-12 11:53
 categories:		entertainment
-tags:			[]
-description: 	""
+tags:			[gaming]
+description: 	"shall we categorize games?"
 published:		true
 lastmod:		2019-09-12 11:53
 ---

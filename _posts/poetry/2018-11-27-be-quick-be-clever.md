@@ -3,8 +3,8 @@ layout: poem
 title: 	"Be Quick, Be Clever"
 date:	2018-11-27 14:19
 categories:	poetry
-tags:		[] 
-description: 	""
+tags:		[poem] 
+description: 	"ode to boy"
 published: true
 lastmod:	2018-11-27 14:19
 ---

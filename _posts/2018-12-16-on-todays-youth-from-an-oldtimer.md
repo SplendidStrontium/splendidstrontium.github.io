@@ -3,8 +3,8 @@ layout: post
 title: 	"On today's youth, from an oldtimer"
 date:	2018-12-16 12:06
 categories:	snips
-tags:		[] 
-description: 	""
+tags:		[pic-commentary] 
+description: 	"found in the little old desk"
 published: true
 lastmod:	2018-12-16 12:06
 ---

@@ -4,6 +4,7 @@ title: "Dear Fineus"
 date: 2020-03-02 18:23
 published: true
 categories: wowtales
+tags: [warcraft]
 description: "take better care of your records"
 lastmod: 2020-03-02 19:41
 ---

@@ -3,8 +3,8 @@ layout:		post
 title:		"Fortnite & Feminism"
 date:		2019-09-12 13:16
 categories:		entertainment
-tags:			[]
-description: 	""
+tags:			[current-events, gender-politics]
+description: 	"a musing opinion on possible causes of low female population in professional game players"
 published:		true
 lastmod:		2019-09-12 13:16
 ---

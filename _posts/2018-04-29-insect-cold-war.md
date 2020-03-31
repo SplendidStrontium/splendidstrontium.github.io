@@ -3,8 +3,8 @@ layout: post
 title: 	"Insect Cold War"
 date:	2018-04-29 19:48
 categories:	snips
-tags:		[] 
-description: 	""
+tags:		[floating-memory] 
+description: 	"the irrationality of fear"
 published: true
 lastmod:	2018-04-29 19:48
 ---

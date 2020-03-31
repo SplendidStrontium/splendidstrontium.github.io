@@ -3,8 +3,8 @@ layout: post
 title: 	"the thrill"
 date:	2017-11-16 21:29
 categories:	poetry
-tags:		[] 
-description: 	""
+tags:		[poem] 
+description: 	"cats can't spell"
 published: true
 lastmod:	2020-03-14 11:46
 ---
