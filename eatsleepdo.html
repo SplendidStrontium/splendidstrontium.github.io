@@ -24,7 +24,15 @@ permalink: /eatsleepdo
 			{% if post.category == "recipe" %}
 
 		        <li class="esd-post">
-				<div class="esd-link-box"><a class="esd-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+				<div class="esd-link-box"><a class="esd-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 37 }}</a></div>
+
+
+				{% if post.thumbnail_id %}
+				<div class="esd-tb">
+				<img src="{{ site.url }}/assets/tb/{{post.thumbnail_id}}" alt="" class="esd-tb-img">
+				</div>
+				{% endif %}
+
 
 				<div class="esd-desc">
 					<span class="esd-tags">{{post.tags | array_to_sentence_string}}</span><br/>
@@ -64,7 +72,15 @@ permalink: /eatsleepdo
 			{% if post.category == "homecraft" %}
 
 		        <li class="esd-post">
-				<div class="esd-link-box"><a class="esd-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+				<div class="esd-link-box"><a class="esd-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 37 }}</a></div>
+
+
+				{% if post.thumbnail_id %}
+				<div class="esd-tb">
+				<img src="{{ site.url }}/assets/tb/{{post.thumbnail_id}}" alt="" class="esd-tb-img">
+				</div>
+				{% endif %}
+
 
 				<div class="esd-desc">
 					<span class="esd-tags">{{post.tags | array_to_sentence_string}}</span><br/>
@@ -105,6 +121,11 @@ permalink: /eatsleepdo
 
 		        <li class="esd-post">
 				<div class="esd-link-box"><a class="esd-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+				
+		
+
+
+
 
 				<div class="esd-desc">
 					<span class="esd-tags">{{post.tags | array_to_sentence_string}}</span><br/>
