@@ -1,0 +1,86 @@
+.callig-post{ 
+	position: relative;
+	border-style: solid;
+	border-collapse: collapse;
+	border-width: thin medium;
+	border-color: #888;
+	margin-bottom: 0.5em;
+	padding-top: 0.5em;
+	padding-left: 0.3em;
+	padding-bottom: 0.2em;
+	border-radius: 0.1em 1.5em;
+    background-color: #d7d7d7;
+	list-style-type: none;
+}
+
+.callig-link-box{
+	width: 56%;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #888;
+    border-radius: 0.1em 0.9em;
+	font-size: 1.1em;
+	background-color: #aaa;
+	padding: 0.03em 0.7em;
+    margin-bottom: 0.1em;
+}
+
+.callig-link-txt{
+    display:block;
+}
+
+.callig-desc{
+	font-style: italic;
+	font-size: 0.9em;
+    background-color: #bbb;
+	width: 65%;
+	margin-top: 0.2em;
+	margin-bottom: 2.2em;
+	padding-left: 1.4em;
+	padding-right: 0.4em;
+}
+
+.callig-cata{
+    font-family: monospace;
+    font-size: 1.1em;
+	color: #666;
+	position: absolute;
+    left: 16em;
+    top: 1.3em;
+    text-align: right;
+}
+
+.callig-tags{
+    color: #777;
+    font-size: 0.8em;
+    text-align: right;
+    margin-right: 13em;
+}
+    
+
+.callig-date{
+    width: 9.9em;
+	height: 1.7em;
+	font-size: 0.9em;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	background-color: #bbb;
+	border-style: solid;
+	border-collapse: collapse;
+	border-width: thin;
+	border-color: #888;
+	border-radius: 0.3em 0 0 0;
+	padding: 0.1em 0.4em;
+	text-align: center;
+} 
+
+@media (max-width: 600px){
+#wrapper {
+    padding: 0;
+    border: none;
+    box-shadow: none;
+    border-radius: 0;
+  }
+
+}

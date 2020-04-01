@@ -10,6 +10,7 @@
 	padding-bottom: 0.2em;
 	border-radius: 0.1em 1.5em;
     background-color: #d7d7d7;
+	list-style-type: none;
 }
 
 .arch-link-box{

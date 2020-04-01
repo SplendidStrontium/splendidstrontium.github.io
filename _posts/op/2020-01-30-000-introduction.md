@@ -2,7 +2,7 @@
 layout:	orbispictus
 title:		"0: Introduction"
 date:	2020-01-30 17:25
-categories:	orbispictus
+category:	orbispictus
 tags:				[op]
 description:	"list of source documents, introduction by PK"
 published:		true

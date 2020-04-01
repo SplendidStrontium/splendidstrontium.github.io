@@ -15,15 +15,44 @@ permalink: /sophieblue/
 
 <p id="sb-intro">Sophie Blue was imprisoned for crimes against humanity. She was allowed to keep a diary in her quarters during her time served. Please start reading with the <a href="{{ '1' | prepend: site.baseurl }}">first entry</a>.</p>
 
-<div id="sb-list">
-{% for post in site.categories.sophieblue %}
-	<li class="sb-post">
-	<a class="sb-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+<ul>
+	{% for post in site.posts %}
+        {% if post.url %}
+			{% if post.category == "sophieblue" %}
 
-	</li>	
+		        <li class="sb-post">
+				<div class="sb-link-box"><a class="sb-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
 
-{% endfor %}
-</div>
+				<div class="sb-desc">
+					{{post.description}}
+				</div>
+
+		
+				<span class="sb-date">
+				<span id="dayname-cn">
+				{% assign day = post.date | date: "%w" %}
+				{% case day %}
+				{% when '0' %}周日
+				{% when '1' %}周一
+				{% when '2' %}周二
+				{% when '3' %}周三
+				{% when '4' %}周四
+				{% when '5' %}周五
+				{% else %}周六
+				{% endcase %}</span>
+
+				{{post.date | date: "%d %b, %Y"}}</span></li>
+
+
+			{% else %}	
+			{% endif %}
+		{% else %}
+        {% endif %}
+    {% endfor %}
+</ul>
+
+
+
 
 </body>
 </html>
