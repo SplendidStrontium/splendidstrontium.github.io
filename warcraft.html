@@ -1,0 +1,101 @@
+---
+layout: warcraft
+title: Warcraft
+menu: main
+permalink: /warcraft 
+---
+
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+
+<body>
+
+
+<div id="warcft-list">
+
+<p>If you play World of Warcraft(魔兽世界), you might understand some of this stuff.</p>
+
+<ul>
+	{% for post in site.posts %}
+        {% if post.url %}
+			{% if post.category == "warcraft" %}
+
+		        <li class="warcft-post">
+				<div class="warcft-link-box"><a class="warcft-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+
+				<div class="warcft-desc">
+					<span class="warcft-tags">{{post.tags | array_to_sentence_string}}</span><br/>
+					{{post.description}}
+				</div>
+
+		
+				<span class="warcft-date">
+				<span id="dayname-cn">
+				{% assign day = post.date | date: "%w" %}
+				{% case day %}
+				{% when '0' %}周日
+				{% when '1' %}周一
+				{% when '2' %}周二
+				{% when '3' %}周三
+				{% when '4' %}周四
+				{% when '5' %}周五
+				{% else %}周六
+				{% endcase %}</span>
+
+				{{post.date | date: "%d %b, %Y"}}</span></li>
+
+
+			{% else %}	
+			{% endif %}
+		{% else %}
+        {% endif %}
+    {% endfor %}
+</ul>
+
+
+<!--
+{% for post in site.posts %}
+	<li class="esd-post">
+	<div class="esd-link-box"><a class="esd-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+	
+    <p class="esd-cata">/{{post.categories}}/</p>
+
+    {% if post.description == "" %}
+	{% else %}<br>
+
+    <div class="esd-desc">{{post.description}}</div>
+    {% endif %}
+
+    <div class="esd-tags">
+    {{post.tags | array_to_sentence_string}}</div>
+   
+
+    <span class="esd-date">
+    <span id="dayname-cn">
+    {% assign day = post.date | date: "%w" %}
+    {% case day %}
+    {% when '0' %}周日
+    {% when '1' %}周一
+    {% when '2' %}周二
+    {% when '3' %}周三
+    {% when '4' %}周四
+    {% when '5' %}周五
+    {% else %}周六
+    {% endcase %}</span>
+
+{{post.date | date: "%d %b, %Y"}}
+
+
+</span>
+	</li>
+{% endfor %}
+
+-->
+</div>
+
+
+
+</body>
+</html>

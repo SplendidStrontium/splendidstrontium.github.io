@@ -1,0 +1,182 @@
+---
+layout: eatsleepdo
+title: Eat-Sleep-Do
+menu: main
+permalink: /eatsleepdo 
+---
+
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+
+<body>
+
+
+<div id="esd-list">
+<h1>EAT</h1>
+<p>It so happens you have to eat to live. Here are a smattering of my exercises.</p>
+
+<ul>
+    {% assign alpha = site.posts | sort:"title" %}
+	{% for post in alpha %}
+        {% if post.url %}
+			{% if post.category == "recipe" %}
+
+		        <li class="esd-post">
+				<div class="esd-link-box"><a class="esd-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+
+				<div class="esd-desc">
+					<span class="esd-tags">{{post.tags | array_to_sentence_string}}</span><br/>
+					{{post.description}}
+				</div>
+
+		
+				<span class="esd-date">
+				<span id="dayname-cn">
+				{% assign day = post.date | date: "%w" %}
+				{% case day %}
+				{% when '0' %}周日
+				{% when '1' %}周一
+				{% when '2' %}周二
+				{% when '3' %}周三
+				{% when '4' %}周四
+				{% when '5' %}周五
+				{% else %}周六
+				{% endcase %}</span>
+
+				{{post.date | date: "%d %b, %Y"}}</span></li>
+
+
+			{% else %}	
+			{% endif %}
+		{% else %}
+        {% endif %}
+    {% endfor %}
+</ul>
+
+<h1>SHEEP</h1>
+<p>I like fabric arts. Maybe I'll get back to it.</p>
+
+<ul>
+	{% for post in site.posts %}
+        {% if post.url %}
+			{% if post.category == "homecraft" %}
+
+		        <li class="esd-post">
+				<div class="esd-link-box"><a class="esd-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+
+				<div class="esd-desc">
+					<span class="esd-tags">{{post.tags | array_to_sentence_string}}</span><br/>
+					{{post.description}}
+				</div>
+
+		
+				<span class="esd-date">
+				<span id="dayname-cn">
+				{% assign day = post.date | date: "%w" %}
+				{% case day %}
+				{% when '0' %}周日
+				{% when '1' %}周一
+				{% when '2' %}周二
+				{% when '3' %}周三
+				{% when '4' %}周四
+				{% when '5' %}周五
+				{% else %}周六
+				{% endcase %}</span>
+
+				{{post.date | date: "%d %b, %Y"}}</span></li>
+
+
+			{% else %}	
+			{% endif %}
+		{% else %}
+        {% endif %}
+    {% endfor %}
+</ul>
+
+<h1>DO</h1>
+<p>Pull updates to your software until they no longer support your device.</p>
+
+<ul>
+	{% for post in site.posts %}
+        {% if post.url %}
+			{% if post.category == "updates" %}
+
+		        <li class="esd-post">
+				<div class="esd-link-box"><a class="esd-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+
+				<div class="esd-desc">
+					<span class="esd-tags">{{post.tags | array_to_sentence_string}}</span><br/>
+					{{post.description}}
+				</div>
+
+		
+				<span class="esd-date">
+				<span id="dayname-cn">
+				{% assign day = post.date | date: "%w" %}
+				{% case day %}
+				{% when '0' %}周日
+				{% when '1' %}周一
+				{% when '2' %}周二
+				{% when '3' %}周三
+				{% when '4' %}周四
+				{% when '5' %}周五
+				{% else %}周六
+				{% endcase %}</span>
+
+				{{post.date | date: "%d %b, %Y"}}</span></li>
+
+
+			{% else %}	
+			{% endif %}
+		{% else %}
+        {% endif %}
+    {% endfor %}
+</ul>
+
+
+<!--
+{% for post in site.posts %}
+	<li class="esd-post">
+	<div class="esd-link-box"><a class="esd-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+	
+    <p class="esd-cata">/{{post.categories}}/</p>
+
+    {% if post.description == "" %}
+	{% else %}<br>
+
+    <div class="esd-desc">{{post.description}}</div>
+    {% endif %}
+
+    <div class="esd-tags">
+    {{post.tags | array_to_sentence_string}}</div>
+   
+
+    <span class="esd-date">
+    <span id="dayname-cn">
+    {% assign day = post.date | date: "%w" %}
+    {% case day %}
+    {% when '0' %}周日
+    {% when '1' %}周一
+    {% when '2' %}周二
+    {% when '3' %}周三
+    {% when '4' %}周四
+    {% when '5' %}周五
+    {% else %}周六
+    {% endcase %}</span>
+
+{{post.date | date: "%d %b, %Y"}}
+
+
+</span>
+	</li>
+{% endfor %}
+
+-->
+</div>
+
+
+
+</body>
+</html>

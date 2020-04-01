@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Archive
+title: /archive
 menu: main
 permalink: /archive 
 ---
@@ -18,7 +18,7 @@ permalink: /archive
 	<li class="arch-post">
 	<div class="arch-link-box"><a class="arch-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
 	
-    <p class="arch-cata">/{{post.categories}}/</p>
+    <p class="arch-cata">/{{post.category}}/</p>
 
     {% if post.description == "" %}
 	{% else %}<br>

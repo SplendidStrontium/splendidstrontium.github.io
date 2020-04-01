@@ -15,15 +15,46 @@ permalink: /harmonicmean/
 
 <p id="hm-intro">Harmonic Mean is a webnovel. Please start reading with the <a href="{{ 'p1-ch0' | prepend: site.baseurl }}">first chapter</a>.</p>
 
-<div id="hm-list">
-{% for post in site.categories.harmonicmean %}
-	<li class="hm-post">
-	<a class="hm-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+<ul>
+	{% for post in site.posts %}
+        {% if post.url %}
+			{% if post.category == "harmonicmean" %}
 
-	</li>	
+		        <li class="hm-post">
+				<div class="hm-link-box"><a class="hm-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
 
-{% endfor %}
-</div>
+				<div class="hm-desc">
+					{{post.description}}
+				</div>
+
+		
+				<span class="hm-date">
+				<span id="dayname-cn">
+				{% assign day = post.date | date: "%w" %}
+				{% case day %}
+				{% when '0' %}周日
+				{% when '1' %}周一
+				{% when '2' %}周二
+				{% when '3' %}周三
+				{% when '4' %}周四
+				{% when '5' %}周五
+				{% else %}周六
+				{% endcase %}</span>
+
+				{{post.date | date: "%d %b, %Y"}}</span></li>
+
+
+			{% else %}	
+			{% endif %}
+		{% else %}
+        {% endif %}
+    {% endfor %}
+</ul>
+
+
+
+
+
 
 </body>
 </html>
