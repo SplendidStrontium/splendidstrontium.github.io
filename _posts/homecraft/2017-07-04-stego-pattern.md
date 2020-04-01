@@ -5,6 +5,7 @@ date:		2017-07-04
 category:	homecraft
 tags:	[knits, child]
 description: 	"two-colored stegosaurus motif, 46sts wide"
+thumbnail_id:	"y0-001.png"
 published: true
 lastmod:	2017-07-04 12:41
 ---

@@ -5,6 +5,7 @@ date:		2018-06-09 20:00
 category:	recipe
 tags:		[corn, wheat, butter, eggs] 
 description: 	"an improvement after some testing"
+thumbnail_id:	"f0-002.jpg"
 published: true
 lastmod:	2018-06-10 14:45
 ---

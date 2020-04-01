@@ -5,6 +5,7 @@ date: 2020-02-21 14:31
 category: recipe
 tags: [wheat, butter, egg, milk]
 description: "Pressure Cooker plain cake"
+thumbnail_id:	"f0-003.jpg"
 published: true
 comments_id: 23
 lastmod: 2020-02-21 14:51

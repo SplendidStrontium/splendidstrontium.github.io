@@ -5,6 +5,7 @@ date:		2018-09-14 14:11
 category:	recipe
 tags:		[wheat, butter, eggs] 
 description: 	"third times the charm"
+thumbnail_id:	"f0-001.jpg"
 published: true
 lastmod:	2018-09-14 14:11
 ---
