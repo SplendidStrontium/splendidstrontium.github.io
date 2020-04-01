@@ -5,6 +5,7 @@ date:		2018-05-07 16:05
 category:	recipe
 tags:	[]
 description: 	"some old ideas I scrapped"
+thumbnail_id:	"f0-005.jpg"
 published: true
 lastmod:	2018-05-07 16:14
 ---

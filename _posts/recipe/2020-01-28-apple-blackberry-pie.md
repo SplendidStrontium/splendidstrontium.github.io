@@ -5,6 +5,7 @@ date:		2020-01-28 11:19
 category:	recipe
 tags:		[wheat, rye, butter, corn] 
 description: 	"first try AP->rye"
+thumbnail_id:	"f0-007.jpg"
 published: true
 comments_id:	20
 lastmod:	2020-02-03 12:00
