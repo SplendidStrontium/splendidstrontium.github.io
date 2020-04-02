@@ -5,6 +5,7 @@ date:	2018-11-26 14:21
 category:	warcraft
 tags:		[song-lyrics] 
 description: 	"a WoW parody of My Sharona by The Knack"
+thumbnail_id:	"w0-008.jpg"
 published: true
 lastmod:	2018-11-26 14:21
 ---

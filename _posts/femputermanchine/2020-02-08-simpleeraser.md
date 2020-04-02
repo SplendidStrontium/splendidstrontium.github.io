@@ -5,6 +5,7 @@ date:	2020-02-08 13:41
 category:	femputermanchine
 tags:		[pic-commentary] 
 description: 	"a treatise for deleting records"
+thumbnail_id:	"00-003.jpg"
 published: true
 lastmod:	2020-02-08 13:42
 ---

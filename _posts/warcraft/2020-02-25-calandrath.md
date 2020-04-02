@@ -5,6 +5,7 @@ date: 2020-02-25 10:27
 category: warcraft
 tags: [bio]
 description: "diplomat to the Mecha-Gnomes"
+thumbnail_id:	"w0-003.jpg"
 published: true
 lastmod: 2020-02-25 10:44
 ---

@@ -19,6 +19,12 @@ permalink: /femputermanchine
 		{% if post.category == "femputermanchine" %}
 					<li class="fpmc-post">
 					<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+					
+					{% if post.thumbnail_id %}
+					<div class="fpmc-tb">
+					<img src="{{ site.url }}/assets/tb/{{post.thumbnail_id}}" alt="" class="fpmc-tb-img">
+					</div>
+					{% endif %}
 
 					{% if post.description == "" %}
 					{% else %}<br>

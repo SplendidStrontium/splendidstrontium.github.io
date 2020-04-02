@@ -5,6 +5,7 @@ date:	2018-10-05 13:36
 category:	warcraft
 tags:		[ooc] 
 description: 	"E.vil L.ittle F.airies"
+thumbnail_id:	"w0-009.jpg"
 published: true
 lastmod:	2018-10-05 13:36
 ---

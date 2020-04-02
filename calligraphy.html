@@ -20,6 +20,13 @@ permalink: /calligraphy
 					<li class="callig-post">
 					<div class="callig-link-box"><a class="callig-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
 
+					{% if post.thumbnail_id %}
+					<div class="callig-tb">
+					<img src="{{ site.url }}/assets/tb/{{post.thumbnail_id}}" alt="" class="callig-tb-img">
+					</div>
+					{% endif %}
+					
+					
 					{% if post.description == "" %}
 					{% else %}<br>
 

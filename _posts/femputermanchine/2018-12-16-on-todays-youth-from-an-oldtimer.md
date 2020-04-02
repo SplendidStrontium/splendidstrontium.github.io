@@ -5,6 +5,7 @@ date:	2018-12-16 12:06
 category:	femputermanchine
 tags:		[pic-commentary] 
 description: 	"found in the little old desk"
+thumbnail_id:	"00-004.jpg"
 published: true
 lastmod:	2018-12-16 12:06
 ---
