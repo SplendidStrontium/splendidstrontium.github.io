@@ -24,6 +24,12 @@ permalink: /warcraft
 
 		        <li class="warcft-post">
 				<div class="warcft-link-box"><a class="warcft-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+				
+				{% if post.thumbnail_id %}
+				<div class="warcft-tb">
+				<img src="{{ site.url }}/assets/tb/{{post.thumbnail_id}}" alt="" class="warcft-tb-img">
+				</div>
+				{% endif %}
 
 				<div class="warcft-desc">
 					<span class="warcft-tags">{{post.tags | array_to_sentence_string}}</span><br/>

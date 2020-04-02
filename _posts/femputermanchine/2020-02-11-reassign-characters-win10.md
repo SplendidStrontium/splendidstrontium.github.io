@@ -5,6 +5,7 @@ date: 2020-02-11 07:32
 category: femputermanchine
 tags:	 [windows10, how-to]
 description: "Caret on a Stick; 6° of separation"
+thumbnail_id:	"00-002.png"
 published: true
 comments_id: 21
 lastmod: 2020-02-11 08:54

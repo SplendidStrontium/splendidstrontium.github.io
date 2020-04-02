@@ -1,5 +1,7 @@
 .fpmc-post{ 
 	position: relative;
+	z-index: 3;
+	overflow: hidden;
 	border-style: solid;
 	border-collapse: collapse;
 	border-width: thin medium;
@@ -27,6 +29,17 @@
 
 .fpmc-link-txt{
     display:block;
+	position: relative;
+	height: 100%;
+	width: 100%;
+	margin: auto;
+}
+
+.fpmc-tb{
+	position: absolute;
+	z-index: 0;
+	top: 0;
+	right: 0;
 }
 
 .fpmc-desc{

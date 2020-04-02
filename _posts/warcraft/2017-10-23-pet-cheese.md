@@ -5,6 +5,7 @@ date:	2017-10-23 08:52
 category:	warcraft
 tags:		[ooc] 
 description: 	"Knowledge VS Power"
+thumbnail_id:	"w0-010.jpg"
 published: true
 lastmod:	2017-10-23 08:52
 ---

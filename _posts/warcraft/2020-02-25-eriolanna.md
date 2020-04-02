@@ -5,6 +5,7 @@ date: 2020-02-25 10:03
 category: warcraft
 tags: [bio]
 description: "currently researching strange dust"
+thumbnail_id:	"w0-004.jpg"
 published: true
 lastmod: 2020-02-25 10:24
 ---
