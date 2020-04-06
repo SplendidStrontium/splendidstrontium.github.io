@@ -10,7 +10,11 @@ published: true
 lastmod:	2020-04-06 14:42
 ---
 
-![Antigony wowclassic - first day on the job]({{ site.url }}/assets/img/antigony-lvl7stam.jpg)
+<table class="inline-imgtbl">
+<tr>
+<td><img class="inline-img" src="{{ site.url }}/assets/img/antigony-lvl7stam.jpg"></td>	
+</tr>
+</table>
 
 I try to keep my nose out of the news because for me it ends up being a colossal waste of my time. Most 'news' these days is someone's play-by-play of the rumor-mill and it just gets tiring for me. Yeah, I scroll through the news feeds and try to get a feel for whatever G--GL thinks I think I want reassurance about today... But most of the time they just aren't interesting enough to warrant a click. But y'know, G--GL keeps track of that too...
 
