@@ -10,7 +10,7 @@ published: true
 lastmod:	2020-04-06 14:42
 ---
 
-<table class="inline-imgtbl">
+<table class="inline-imgtbl-l">
 <tr>
 <td><img class="inline-img" src="{{ site.url }}/assets/img/antigony-lvl7stam.jpg"></td>	
 </tr>
