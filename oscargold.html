@@ -11,5 +11,49 @@ permalink: /oscargold
 
 <div class="og-intro">
 <p class="og-intro-p">
-Inspired by Roger, of 'American Dad' fame, I present The List. Enumerated here are media-streams I feel are worth your time to digest. I am not necessarily endorsing views presented by these authors, nor is every item 'required reading'. Simply put, everything on this list is something I found profound in some way and I'd like to share the love. Updates to come. (last updated: Mar 30, 2020)</p>
+Everything listed here is, at least as I can see it, a property of someone else. People, Places, and Predicaments were created by someone else(r). [Insert obligatory boilerplate.] 
+</div>
+
+<div id="og-table-wrapper">
+
+{% for og-award in site.data.oscar-gold.og-awards %}
+<ul class="og-award-badge">
+
+	<div class="award-title">
+		<span class="award-title-txt">{{ og-award.topicttl }}</span>
+	</div>
+
+	<div class="og-tb-bar">
+		{% if og-award.tb1 %}
+		<div class="og1-tb">
+			<img src="{{ site.url }}/assets/tb/{{og-award.tb1}}" alt="" class="og-award-tb-img">
+		</div>
+		{% endif %}
+
+		{% if og-award.tbA %}
+		<div class="oga-tb">
+			<img src="{{ site.url }}/assets/tb/{{og-award.tbA}}" alt="" class="og-award-tb-img">
+		</div>
+		{% endif %}
+	</div>
+
+	<div class="og-title">
+		<span class="og-title-txt">( {{ og-award.name }} )</p>
+	</div>
+
+
+
+	<div class="og-desc">
+		<p>{{ og-award.topicdesc }}</p>
+	</div>
+
+
+
+	<div class="og-date">
+		<p>[ {{ og-award.dateawarded }} ]</p>
+	</div>
+
+</ul>
+{% endfor %}
+
 </div>

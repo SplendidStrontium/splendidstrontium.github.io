@@ -1,8 +1,7 @@
 {
 	"og-awards":[
 		{
-			"name1":	"the Killing Joke (comic)",
-			"nameA":	"Dark Knight (movie)",
+			"name":	"the Killing Joke (comic) / Dark Knight (movie)",
 			"tb1":	"g0-001.png",
 			"tbA":	"g0-002.jpg",
 			"topicttl":	"What makes The Villain?",
@@ -10,8 +9,7 @@
 			"dateawarded":	"APR10/2020"
 		},
 		{
-			"name1":	"Ender's Game (book)",
-			"nameA":	"Neon Genesis (anime)",
+			"name":	"Ender's Game (book) / Neon Genesis (anime)",
 			"tb1":	"g0-003.jpg",
 			"tbA":	"g0-004.jpg",
 			"topicttl":	"The End of Adolescence",
@@ -19,8 +17,7 @@
 			"dateawarded":	"APR10/2020"
 		},
 		{
-			"name1":	"the Ren & Stimpy Show (TV)",
-			"nameA":	"Rocko's Modern Life (TV)",
+			"name":	"the Ren & Stimpy Show (TV) / Rocko's Modern Life (TV)",
 			"tb1":	"g0-005.jpg",
 			"tbA":	"g0-006.jpg",
 			"topicttl":	"U 'Grok' ME?",
@@ -28,17 +25,15 @@
 			"dateawarded":	"APR10/2020"
 		},
 		{
-			"name1":	"Sailor Moon (anime, esp. s1)",
-			"nameA":	"Dragonball (anime, esp. versus Piccolo)",
+			"name":	"Sailor Moon (anime, esp. s1) / Dragonball (anime, esp. versus Piccolo)",
 			"tb1":	"g0-007.jpg",
 			"tbA":	"g0-008.jpg",
 			"topicttl":	"the Lonely Path",
-			"topicdesc":	"Plasma projections persist as the penultimate power of the perfect, penitent & perky PC",
+			"topicdesc":	"Plasma projections persist as the penultimate power of the penitent & perky PC",
 			"dateawarded":	"APR10/2020"
 		},
 		{
-			"name1":	"Christmas Carol (Muppet movie)",
-			"nameA":	"unknown",
+			"name":	"Christmas Carol (Muppet movie) / unknown",
 			"tb1":	"g0-009.jpg",
 			"tbA":	"",
 			"topicttl":	"Mister Scrooge",
@@ -46,8 +41,7 @@
 			"dateawarded":	"APR10/2020"
 		},
 		{
-			"name1":	"the Brave Little Toaster (movie)",
-			"nameA":	"WALL-E (movie)",
+			"name":	"the Brave Little Toaster (movie) / WALL-E (movie)",
 			"tb1":	"g0-010.png",
 			"tbA":	"g0-011.png",
 			"topicttl":	"fear & loathing",
@@ -55,8 +49,7 @@
 			"dateawarded":	"APR10/2020"
 		},
 		{
-			"name1":	"Watership Down (book)",
-			"nameA":	"the Secret of Nimh (movie)",
+			"name":	"Watership Down (book) / the Secret of Nimh (movie)",
 			"tb1":	"g0-012.jpg",
 			"tbA":	"g0-013.jpg",
 			"topicttl":	"Not Only Talking Animals",
@@ -64,8 +57,7 @@
 			"dateawarded":	"APR10/2020"
 		},
 		{
-			"name1":	"all Good Dogs Go to Heaven (movie)",
-			"nameA":	"Gay Purr-ee (movie)",
+			"name":	"all Good Dogs Go to Heaven (movie) / Gay Purr-ee (movie)",
 			"tb1":	"g0-014.jpg",
 			"tbA":	"g0-015.jpg",
 			"topicttl":	"for the Love of Dog",
@@ -73,8 +65,7 @@
 			"dateawarded":	"APR10/2020"
 		},
 		{
-			"name1":	"On the Road (manuscript)",
-			"nameA":	"the Wolf of Wall Street (movie)",
+			"name":	"On the Road (manuscript) / the Wolf of Wall Street (movie)",
 			"tb1":	"g0-016.jpg",
 			"tbA":	"g0-017.jpg",
 			"topicttl":	"Freedom w/o Wisdom corrupts",
