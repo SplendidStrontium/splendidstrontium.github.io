@@ -58,6 +58,51 @@ li.entertainment-post {
 	font-size: .8em;
 }
 
+#canon-intro{
+	margin:0;
+	margin-bottom: 2em;
+}
+
+ul.canon-list-current{
+	list-style-type: none;
+	margin: 0;
+	margin-bottom: 2em;
+	padding-top: 0.9em;
+	padding-left: 2em;
+	padding-right: 3em;
+	padding-bottom: 0.1em;
+	list-style-position:inside;
+    border: 1px solid black;
+}
+
+li.canon-list-name{
+	padding-left: 1.8em;
+	font-size:1.9em;
+}
+
+.canon-list-nametext{
+	text-decoration:underline;
+	font-style:bold;
+}
+
+li.canon-list-desc-shrt{
+	color:#444;
+}
+	
+
+li.canon-list-desc-long{
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	margin-top: 2em;
+	padding-top: 1em;
+	color:#222;
+}
+
+li.canon-list-date-lstcheck{
+	color:#666;
+	text-align:right;
+}
+
 .og-award-badge{ 
 	position: relative;
 	z-index: 3;
