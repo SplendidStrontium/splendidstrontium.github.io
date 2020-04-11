@@ -58,6 +58,79 @@ li.entertainment-post {
 	font-size: .8em;
 }
 
+.og-award-badge{ 
+	position: relative;
+	z-index: 3;
+	overflow: hidden;
+	left: 2em;
+	width: 80%;
+	border-style: solid;
+	border-collapse: collapse;
+	border-width: thin medium;
+	border-color: #888;
+	margin-bottom: 4em;
+	padding-bottom: 0.2em;
+	border-radius: 1.5em 1.5em;
+    background-color: #aaa;
+	box-shadow: -0.3em 0.3em 0.05em #666;
+	list-style-type: none;
+}
+
+.award-title{
+    display:positioned;
+	margin-top: 0.4em;
+	text-align: center;
+	font-size: 1.8em;
+}
+
+.og-tb-bar{
+	display: flex;
+	justify-content: center;
+	height:130px;
+	align-items:center;
+}
+
+.og1-tb{
+	z-index: 1;
+	margin-right:3em;
+}
+
+.oga-tb{
+	z-index: 1;
+	margin-left:3em;
+}
+
+.og-title{
+	z-index:0;
+    display:relative;
+	text-align: center;
+	left: 120px;
+	top: 0;
+
+}
+
+.og-title-txt{
+	font-style: italic;
+	font-size: 0.8em;
+}
+
+.og-desc{
+	display:relative;
+	text-align:center;
+	width:80%;
+	margin-top: 0;
+	margin-left: 10%;
+	margin-right: 10%;
+
+}
+
+.og-date{
+	display:block;
+	right:0;
+	bottom:0;
+	text-align:right;
+}
+
 #ff_table {
 	border: 1px solid black;
 	border-collapse: collapse;
