@@ -1,25 +1,25 @@
 {
-	"canon_awards":[
+	"awards":[
 		{
 			"name": "Allen's Playhouse",
 			"link": "https://www.allensplayhouse.com/",
 			"linkyt": "https://www.youtube.com/channel/UChY7g9ETj3fVVQiLizmexoQ/",
 			"desc-shrt": "Children's interest, esp. book read-a-louds",
-			"desc-long": "I discovered Allen's Playhouse while looking for a read-a-loud video for my son who loves the Little Blue Truck series of books. APH has a number of recent videos with a father and son enjoying trips out-of-doors or narrating an adventure through a book or environment.",
+			"desc-long": "I discovered Allen's Playhouse while looking for a read-a-loud video for my son who loves the 'Little Blue Truck' series of books. APH has a number of recent videos with a father and son enjoying trips out-of-doors or narrating an adventure through a book or place.",
 			"last-checked": "APR11/2020"
 		},{
 			"name": "BirdOPrey5",
 			"link": "https://www.birdoprey5.com/",
 			"linkyt": "https://www.youtube.com/user/birdoprey5/",
 			"desc-shrt": "TV analysis, esp Star Trek",
-			"desc-long": "I discovered BOP through social-networking -- I am interested in sci-fi, esp. series that try to guide and encourage the modern viewer to... uh... ...'progressive'... morality. (author: Sorry, verbiage is key here and certain words scare off people... um... socially-conscious? responsible? golden rule? Regardless, Gene Roddenberry says, and I'm quoting Wikipedia here, 'Understand that Star Trek is more than just my political philosophy, my racial philosophy, my overview on life and the human condition.' With that in mind, we wonder how life may imitate art.)",
+			"desc-long": "I am interested in sci-fi, esp. series that try to guide and encourage the modern viewer to... uh... ...'progressive'... morality. (author: Sorry, verbiage is key here and certain words scare off people... um... socially-conscious? responsible? golden rule? Regardless, Gene Roddenberry says, and I'm quoting Wikipedia here, 'Understand that Star Trek is more than just my political philosophy, my racial philosophy, my overview on life and the human condition.' With that in mind, we wonder how life may imitate art.)",
 			"last-checked": "APR11/2020"
 		},{
 			"name": "Cuck Philosophy",
 			"link": "https://twitter.com/PhilosophyCuck",
 			"linkyt": "https://www.youtube.com/channel/UCSkzHxIcfoEr69MWBdo0ppg/",
 			"desc-shrt": "Philosophy and idea-critique",
-			"desc-long": "I believe this discovery was found while searching to expand my knowledge about historical writers. I like his channel and point of view and that he doesn't (often) condescend to the viewer.",
+			"desc-long": "I believe this discovery was found while searching to expand my knowledge about historical writers. I like his channel and point of view and that he doesn't (too often) condescend to the viewer.",
 			"last-checked": "APR11/2020"
 		},{
 			"name": "Ferris Wheelhouse",
@@ -33,7 +33,7 @@
 			"link": "https://www.hopscotchsongs.com/",
 			"linkyt": "https://www.youtube.com/channel/UCgM7EYFFz_dba0OIZs5L9kg/",
 			"desc-shrt": "Children's interest, esp. teaching songs",
-			"desc-long": "Hopscotch is a great kid's channel. They have simple songs with simple ideas and don't get bogged down in the details. Some of my favorites are the planets, habitats, and continents. The counting songs may help your little one establish a link between counting and keeping rhythm.",
+			"desc-long": "Hopscotch is a great kid's channel. They have simple songs with simple ideas and don't get bogged down in the details. Some of my favorites are the planets, habitats, and continents. The counting songs may help your little one establish a link between counting numbers and keeping rhythm.",
 			"last-checked": "APR11/2020"
 		},{
 			"name": "Magma",
@@ -61,7 +61,7 @@
 			"link": "https://scratchgarden.com/",
 			"linkyt": "https://www.youtube.com/channel/UC8NFs-VWUsyuq4zaYVVMgCQ/",
 			"desc-shrt": "Children's interest, esp. teaching songs",
-			"desc-long": "A lot of Scratch Garden songs have entered the common parlance in my house. They have a good head for music and make tunes that even YOU might like. Their animation style is clear and con",
+			"desc-long": "A lot of Scratch Garden songs have entered the common parlance in my house. They have a good head for music and make tunes that even YOU might like. Their animation style is clear and consistent.",
 			"last-checked": "APR11/2020"
 		},{
 			"name": "Spiffworld",
