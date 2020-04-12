@@ -23,7 +23,7 @@ permalink: /archive
     {% if post.description == "" %}
 	{% else %}<br>
 
-    <div class="arch-desc">{{post.description}} {% if post.comments_id != "" %}<span class="arch-comments-notify">♫♫</span>{% endif %}</div>
+    <div class="arch-desc">{{post.description}} {% if post.comments_id %}<span class="arch-comments-notify">♫♫</span>{% endif %}</div>
     {% endif %}
 
     <div class="arch-tags">
