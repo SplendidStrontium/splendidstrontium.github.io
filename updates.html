@@ -1,0 +1,99 @@
+---
+layout: eatsleepdo
+title: Updates
+menu: main
+permalink: /updates 
+---
+
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+
+<body>
+
+<p>Pull updates to your software until they no longer support your device. Here the author discusses issues with adhering to meta.</p>
+<div id="esd-list">
+
+<ul>
+	{% for post in site.posts %}
+        {% if post.url %}
+			{% if post.category == "updates" %}
+
+		        <li class="esd-post">
+				<div class="esd-link-box"><a class="esd-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+
+				<div class="esd-desc">
+					<span class="esd-tags">{{post.tags | array_to_sentence_string}}</span><br/>
+					{{post.description}}
+				</div>
+
+		
+				<span class="esd-date">
+				<span id="dayname-cn">
+				{% assign day = post.date | date: "%w" %}
+				{% case day %}
+				{% when '0' %}周日
+				{% when '1' %}周一
+				{% when '2' %}周二
+				{% when '3' %}周三
+				{% when '4' %}周四
+				{% when '5' %}周五
+				{% else %}周六
+				{% endcase %}</span>
+
+				{{post.date | date: "%d %b, %Y"}}</span></li>
+
+
+			{% else %}	
+			{% endif %}
+		{% else %}
+        {% endif %}
+    {% endfor %}
+</ul>
+
+
+<!--
+{% for post in site.posts %}
+	<li class="esd-post">
+	<div class="esd-link-box"><a class="esd-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+	
+    <p class="esd-cata">/{{post.categories}}/</p>
+
+    {% if post.description == "" %}
+	{% else %}<br>
+
+    <div class="esd-desc">{{post.description}}</div>
+    {% endif %}
+
+    <div class="esd-tags">
+    {{post.tags | array_to_sentence_string}}</div>
+   
+
+    <span class="esd-date">
+    <span id="dayname-cn">
+    {% assign day = post.date | date: "%w" %}
+    {% case day %}
+    {% when '0' %}周日
+    {% when '1' %}周一
+    {% when '2' %}周二
+    {% when '3' %}周三
+    {% when '4' %}周四
+    {% when '5' %}周五
+    {% else %}周六
+    {% endcase %}</span>
+
+{{post.date | date: "%d %b, %Y"}}
+
+
+</span>
+	</li>
+{% endfor %}
+
+-->
+</div>
+
+
+
+</body>
+</html>
