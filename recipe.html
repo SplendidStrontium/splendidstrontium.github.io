@@ -12,7 +12,7 @@ permalink: /recipe
 
 <body>
 
-<p>It so happens you have to eat to live. Here are a smattering of my exercises. These are listed in alphabetical order so you can find similar recipes grouped together. </p>
+<p>It so happens you have to eat to live. Here are a smattering of my exercises. These are listed in alphabetical order so you can find similar recipes grouped together. ♫♫ indicates that a post has open comments.</p>
 <div id="esd-list">
 
 
@@ -35,7 +35,7 @@ permalink: /recipe
 
 				<div class="esd-desc">
 					<span class="esd-tags">{{post.tags | array_to_sentence_string}}</span><br/>
-					{{post.description}}
+					{{post.description}} {% if post.comments_id %}<span class="arch-comments-notify">♫♫</span>{% endif %}
 				</div>
 
 		

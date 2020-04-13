@@ -12,7 +12,7 @@ permalink: /femputermanchine
 
 <body>
 
-<p>If you live in the prime material plane, you might understand some of this.</p>
+<p>If you live in the prime material plane, you might understand some of this. ♫♫ indicates that a post has open comments.</p>
 <div id="fpmc-list">
 {% for post in site.posts %}
 	{% if post.url %}
@@ -29,7 +29,7 @@ permalink: /femputermanchine
 					{% if post.description == "" %}
 					{% else %}<br>
 
-					<div class="fpmc-desc">{{post.description}}</div>
+					<div class="fpmc-desc">{{post.description}} {% if post.comments_id %}<span class="arch-comments-notify">♫♫</span>{% endif %}</div>
 					{% endif %}
 
 					<div class="fpmc-tags">

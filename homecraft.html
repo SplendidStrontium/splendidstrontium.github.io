@@ -15,8 +15,7 @@ permalink: /homecraft
 
 <div id="esd-list">
 
-<h1>SHEEP</h1>
-<p>I like fabric arts. Maybe I'll get back to it.</p>
+<p>Various home-maker interests. ♫♫ indicates that a post has open comments.</p>
 
 <ul>
 	{% for post in site.posts %}
@@ -36,7 +35,7 @@ permalink: /homecraft
 
 				<div class="esd-desc">
 					<span class="esd-tags">{{post.tags | array_to_sentence_string}}</span><br/>
-					{{post.description}}
+					{{post.description}} {% if post.comments_id %}<span class="arch-comments-notify">♫♫</span>{% endif %}
 				</div>
 
 		
