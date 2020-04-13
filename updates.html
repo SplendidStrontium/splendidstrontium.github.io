@@ -12,7 +12,7 @@ permalink: /updates
 
 <body>
 
-<p>Pull updates to your software until they no longer support your device. Here the author discusses issues with adhering to meta.</p>
+<p>Pull updates to your software until they no longer support your device. Here the author discusses issues with adhering to meta. ♫♫ indicates that a post has open comments.</p>
 <div id="esd-list">
 
 <ul>
@@ -25,7 +25,7 @@ permalink: /updates
 
 				<div class="esd-desc">
 					<span class="esd-tags">{{post.tags | array_to_sentence_string}}</span><br/>
-					{{post.description}}
+					{{post.description}} {% if post.comments_id %}<span class="arch-comments-notify">♫♫</span>{% endif %}
 				</div>
 
 		

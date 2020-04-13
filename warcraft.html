@@ -15,7 +15,7 @@ permalink: /warcraft
 
 <div id="warcft-list">
 
-<p>If you play World of Warcraft(魔兽世界), you might understand some of this stuff.</p>
+<p>If you play World of Warcraft(魔兽世界), you might understand some of this stuff. ♫♫ indicates that a post has open comments.</p>
 
 <ul>
 	{% for post in site.posts %}
@@ -33,7 +33,7 @@ permalink: /warcraft
 
 				<div class="warcft-desc">
 					<span class="warcft-tags">{{post.tags | array_to_sentence_string}}</span><br/>
-					{{post.description}}
+					{{post.description}} {% if post.comments_id %}<span class="arch-comments-notify">♫♫</span>{% endif %}
 				</div>
 
 		
