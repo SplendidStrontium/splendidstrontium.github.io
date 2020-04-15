@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+   <link rel="shortcut icon" type="image/png" href="{{ "/favicon.png" | prepend: site.baseurl }}" />
+  {% include head.html %}
+	<script src="{{ "/assets/cc.js" | prepend: site.baseurl }}"></script>
+
+
+  <body>
+
+    {% include header.html %}
+
+
+    <div class="page-content">
+      <div class="wrapper-wide">
+        {{ content }}
+      </div>
+    </div>
+
+		{% include footer-sm.html %}
+
+  </body>
+
+</html>
