@@ -2,8 +2,6 @@
 	position: relative;
 	z-index: 3;
 	overflow: hidden;
-	left: 2em;
-	width: 80%;
 	border-style: solid;
 	border-collapse: collapse;
 	border-width: thin medium;

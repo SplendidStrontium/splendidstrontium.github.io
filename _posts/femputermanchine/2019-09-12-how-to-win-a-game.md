@@ -5,6 +5,7 @@ date:		2019-09-12 11:53
 category:		femputermanchine
 tags:			[gaming]
 description: 	"shall we categorize games?"
+comments_id:	"47"
 published:		true
 lastmod:		2019-09-12 11:53
 ---

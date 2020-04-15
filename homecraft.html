@@ -1,8 +1,8 @@
 ---
-layout: warcraft
-title: Warcraft
+layout: eatsleepdo
+title: Homecraft
 menu: main
-permalink: /warcraft 
+permalink: /homecraft 
 ---
 
 <html>
@@ -13,31 +13,33 @@ permalink: /warcraft
 <body>
 
 
-<div id="warcft-list">
+<div id="esd-list">
 
-<p>If you play World of Warcraft(魔兽世界), you might understand some of this stuff. ♫♫ indicates that a post has open comments.</p>
+<p>Various home-maker interests. ♫♫ indicates that a post has open comments.</p>
 
 <ul>
 	{% for post in site.posts %}
         {% if post.url %}
-			{% if post.category == "warcraft" %}
+			{% if post.category == "homecraft" %}
 
-		        <li class="warcft-post">
-				<div class="warcft-link-box"><a class="warcft-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
-				
+		        <li class="esd-post">
+				<div class="esd-link-box"><a class="esd-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 37 }}</a></div>
+
+
 				{% if post.thumbnail_id %}
-				<div class="warcft-tb">
-				<img src="{{ site.url }}/assets/tb/{{post.thumbnail_id}}" alt="" class="warcft-tb-img">
+				<div class="esd-tb">
+				<img src="{{ site.url }}/assets/tb/{{post.thumbnail_id}}" alt="" class="esd-tb-img">
 				</div>
 				{% endif %}
 
-				<div class="warcft-desc">
-					<span class="warcft-tags">{{post.tags | array_to_sentence_string}}</span><br/>
+
+				<div class="esd-desc">
+					<span class="esd-tags">{{post.tags | array_to_sentence_string}}</span><br/>
 					{{post.description}} {% if post.comments_id %}<span class="arch-comments-notify">♫♫</span>{% endif %}
 				</div>
 
 		
-				<span class="warcft-date">
+				<span class="esd-date">
 				<span id="dayname-cn">
 				{% assign day = post.date | date: "%w" %}
 				{% case day %}
@@ -59,7 +61,6 @@ permalink: /warcraft
         {% endif %}
     {% endfor %}
 </ul>
-
 
 <!--
 {% for post in site.posts %}
