@@ -5,6 +5,7 @@ date:		2019-09-12 13:16
 category:		femputermanchine
 tags:			[current-events, gender-politics]
 description: 	"a musing opinion on possible causes of low female population in professional game players"
+comments_id:	"46"
 published:		true
 lastmod:		2019-09-12 13:16
 ---
