@@ -6,8 +6,9 @@ category: femputermanchine
 tags: [jim]
 description: "damned either way"
 published: true
-lastmod:	2020-04-26 22:40
+lastmod:	2020-04-27 14:15
 ---
+[//]: # ( 4/27/20  -added link up)
 
 'Only 'cause Kirk asked me to.' I said to myself. 
 
@@ -44,4 +45,9 @@ I had no idea the old man was so strong. I guess the dollhouse hadn't been made 
 Norah -- well, she didn't say anything. She didn't cry, she just stared, kind of wide-eyed, at the whole debacle. She'd seemed kind of on-edge all night, because of the rainstorm, so maybe she was just so tired at this point that it was all she could do to watch. 
 
 <center>~</center>
+
+*****
+
+`linkout`
+[forward to McCoy II]({% post_url /femputermanchine/2020-04-27-mccoy-ii %})
 
