@@ -68,6 +68,8 @@ _I performed some preliminary bookkeeping to graft some of the loners into the t
 
 (1911) Weaslie and Madleine Francisco kill Zoe under the claim that she is the reincarnation of the evil spydercult of vampresses. the court upholds the violence as just and within the Law.
 
+[Myrtle studies language while in Paris]({% post_url /femputermanchine/1912-02-08-simpleeraser %})
+
 (1913) Avaelle makes her first appearance at the Straud Mansion
 
 (1914) Straud marries Avaelle but she splits the year between the Straud Mansion and the Easton Estate.
@@ -132,6 +134,8 @@ _I performed some preliminary bookkeeping to graft some of the loners into the t
 
 (1976) McCoy hired as a nurse assistant at The Institute
 
+[McCoy is a very unhappy man]({% post_url /femputermanchine/1976-04-27-mccoy-ii %})
+
 (1977) McCoy found guilty of poisoning the popular Cadry Son brand of plasma packs, all claimed to have been QA tested through The Institute. The spread of poisoned plasma packs lead to the Great Culling, the death of some 90% of active vampyres, all male. The vampyres attempt to hide the bodies, but death rituals are lengthy procedures and they get backlogged. The bodies are being held in vampiric slumber by their masters while rites can be arranged, but when the bodies start to grow sporing mushrooms that make you sick, there is an immediate call to cease ritual in favor of asap cremation
 
 (1977) Mandarc looks over his records and suspects he is experiencing memory loss. He finds irrefutable evidence that Straud is his birth father and not Vincent Marscapone, as he had been told from childhood. Ezri Dax is not a true vampress, but an ancient carrion werm and its set of drones/werkers, all cast in human flesh. Unknown to Mandarc, Straud intended the two of them to marry to seal a peace deal with the aliens and their allies. Mandarc refuses to consummate the union, the werm goes into a rage and betrays her trueform. Mandarc kills her in retaliation, wounding the Dax neuralnet.
@@ -160,6 +164,8 @@ _I performed some preliminary bookkeeping to graft some of the loners into the t
 
 (1986) Svetlana and Jim Lusk attend the grand opening of the nightclub in Alphabet City
 
+[Mandarc has a strange television]({% post_url /femputermanchine/1986-12-11-the-user %}) PR 2017.
+
 (1987) Jim Lusk figures out it's an invitation to join the Neu Fraternity, a recently formed pact of peace in the vampyre world. Jim had no idea about the depth of vampyre culture until this moment. his idea of growing "peaches and cream" is snatched up by Straud into a joint operation with Kevin Marscapone, sponsored by the old vampyr Straud. and they all keep claiming to be good vampires and dedicated to fighting crime and the forces of evil. it kind of weirds Jim out. but he and Kevin sell fruit to vampyres and become known as the Kandy Kingpins
 
 (1988) Mandarc ends house arrest from Marscapone House
@@ -184,6 +190,8 @@ _I performed some preliminary bookkeeping to graft some of the loners into the t
 
 (1992) Myrtle adopts Tzu Prano 
 
+[Granny Sepal cleans out her drawers]({% post_url /femputermanchine/1992-12-16-on-todays-youth-from-an-oldtimer %})
+
 (1993) Maurice Whetherspoon starts alpha testing on what he calls the EMH, the extra marital healagram, designed as a conversational database for Janeway to try to combat her addiction to pornography. He used old style audio recording devices such as microphones and new style binary choice processing and g'Houle-Internet integration
 
 (1993) Myrtle is outed as a vampress and her alibi as the White Wich falls apart. Tzu Prano and Mezzo Forte take credit for the Discovery. Commoners spread rumour that Mandarc killed her to take control of the family. Myrtle commits suicide by sun. The loss of the wulfcult Mother is referred to by the mourners as Y2K
@@ -206,9 +214,13 @@ _I performed some preliminary bookkeeping to graft some of the loners into the t
 
 (1998) Cedric takes penname Cedric D'Iggory after reading a popular book series. Norah chooses Seven (of Nine). The refugees are sheltered by Svetlana Oborovsky's estate in Braighton Beech
 
+[Consent wins the award for 1998]({% post_url /femputermanchine/1998-04-22-consent %})
+
 (1999) Mezzo Forte dies of unknown causes
 
 (1999) Kevin masquerades as the Kingpin Lusk, moves back into his family home as lead consultant on ancient knowledge to the Magicademy
+
+[Janeway still struggles to understand, let alone write]({% post_url /femputermanchine/2000-05-07-kevin-2 %})
 
 (2000) Janeway et al publish the online series the Hex Files, wherein they make video about their hunts for supernatural creatures of the night
 
@@ -234,11 +246,47 @@ _I performed some preliminary bookkeeping to graft some of the loners into the t
 
 (2014) Straud abducts Kevin from the Magicademy
 
+[Tzu Prano's highschool final]({% post_url /femputermanchine/2015-08-13-BJ-Laura-1.0 %})
+
 (2015) Avaelle Easton, internet handle AVAEL debuts her ANGEL supersuit
+
+[Egwene thinks about Star Wars]({% post_url /femputermanchine/2018-04-09-death-of-the-jedi %})
+
+[Hermi is rebelling against judeochristian symbolism]({% post_url /femputermanchine/2018-04-15-angels-and-exaggerations %})
+
+[Tzu Prano overreaches and underdelivers]({% post_url /femputermanchine/2018-04-16-cartoon-families %})
+
+[Straud has good ideas but struggles with execution]({% post_url /femputermanchine/2015-11-29-install-eve-on-mint %})
+
+[AVAEL gets into stuff she couldn't know crap about]({% post_url /femputermanchine/2018-04-17-comic-relief-sexism %})
+
+[Svetl, dat u?]({% post_url /femputermanchine/2018-04-30-lol-form-list %})
+
+[Kirk tries to break into TV reviews but it hits too close to home]({% post_url /femputermanchine/2018-05-03-star-trek-disco-01-02 %})
+
+[Kevin tries to start the RPG to end RPGs]({% post_url /femputermanchine/2018-05-14-dreams-of-andromede %})
+
+[Hi Charlotte]({% post_url /femputermanchine/2019-09-12-fortnite-and-feminism %})
 
 (2019) Tu'vokk and Neelix bring the young child, called JunioR, to the Orphanarium and begin classes in practical magic
 
+[Kirk's TV is getting weird again]({% post_url /femputermanchine/2020-04-26-mccoy-and-the-dollhouse %})
+
 (2020) Kevin and Straud begin testing the Emergency Medical Hologram, or EMH
+
+[Tzu Prano and Diary Eight]({% post_url /femputermanchine/2020-04-27-tzuprano-0 %})
+
+[Cedric1.txt, by Kevin]({% post_url /femputermanchine/2020-04-29-cedric-1 %})
+
+[Wich Lich?]({% post_url /femputermanchine/2020-04-30-mccoy-iii %})
+
+[cedric2.txt, by Kevin]({% post_url /femputermanchine/2020-05-02-cedric-2 %})
+
+[kevin1.txt, by Kevin]({% post_url /femputermanchine/2020-05-05-kevin-1 %})
+
+['Cedric, the first vampire', a TVbeat by Cpt Kirk]({% post_url /femputermanchine/2020-05-07-cedric-4 %})
+
+[AVAEL tries her hand at 'e'mail]({% post_url /femputermanchine/2020-05-07-cedric-5 %})
 
 (2032) Queen Serenity begins the War on Fun after Caleb, Cedric, Lilith play a practical joke that she doesn't appreciate
 
@@ -253,29 +301,7 @@ _I performed some preliminary bookkeeping to graft some of the loners into the t
 ## PRECORRECTIONS ##
 _A number of corrections were made on this day to force adherence to meta._
 
-1. BJ Laura goes to Tzu Prano and date remains the same.
-2. ditto to EVE Online
-3. Mandarc created this while in captivity. PR 2017.
-4. Death of the Jedi is totes Egwene~
-5. Angels and Exaggerations goes to Hermi, bookwerm totes
-6. Disney's gotta stay in the house. Tzu Prano overreaches and underdelivers with 'cartoon families'
-7. Comic relief sexism too, yeech.
-8. Svetlana is the pro gamer so she made the character analysis on league
-9. Star Trek Discovery - gonna leave this one as is cuz Kirk has a funny TV...
-10. Kevin doesn't have access to his dnd books cuz he couldn't get them before leaving the homestead. he has to write a new rpg from memory.
-11. today's youth is from Granny Sepal going through drawers at the Goth residence. Prolly gonna stick with the 1990-1 startdate for Granny Sepal as governess to the Goths so let's change this one to 1992.
-12. fortnite goes to the girls too, sry
-13. The White Which in Paris, oh, say, 1912. Gone, simple eraser.
-14. Consent is the award winner in 1998
-15. McCoy and the Dollhouse is a creative retelling Kirk watches on TV. Date stays the same
-16. McCoy II is a scribble from '_the_ doctor' McCoy while a medical intern at The Institute 1976
-17. Tzu Prano thinks it's a good idea to publish her diaries on teh inets. yknow i aint tounchin that gone
-18. Cedric 1, Kevin tries again to make a screenplay obscuring 'what actually happened'. he gets frustrated that he can't write as easily as he used to, in what feels like the old days
-19. McCoy III thisn goes to which lich?
-20. Cedric II Kev, up in his attick on some harry potter bizniz
-21. Kvin I - i prefer this spelling of quarq, thx
-22. Cedric 4 - Kirk. Yes he watches a lot of television bite me
-23. Cedric 5 - Kevin, thinking about his time as a gardener
+
 24. Kevin 2 - Janeway's writing schlock for the Hex Files. PR 2020.
 
 
