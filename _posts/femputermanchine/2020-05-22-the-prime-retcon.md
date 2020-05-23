@@ -98,6 +98,8 @@ _I performed some preliminary bookkeeping to graft some of the loners into the t
 
 (1950) Straud replaces Avaelle's backbone with a graft from the World Tree - she renames herself Lisa.
 
+(*) May 23 - Straud writes down a story told by Lisa [strangely familiar]({% post_url /femputermanchine/1952-05-23-lisa %})
+
 (1953) Lisa founds the Institute of Artsenscience on Neurwest, an area created by fill dirt on the coast of Booklyn
 
 (1954) The First War ends when the Moon Princess descends and forces immediate ceasefire. She creates what she calls the Golden Rule, and what mankind calls the Great Truce: no man may harm another lest they be banned from rebirth in the Silver Millenium
@@ -115,6 +117,8 @@ _I performed some preliminary bookkeeping to graft some of the loners into the t
 (1965) Darien Endymion is kidnapped 
 
 (1966) Vanpyr Newton is cloned and kept at the Institute
+
+(1967) Straud spies Lisa's lab notebook and suspects [erraticism]({% post_url /femputermanchine/1967-05-23-lisa %})
 
 (1968) The Dax symbiote joins the Institute. Straud jokingly refers to this mistake as the British Inversion
 
@@ -138,7 +142,7 @@ _I performed some preliminary bookkeeping to graft some of the loners into the t
 
 (1977) McCoy found guilty of poisoning the popular Cadry Son brand of plasma packs, all claimed to have been QA tested through The Institute. The spread of poisoned plasma packs lead to the Great Culling, the death of some 90% of active vampyres, all male. The vampyres attempt to hide the bodies, but death rituals are lengthy procedures and they get backlogged. The bodies are being held in vampiric slumber by their masters while rites can be arranged, but when the bodies start to grow sporing mushrooms that make you sick, there is an immediate call to cease ritual in favor of asap cremation
 
-(1977) Mandarc looks over his records and suspects he is experiencing memory loss. He finds irrefutable evidence that Straud is his birth father and not Vincent Marscapone, as he had been told from childhood. Ezri Dax is not a true vampress, but an ancient carrion werm and its set of drones/werkers, all cast in human flesh. Unknown to Mandarc, Straud intended the two of them to marry to seal a peace deal with the aliens and their allies. Mandarc refuses to consummate the union, the werm goes into a rage and betrays her trueform. Mandarc kills her in retaliation, wounding the Dax neuralnet.
+(1977) Mandarc looks over [his records]({% post_url /femputermanchine/1977-12-26-mandarc %}) and suspects he is experiencing memory loss. He finds irrefutable evidence that Straud is his birth father and not Vincent Marscapone, as he had been told from childhood. Ezri Dax is not a true vampress, but an ancient carrion werm and its set of drones/werkers, all cast in human flesh. Unknown to Mandarc, Straud intended the two of them to marry to seal a peace deal with the aliens and their allies. Mandarc refuses to consummate the union, the werm goes into a rage and betrays her trueform. Mandarc kills her in retaliation, wounding the Dax neuralnet.
 
 (1978) The Unfortunate Discovery, wherein vampirism is made known to the masses. A rush on cremations of the poisoned vampire bodies that were largely undocumented was published by Jadzia Dax, who admitted to being wermkyn. The anniversary is called D Day or Discovery Day by layfolk. A common misconception is that it is the Dax Day.
 
@@ -156,6 +160,8 @@ _I performed some preliminary bookkeeping to graft some of the loners into the t
 
 (1983) Mandarc begins house arrest at Marscapone House
 
+(*) May 23 - excerpt from Jim's [notebook]({% post_url /femputermanchine/1983-05-23-jim %})
+
 (1984) A young vampire, Jim Lusk, sneaks on to the Oborovsky residence and steals from Svetlana Oborovsky's collection of trees from the Old World. 
 
 (1985) Norah Zhou is born to Summer Holiday and Dexter Zhou
@@ -170,7 +176,7 @@ _I performed some preliminary bookkeeping to graft some of the loners into the t
 
 (1988) Mandarc ends house arrest from Marscapone House
 
-(1988) Myrtle adopts Egwene Alvere
+(1988) Myrtle adopts [Egwene Alvere]({% post_url /femputermanchine/1988-05-23-egwene %})
 
 (1989) CPT Kathryn Janeway starts what others call a Wicca cult with werewolf symbology
 
@@ -180,13 +186,19 @@ _I performed some preliminary bookkeeping to graft some of the loners into the t
 
 (1990) Granny Sepal begins work as governess for the Goth children after Goth wife Bella's departure
 
+(*) May 23 - Granny Sepal hates [getting old]({% post_url /femputermanchine/1990-05-23-gsepal %})
+
 (1991) CPT Janeway finds Darien Endymion collapsed on the sidewalk outside her office. She takes him to an urgent care center where she insists he's the Moon Prince and he's been thrall, or bloodslave, to a vampire. The case goes viral and increases suspicion of vampyres violating the Final Truce. Darien has not aged, physically, and refuses to speak against the vampyres, insisting all Earthicans should band together against exploitation of any race, breed, or creed
+
+(*) May 23 - Darien watches a cartoon, [strangely familiar]({% post_url /femputermanchine/1991-05-23-darien %})
 
 (1991) Myrtle adopts a young redheaded girl that she refuses to give a name, startling the young acolytes.
 
 (1992) Lilith Vatore breaks contact with Caleb and sheltered by the ferener, Quark.
 
 (1992) Mandarc takes parole from public grant, largely from the outed vampire Dali to continue work on a bloodfood substitute. Dali goes by Dexter Zhou among vampyres and the location is colloquially known as Dexter's Lab. Mandarc thinks of his dog, Dexx, whom he lost some time ago. Kirk, Jadzia, form the staff. Lisa, Newton are here serving house arrest
+
+(*) May 23 - Mandarc finds, and makes, notes on [ezridax]({% post_url /femputermanchine/1992-05-23-ezridax %})
 
 (1992) Myrtle adopts Tzu Prano 
 
@@ -244,6 +256,8 @@ _I performed some preliminary bookkeeping to graft some of the loners into the t
 
 (2013) Junior O'Campa and Neelix move to the City with Tu'vokk.
 
+(*) May 23 - Cedric tries to level [comedy]({% post_url /femputermanchine/2013-05-23-cedric %}) but has to wait til tomorrow
+
 (2014) Straud abducts Kevin from the Magicademy
 
 [Tzu Prano's highschool final]({% post_url /femputermanchine/2015-08-13-BJ-Laura-1.0 %})
@@ -270,23 +284,59 @@ _I performed some preliminary bookkeeping to graft some of the loners into the t
 
 (2019) Tu'vokk and Neelix bring the young child, called JunioR, to the Orphanarium and begin classes in practical magic
 
+(*) December 12 - [Kirk]({% post_url /femputermanchine/2019-12-12-kirk %})
+
+(*) December 12 - [Mandarc]({% post_url /femputermanchine/2019-12-12-mandarc %})
+
+## TWENTY TWENTY ##
+
 [Kirk's TV is getting weird again]({% post_url /femputermanchine/2020-04-26-mccoy-and-the-dollhouse %})
 
-(2020) Kevin and Straud begin testing the Emergency Medical Hologram, or EMH
+(2020) Kevin and Straud begin testing the Emergency Medical Hologram, or [EMH]({% post_url /femputermanchine/2020-01-14-emh %})
 
-[Tzu Prano and Diary Eight]({% post_url /femputermanchine/2020-04-27-tzuprano-0 %})
+(*) [Cars and their teeth]({% post_url /femputermanchine/2020-02-16-cedric %})
 
-[Cedric1.txt, by Kevin]({% post_url /femputermanchine/2020-04-29-cedric-1 %})
+(*) [Tzu Prano and Diary Eight]({% post_url /femputermanchine/2020-04-27-tzuprano-0 %})
 
-[Wich Lich?]({% post_url /femputermanchine/2020-04-30-mccoy-iii %})
+(*) [Cedric1.txt, by Kevin]({% post_url /femputermanchine/2020-04-29-cedric-1 %})
 
-[cedric2.txt, by Kevin]({% post_url /femputermanchine/2020-05-02-cedric-2 %})
+(*) [Wich Lich?]({% post_url /femputermanchine/2020-04-30-mccoy-iii %})
 
-[kevin1.txt, by Kevin]({% post_url /femputermanchine/2020-05-05-kevin-1 %})
+(*) [cedric2.txt, by Kevin]({% post_url /femputermanchine/2020-05-02-cedric-2 %})
 
-['Cedric, the first vampire', a TVbeat by Cpt Kirk]({% post_url /femputermanchine/2020-05-07-cedric-4 %})
+(*) May 1 - Kev starts [the book]({% post_url /femputermanchine/2020-05-01-kevin %})
 
-[AVAEL tries her hand at 'e'mail]({% post_url /femputermanchine/2020-05-07-cedric-5 %})
+(*) May 2 - [the fire]({% post_url /femputermanchine/2020-05-02-kevin %})
+
+(*) [kevin1.txt, by Kevin]({% post_url /femputermanchine/2020-05-05-kevin-1 %})
+
+(*) ['Cedric, the first vampire', a TVbeat by Cpt Kirk]({% post_url /femputermanchine/2020-05-07-cedric-4 %})
+
+(*) [AVAEL tries her hand at 'e'mail]({% post_url /femputermanchine/2020-05-07-cedric-5 %})
+
+(*) May 10 - Kevin tries to stay, oh, ['positive']({% post_url /femputermanchine/2020-05-10-kevin %})
+
+(*) May 12 - Kevin thinks about [NYE]({% post_url /femputermanchine/2020-05-12-kevin %})
+
+(*) May 14 - Egwene hasn't told anyone else about [the videogame]({% post_url /femputermanchine/2020-05-14-egwene %})
+
+(*) May 15 - Egwene hangs up a [closeline]({% post_url /femputermanchine/2020-05-15-egwene %})
+
+(*) May 16 - Cedric wonders about the [Lost]({% post_url /femputermanchine/2020-05-16-cedric %})
+
+(*) May 16 - Bronald hangs [laundry]({% post_url /femputermanchine/2020-05-16-bronald %})
+
+(*) May 17 - Egwene fears the [absolution]({% post_url /femputermanchine/2020-05-17-egwene %})
+
+(*) May 18 - Kevin [observes]({% post_url /femputermanchine/2020-05-18-kevin %})
+
+(*) May 19 - Kevin thinks about the [dax]({% post_url /femputermanchine/2020-05-19-kevin %})
+
+(*) May 20 - Tzu Prano knows she'll forget things [tomorrow]({% post_url /femputermanchine/2020-05-20-tzuprano %})
+
+(*) May 20 - Kevin's notes are getting [complicated]({% post_url /femputermanchine/2020-05-20-kevin %})
+
+(*) May 21 - Straud makes some notes for [tomorrow]({% post_url /femputermanchine/2020-05-21-straud %})
 
 (2032) Queen Serenity begins the War on Fun after Caleb, Cedric, Lilith play a practical joke that she doesn't appreciate
 
@@ -299,10 +349,10 @@ _I performed some preliminary bookkeeping to graft some of the loners into the t
 <img src="{{ site.url }}/assets/img/primetimeline2020-3.jpg" />
 
 ## PRECORRECTIONS ##
-_A number of corrections were made on this day to force adherence to meta._
+_A number of [corrections]({% post_url /femputermanchine/2020-05-23-straud %}) were made on this day to force adherence to meta._
 
 
-24. Kevin 2 - Janeway's writing schlock for the Hex Files. PR 2020.
+24. Kevin 2 - Janeway's writing [schlock]({% post_url /femputermanchine/2020-05-23-y2k %}) for the Hex Files. PR 2020.
 
 
 *****
