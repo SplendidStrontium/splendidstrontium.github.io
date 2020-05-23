@@ -49,5 +49,5 @@ Norah -- well, she didn't say anything. She didn't cry, she just stared, kind of
 *****
 
 `linkout`
-[forward to McCoy II]({% post_url /femputermanchine/2020-04-27-mccoy-ii %})
+
 
