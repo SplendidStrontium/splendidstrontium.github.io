@@ -18,7 +18,7 @@ lastmod: 2020-05-27 20:02
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/pidge.jpg" class="chat-portrait" />
 <p class="ppl-sez">PIDGE-ADMIN//</p>
-<p class="ppl-sez">open chat @6:57 AM MAY27/2020</p>
+<p class="ppl-sez">open chat @6:57 PM MAY27/2020</p>
 </div>
 
 <div class="chat-box">
