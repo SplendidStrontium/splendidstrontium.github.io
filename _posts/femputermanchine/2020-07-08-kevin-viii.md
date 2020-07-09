@@ -133,7 +133,7 @@ lastmod: 2020-07-08 17:53
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/kev-increasesgame.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/goldbar.jpg" class="chat-portrait" />
 <p class="ppl-sez">KEVIN//</p>
 <p class="ppl-sez">what about</p>
 <p class="ppl-sez">MORT?????</p>
