@@ -1,0 +1,40 @@
+---
+layout: post
+title: Testing Jekyll
+---
+
+Hello. This is me exploring Jekyll as a blog platform.
+
+I like that everything is a text file.
+
+I like that it picks up files in the <tt>_posts</tt> folder automatically.
+
+I like that when hosting on Github there is nothing to run - it just all works magically.
+
+I like that you can write posts as either <tt>.md</tt> files or <tt>.html</tt>. Or embed bits of html in the markdown, as I'm doing here.
+
+I like that you can include javascript canvas elements:
+
+<canvas id="myCanvas" width="200" height="100" style="border:1px solid #d3d3d3;">
+Your browser does not support the HTML5 canvas tag.</canvas>
+
+<script>
+var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+ctx.beginPath();
+ctx.arc(95,50,40,0,2*Math.PI);
+ctx.stroke();
+</script>
+  
+I like that it knows about code syntax highlighting:
+
+{% highlight c++ %}
+#include <cstdlib>
+
+int main()
+{
+    return EXIT_SUCCESS;
+}
+{% endhighlight %}
+
+See the [source for this post here](https://raw.githubusercontent.com/timhutton/timhutton.github.io/master/_posts/2017-04-14-testing-jekyll.md)
