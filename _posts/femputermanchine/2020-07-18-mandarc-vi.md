@@ -16,3 +16,12 @@ lastmod: 2020-07-18 14:45
 *****
 
 <center><img src="{{ site.url }}/assets/img/mandarc-crisisoffaith.jpg"  /></center>
+
+
+*****
+<div class="fpmc-nav">
+
+<span class="fpmc-nav-prev"><a href="{{ 'mandarc-v' | prepend: site.baseurl }}">PREVIOUS</a></span>
+
+</div>
+*****
