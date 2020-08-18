@@ -156,3 +156,13 @@ All thought suddenly leaves this dreamscape as she snaps awake -- the targ reapp
 <center><i>Again the eye is uncov'r-èd,</i></center>
 
 <center><i>So riseth Aegwain(e).</i></center>
+
+<center>~</center>
+
+<div class="fpmc-nav">
+
+<span class="fpmc-nav-prev"><a href="{{ 'egwene-vi' | prepend: site.baseurl }}">PREVIOUS</a></span>
+
+<span class="fpmc-nav-next"><a href="{{ 'aegwain-viii' | prepend: site.baseurl }}">NEXT</a></span> 
+
+</div>
