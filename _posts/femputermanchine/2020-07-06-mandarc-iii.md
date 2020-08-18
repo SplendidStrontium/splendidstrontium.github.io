@@ -185,4 +185,11 @@ lastmod: 2020-07-06 18:34
 
 
 *****
-`linkout`
+<div class="fpmc-nav">
+
+<span class="fpmc-nav-prev"><a href="{{ 'mandarc-ii' | prepend: site.baseurl }}">PREVIOUS</a></span>
+
+<span class="fpmc-nav-next"><a href="{{ 'mandarc-iv' | prepend: site.baseurl }}">NEXT</a></span> 
+
+</div>
+*****

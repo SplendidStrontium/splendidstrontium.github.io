@@ -157,6 +157,8 @@ All thought suddenly leaves this dreamscape as she snaps awake -- the targ reapp
 
 <center><i>So riseth Aegwain(e).</i></center>
 
+<center>~</center>
+
 *****
 <div class="fpmc-nav">
 
