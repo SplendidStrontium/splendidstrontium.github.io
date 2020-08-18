@@ -88,6 +88,19 @@
 	text-align: center;
 } 
 
+.fpmc-nav{
+	border: 1px solid black;
+}
+
+.fpmc-nav-prev{
+	font-size: 1.4em;
+}
+
+.fpmc-nav-next{
+	float: right;
+	font-size: 1.4em;
+}
+
 @media (max-width: 600px){
 #wrapper {
     padding: 0;
