@@ -72,7 +72,12 @@ lastmod: 2020-05-24 15:30
 <p class="ppl-sez">close chat @3:57 PM MAY24/2020</p>
 </div>
 
-
-
 *****
-`linkout`
+<div class="fpmc-nav">
+
+<span class="fpmc-nav-prev"><a href="{{ 'kevin-vii' | prepend: site.baseurl }}">PREVIOUS</a></span>
+
+<span class="fpmc-nav-next"><a href="{{ 'kevin-viii' | prepend: site.baseurl }}">NEXT</a></span> 
+
+</div>
+*****
