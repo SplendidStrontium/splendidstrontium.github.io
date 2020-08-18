@@ -18,5 +18,12 @@ lastmod: 2020-05-23 13:42
 <img src="{{ site.url }}/assets/img/ca03.jpg" />
 
 
-*****
-`linkout`
+<center>~</center>
+
+<div class="fpmc-nav">
+
+<span class="fpmc-nav-prev"><a href="{{ 'egwene-ii' | prepend: site.baseurl }}">PREVIOUS</a></span>
+
+<span class="fpmc-nav-next"><a href="{{ 'egwene-iv' | prepend: site.baseurl }}">NEXT</a></span> 
+
+</div>
