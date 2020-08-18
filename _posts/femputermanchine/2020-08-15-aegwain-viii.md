@@ -118,3 +118,11 @@ THE MAGICADEMY IS DONE. MOTHER -- _OUR_ MOTHER -- IS NOT HERE.
 In a moment, the smell of tar is all that remains between the two young women.
 
 <center>~</center>
+
+<div class="fpmc-nav">
+
+<span class="fpmc-nav-prev"><a href="{{ 'aegwain-vii' | prepend: site.baseurl }}">PREVIOUS</a></span>
+
+<!--<span class="fpmc-nav-next"><a href="{{ 'aegwain-ix' | prepend: site.baseurl }}">NEXT</a></span> -->
+
+</div>
