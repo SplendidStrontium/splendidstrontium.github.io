@@ -242,7 +242,7 @@ lastmod: 2020-07-08 17:53
 
 <span class="fpmc-nav-prev"><a href="{{ 'kev-snags-fineus' | prepend: site.baseurl }}">PREVIOUS</a></span>
 
-<span class="fpmc-nav-next"><a href="{{ 'kevin-xi' | prepend: site.baseurl }}">NEXT</a></span> 
+<span class="fpmc-nav-next"><a href="{{ 'kevin-ix' | prepend: site.baseurl }}">NEXT</a></span> 
 
 </div>
 *****
