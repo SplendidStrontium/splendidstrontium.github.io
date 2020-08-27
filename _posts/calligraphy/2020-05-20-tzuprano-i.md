@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Tzu Prano"
-category: femputermanchine
+category: calligraphy
 date: 2020-05-20 14:38
 description: "exclamation points? gotta b"
-tags: []
+tags: [fpmc]
 published: true
 lastmod: 2020-05-23 14:39
 ---
