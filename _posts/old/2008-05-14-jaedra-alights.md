@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jaedra alights"
-category: femputermanchine
+category: old
 date: 2008-05-14 11:59
 description: "the typewriter!!!"
 tags: []

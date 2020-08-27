@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "L'Hopital penultimate"
-category: femputermanchine
+category: old
 date: 2013-12-24 15:38
 description: "CC: Contemporary Confusions"
 tags: []
