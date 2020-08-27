@@ -16,7 +16,8 @@ permalink: /archive/
 <div id="arch-list">
 {% for post in site.posts %}
 {% if post.url %}
-{% if post.category != "old", "calligraphy" %}
+{% if post.category != "old" %}
+{% if post.category != "calligraphy" %}
 
 
 	<li class="arch-post">
@@ -53,6 +54,7 @@ permalink: /archive/
 </span>
 	</li>
 	
+{% endif %}	
 {% endif %}	
 {% endif %}
 {% endfor %}
