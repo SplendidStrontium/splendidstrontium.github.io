@@ -11,10 +11,14 @@ permalink: /archive/
 </head>
 
 <body>
-<p>The archive is the list of most posts, listed chronologically. ♫♫ indicates that a post has open comments.</p>
+<p>The archive is the list of active posts listed chronologically. ♫♫ indicates that a post has open comments.</p>
 
 <div id="arch-list">
-{% for post in site.posts | where_exp:"post", "post.category != old" %}
+{% for post in site.posts %}
+{% if post.url %}
+{% if post.category != "old" %}
+
+
 	<li class="arch-post">
 	<div class="arch-link-box"><a class="arch-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
 	
@@ -48,7 +52,9 @@ permalink: /archive/
 
 </span>
 	</li>
-
+	
+{% endif %}	
+{% endif %}
 {% endfor %}
 </div>
 
