@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "MANDARC 006"
-category: femputermanchine
+category: calligraphy
 date: 2020-07-18 14:45
 description: "Newton and the crisis of Faith"
-tags: []
+tags: [fpmc]
 published: true
 lastmod: 2020-07-18 14:45
 ---
