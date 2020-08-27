@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transitions"
-category: femputermanchine
+category: old
 date: 2008-04-08 13:45
 description: "which Force isn't magic?"
 tags: []
