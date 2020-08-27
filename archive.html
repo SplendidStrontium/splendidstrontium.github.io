@@ -11,12 +11,12 @@ permalink: /archive/
 </head>
 
 <body>
-<p>The archive is the list of active posts listed chronologically. ♫♫ indicates that a post has open comments.</p>
+<p>The archive is the list of many active posts listed chronologically. ♫♫ indicates that a post has open comments.</p>
 
 <div id="arch-list">
 {% for post in site.posts %}
 {% if post.url %}
-{% if post.category != "old" %}
+{% if post.category != "old", "calligraphy" %}
 
 
 	<li class="arch-post">

@@ -2,7 +2,7 @@
 layout: post
 title: 	"Adding Comments to Jekyll Github-hosted blog with Github Issues"
 date:	2020-02-03 10:54
-category:	femputermanchine
+category:	updates
 tags:		[jekyll, github, how-to, comments] 
 description: 	"A summary of how I added comments to my Github-hosted blog; albeit by requiring people to use a Github-account to interact with the comment-page"
 comments_id:	"45"
