@@ -2,7 +2,7 @@
 layout: post
 title: 	"The Disappearing Male Role Model"
 date:	2018-04-17 14:36
-category:	femputermanchine
+category:	updates
 tags:		[cartoons, film, character-analysis] 
 description: 	"If men appear at all, they are too often cast as comic relief or doofuses"
 published: true
