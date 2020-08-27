@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mandarc"
-category: femputermanchine
+category: calligraphy
 date: 2019-12-12 15:05
 description: "his PhD was a long time ago"
 tags: []

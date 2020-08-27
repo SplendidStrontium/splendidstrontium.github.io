@@ -2,7 +2,7 @@
 layout: post
 title: 	"Angels and Exaggerations"
 date:	2018-04-15 21:30
-category:	femputermanchine
+category:	updates
 tags:		[wrinkle-in-time] 
 description: 	"A Wrinkle in Time showcases human exceptionalism in its heroine"
 published: true

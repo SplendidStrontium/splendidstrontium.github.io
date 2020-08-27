@@ -2,7 +2,7 @@
 layout: post
 title: 	"US Cartoon Family Structures"
 date:	2018-04-16 21:31
-category:	femputermanchine
+category:	updates
 tags:		[cartoons, character-analysis] 
 description: 	"Summary of cartoon family representation"
 published: true
