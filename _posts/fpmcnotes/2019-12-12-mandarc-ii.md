@@ -22,9 +22,6 @@ lastmod: 2020-05-23 15:05
 *****
 <div class="fpmc-nav">
 
-<span class="fpmc-nav-prev"><a href="{{ 'mandarc-i' | prepend: site.baseurl }}">PREVIOUS</a></span>
-
-<span class="fpmc-nav-next"><a href="{{ 'mandarc-iii' | prepend: site.baseurl }}">NEXT</a></span> 
 
 </div>
 *****
