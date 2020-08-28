@@ -7,6 +7,7 @@ description: "exclamation points? gotta b"
 tags: [fpmc]
 published: true
 lastmod: 2020-05-23 14:39
+thumbnail_id:	"00-098.jpg"
 ---
 
 *****
