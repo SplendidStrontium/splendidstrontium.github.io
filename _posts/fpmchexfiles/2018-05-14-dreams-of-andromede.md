@@ -2,7 +2,7 @@
 layout: post
 title: 	"Dreams of Andromede (incomplete)"
 date:	2018-05-14 16:25
-category:	femputermanchine
+category:	hexfiles
 tags:		[fantasy, cantrips] 
 description: 	"a list of ideas for small invocations"
 comments_id:	"49"
