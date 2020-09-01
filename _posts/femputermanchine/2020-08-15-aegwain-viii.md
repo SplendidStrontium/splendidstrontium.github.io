@@ -3,7 +3,7 @@ layout: post
 title: "Aegwain 008"
 date: 2020-08-15 12:37
 category: femputermanchine
-tags: []
+tags: [skit]
 description: "the End of the Magicademy"
 published: true
 lastmod:	2020-08-15 14:27

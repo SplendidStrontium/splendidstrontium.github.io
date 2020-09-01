@@ -3,7 +3,7 @@ layout: post
 title: "Aegwain 007"
 date: 2020-07-20 17:51
 category: femputermanchine
-tags: []
+tags: [skit]
 description: "afraid of the dark?"
 published: true
 lastmod:	2020-07-20 20:50

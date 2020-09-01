@@ -3,7 +3,7 @@ layout: post
 title: "A SpellList"
 date: 2020-08-15 16:37
 category: femputermanchine
-tags: []
+tags: [etc]
 description: "dreams of andromede"
 published: true
 lastmod:	2020-08-15 19:13
