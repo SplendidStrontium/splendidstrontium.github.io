@@ -15,46 +15,46 @@ lastmod: 2020-09-03 12:12
 
 *****
 
-You are my moonbeam
-parody of 
-you are my sunshine
-originally by the 
+You are my moonbeam<br/>
+parody of <br/>
+you are my sunshine<br/>
+originally by the <br/>
 pine ridge boys
 
-I had a day-mare, as I lay dozing
-a fevered vision of time gone by
-you were a doll, dear, and I a skel'ton
+I had a day-mare, as I lay dozing<br/>
+a fevered vision of time gone by<br/>
+you were a doll, dear, and I a skel'ton<br/>
 and I knew we both had died
 
 // chorus:
 
-you are my moonbeam, my only moonbeam
-you break my debuffs when times are blue
-i hope you'll see, girl, how much we need two
+you are my moonbeam, my only moonbeam<br/>
+you break my debuffs when times are blue<br/>
+i hope you'll see, girl, how much we need two<br/>
 please don't make my moonbeam askew
 
-a secret shared, girl, became a lover
-each morning bless-ed by your sweet kiss
-but now you're wishing to be my brother
+a secret shared, girl, became a lover<br/>
+each morning bless-ed by your sweet kiss<br/>
+but now you're wishing to be my brother<br/>
 lasting 'wake is no such bliss
 
 // chorus:
 
-you are my moonbeam, my only moonbeam
-you break my debuffs when times are blue
-i hope you'll see, girl, how much we need two
+you are my moonbeam, my only moonbeam<br/>
+you break my debuffs when times are blue<br/>
+i hope you'll see, girl, how much we need two<br/>
 please don't make my moonbeam askew
 
-your voice a chorus of fotons merry
-your gentle eying warms me so  
-but if your Talent, you leave behind you
+your voice a chorus of fotons merry<br/>
+your gentle eying warms me so<br/>
+but if your Talent, you leave behind you<br/>
 you'll regret it all some day 
 
 // chorus:
 
-you are my moonbeam, my only moonbeam
-you break my debuffs when times are blue
-i hope you'll see, girl, how much we need two
+you are my moonbeam, my only moonbeam<br/>
+you break my debuffs when times are blue<br/>
+i hope you'll see, girl, how much we need two<br/>
 please don't make my moonbeam askew
 
 *****
