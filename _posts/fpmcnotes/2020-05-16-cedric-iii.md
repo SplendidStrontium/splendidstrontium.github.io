@@ -7,7 +7,6 @@ description: "Egwene's Lament"
 tags: [fpmc]
 published: true
 lastmod: 2020-05-23 14:53
-thumbnail_id:	"00-107.jpg"
 ---
 
 *****
