@@ -31,7 +31,7 @@ and I knew we both had died
 you are my moonbeam, my only moonbeam<br/>
 you break my debuffs when times are blue<br/>
 i hope you'll see, girl, how much we need two<br/>
-please don't make my moonbeam askew
+please don't tilt my moonbeam askew
 
 a secret shared, girl, became a lover<br/>
 each morning bless-ed by your sweet kiss<br/>
@@ -43,7 +43,7 @@ lasting 'wake is no such bliss
 you are my moonbeam, my only moonbeam<br/>
 you break my debuffs when times are blue<br/>
 i hope you'll see, girl, how much we need two<br/>
-please don't make my moonbeam askew
+please don't tilt my moonbeam askew
 
 your voice a chorus of fotons merry<br/>
 your gentle eying warms me so<br/>
@@ -55,7 +55,7 @@ you'll regret it all some day
 you are my moonbeam, my only moonbeam<br/>
 you break my debuffs when times are blue<br/>
 i hope you'll see, girl, how much we need two<br/>
-please don't make my moonbeam askew
+please don't tilt my moonbeam askew
 
 *****
 <div class="fpmc-nav">
