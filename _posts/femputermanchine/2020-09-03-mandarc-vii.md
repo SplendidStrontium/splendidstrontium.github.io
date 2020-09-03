@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MANDARC 006"
+title: "MANDARC 007"
 category: femputermanchine
 date: 2020-09-03 12:12
 description: "to my Main Woman, the girl Friday Perkins"
