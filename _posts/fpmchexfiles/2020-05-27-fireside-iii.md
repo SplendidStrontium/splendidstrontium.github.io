@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fireside Chat 003"
-category: femputermanchine
+category: hexfiles
 date: 2020-05-27 18:24
 description: ""
 tags: []

@@ -2,7 +2,7 @@
 layout: post
 title: 	"Simple Eraser"
 date:	1912-02-08 13:41
-category:	calligraphy
+category:	fpmcnotes
 tags:		[fpmc] 
 description: 	"a treatise for deleting records"
 thumbnail_id:	"00-003.jpg"

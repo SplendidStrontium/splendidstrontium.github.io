@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Egwene"
-category: femputermanchine
+category: fpmcnotes
 date: 2020-05-15 13:42
 description: "it rained a lot this spring"
 tags: []

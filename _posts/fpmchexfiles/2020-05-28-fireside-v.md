@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fireside Chat 005"
-category: femputermanchine
+category: hexfiles
 date: 2020-05-28 09:29
 description: "plastics, undeath"
 tags: []
