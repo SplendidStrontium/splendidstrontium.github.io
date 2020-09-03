@@ -2,7 +2,7 @@
 layout: post
 title: 	"in Memoriam: the Hundred Schools of Thought"
 date:	2017-09-06 20:58	
-category:	calligraphy
+category:	fpmcnotes
 tags:		[on-this-day] 
 description: 	"a treatise against deleting records"
 published: true

@@ -2,7 +2,7 @@
 layout: poem
 title: 	"Be Quick, Be Clever"
 date:	2018-11-27 14:19
-category:	calligraphy
+category:	fpmcnotes
 tags:		[poem] 
 description: 	"ode to boy"
 published: true

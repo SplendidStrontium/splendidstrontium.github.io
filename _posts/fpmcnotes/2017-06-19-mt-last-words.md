@@ -2,7 +2,7 @@
 layout: post
 title: 	"in Memoriam: Mark Twain"
 date:	2017-06-19 11:18	
-category:	calligraphy
+category:	fpmcnotes
 tags:		[on-this-day] 
 description: 	"ancient American reflects; Last Words of Great Men"
 published: true

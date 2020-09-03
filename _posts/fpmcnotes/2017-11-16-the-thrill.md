@@ -2,7 +2,7 @@
 layout: post
 title: 	"the thrill"
 date:	2017-11-16 21:29
-category:	calligraphy
+category:	fpmcnotes
 tags:		[poem] 
 description: 	"cats can't spell"
 published: true

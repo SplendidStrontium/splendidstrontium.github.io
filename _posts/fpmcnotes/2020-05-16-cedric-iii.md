@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cedric"
-category: calligraphy
+category: fpmcnotes
 date: 2020-05-16 14:27
 description: "Egwene's Lament"
 tags: [fpmc]

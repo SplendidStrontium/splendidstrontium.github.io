@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fireside Chat 002"
-category: femputermanchine
+category: hexfiles
 date: 2020-05-26 11:42
 description: "jim lusk votes no"
 tags: []

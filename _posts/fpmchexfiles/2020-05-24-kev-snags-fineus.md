@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kevin charassign Fineus"
-category: femputermanchine
+category: hexfiles
 date: 2020-05-24 15:30
 description: "a proper dialogue"
 tags: []

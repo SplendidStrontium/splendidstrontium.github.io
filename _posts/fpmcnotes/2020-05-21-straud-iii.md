@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Straud"
-category: calligraphy
+category: fpmcnotes
 date: 2020-05-21 14:11
 description: "got a little fluffy, batty"
 thumbnail_id:	"00-088.jpg"

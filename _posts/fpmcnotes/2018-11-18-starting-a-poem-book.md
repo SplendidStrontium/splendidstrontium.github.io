@@ -2,7 +2,7 @@
 layout: poem
 title: 	"Poetry, from a youth"
 date:	2018-11-18 14:04
-category:	calligraphy
+category:	fpmcnotes
 tags:		[poem] 
 description: 	"I think we are even dumber now!"
 thumbnail_id:	"00-006.jpg"

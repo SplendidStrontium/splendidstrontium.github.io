@@ -1,8 +1,8 @@
 ---
 layout: calligraphy
-title: "Calligraphy"
+title: "FPMC Notes"
 menu: main
-permalink: /calligraphy/ 
+permalink: /fpmcnotes/ 
 ---
 
 <html>
@@ -16,7 +16,7 @@ permalink: /calligraphy/
 <div id="callig-list">
 {% for post in site.posts %}
 	{% if post.url %}
-		{% if post.category == "calligraphy" %}
+		{% if post.category == "fpmcnotes" %}
 					<li class="callig-post">
 					<div class="callig-link-box"><a class="callig-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
 

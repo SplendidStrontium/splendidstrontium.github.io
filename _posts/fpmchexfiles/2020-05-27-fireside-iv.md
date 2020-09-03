@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fireside Chat 004"
-category: femputermanchine
+category: hexfiles
 date: 2020-05-27 20:27
 description: "the guestbook fiasco"
 tags: []
