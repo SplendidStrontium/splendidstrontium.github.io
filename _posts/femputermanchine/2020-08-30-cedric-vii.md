@@ -68,9 +68,9 @@ A flip, a few button presses, and the alarm is silenced. He grimaces, if only sl
 *****
 <div class="fpmc-nav">
 
-<!--<span class="fpmc-nav-prev"><a href="{{ 'goth-i' | prepend: site.baseurl }}">PREVIOUS</a></span> -->
+<span class="fpmc-nav-prev"><a href="{{ 'cedric-vi' | prepend: site.baseurl }}">PREVIOUS</a></span> 
 
-<!--<span class="fpmc-nav-next"><a href="{{ 'aegwain-ix' | prepend: site.baseurl }}">NEXT</a></span> --> 
+<span class="fpmc-nav-next"><a href="{{ 'cedric-viii' | prepend: site.baseurl }}">NEXT</a></span> 
 
 
 
