@@ -99,9 +99,9 @@ lastmod:	2020-09-10 21:16
 *****
 <div class="fpmc-nav">
 
-<!--<span class="fpmc-nav-prev"><a href="{{ 'goth-i' | prepend: site.baseurl }}">PREVIOUS</a></span> -->
+<span class="fpmc-nav-prev"><a href="{{ 'cedric-vii' | prepend: site.baseurl }}">PREVIOUS</a></span> 
 
-<!--<span class="fpmc-nav-next"><a href="{{ 'aegwain-ix' | prepend: site.baseurl }}">NEXT</a></span> --> 
+<span class="fpmc-nav-next"><a href="{{ 'kevin-xi' | prepend: site.baseurl }}">NEXT</a></span> 
 
 
 
