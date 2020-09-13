@@ -4,7 +4,7 @@ title: "MANDARC 008"
 category: femputermanchine
 date: 2020-09-05 18:15
 description: "from an Elder to a Younger"
-tags: [pm]
+tags: [pm, fpmcmain-mandarc]
 published: true
 lastmod: 2020-09-05 18:47
 ---
