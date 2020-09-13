@@ -3,7 +3,7 @@ layout: post
 title: "CEDRIC 007"
 date: 2020-09-01 09:15
 category: femputermanchine
-tags: [skit]
+tags: [skit, fpmcmain-cedric]
 description: "the leash"
 published: true
 lastmod:	2020-09-01 18:46
