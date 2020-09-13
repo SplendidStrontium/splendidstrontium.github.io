@@ -129,6 +129,44 @@ permalink: /femputermanchine/
     {% endfor %}
 </ul>
 
+<h2> KEVIN </h2>
+
+<ul>
+	{% for post in site.posts %}
+        {% if post.url %}
+			{% if post.tags contains "fpmcmain-kevin" %}
+
+		        <li class="hm-post">
+				<div class="hm-link-box"><a class="hm-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+
+				<div class="hm-desc">
+					{{post.description}}
+				</div>
+
+		
+				<span class="hm-date">
+				<span id="dayname-cn">
+				{% assign day = post.date | date: "%w" %}
+				{% case day %}
+				{% when '0' %}周日
+				{% when '1' %}周一
+				{% when '2' %}周二
+				{% when '3' %}周三
+				{% when '4' %}周四
+				{% when '5' %}周五
+				{% else %}周六
+				{% endcase %}</span>
+
+				{{post.date | date: "%d %b, %Y"}}</span></li>
+
+
+			{% else %}	
+			{% endif %}
+		{% else %}
+        {% endif %}
+    {% endfor %}
+</ul>
+
 <h2> END LIST BY BOOK </h2>
 
 <hr>
