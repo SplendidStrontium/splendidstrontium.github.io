@@ -4,7 +4,7 @@ title: "Myrtle 003"
 category: femputermanchine
 date: 2020-09-02 07:19
 description: "rollcall, checkin, firstcastlist, or whatever"
-tags: [fireside]
+tags: [fireside, fpmcmain-myrtle]
 published: true
 lastmod: 2020-09-02 09:07
 ---
