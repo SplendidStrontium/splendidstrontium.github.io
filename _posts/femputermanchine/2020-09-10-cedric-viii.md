@@ -3,7 +3,7 @@ layout: post
 title: "CEDRIC 008"
 date: 2020-09-10 13:12
 category: femputermanchine
-tags: [skit]
+tags: [skit, fpmcmain-cedric]
 description: "the ringtone"
 published: true
 lastmod:	2020-09-10 21:16
