@@ -15,7 +15,7 @@ permalink: /femputermanchine/
 
 <p id="hm-intro">FemputerManchine is a webnovel-type-thing. Please start reading wherever.</p>
 
-## AVAEL ##
+<h2> AVAEL </h2>
 
 <ul>
 	{% for post in site.posts %}
