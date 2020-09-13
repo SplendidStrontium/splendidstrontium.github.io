@@ -4,7 +4,7 @@ title: "MANDARC 007"
 category: femputermanchine
 date: 2020-09-03 12:12
 description: "to my Main Woman, the girl Friday Perkins"
-tags: [etc]
+tags: [etc, fpmcmain-mandarc]
 published: true
 lastmod: 2020-09-03 12:12
 ---

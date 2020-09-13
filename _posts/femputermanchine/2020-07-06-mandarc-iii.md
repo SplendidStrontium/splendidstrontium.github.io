@@ -4,7 +4,7 @@ title: "Mandarc 003"
 category: femputermanchine
 date: 2020-07-06 18:34
 description: "ATTN@MANDARC : W.T.F."
-tags: []
+tags: [fpmcmain-mandarc]
 published: true
 lastmod: 2020-07-06 18:34
 ---
