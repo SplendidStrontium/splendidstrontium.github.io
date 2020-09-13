@@ -20,7 +20,7 @@ permalink: /femputermanchine/
 <ul>
 	{% for post in site.posts %}
         {% if post.url %}
-			{% if post.tags contains "fpmcmain-avael"}
+			{% if post.tags contains "fpmcmain-avael" %}
 
 		        <li class="hm-post">
 				<div class="hm-link-box"><a class="hm-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
