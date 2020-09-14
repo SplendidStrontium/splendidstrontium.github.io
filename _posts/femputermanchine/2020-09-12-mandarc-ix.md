@@ -3,7 +3,7 @@ layout: post
 title: "MANDARC 009"
 category: femputermanchine
 date: 2020-09-12 14:16
-description: ""
+description: "PM@CEDRIC (before the holdup)"
 tags: [pm, dreams, fpmcmain-mandarc]
 published: true
 lastmod: 2020-09-12 15:24
