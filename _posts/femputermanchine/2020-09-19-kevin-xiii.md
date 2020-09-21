@@ -3,10 +3,10 @@ layout: post
 title: "KEVIN 013"
 category: femputermanchine
 date: 2020-09-19 09:23
-description: ""
+description: "the bully hates competition"
 tags: [skit, fpmcmain-kevin]
 published: true
-lastmod: 2020-09-19 09:23
+lastmod: 2020-09-21 12:17
 ---
 [//]: # ( 9/19/20  -added)
 
