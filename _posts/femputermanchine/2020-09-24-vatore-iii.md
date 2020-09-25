@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "VATORE 002"
+title: "VATORE 003"
 category: femputermanchine
-date: 2020-09-21 12:23
-description: "Caleb has guilty drinker trait"
+date: 2020-09-24 12:23
+description: "Lilith in Quarq's car"
 tags: [skit, fpmcmain-vatore]
 published: true
-lastmod: 2020-09-21 12:23
+lastmod: 2020-09-24 20:11
 ---
-[//]: # ( 9/21/20  -added)
+[//]: # ( 9/24/20  -added)
 
 ## // OPEN VISUAL : ##
 
