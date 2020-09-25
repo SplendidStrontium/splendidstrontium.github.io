@@ -30,7 +30,7 @@ lastmod: 2020-09-24 20:11
 
 ### QUARQ ###
 
-> JUST 'VATORE', EH? IT DOESN'T MAKE YOU THINK OF YOUR FATHER?
+> JUST 'VATORE', EH? BUT DOESN'T MAKE YOU THINK OF YOUR FATHER?
 
 ### LILITH ###
 
@@ -54,7 +54,7 @@ lastmod: 2020-09-24 20:11
 
 > SHE WORSHIPS A DEAD ROCK, OF COURSE SHE'S DELUSIONAL.
 
-<I>LILITH leaves the car in awkward silence before resuming the conversation.</i>
+<I>LILITH leaves the company in awkward silence before resuming the conversation.</i>
 
 ### LILITH ### 
 
@@ -84,7 +84,7 @@ lastmod: 2020-09-24 20:11
 
 ### LILITH ### 
 
-(interrupting) YES I GET THE POINT.
+> (interrupting) YES I GET THE POINT.
 
 ### QUARQ ###
 
