@@ -78,7 +78,7 @@ lastmod: 2020-09-27 10:20
 
 > ONE MORE.
 
-<I>In a moment, a second cup of coffee is wafting warming scent over the table. Two laminated menus sit across from each other. PERKINS looks longingly at the empty seat when she hears the dinging of the door's bell. It's WEASLIE. He sits down opposite from her and pushes the coffee into a convenient position. </i>
+<I>In a moment, a second cup of coffee is wafting warm scent over the table. Two laminated menus sit across from each other. PERKINS looks longingly at the empty seat when she hears the dinging of the door's bell. It's WEASLIE returning. He sits down opposite from her and pushes the coffee into a convenient position. </i>
 
 ### WEASLIE ###
 
@@ -88,7 +88,7 @@ lastmod: 2020-09-27 10:20
 
 > SURE.
 
-<I>Cold air blasts them as they step outside again. WEASLIE is protected in his riding jacket but PERKINS is a little less protected; she is wearing a cheap plastic coat they picked up at a department store on the way out of town. Potions can protect a sorceress from many things but not the road's flying detritus.</i>
+<I>Cold air blasts them as they step outside again. WEASLIE is protected in his leather riding jacket but PERKINS is a little less protected; she is wearing a cheap plastic coat they picked up at a department store on the way out of town. Potions can protect a sorceress from many things but not the road's flying detritus.</i>
 
 <i>'FSSS...' A new lighter flashes to life and the pair are sharing a moment. </i>
 
