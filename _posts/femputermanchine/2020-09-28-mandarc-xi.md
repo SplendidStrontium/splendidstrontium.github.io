@@ -281,12 +281,9 @@ lastmod: 2020-09-28 19:39
 
 <span class="fpmc-nav-prev"><a href="{{ 'perkins-i' | prepend: site.baseurl }}">PREVIOUS</a></span> 
 
-<!--<span class="fpmc-nav-next"><a href="{{ 'aegwain-ix' | prepend: site.baseurl }}">NEXT</a></span> --> 
-
+<span class="fpmc-nav-next"><a href="{{ 'cedric-x' | prepend: site.baseurl }}">NEXT</a></span>
 
 
 </div>
 *****
-
-
 
