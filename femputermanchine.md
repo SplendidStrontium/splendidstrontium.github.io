@@ -53,6 +53,8 @@ permalink: /femputermanchine/
     {% endfor %}
 </ul>
 
+<hr>
+
 <h2> CEDRIC </h2>
 
 <ul>
@@ -90,6 +92,8 @@ permalink: /femputermanchine/
         {% endif %}
     {% endfor %}
 </ul>
+
+<hr>
 
 <h2> GOTH </h2>
 
@@ -129,6 +133,8 @@ permalink: /femputermanchine/
     {% endfor %}
 </ul>
 
+<hr>
+
 <h2> KEVIN </h2>
 
 <ul>
@@ -166,6 +172,8 @@ permalink: /femputermanchine/
         {% endif %}
     {% endfor %}
 </ul>
+
+<hr>
 
 <h2> MANDARC </h2>
 
@@ -205,6 +213,8 @@ permalink: /femputermanchine/
     {% endfor %}
 </ul>
 
+<hr>
+
 <h2> McCOY </h2>
 
 <ul>
@@ -242,6 +252,8 @@ permalink: /femputermanchine/
         {% endif %}
     {% endfor %}
 </ul>
+
+<hr>
 
 <h2> MYRTLE </h2>
 
@@ -281,6 +293,8 @@ permalink: /femputermanchine/
     {% endfor %}
 </ul>
 
+<hr>
+
 <h2> PERKINS </h2>
 
 <ul>
@@ -318,6 +332,8 @@ permalink: /femputermanchine/
         {% endif %}
     {% endfor %}
 </ul>
+
+<hr>
 
 <h2> TZU </h2>
 
@@ -357,6 +373,8 @@ permalink: /femputermanchine/
     {% endfor %}
 </ul>
 
+<hr>
+
 <h2> VATORE </h2>
 
 <ul>
@@ -394,6 +412,8 @@ permalink: /femputermanchine/
         {% endif %}
     {% endfor %}
 </ul>
+
+<hr>
 
 <h2> WEASLIE </h2>
 
@@ -433,6 +453,7 @@ permalink: /femputermanchine/
     {% endfor %}
 </ul>
 
+<hr>
 
 <h2> END LIST BY BOOK </h2>
 
