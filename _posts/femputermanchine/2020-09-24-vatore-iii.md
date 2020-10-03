@@ -108,7 +108,7 @@ lastmod: 2020-09-24 20:11
 
 <span class="fpmc-nav-prev"><a href="{{ 'vatore-i' | prepend: site.baseurl }}">PREVIOUS</a></span> 
 
-<!--<span class="fpmc-nav-next"><a href="{{ 'aegwain-ix' | prepend: site.baseurl }}">NEXT</a></span> --> 
+<span class="fpmc-nav-next"><a href="{{ 'vatore-iv' | prepend: site.baseurl }}">NEXT</a></span> 
 
 
 
