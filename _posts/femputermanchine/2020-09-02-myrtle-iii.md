@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Myrtle 003"
+title: "MYRTLE 003"
 category: femputermanchine
 date: 2020-09-02 07:19
 description: "rollcall, checkin, firstcastlist, or whatever"
