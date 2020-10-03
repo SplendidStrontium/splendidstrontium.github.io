@@ -35,7 +35,7 @@
     background-color: #bbb;
 	width: 65%;
 	margin-top: 0.2em;
-	margin-bottom: 2.2em;
+	margin-bottom: 1.5em;
 	padding-left: 1.4em;
 	padding-right: 0.4em;
 }
@@ -45,7 +45,7 @@
     font-size: 1.1em;
 	color: #666;
 	position: absolute;
-    left: 16em;
+    left: 13em;
     top: 1.3em;
     text-align: right;
 }
