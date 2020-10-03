@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: femputermanchine
 title: "FP & MC"
 menu: main
 permalink: /femputermanchine/ 
@@ -22,15 +22,15 @@ permalink: /femputermanchine/
         {% if post.url %}
 			{% if post.tags contains "fpmcmain-avael" %}
 
-		        <li class="hm-post">
-				<div class="hm-link-box"><a class="hm-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+		        <li class="fpmc-post">
+				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
 
-				<div class="hm-desc">
+				<div class="fpmc-desc">
 					{{post.description}}
 				</div>
 
 		
-				<span class="hm-date">
+				<span class="fpmc-date">
 				<span id="dayname-cn">
 				{% assign day = post.date | date: "%w" %}
 				{% case day %}
@@ -62,15 +62,15 @@ permalink: /femputermanchine/
         {% if post.url %}
 			{% if post.tags contains "fpmcmain-cedric" %}
 
-		        <li class="hm-post">
-				<div class="hm-link-box"><a class="hm-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+		        <li class="fpmc-post">
+				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
 
-				<div class="hm-desc">
+				<div class="fpmc-desc">
 					{{post.description}}
 				</div>
 
 		
-				<span class="hm-date">
+				<span class="fpmc-date">
 				<span id="dayname-cn">
 				{% assign day = post.date | date: "%w" %}
 				{% case day %}
@@ -102,15 +102,15 @@ permalink: /femputermanchine/
         {% if post.url %}
 			{% if post.tags contains "fpmcmain-goth" %}
 
-		        <li class="hm-post">
-				<div class="hm-link-box"><a class="hm-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+		        <li class="fpmc-post">
+				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
 
-				<div class="hm-desc">
+				<div class="fpmc-desc">
 					{{post.description}}
 				</div>
 
 		
-				<span class="hm-date">
+				<span class="fpmc-date">
 				<span id="dayname-cn">
 				{% assign day = post.date | date: "%w" %}
 				{% case day %}
@@ -142,15 +142,15 @@ permalink: /femputermanchine/
         {% if post.url %}
 			{% if post.tags contains "fpmcmain-kevin" %}
 
-		        <li class="hm-post">
-				<div class="hm-link-box"><a class="hm-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+		        <li class="fpmc-post">
+				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
 
-				<div class="hm-desc">
+				<div class="fpmc-desc">
 					{{post.description}}
 				</div>
 
 		
-				<span class="hm-date">
+				<span class="fpmc-date">
 				<span id="dayname-cn">
 				{% assign day = post.date | date: "%w" %}
 				{% case day %}
@@ -182,15 +182,15 @@ permalink: /femputermanchine/
         {% if post.url %}
 			{% if post.tags contains "fpmcmain-mandarc" %}
 
-		        <li class="hm-post">
-				<div class="hm-link-box"><a class="hm-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+		        <li class="fpmc-post">
+				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
 
-				<div class="hm-desc">
+				<div class="fpmc-desc">
 					{{post.description}}
 				</div>
 
 		
-				<span class="hm-date">
+				<span class="fpmc-date">
 				<span id="dayname-cn">
 				{% assign day = post.date | date: "%w" %}
 				{% case day %}
@@ -222,15 +222,15 @@ permalink: /femputermanchine/
         {% if post.url %}
 			{% if post.tags contains "fpmcmain-mccoy" %}
 
-		        <li class="hm-post">
-				<div class="hm-link-box"><a class="hm-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+		        <li class="fpmc-post">
+				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
 
-				<div class="hm-desc">
+				<div class="fpmc-desc">
 					{{post.description}}
 				</div>
 
 		
-				<span class="hm-date">
+				<span class="fpmc-date">
 				<span id="dayname-cn">
 				{% assign day = post.date | date: "%w" %}
 				{% case day %}
@@ -262,15 +262,15 @@ permalink: /femputermanchine/
         {% if post.url %}
 			{% if post.tags contains "fpmcmain-myrtle" %}
 
-		        <li class="hm-post">
-				<div class="hm-link-box"><a class="hm-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+		        <li class="fpmc-post">
+				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
 
-				<div class="hm-desc">
+				<div class="fpmc-desc">
 					{{post.description}}
 				</div>
 
 		
-				<span class="hm-date">
+				<span class="fpmc-date">
 				<span id="dayname-cn">
 				{% assign day = post.date | date: "%w" %}
 				{% case day %}
@@ -302,15 +302,15 @@ permalink: /femputermanchine/
         {% if post.url %}
 			{% if post.tags contains "fpmcmain-perkins" %}
 
-		        <li class="hm-post">
-				<div class="hm-link-box"><a class="hm-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+		        <li class="fpmc-post">
+				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
 
-				<div class="hm-desc">
+				<div class="fpmc-desc">
 					{{post.description}}
 				</div>
 
 		
-				<span class="hm-date">
+				<span class="fpmc-date">
 				<span id="dayname-cn">
 				{% assign day = post.date | date: "%w" %}
 				{% case day %}
@@ -342,15 +342,15 @@ permalink: /femputermanchine/
         {% if post.url %}
 			{% if post.tags contains "fpmcmain-tzu" %}
 
-		        <li class="hm-post">
-				<div class="hm-link-box"><a class="hm-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+		        <li class="fpmc-post">
+				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
 
-				<div class="hm-desc">
+				<div class="fpmc-desc">
 					{{post.description}}
 				</div>
 
 		
-				<span class="hm-date">
+				<span class="fpmc-date">
 				<span id="dayname-cn">
 				{% assign day = post.date | date: "%w" %}
 				{% case day %}
@@ -382,15 +382,15 @@ permalink: /femputermanchine/
         {% if post.url %}
 			{% if post.tags contains "fpmcmain-vatore" %}
 
-		        <li class="hm-post">
-				<div class="hm-link-box"><a class="hm-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+		        <li class="fpmc-post">
+				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
 
-				<div class="hm-desc">
+				<div class="fpmc-desc">
 					{{post.description}}
 				</div>
 
 		
-				<span class="hm-date">
+				<span class="fpmc-date">
 				<span id="dayname-cn">
 				{% assign day = post.date | date: "%w" %}
 				{% case day %}
@@ -422,15 +422,15 @@ permalink: /femputermanchine/
         {% if post.url %}
 			{% if post.tags contains "fpmcmain-weaslie" %}
 
-		        <li class="hm-post">
-				<div class="hm-link-box"><a class="hm-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+		        <li class="fpmc-post">
+				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
 
-				<div class="hm-desc">
+				<div class="fpmc-desc">
 					{{post.description}}
 				</div>
 
 		
-				<span class="hm-date">
+				<span class="fpmc-date">
 				<span id="dayname-cn">
 				{% assign day = post.date | date: "%w" %}
 				{% case day %}
@@ -467,15 +467,15 @@ permalink: /femputermanchine/
         {% if post.url %}
 			{% if post.category == "femputermanchine" %}
 
-		        <li class="hm-post">
-				<div class="hm-link-box"><a class="hm-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+		        <li class="fpmc-post">
+				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
 
-				<div class="hm-desc">
+				<div class="fpmc-desc">
 					{{post.description}}
 				</div>
 
 		
-				<span class="hm-date">
+				<span class="fpmc-date">
 				<span id="dayname-cn">
 				{% assign day = post.date | date: "%w" %}
 				{% case day %}
