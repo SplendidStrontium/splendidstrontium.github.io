@@ -3,10 +3,10 @@ layout: post
 title: "MANDARC 012"
 category: femputermanchine
 date: 2020-11-02 15:13
-description: ""
+description: "in which Mandarc receives word that Minerva Charm has passed on and arrives at Cedric's townhome"
 tags: [skit, fpmcmain-mandarc]
 published: true
-lastmod: 2020-11-02 15:13
+lastmod: 2020-11-02 20:01
 ---
 [//]: # ( 11/02/20  -added)
 
