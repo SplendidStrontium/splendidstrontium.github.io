@@ -248,7 +248,7 @@ lastmod: 2020-11-30 14:38
 
 <i>She claws at the condensation, but the mirror remains foggy. She can't see her own reflection. Her heart drops in shock.</i>
 
-<i>She steps toward the mirror, in an attempt to wipe the water away, but the floor is surprisingly icey. She stumbles, slipping. She grasps toward the sink edge, but it too, is icey. Time seems to slow as she falls. Her balance lost, her head tilts backwards and her body twists out from under her.</i>
+<i>She steps toward the mirror, in an attempt to wipe the water away, but the floor is surprisingly icy. She stumbles, slipping. She grasps toward the sink edge, but it too, is icy. Time seems to slow as she falls. Her balance lost, her head tilts backwards and her body twists out from under her.</i>
 
 <i>But she is in an instant captured by a chair of shiny translucent ice. The shower curtain flings back to reveal MYRTLE, fully clothed and surrounded by the warm comfort of steam. Her hair has darkened to a deep brown and hangs dark about her face.</i>
 
