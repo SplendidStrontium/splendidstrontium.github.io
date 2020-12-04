@@ -6,7 +6,7 @@ date: 2020-12-04 13:14
 description: "in which Cedric revels in his recent eviction of Perkins"
 tags: [skit, fpmcmain-cedric]
 published: true
-lastmod: 2020-12-04 13:14
+lastmod: 2020-12-04 14:30
 ---
 [//]: # ( 12/04/20  -added)
 
