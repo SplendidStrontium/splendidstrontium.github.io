@@ -16,11 +16,13 @@ lastmod: 2020-03-02 15:37
 
 <i>It has been a cold winter in the suburbs of New York City. Clumps of dirty snow still cling to shelter underneath bushes and around neglected cars. MYRTLE MARSCAPONE, an elderly sorceress, sits in the living room of the pink home she's dubbed 'RINDLE ROSE'.</i>
 
-<i>She came here months ago, quietly thinking of it as her retirement home. All but abandoning her studies, she fled from the hustle, willingly accepting the despair that even if she were able to develop her Potion of Immortality, she'd be stuck as an ageless old woman for the rest of days.</i>
+<i>She came here months ago, quietly thinking of it as her retirement home. All but abandoning her studies, she fled from the hustle, willingly accepting the despair that even if she were able to develop her elusive Potion of Immortality, she'd be stuck as an old woman for the rest of days.</i>
 
-<i>Some kind of Judge Judy blares from the television, but MYRTLE's attention wanes as she looks toward a small drawing on the wall.</i>
+<i>Some kind of 'Judge Judy' blares from the television, but MYRTLE's attention wanes as she looks toward a small drawing on the wall.</i>
 
 <i>It depicts MYRTLE just weeks after accepting the name MARSCAPONE from her 'deceased' husband. MYRTLE is dressed in a white wedding gown, lace collar set delicately about her thin neck. To her left is the man VINCENT MARSCAPONE. MYRTLE wears a wan smile, her dark hair drawn up and tied over her head. VINCENT is humorless, but exudes a tender peacefulness next to his young bride.</i>
+
+<i>A moment of silence.</i>
 
 ### MANDARC ###
 
@@ -30,21 +32,21 @@ lastmod: 2020-03-02 15:37
 
 ### MYRTLE ###
 
-> (pause) WAS.
+> (pause) 'WAS'.
 
 <i>The silent stutter of someone who fears he's put his foot in his mouth.</i>
 
 ### MANDARC ###
 
-> I... I DIDN'T MEAN IT THAT WAY. 
+> I... I DIDN'T MEAN IT... THAT WAY. 
 
 ### MYRTLE ###
 
-> ... BACK BEFORE MY HAIR GREYED. BACK BEFORE I BURIED MYSELF IN THE BOTTLE.
+> -- BACK BEFORE MY HAIR GREYED. BACK BEFORE I BURIED MYSELF IN THE BOTTLE.
 
 <I>Shortly after her retirement to RINDLE ROSE, she had decided to start dying her hair.</i>
 
-<i>She'd decided to use non-magical methods. The aisle of faces had become her friend, each promising to bring revitalization at the low price of a single day of acrid stench.</i>
+<i>She'd opted to use non-magical methods. The aisle of faces at the drug store had become her friend, each box promising to bring revitalization at the low low price of a single day of acrid stench.</i>
 
 <i>But when the grey would start to creep itself again into her temples, she'd stumble back into the crowd of young women with their lucious locks and spend an inordinate amount of time trying to decide whether she should buy the same bottle or try something new.</i>
 
@@ -64,7 +66,7 @@ lastmod: 2020-03-02 15:37
 
 ### MANDARC ###
 
-> THERE'S SOME OF THE CHEAP BRANDY I GOT --
+> THERE'S... UH. SOME OF THE CHEAP BRANDY I GOT --
 
 ### MYRTLE ###
 
@@ -74,7 +76,7 @@ lastmod: 2020-03-02 15:37
 
 <i>The bronze liquid gurgles gently from its container.</i>
 
-<i>MANDARC finishes the glass with a splash of boiled water from the tea kettle.</i>
+<i>MANDARC finishes the glass with a splash of boiled water from the tea kettle, now left to room temperature.</i>
 
 ### MANDARC ### 
 
@@ -100,13 +102,15 @@ lastmod: 2020-03-02 15:37
 
 > NEITHER DO I BUT... I THOUGHT I'D GIVE YOU SOME SPACE.
 
-<I>MANDARC sets the glass down atop a cork coaster on the low-set table in front of MYRTLE. He leaves the room and opens the door to the back right bedroom. MYRTLE hears the window's familiar scrape and she knows that he's left the house.</I>
+<I>MANDARC sets the glass down atop a cork coaster on the low-set table in front of MYRTLE. He leaves the room and opens the door to the back right bedroom. MYRTLE hears the window's familiar scrape and knows that he's left the house.</I>
+
+<center>~</center>
 
 *****
 
-<i>Soon, the glass of brandy is empty, the sides dripping into a tiny puddle at the bottom. Her cigarette is waning, lingering unwanted in her right hand. Its buzz flutters away, her sad realization that it doesn't provide the respite it once did.</i>
+<i>Soon, the glass of brandy is empty, the sides dripping into a tiny puddle at the bottom. Her cigarette is waning, lingering unwanted in her right hand. Its buzz flutters away, leaving the sad realization that it doesn't provide the respite it once did.</i>
 
-<i>MYRTLE picks up the cigarette and crushes the embers against the bottom of her black melamine ashtray. It sizzles, releasing its last wisps of smoke into the air.</i> 
+<i>MYRTLE picks up the cigarette and presses the embers against the bottom of her black melamine ashtray. The cigarette sizzles, releasing its last wisps of smoke into the air.</i> 
 
 <i>Her recognition of the crumbled filter fades when she hears KEVIN's car drive up and crush frozen snow beneath its weight. The motor whirrs as he shifts gears to parallel park in front of the sidewalk. MYRTLE spies the last brandy collecting in the bottom of her cup and takes one last swig.</i>
 
@@ -126,7 +130,7 @@ lastmod: 2020-03-02 15:37
 
 <i>MYRTLE stares down at her ashtray knowing she's sitting vulnerable to his sight as soon as the door opens.</i>
 
-<i>A blast of cold air and she's no longer alone in the room.</i>
+<i>A blast of cold air and she's no longer alone in the room. The door is soon shut again.</i>
 
 ### MYRTLE ###
 
@@ -166,7 +170,7 @@ lastmod: 2020-03-02 15:37
 
 ### KEVIN ### 
 
-> OKAY, FIRST OFF, WE'RE TURNING OFF THIS CRAP.
+> OKAY. FIRST OFF, WE'RE TURNING OFF THIS CRAP.
 
 <i>He picks up the remote, assertively pounds the red button, and tosses it on the sofa.</i>
 
@@ -234,7 +238,9 @@ lastmod: 2020-03-02 15:37
 
 > WE SOLD --
 
-<I>But she stops herself mid-sentence with a horrible revelation. She recalls sitting at that table in the fall... A pile of legalese in front of them, her son instructing her to sign here, there, here...</i>
+<I>But she stops herself mid-sentence with a horrible revelation.</i>
+
+<i>She recalls sitting at that table in the fall... A pile of legalese in front of them, her son instructing her to sign here, there, then here...</i>
 
 > (thinking) I didn't read a word.
 
@@ -243,8 +249,6 @@ lastmod: 2020-03-02 15:37
 > YOU REALLY THOUGHT I'D LET YOU SELL THE SCHOOL TO PANCAKES?
 
 <I>MYRTLE feels the shock of shame sap the energy from her boney form.</i>
-
-### KEVIN ###
 
 > YOU SOLD IT TO ME.
 
@@ -258,7 +262,7 @@ lastmod: 2020-03-02 15:37
 
 > IT WAS ALL IN THE PAPERWORK.
 
-<I>MYRTLE rises from the couch and approaches the barstools set across the counter from where KEVIN prepares tea.</i>
+<I>MYRTLE rises from the couch and approaches the barstools set across the counter from whence KEVIN prepares tea.</i>
 
 ### MYRTLE ###
 
@@ -314,7 +318,7 @@ lastmod: 2020-03-02 15:37
 
 ### MYRTLE ###
 
-> (quietly) ... YOU TEACH HER.
+> (quietly) ... YOU... TEACH HER.
 
 <center>(clink clink)</center>
 
@@ -324,7 +328,7 @@ lastmod: 2020-03-02 15:37
 
 > I CAN'T. I'VE ... STARTED A NEW PROJECT.
 
-<I>He is sipping his tea when she turned back toward him. She looks strange in her dark hair, and yet, the grey never seemed to suit her either.</i>
+<I>He is sipping his tea when she turns back toward him. She looks strange in her dark hair, and yet, the grey had never seemed to suit her either.</i>
 
 ### MYRTLE ###
 
@@ -346,7 +350,9 @@ lastmod: 2020-03-02 15:37
 
 ### MYRTLE ###
 
-> ... SO... WE REALLY DIDN'T SELL THE SCHOOL AFTER ALL?
+> ... SO... 
+
+> WE REALLY DIDN'T SELL THE SCHOOL AFTER ALL?
 
 <I>KEVIN takes another drink.</i>
 
@@ -354,13 +360,15 @@ lastmod: 2020-03-02 15:37
 
 > NOPE. 
 
-> BUT I DON'T KNOW WHAT THIS 'WE' STUFF IS. YOU SOLD IT. IT'S MINE NOW.
+> BUT I DON'T KNOW WHAT THIS 'WE' STUFF IS. 'YOU' SOLD IT. IT'S MINE NOW.
 
 <I>MYRTLE looks up toward her son. It's the closest thing to a joke he can muster.</i>
 
 ### MYRTLE ###
 
-> I ... I STILL CAN'T BELIEVE YOU TRICKED ME.
+> I ... 
+
+> I STILL CAN'T BELIEVE YOU TRICKED ME.
 
 ### KEVIN ###
 
@@ -392,7 +400,7 @@ lastmod: 2020-03-02 15:37
 
 ### KEVIN ###
 
-> HE'S FAR TOO LAX WITH YOU. I CAN'T TRUST HIM TO SAY NO TO YOU. I HAVE ONE OF DAD'S OLD ASSOCIATES SLATED TO HELP YOU KEEP AN EYE ON THE PLACE.
+> HE'S FAR TOO LAX WITH YOU. I CAN'T TRUST HIM TO SAY NO. I HAVE ONE OF DAD'S OLD ASSOCIATES SLATED TO HELP YOU KEEP AN EYE ON THE PLACE.
 
 ### MYRTLE ###
 
@@ -402,7 +410,7 @@ lastmod: 2020-03-02 15:37
 
 > MOM. PLEASE DON'T FIGHT THIS.
 
-> I ... I WAS GLAD THAT I KNEW YOU WERE LEAVING THIS PLACE SOON.
+> I ... I WAS GLAD I KNEW YOU WERE LEAVING THIS PLACE SOON.
 
 > IT'S BEEN... COMPROMISED.
 
@@ -416,13 +424,15 @@ lastmod: 2020-03-02 15:37
 
 ### KEVIN ###
 
-> I FOUND... THIS. IN YOUR GARDEN.
+> I FOUND... THIS. 
 
-<I>KEVIN pushes the small box over the surface to his mother. She opens it to reveal a long hair. In the ribbons of dim light the hair shines a bright magenta.</i>
+> IN YOUR GARDEN.
+
+<I>KEVIN pushes the small box over the counter. She opens it to reveal a long hair curled in circles against the walls of the box. In the ribbons of dim light the hair shines a bright magenta.</i>
 
 ### MYRTLE ###
 
-> GAGARIN? HERE?
+> ...GAGARIN? HERE?
 
 ### KEVIN ###
 
@@ -442,7 +452,7 @@ lastmod: 2020-03-02 15:37
 
 > I... 
 
-<I>She pauses a moment to breath.</i>
+<I>She pauses a moment to breathe.</i>
 
 > WHO'S OUR FRIEND?
 
@@ -459,6 +469,8 @@ lastmod: 2020-03-02 15:37
 ### KEVIN ###
 
 > GOOD. OLD. G. H.
+
+<center>~</center>
 
 *****
 
