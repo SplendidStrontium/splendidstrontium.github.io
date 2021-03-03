@@ -173,7 +173,7 @@ lastmod: 2020-03-03 14:30
 
 ### CEDRIC ###
 
-> WOULD BE ABLE TO PROVIDE A STATEMENT?
+> WOULD YOU BE ABLE TO PROVIDE A STATEMENT?
 
 ### PEGGY ###
 
@@ -181,7 +181,7 @@ lastmod: 2020-03-03 14:30
 
 ### CEDRIC ###
 
-> I'LL LET YOU GET DRESSED. THIS SHOULDN'T TAKE LONG.
+> I'LL LET YOU GET DRESSED. THIS SHOULDN'T TAKE LONG. WE'LL HAVE YOU BACK AT SCHOOL BEFORE THE FIRST BELL.
 
 ### PEGGY ###
 
@@ -337,7 +337,7 @@ lastmod: 2020-03-03 14:30
 
 ### CEDRIC ###
 
-> PERHAPS YOU'D LIKE TO SIT DOWN.
+> PERHAPS YOU'D LIKE TO SIT DOWN. REMOVE YOUR COAT?
 
 <I>Set in the living room is a pair of plush chairs cushioned in crimson velvet.</i>
 
@@ -364,6 +364,8 @@ lastmod: 2020-03-03 14:30
 ### CEDRIC ###
 
 > HE'S BEEN TRYING TO READ OUR METERS FOR WEEKS.
+
+<CENTER>~</CENTER>
 
 *****
 
@@ -404,6 +406,8 @@ lastmod: 2020-03-03 14:30
 </div>
 
 <i>CEDRIC places his phone on the table and in an instant, he's dissolved into mist.</i>
+
+<CENTER>~</CENTER>
 
 *****
 
