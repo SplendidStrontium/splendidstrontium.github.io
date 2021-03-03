@@ -177,7 +177,7 @@ lastmod: 2020-03-03 14:30
 
 ### PEGGY ###
 
-> SURELY ANYTHING YOU NEED. JUST --
+> SURELY. ANYTHING YOU NEED. JUST --
 
 ### CEDRIC ###
 
@@ -214,6 +214,8 @@ lastmod: 2020-03-03 14:30
 <I>PEGGY quickly returns to her house, removing the newspaper from its plastic sleeve and setting it upon the table.</i>
 
 <i>Outside, CEDRIC waits. </i>
+
+<center>~</center>
 
 *****
 
@@ -263,7 +265,7 @@ lastmod: 2020-03-03 14:30
 
 <I>CEDRIC follows her. She opens the door and enters.</i>
 
-<i>CEDRIC allows her to step inside and closes the door behind her. The inside of the house is elegant but modern. Medium toned wood lines an upper balcony. Two wooden columns flank a hallway. A piano is just in view upstairs.</i>
+<i>CEDRIC allows her to step inside and closes the door behind her. The inside of the house is elegant but modern. Medium-toned wood lines an upper balcony. Two wooden columns flank a hallway. A piano is just in view upstairs.</i>
 
 ### CEDRIC ###
 
@@ -305,7 +307,7 @@ lastmod: 2020-03-03 14:30
 
 > I THINK YOU'RE FAMILIAR WITH THE MAN.
 
-<I>PEGGY's face drains of color, leaving only an artificial blush covering her cheeks. Her lips slacken, leaving the sensation of thick, dry lipstick.</i>
+<I>PEGGY's face drains of color, only an artificial blush covers her cheeks. Her lips slacken, leaving the sensation of thick, dry lipstick.</i>
 
 <i>A voice comes from the dark of the hallway. It is a simulated voice, too consistent in pitch to come from a human's vocal cords. But it is unmistakably intended to imply a female.</i>
 
