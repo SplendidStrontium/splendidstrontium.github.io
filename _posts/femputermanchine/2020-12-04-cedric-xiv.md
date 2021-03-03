@@ -6,15 +6,16 @@ date: 2020-12-04 13:14
 description: "in which Cedric revels in his recent eviction of Perkins"
 tags: [skit, fpmcmain-cedric]
 published: true
-lastmod: 2020-12-04 14:30
+lastmod: 2021-03-03 11:27
 ---
 [//]: # ( 12/04/20  -added)
+[//]: # ( 03/03/21  -the house is in suffolk, not nassau county)
 
 *****
 
 ## // MARSCAPONE SUMMER HOME // ##
 
-<I>Since liberating himself from the plasma fruit business, CEDRIC has moved in with KEVIN at the MARSCAPONE SUMMER HOME, a sprawling house near the beach in Nassau County. </i>
+<I>Since liberating himself from the plasma fruit business, CEDRIC has moved in with KEVIN at the MARSCAPONE SUMMER HOME, a sprawling house near the beach in Suffolk County. </i>
 
 <i>KEVIN has been involved deeply in his research and keeping mostly to himself, leaving CEDRIC time to focus on his music.</i>
 
