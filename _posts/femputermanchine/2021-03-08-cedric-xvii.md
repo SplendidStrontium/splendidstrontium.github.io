@@ -6,13 +6,13 @@ date: 2021-03-08 09:28
 description: "in which Myrtle announces the flight of Meifeng Tang"
 tags: [skit, fpmcmain-cedric]
 published: true
-lastmod: 2020-03-08 12:24
+lastmod: 2020-03-08 12:47
 ---
 [//]: # ( 03/08/21  -added)
 
 *****
 
-// MARSCAPONE APARTMENTS //
+## // MARSCAPONE APARTMENTS // ##
 
 <I>How many days have passed since the death of Peggy Hill? <i>
 
@@ -182,13 +182,13 @@ lastmod: 2020-03-08 12:24
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/straud-fine.jpg" class="chat-portrait" />
 <p class="ppl-sez">STRAUD//</p>
-<p class="ppl-sez">A union between Charm and Landgraab would be a dangerous prospect.</p>
+<p class="ppl-sez">A union between Charm and Landgraab is a dangerous prospect.</p>
 </div>
 
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/cedric-tense.jpg" class="chat-portrait" />
 <p class="ppl-sez">CEDRIC//</p>
-<p class="ppl-sez">Don't we have more pressing issues than teen romance?</p>
+<p class="ppl-sez">Don't we have more pressing issues today than teen romance?</p>
 </div>
 
 <div class="chat-box">
