@@ -3,7 +3,7 @@ layout: post
 title: "CEDRIC 017"
 category: femputermanchine
 date: 2021-03-08 09:28
-description: "in which "
+description: "in which Myrtle announces the flight of Meifeng Tang"
 tags: [skit, fpmcmain-cedric]
 published: true
 lastmod: 2020-03-08 12:24
@@ -90,7 +90,7 @@ lastmod: 2020-03-08 12:24
 
 <i>CEDRIC leaves the private chatroom and prepares to enter the main lobby. He fiddles with his hair absently, dreading contact with the old woman.</i>
 
-<i>She's the most recent person he's seen in-person. Just a few days ago (or had it been a week? or more?), he'd brought proof to her that her request had been completed.</i>
+<i>She's the most recent contact he's made in-person. Just a few days ago (had it been a week? or more?), he'd brought proof to her that her request had been completed.</i>
 
 <i>Something about the hit had left him sapped of his usual energy.</i>
 
