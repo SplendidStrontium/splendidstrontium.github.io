@@ -198,7 +198,7 @@ lastmod: 2020-03-12 22:35
 
 <i>MYRTLE stops, hanging her head, as they approach a dark, weathered stone.</i>
 
-<center>VINCENT MARSCAPONE</CENTER>
+<center>VINCENT MARSCAPONE</center>
 
 ### MYRTLE ###
 
