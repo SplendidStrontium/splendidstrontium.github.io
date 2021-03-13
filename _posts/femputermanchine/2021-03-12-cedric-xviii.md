@@ -74,9 +74,9 @@ lastmod: 2020-03-12 22:35
 
 <I>He knocks on the thick underground door.</i>
 
-<center>...KNOCK KNOCK KNOCK.</CENTER>
+<center>...KNOCK KNOCK KNOCK.</center>
 
-<CENTER>...</CENTER>
+<center>...</center>
 
 <I>The door is quickly answered by a slight man with dull orange hair. He bows shallowly, hastily, but not without respect.</i>
 
