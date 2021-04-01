@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://nan.nyc" # the base hostname & protocol for your site
 twitter_username: trrask_gaming	
 github_username:  splendidstrontium
-youtube: channel/UC2GGSbxdmmy-X7c5wyzE38w
+youtube: UC2GGSbxdmmy-X7c5wyzE38w
 
 # Build settings
 markdown: kramdown
