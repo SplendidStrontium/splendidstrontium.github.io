@@ -6,7 +6,7 @@ date: 2021-04-03 15:25
 description: "in which Straud lectures, despairing about the failing strength of the Wild"
 tags: [skit, fpmcmain-cedric]
 published: false
-lastmod: 2021-04-03 15:26
+lastmod: 2021-04-03 18:53
 ---
 [//]: # ( 04/03/21  -added)
 
@@ -14,15 +14,51 @@ lastmod: 2021-04-03 15:26
 
 ## // MARSCAPONE APARTMENTS // ##
 
-(S) Cedric, are you willing to entertain today?
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/vlad-smalltb.jpg" class="chat-portrait" />
+<p class="ppl-sez">STRAUD//</p>
+<p class="ppl-sez">Cedric.</p>
+<p class="ppl-sez">Are you willing to entertain today?</p>
+</div>
 
-(S) It would be Mandarc and myself.
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/vlad-smalltb.jpg" class="chat-portrait" />
+<p class="ppl-sez">STRAUD//</p>
+<p class="ppl-sez">It would be Mandarc and myself.</p>
+</div>
 
 <i>CEDRIC recalls the position of the sun. It's late afternoon, but cloudless. Bright and sunny. VLAD tended to dislike travel by daylight but it was not anethema to him.</i>
 
-(M) In case you weren't aware, I'm back at the mansion.
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mandarc-smalltb.jpg" class="chat-portrait" />
+<p class="ppl-sez">MANDARC//</p>
+<p class="ppl-sez">In case you weren't aware, I'm back at the mansion.</p>
+</div>
 
-(S) I was reflecting on our conversation recently and I thought it was about time for me to make a visit.
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/cedric-tb-happy.jpg" class="chat-portrait" />
+<p class="ppl-sez">CEDRIC//</p>
+<p class="ppl-sez">Your reconaissance done?</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mandarc-smalltb.jpg" class="chat-portrait" />
+<p class="ppl-sez">MANDARC//</p>
+<p class="ppl-sez">On pause for now.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/vlad-smalltb.jpg" class="chat-portrait" />
+<p class="ppl-sez">STRAUD//</p>
+<p class="ppl-sez">I was reflecting on our conversation recently and I thought it was about time for me to make a visit.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/cedric-tb-focus.jpg" class="chat-portrait" />
+<p class="ppl-sez">CEDRIC//</p>
+<p class="ppl-sez">Don't travel alone.</p>
+</div>
+
 
 (C) Don't travel alone.
 
