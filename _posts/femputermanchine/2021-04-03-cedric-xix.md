@@ -5,7 +5,7 @@ category: femputermanchine
 date: 2021-04-03 15:25
 description: "in which Straud lectures, despairing about the failing strength of the Wild"
 tags: [skit, fpmcmain-cedric]
-published: false
+published: true
 lastmod: 2021-04-03 21:15
 ---
 [//]: # ( 04/03/21  -added)
