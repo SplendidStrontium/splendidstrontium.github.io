@@ -6,7 +6,7 @@ date: 2021-03-02 10:43
 description: "in which Kevin tells the truth about the sale of the school"
 tags: [skit, fpmcmain-myrtle]
 published: true
-lastmod: 2020-03-02 15:37
+lastmod: 2021-03-02 15:37
 ---
 [//]: # ( 03/02/21  -added)
 
