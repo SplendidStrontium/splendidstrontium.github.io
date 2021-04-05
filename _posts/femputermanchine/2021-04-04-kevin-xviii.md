@@ -4,7 +4,7 @@ title: "KEVIN 018"
 category: femputermanchine
 date: 2021-04-04 18:48
 description: "in which Kevin attends a typical Sunday dinner"
-tags: [skit, fpmc-kevin]
+tags: [skit, fpmcmain-kevin]
 published: true
 lastmod: 2021-04-04 21:13
 ---
