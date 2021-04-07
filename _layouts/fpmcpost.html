@@ -21,11 +21,11 @@ layout: default
 <hr>
 
 <div class="fpmcnav">
-	{% if fpmcpost.previous.url %}
-		<a class="fpmcprev" href="{{fpmcpost.previous.url}}">{{fpmcpost.previous.title}}</a>
+	{% if page.previous.url %}
+		<a class="fpmcprev" href="{{fpmcpost.previous.url}}">{{page.previous.title}}</a>
 	{% endif %}
-	{% if fpmcpost.next.url %}
-		<a class="fpmcnext" href="{{fpmcpost.next.url}}">{{fpmcpost.next.title}}</a>
+	{% if page.next.url %}
+		<a class="fpmcnext" href="{{fpmcpost.next.url}}">{{page.next.title}}</a>
 	{% endif %}
 </div>
 
