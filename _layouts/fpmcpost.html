@@ -18,7 +18,7 @@ layout: default
 	<p class="post-meta">Last update: {{ page.lastmod | date_to_rfc822 }}</p>
 {% endif %}
 
-*****
+<hr>
 
 <div class="fpmcnav">
 	{% if fpmcpost.previous.url %}
@@ -29,7 +29,7 @@ layout: default
 	{% endif %}
 </div>
 
-*****
+<hr>
 
 {% if page.comments_id %}
 	{% include comments.html %}
