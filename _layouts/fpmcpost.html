@@ -20,10 +20,10 @@ layout: default
 
 <div class="fpmcnav">
 	{% if fpmcpost.previous.url %}
-		<a class="prev" href="{{fpmcpost.previous.url}}">{{fpmcpost.previous.title}}</a>
+		<a class="fpmcprev" href="{{fpmcpost.previous.url}}">{{fpmcpost.previous.title}}</a>
 	{% endif %}
 	{% if fpmcpost.next.url %}
-		<a class="next" href="{{fpmcpost.next.url}}>{{fpmcpost.next.title}}</a>
+		<a class="fpmcnext" href="{{fpmcpost.next.url}}">{{fpmcpost.next.title}}</a>
 	{% endif %}
 </div>
 
