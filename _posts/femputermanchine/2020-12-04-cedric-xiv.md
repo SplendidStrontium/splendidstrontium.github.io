@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: fpmcpost
 title: "CEDRIC 014"
 category: femputermanchine
 date: 2020-12-04 13:14

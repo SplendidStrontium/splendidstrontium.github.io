@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: fpmcpost
 title: "KEVIN 013"
 category: femputermanchine
 date: 2020-09-19 09:23

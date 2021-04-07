@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: fpmcpost
 title: "CEDRIC 016"
 category: femputermanchine
 date: 2021-03-03 09:46

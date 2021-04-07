@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: fpmcpost
 title: "McCoy and the Dollhouse"
 date: 2020-04-26 22:12
 category: femputermanchine

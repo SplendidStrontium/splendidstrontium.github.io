@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: fpmcpost
 title: "Avaelle Easton 0"
 category: femputermanchine
 date: 1831-06-23 12:00

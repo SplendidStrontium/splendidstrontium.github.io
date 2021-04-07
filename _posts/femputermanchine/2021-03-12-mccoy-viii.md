@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: fpmcpost
 title: "McCOY VIII"
 category: femputermanchine
 date: 2021-03-12 09:07

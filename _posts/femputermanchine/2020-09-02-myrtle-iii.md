@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: fpmcpost
 title: "Myrtle 003"
 category: femputermanchine
 date: 2020-09-02 07:19

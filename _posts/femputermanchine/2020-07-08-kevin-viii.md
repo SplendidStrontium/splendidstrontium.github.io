@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: fpmcpost
 title: "Kevin 008"
 category: femputermanchine
 date: 2020-07-08 17:52
