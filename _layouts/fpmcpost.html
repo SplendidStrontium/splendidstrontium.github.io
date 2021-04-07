@@ -18,6 +18,15 @@ layout: default
 	<p class="post-meta">Last update: {{ page.lastmod | date_to_rfc822 }}</p>
 {% endif %}
 
+<div class="fpmcnav">
+	{% if fpmcpost.previous.url %}
+		<a class="prev" href="{{fpmcpost.previous.url}}">{{fpmcpost.previous.title}}</a>
+	{% endif %}
+	{% if fpmcpost.next.url %}
+		<a class="next" href="{{fpmcpost.next.url}}>{{fpmcpost.next.title}}</a>
+	{% endif %}
+</div>
+
 {% if page.comments_id %}
 	{% include comments.html %}
 {% endif %}
