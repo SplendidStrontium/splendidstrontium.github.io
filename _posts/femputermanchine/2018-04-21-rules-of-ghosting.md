@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: fpmcpost
 title: 	"Rules of Ghosting"
 date:	2018-04-21 17:19
 category:	femputermanchine

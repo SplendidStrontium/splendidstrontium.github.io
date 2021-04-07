@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: fpmcpost
 title: "Aegwain 007"
 date: 2020-07-20 17:51
 category: femputermanchine

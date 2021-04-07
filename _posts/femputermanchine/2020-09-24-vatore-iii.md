@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: fpmcpost
 title: "VATORE 003"
 category: femputermanchine
 date: 2020-09-24 12:23

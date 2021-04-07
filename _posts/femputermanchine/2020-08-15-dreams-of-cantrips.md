@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: fpmcpost
 title: "A SpellList"
 date: 2020-08-15 16:37
 category: femputermanchine

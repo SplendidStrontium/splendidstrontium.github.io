@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: fpmcpost
 title: "KEVIN 017"
 category: femputermanchine
 date: 2021-03-15 10:31

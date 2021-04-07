@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: fpmcpost
 title: "WEASLIE 003"
 category: femputermanchine
 date: 2020-12-02 15:22

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: fpmcpost
 title: "PERKINS 004"
 category: femputermanchine
 date: 2021-03-23 08:57

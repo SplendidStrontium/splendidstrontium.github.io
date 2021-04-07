@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: fpmcpost
 title: "MANDARC 012"
 category: femputermanchine
 date: 2020-11-02 15:13

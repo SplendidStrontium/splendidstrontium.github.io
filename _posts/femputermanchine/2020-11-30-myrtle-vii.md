@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: fpmcpost
 title: "MYRTLE 007"
 category: femputermanchine
 date: 2020-11-30 12:33
