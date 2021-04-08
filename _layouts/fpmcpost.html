@@ -18,18 +18,32 @@ layout: default
 	<p class="post-meta">Last update: {{ page.lastmod | date_to_rfc822 }}</p>
 {% endif %}
 
-<hr>
 
-<div class="fpmcnav">
-	{% if page.previous.url %}
-		PREVIOUS: <a class="fpmcprev" href="{{page.previous.url}}">{{page.previous.title}}</a>
+
+{% for post in site.categories.femputermanchine %}
+	{% if post.url == page.url %}
+		{% assign post_index0 = forloop.index0 %}
+		{% assign post_index1 = forloop.index %}
 	{% endif %}
-	{% if page.next.url %}
-		&nbsp;&nbsp;&nbsp;&nbsp;NEXT: <a class="fpmcnext" href="{{page.next.url}}">{{page.next.title}}</a>
+{% endfor %}
+{% for post in site.categories.femputermanchine %}
+	{% if post_index0 == forloop.index %}
+		{% assign next_post = post.url %}
 	{% endif %}
+	{% if post_index1 == forloop.index0 %}
+		{% assign prev_post = post.url %}
+	{% endif %}
+{% endfor %}
+<div class="fpmc-nav-box">
+{% if prev_post %}
+	<a href="{{ prev_post }}" class="fpmc-nav-prev">Previous Post</a> <br/>
+{% endif %}
+{% if next_post %}
+	<a href="{{ next_post }}" class="fpmc-nav-next">Next Post</a> 
+{% endif %}
 </div>
 
-<hr>
+
 
 {% if page.comments_id %}
 	{% include comments.html %}
