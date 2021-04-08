@@ -1,7 +1,7 @@
 ---
 layout: fpmcpost
 title: "JUNIOR 003"
-category: femputermachine
+category: femputermanchine
 date: 2021-04-08 10:32
 description: "in which Trente sees the young Orphan off to school"
 tags: [skit, fpmcmain-jr]
