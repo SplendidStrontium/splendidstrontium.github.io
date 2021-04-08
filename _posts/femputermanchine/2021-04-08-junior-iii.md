@@ -4,7 +4,7 @@ title: "JUNIOR 003"
 category: femputermachine
 date: 2021-04-08 10:32
 description: "in which Trente sees the young Orphan off to school"
-tags: [skit, fpmcmain-junior]
+tags: [skit, fpmcmain-jr]
 published: true
 lastmod: 2021-04-08 13:33
 ---
