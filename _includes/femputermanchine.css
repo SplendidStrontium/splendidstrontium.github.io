@@ -88,12 +88,20 @@
 	text-align: center;
 } 
 
+.fpmc-nav-box{
+	border-top-style: solid;
+	border-bottom-style: solid;
+}
+
 .fpmc-nav-prev{
 	font-size: 1.4em;
+	align-items: center;
 }
 
 .fpmc-nav-next{
-	float: right;
+	display: flex;
+	justify-content: flex-end;
+	align-self: center;
 	font-size: 1.4em;
 }
 
