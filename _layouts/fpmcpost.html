@@ -29,17 +29,19 @@ layout: default
 {% for post in site.categories.femputermanchine %}
 	{% if post_index0 == forloop.index %}
 		{% assign next_post = post.url %}
+		{% assign next_post_title = post.title %}
 	{% endif %}
 	{% if post_index1 == forloop.index0 %}
 		{% assign prev_post = post.url %}
+		{% assign prev_post_title = post.title %}
 	{% endif %}
 {% endfor %}
 <div class="fpmc-nav-box">
 {% if prev_post %}
-	<a href="{{ prev_post }}" class="fpmc-nav-prev">Previous Post</a> <br/>
+	<p class="fpmc-nav-prev">Previous: <a href="{{ prev_post }}">{{ prev_post_title }}</a></p>
 {% endif %}
 {% if next_post %}
-	<a href="{{ next_post }}" class="fpmc-nav-next">Next Post</a> 
+	<p class="fpmc-nav-next">Next: <a href="{{ next_post }}">{{ next_post_title }}</a></p>
 {% endif %}
 </div>
 
