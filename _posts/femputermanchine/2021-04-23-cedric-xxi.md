@@ -588,7 +588,7 @@ lastmod: 2021-04-23 22:25
 
 > IF WE WERE ONLY ALL GIFTED AS YOU, GOLDEN CHILD!
 
-<I>STRAUD has little impatience for MANDARC's moodiness.</i>
+<I>STRAUD has little patience for MANDARC's moodiness.</i>
 
 ### STRAUD ###
 
