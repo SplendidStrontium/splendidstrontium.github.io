@@ -112,7 +112,7 @@ lastmod: 2021-04-30 21:56
 
 ### STRAUD ###
 
-> YES... I CAN UNDERSTAND WHY YOU MIGHT FELL THAT WAY.
+> YES... I CAN UNDERSTAND WHY YOU MIGHT FEEL THAT WAY.
 
 ### SVETLANA ###
 
@@ -812,6 +812,11 @@ lastmod: 2021-04-30 21:56
 <p class="ppl-sez">CEDRIC//</p>
 <p class="ppl-sez">Dammit Straud.</p>
 <p class="ppl-sez">Damn you.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/autress-aug.jpg" class="chat-portrait" />
+<p class="ppl-sez">close chat @09:55 PM</p>
 </div>
 
 *****
