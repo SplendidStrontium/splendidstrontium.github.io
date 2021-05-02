@@ -216,6 +216,11 @@ lastmod: 2021-05-01 21:08
 <p class="ppl-sez">Regardless, as fun as it is to banter with you, I need to tell the twins about what happened to their mother.</p>
 </div>
 
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/autress-aug.jpg" class="chat-portrait" />
+<p class="ppl-sez">close chat @08:11 PM</p>
+</div>
+
 *****
 
 ## // TOWER OF AZORA // ##
@@ -812,7 +817,7 @@ SOMEBODY TELL ME DAT FATE 'AS BEEN KIND...
 
 <i>I finally leave the room and lock up.</i>
 
-<i>A smile breaks upon my face when I receive a suprise.</i>
+<i>A smile breaks upon my face when I receive a surprise.</i>
 
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/cedric.jpg" class="chat-portrait" />
