@@ -664,7 +664,7 @@ lastmod: 2021-06-25 14:05
 
 > HAHA.
 
-<I>The barkeep leans ove, glass in hand.</i>
+<I>The barkeep leans over, glass in hand.</i>
 
 ### BARKEEP ###
 
