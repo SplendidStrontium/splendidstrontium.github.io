@@ -481,3 +481,203 @@ lastmod: 2021-06-25 14:05
 ### ZOE ###
 
 > AW YEAH... I CAN SEE THAT.
+
+> LILITH, WHAT DO YOU DO?
+
+<i>QUARQ leaves his position nearest the bar and motions for LILITH to be granted entrance.</i>
+
+<I>She gently pulls back the stool and sits upon it. In a moment, the free silence is nearing expiration, but QUARQ breaks in.</i>
+
+### QUARQ ###
+
+> LILITH ENJOYS HER DAYS AT OUR LOCAL GYM, HOPING TO BREAK INTO THE AMATEUR BODYBUIDLING CIRCUIT.
+
+> GO ON, TOOTS. FLEX 'EM.
+
+<I>LILITH looks back at QUARQ with indignant embarrassment.</i>
+
+### LILITH ###
+
+> "TRUST FUND"?!
+
+### QUARQ ###
+
+> AW, YOU KNOW WHAT I MEAN, BEAUTIFUL.
+
+### LILITH ###
+
+> "BEAUTIFUL".
+
+### QUARQ ###
+
+> AW, QUIT WITH THE DAMSEL ACT. SHOW MISS ZOE YOUR GUNS.
+
+<I>LILITH sighs but tries to get into the moment, smiling ever-so-slightly. She turns toward ZOE and flexes her bare arms. LILITH has made significant progress in her regiment, and it shows. As does her slight dehydration...</i>
+
+<i>But the show is more than enough to impress ZOE.</i>
+
+### ZOE ###
+
+> NICE! YOU'VE GOT SOME SERIOUS GUNS FOR A SKINNY GIRL!
+
+### LILITH ###
+
+> "SKINNY GIRL"!
+
+<I>QUARQ laughs. The princess could get offended at anything.</i>
+
+### ZOE ###
+
+> I MEANT IT AS A COMPLIMENT! IT'S A GOOD THING!
+
+<I>ZOE reaches out and pats LILITH on the back. Her hand is warm against marble skin. LILITH finds it surprisingly soothing.</i>
+
+### QUARQ ###
+
+> SHE CAN'T TAKE A COMPLIMENT TO SAVE HER LIFE.
+
+### LILITH ###
+
+> [harumff] THAT'S NOT TRUE!
+
+### QUARQ ###
+
+> [to ZOE] MODEST TO A FAULT, MY DARLING.
+
+<I>LILITH folds her arms in mock indignation.</i>
+
+### BARKEEP ###
+
+> YOU TWO HAVING THE USUAL?
+
+### QUARQ ###
+
+> ALWAYS. THANK YOU. PUT IT ON MY TAB.
+
+### BARKEEP ###
+
+> YOU GOT IT, BOSS.
+
+<I>The barkeep squats and fusses in a cabinet beneath the counter. When again standing, the barkeep is holding two metallic pouches strikingly similar to those in QUARQ's refrigerator.</i>
+
+<i>ZOE's eyes follow the offering with obvious curiosity.</i>
+
+<i>QUARQ intercepts.</i>
+
+### QUARQ ###
+
+> "RECOVERING ALCOHOLIC" SPECIAL.
+
+> YOU KNOW WHAT THEY SAY... 
+
+> EVERY DAY IS A VICTORY.
+
+<I>The vampires pierce the top of their pouches with the given straw.</i>
+
+<i>ZOE watches, almost bashful.</i>
+
+### ZOE ###
+
+> I BEEN MEANING TO CUT BACK, MYSELF...
+
+<I>She watches the pair drink and turns back to encounter her own glass.</i>
+
+### QUARQ ###
+
+> A.A.
+
+> WORKS WONDERS.
+
+<I>ZOE pauses, as if thinking, considering, and then raises her cup in toast.</i>
+
+### ZOE ###
+
+> CHEERS!
+
+<I>QUARQ quickly removes the straw from his mouth.</i>
+
+### QUARQ ###
+
+> MY GRACIOUS. WHERE <U>ARE</U> MY MANNERS?
+
+<I>He raises his drink to bump against ZOE's glass.</i>
+
+<i>LILT follows suit.</i>
+
+### LILITH ###
+
+> CHEERS.
+
+<I>QUARQ nods his head but says nothing, letting his gesture speak for itself. The ritual moment passes and the three return to their indulgences.</i>
+
+<i>In the background din, someone sits at the piano and begins to play.</i>
+
+### QUARQ ###
+
+> DID YOU SEE THE ECLIPSE?
+
+### ZOE ###
+
+> THERE WAS AN ECLIPSE? HUH. NO. 
+
+> I GUESS I MISSED THAT.
+
+### QUARQ ###
+
+> IT WAS JUST AFTER DAWN A FEW DAYS AGO.
+
+> IT'S NOT OFTEN US NEW YORKERS ARE GIFTED WITH SUCH AN OPPORTUNITY. BEING SO FAR FROM THE EQUATOR.
+
+### ZOE ###
+
+> AW, MAN! I'M SORRY I MISSED IT.
+
+### LILITH ###
+
+> WE DID SEE THAT BUS THAT CRASHED INTO THE BUILDING IN BROOKLYN THOUGH. NOT TOO FAR FROM OUR APARTMENT.
+
+<I>LILITH lies, and her companion recognizes the falsehood.</i>
+
+### QUARQ ###
+
+> SIXTEEN WERE INJURED. SIXTEEN! OF COURSE IT'S NOTHING COMPARED TO THE TRAIN WRECKS OF YESTERYEAR...
+
+### ZOE ###
+
+> YOU BOTH FROM BROOKLYN? THAT'S A TRIP.
+
+### QUARQ ###
+
+> NOT TOO FAR FROM PROSPECT PARK.
+
+### ZOE ###
+
+> NICE, NICE. ASTORIA, MYSELF. I WORK IN THE CITY SO I WANTED A QUICK COMMUTE.
+
+> SO WHAT BRINGS YOU ALL THE WAY NORTH?
+
+### LILITH ###
+
+> SNOWBIRDS.
+
+### ZOE ###
+
+> HAHA.
+
+<I>The barkeep leans ove, glass in hand.</i>
+
+### BARKEEP ###
+
+> DON'T LET 'EM FOOL YA. THEY'RE FRIENDS WITH THE OWNER. BIG SHOTS.
+
+### ZOE ###
+
+> OOOOO! I'LL SAY.
+
+### LILITH ###
+
+> [thinking] Friends... Yes... "friends".
+
+<i>QUARQ, LILITH place their empty containers behind the raised barrier.</i>
+
+*****
