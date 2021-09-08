@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Hexfiles"
-menu: main
 permalink: /fpmchexfiles/ 
 ---
 
