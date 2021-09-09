@@ -10,12 +10,26 @@ permalink: /dnd/mapgen/
 </head>
 
 <body>
-<div class="mapgen-intro">The following is a tool in development as of September 8, 2021.</div>
+<div class="mapgen-intro">The following is a tool in development as of September 8, 2021. The monster list is from the open-source <a href="https://www.d20srd.org/index.htm">D20 SRD</a></div>
 
 <div id="mapgen-disp-wrapper">
 <canvas id="mapgenCanvas"></canvas>
 
-Generate
+<div id="mapgen-results">Your map is empty. Generate something using the options below.</div>
+
+<div id="mapgen-options">
+
+<div class="mapgen-dropdown">
+	<label for="monster-amount">How many monsters?</label>
+	<select name="monster-amount" id="monster-amount">
+		<option value="1">1</option>
+		<option value="2">2</option>
+	</select>
+	
+</div>
+
+<button id="mapgensubmitbtn" onclick="submitMapGen()">Submit</button>
+</div>
 </div>
 
 </body>

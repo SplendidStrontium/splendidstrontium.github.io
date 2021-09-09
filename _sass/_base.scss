@@ -247,10 +247,25 @@ pre {
 
 #mapgen-disp-wrapper {
 	padding: 5px;
+	background-color:#ddd;
 }
  
 #mapgenCanvas {
 	border:1px solid #000;
-	//background-color:#fff;
+	background-color:#eee;
+}
+
+#mapgen-results {
+	display: block;
+	border:1px solid #666;
+	padding:10px;
+	background-color:#eee;
+}
+
+#mapgen-options {
+	display: block;
+	border:1px solid #666;
+	padding:10px;
+	background-color:#eee;
 }
 
