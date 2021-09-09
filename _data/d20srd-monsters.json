@@ -1,0 +1,1002 @@
+{
+	"monsters":[
+		{
+			"name": "Aboleth",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/aboleth.htm"
+		},
+		{
+			"name": "Achaierai",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/achaierai.htm"
+		},
+		{
+			"name": "Allip",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/allip.htm"
+		},
+		{
+			"name": "Angel",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/angel.htm"
+		},
+		{
+			"name": "Animated Object",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/animatedObject.htm"
+		},
+		{
+			"name": "Ankheg",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ankheg.htm"
+		},
+		{
+			"name": "Ant, Giant",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/giantAnt.htm",
+			"meta_type": "vermin"
+		},
+		{
+			"name": "Ape",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ape.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Aranea",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/aranea.htm"
+		},
+		{
+			"name": "Archon",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/archon.htm"
+		},
+		{
+			"name": "Arrowhawk",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/arrowhawk.htm"
+		},
+		{
+			"name": "Assassin Vine",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/assassinVine.htm"
+		},
+		{
+			"name": "Athach",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/athach.htm"
+		},
+		{
+			"name": "Avoral",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/avoral.htm"
+		},
+		{
+			"name": "Azer",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/azer.htm"
+		},
+		{
+			"name": "Baboon",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/baboon.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Badger",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/badger.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Barqhest",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/barqhest.htm"
+		},
+		{
+			"name": "Basilisk",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/basilisk.htm"
+		},
+		{
+			"name": "Bat",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/bat.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Bear, Black",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/bearBlack.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Bear, Brown",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/bearBrown.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Bear, Polar",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/bearPolar.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Bee, Giant",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/giantBee.htm",
+			"meta_type": "vermin"
+		},
+		{
+			"name": "Behir",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/behir.htm"
+		},
+		{
+			"name": "Bison",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/bison.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Blink Dog",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/blinkDog.htm"
+		},
+		{
+			"name": "Boar",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/boar.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Bodak",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/bodak.htm"
+		},
+		{
+			"name": "Bombadier Beetle, Giant",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/giantBombardierBeetle.htm",
+			"meta_type": "vermin"
+		},
+		{
+			"name": "Bralani",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/bralani.htm"
+		},
+		{
+			"name": "Bugbear",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/bugbear.htm"
+		},
+		{
+			"name": "Bulette",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/bulette.htm"
+		},
+		{
+			"name": "Camel",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/camel.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Cat",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/cat.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Celestial Creature",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/celestialCreature.htm"
+		},
+		{
+			"name": "Centaur",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/centaur.htm"
+		},
+		{
+			"name": "Centipede, Monstrous",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/monstrousCentipede.htm",
+			"meta_type": "vermin"
+		},
+		{
+			"name": "Chaos Beast",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/chaosBeast.htm"
+		},
+		{
+			"name": "Cheetah",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/cheetah.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Chimera",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/chimera.htm"
+		},
+		{
+			"name": "Choker",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/choker.htm"
+		},
+		{
+			"name": "Chuul",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/chuul.htm"
+		},
+		{
+			"name": "Cloaker",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/cloaker.htm"
+		},
+		{
+			"name": "Cockatrice",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/cockatrice.htm"
+		},
+		{
+			"name": "Couatl",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/couatl.htm"
+		},
+		{
+			"name": "Crocodile",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/crocodile.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Crocodile, Giant",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/crocodileGiant.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Darkmantle",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/darkmantle.htm"
+		},
+		{
+			"name": "Delver",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/delver.htm"
+		},
+		{
+			"name": "Demon",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/demon.htm"
+		},
+		{
+			"name": "Derro",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/derro.htm"
+		},
+		{
+			"name": "Destrachan",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/destrachan.htm"
+		},
+		{
+			"name": "Devil",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/devil.htm"
+		},
+		{
+			"name": "Devourer",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/devourer.htm"
+		},
+		{
+			"name": "Digester",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/digester.htm"
+		},
+		{
+			"name": "Dinosaur",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dinosaur.htm"
+		},
+		{
+			"name": "Dire Animal",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/direAnimal.htm"
+		},
+		{
+			"name": "Doppelganger",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/doppelganger.htm"
+		},
+		{
+			"name": "Dog",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dog.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Dog, Riding",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dogRiding.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Donkey",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/donkey.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Dragon, True",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dragonTrue.htm"
+		},
+		{
+			"name": "Dragon Turtle",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dragonTurtle.htm"
+		},
+		{
+			"name": "Dragonne",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dragonne.htm"
+		},
+		{
+			"name": "Drider",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/drider.htm"
+		},
+		{
+			"name": "Dryad",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dryad.htm"
+		},
+		{
+			"name": "Dwarf",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dwarf.htm"
+		},
+		{
+			"name": "Eagle",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/eagle.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Eagle, Giant",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/eagleGiant.htm"
+		},
+		{
+			"name": "Elemental",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/elemental.htm"
+		},
+		{
+			"name": "Elephant",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/elephant.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Elf",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/elf.htm"
+		},
+		{
+			"name": "Ethereal Filcher",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/etherealFilcher.htm"
+		},
+		{
+			"name": "Ethereal Marauder",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/etherealMarauder.htm"
+		},
+		{
+			"name": "Ettercap",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ettercap.htm"
+		},
+		{
+			"name": "Ettin",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ettin.htm"
+		},
+		{
+			"name": "Fire Beetle, Giant",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/giantFireBeetle.htm",
+			"meta_type": "vermin"
+		},
+		{
+			"name": "Fiendish Creature",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/fiendishCreature.htm"
+		},
+		{
+			"name": "Formian",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/formian.htm"
+		},
+		{
+			"name": "Frost Worm",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/frostWorm.htm"
+		},
+		{
+			"name": "Fungus",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/fungus.htm"
+		},
+		{
+			"name": "Gargoyle",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/gargoyle.htm"
+		},
+		{
+			"name": "Genie",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/genie.htm"
+		},
+		{
+			"name": "Ghaele",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ghaele.htm"
+		},
+		{
+			"name": "Ghost",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ghost.htm"
+		},
+		{
+			"name": "Ghoul",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ghoul.htm"
+		},
+		{
+			"name": "Giant",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/giant.htm"
+		},
+		{
+			"name": "Gibbering Mouther",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/gibberingMouther.htm"
+		},
+		{
+			"name": "Girallon",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/girallon.htm"
+		},
+		{
+			"name": "Gnoll",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/gnoll.htm"
+		},
+		{
+			"name": "Gnome",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/gnome.htm"
+		},
+		{
+			"name": "Goblin",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/goblin.htm"
+		},
+		{
+			"name": "Golem",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/golem.htm"
+		},
+		{
+			"name": "Gorgon",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/gorgon.htm"
+		},
+		{
+			"name": "Gray Render",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/grayRender.htm"
+		},
+		{
+			"name": "Grick",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/grick.htm"
+		},
+		{
+			"name": "Griffon",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/griffon.htm"
+		},
+		{
+			"name": "Grimlock",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/grimlock.htm"
+		},
+		{
+			"name": "Hag",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/hag.htm"
+		},
+		{
+			"name": "Half-Celestial",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/halfCelestial.htm"
+		},
+		{
+			"name": "Half-Dragon",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/halfDragon.htm"
+		},
+		{
+			"name": "Half-Fiend",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/halfFiend.htm"
+		},
+		{
+			"name": "Halfling",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/halfling.htm"
+		},
+		{
+			"name": "Harpy",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/harpy.htm"
+		},
+		{
+			"name": "Hawk",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/hawk.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Hell Hound",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/hellHound.htm"
+		},
+		{
+			"name": "Hippogriff",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/hippogriff.htm"
+		},
+		{
+			"name": "Hobgoblin",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/hobgoblin.htm"
+		},
+		{
+			"name": "Homunculus",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/homunculus.htm"
+		},
+		{
+			"name": "Horse",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/horse.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Howler",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/howler.htm"
+		},
+		{
+			"name": "Hydra",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/hydra.htm"
+		},
+		{
+			"name": "Hyena",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/hyena.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Inevitable",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/inevitable.htm"
+		},
+		{
+			"name": "Invisible Stalker",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/invisibleStalker.htm"
+		},
+		{
+			"name": "Kobold",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/kobold.htm"
+		},
+		{
+			"name": "Kraken",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/kraken.htm"
+		},
+		{
+			"name": "Krenshar",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/krenshar.htm"
+		},
+		{
+			"name": "Lamia",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/lamia.htm"
+		},
+		{
+			"name": "Lammasu",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/lammasu.htm"
+		},
+		{
+			"name": "Leonal",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/leonal.htm"
+		},
+		{
+			"name": "Leopard",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/leopard.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Lich",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/lich.htm"
+		},
+		{
+			"name": "Lillend",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/lillend.htm"
+		},
+		{
+			"name": "Lion",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/lion.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Lizard",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/lizard.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Lizard, Monitor",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/lizardMonitor.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Lizardfolk",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/lizardfolk.htm"
+		},
+		{
+			"name": "Locathah",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/locathah.htm"
+		},
+		{
+			"name": "Lycanthrope",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/lycanthrope.htm"
+		},
+		{
+			"name": "Magmin",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/magmin.htm"
+		},
+		{
+			"name": "Manta Ray",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/mantaRay.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Manticore",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/manticore.htm"
+		},
+		{
+			"name": "Medusa",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/medusa.htm"
+		},
+		{
+			"name": "Mephit",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/mephit.htm"
+		},
+		{
+			"name": "Merfolk",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/merfolk.htm"
+		},
+		{
+			"name": "Mimic",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/mimic.htm"
+		},
+		{
+			"name": "Minotaur",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/minotaur.htm"
+		},
+		{
+			"name": "Mohrg",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/mohrg.htm"
+		},
+		{
+			"name": "Monkey",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/monkey.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Mule",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/mule.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Mummy",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/mummy.htm"
+		},
+		{
+			"name": "Naga",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/naga.htm"
+		},
+		{
+			"name": "Night Hag",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/nightHag.htm"
+		},
+		{
+			"name": "Nightmare",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/nightmare.htm"
+		},
+		{
+			"name": "Nightshade",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/nightshade.htm"
+		},
+		{
+			"name": "Nymph",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/nymph.htm"
+		},
+		{
+			"name": "Octopus",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/octopus.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Octopus, Giant",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/octopusGiant.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Ogre",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ogre.htm"
+		},
+		{
+			"name": "Ogre Mage",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ogreMage.htm"
+		},
+		{
+			"name": "Ooze",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ooze.htm"
+		},
+		{
+			"name": "Orc",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/orc.htm"
+		},
+		{
+			"name": "Otyugh",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/otyugh.htm"
+		},
+		{
+			"name": "Owl",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/owl.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Owl, Giant",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/owlGiant.htm"
+		},
+		{
+			"name": "Owlbear",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/owlbear.htm"
+		},
+		{
+			"name": "Pegasus",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/pegasus.htm"
+		},
+		{
+			"name": "Phantom Fungus",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/phantomFungus.htm"
+		},
+		{
+			"name": "Phase Spider",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/phaseSpider.htm"
+		},
+		{
+			"name": "Phasm",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/phasm.htm"
+		},
+		{
+			"name": "Planetouched",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/planetouched.htm"
+		},
+		{
+			"name": "Pony",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/pony.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Pony, War",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ponyWar.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Porpoise",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/porpoise.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Praying Mantis, Giant",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/giantPrayingMantis.htm",
+			"meta_type": "vermin"
+		},
+		{
+			"name": "Pseudodragon",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/pseudodragon.htm"
+		},
+		{
+			"name": "Purple Worm",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/purpleWorm.htm"
+		},
+		{
+			"name": "Rakshasa",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/rakshasa.htm"
+		},
+		{
+			"name": "Rast",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/rast.htm"
+		},
+		{
+			"name": "Rat",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/rat.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Ravid",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ravid.htm"
+		},
+		{
+			"name": "Raven",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/raven.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Razor Boar",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/razorBoar.htm"
+		},
+		{
+			"name": "Remorhaz",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/remorhaz.htm"
+		},
+		{
+			"name": "Rhinoceros",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/rhinoceros.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Roc",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/roc.htm"
+		},
+		{
+			"name": "Roper",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/roper.htm"
+		},
+		{
+			"name": "Rust Monster",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/rustMonster.htm"
+		},
+		{
+			"name": "Sahuagin",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/sahuagin.htm"
+		},
+		{
+			"name": "Salamander",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/salamander.htm"
+		},
+		{
+			"name": "Satyr",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/satyr.htm"
+		},
+		{
+			"name": "Scorpion, Monstrous",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/monstrousScorpion.htm",
+			"meta_type": "vermin"
+		},
+		{
+			"name": "Scorpionfolk",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/scorpionfolk.htm"
+		},
+		{
+			"name": "Sea Cat",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/seaCat.htm"
+		},
+		{
+			"name": "Shadow",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/shadow.htm"
+		},
+		{
+			"name": "Shadow Mastiff",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/shadowMastiff.htm"
+		},
+		{
+			"name": "Shambling Mound",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/shamblingMound.htm"
+		},
+		{
+			"name": "Shark",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/shark.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Shield Guardian",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/shieldGuardian.htm"
+		},
+		{
+			"name": "Shocker Lizard",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/shockerLizard.htm"
+		},
+		{
+			"name": "Skeleton",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/skeleton.htm"
+		},
+		{
+			"name": "Skum",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/skum.htm"
+		},
+		{
+			"name": "Snake",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/snake.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Spectre",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/spectre.htm"
+		},
+		{
+			"name": "Sphinx",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/sphinx.htm"
+		},
+		{
+			"name": "Spider, Monstrous",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/monstrousSpider.htm",
+			"meta_type": "vermin"
+		},
+		{
+			"name": "Spider Eater",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/spiderEater.htm"
+		},
+		{
+			"name": "Sprite",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/sprite.htm"
+		},
+		{
+			"name": "Squid",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/squid.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Squid, Giant",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/squidGiant.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Stag Beetle, Giant",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/giantStagBeetle.htm",
+			"meta_type": "vermin"
+		},
+		{
+			"name": "Stirge",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/stirge.htm"
+		},
+		{
+			"name": "Swarm",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/swarm.htm"
+		},
+		{
+			"name": "Tarrasque",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/tarrasque.htm"
+		},
+		{
+			"name": "Tendriculos",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/tendriculos.htm"
+		},
+		{
+			"name": "Thoqqua",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/thoqqua.htm"
+		},
+		{
+			"name": "Tiger",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/tiger.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Titan",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/titan.htm"
+		},
+		{
+			"name": "Toad",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/toad.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Tojanida",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/tojanida.htm"
+		},
+		{
+			"name": "Treant",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/treant.htm"
+		},
+		{
+			"name": "Triton",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/triton.htm"
+		},
+		{
+			"name": "Troglodyte",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/troglodyte.htm"
+		},
+		{
+			"name": "Troll",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/troll.htm"
+		},
+		{
+			"name": "Unicorn",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/unicorn.htm"
+		},
+		{
+			"name": "Vampire",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/vampire.htm"
+		},
+		{
+			"name": "Vargouille",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/vargouille.htm"
+		},
+		{
+			"name": "Wasp, Giant",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/giantWasp.htm",
+			"meta_type": "vermin"
+		},
+		{
+			"name": "Weasel",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/weasel.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Whale",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/whale.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Wight",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/wight.htm"
+		},
+		{
+			"name": "Will-O-Wisp",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/willOWisp.htm"
+		},
+		{
+			"name": "Winter Wolf",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/winterWolf.htm"
+		},
+		{
+			"name": "Wolf",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/wolf.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Wolverine",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/wolverine.htm",
+			"meta_type": "animal"
+		},
+		{
+			"name": "Worg",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/worg.htm"
+		},
+		{
+			"name": "Wraith",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/wraith.htm"
+		},
+		{
+			"name": "Wyvern",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/wyvern.htm"
+		},
+		{
+			"name": "Xill",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/xill.htm"
+		},
+		{
+			"name": "Xorn",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/xorn.htm"
+		},
+		{
+			"name": "Yeth Hound",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/yethHound.htm"
+		},
+		{
+			"name": "Yrthak",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/yrthak.htm"
+		},
+		{
+			"name": "Zombie",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/zombie.htm"
+		}
+	]
+}
