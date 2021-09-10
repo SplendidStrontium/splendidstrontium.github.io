@@ -1,3 +1,6 @@
+---
+---
+
 // MAP GENERATOR
 
 window.onload = function() {
@@ -9,7 +12,6 @@ window.onload = function() {
 	var canvas = document.getElementById("mapgenCanvas");
 	canvas.width = w;
 	canvas.height = h;
-	
 	
 	var ctx = canvas.getContext("2d");
 
@@ -38,21 +40,27 @@ window.onload = function() {
 		ctx.lineWidth = 1;
 		// stroke once
 		ctx.stroke();
-	
 	};
 
 	drawGrid(ctx, w, h, step);
-
+	
 }
 
 function submitMapGen() {
-	//var monsters = {{ site.data.monsters.monsters | jsonify }};
-	var resultsdetail = document.getElementById("mapgen-results");
+	// load monsterlist as an object
+	var monsterlist = {{ site.data.d20srd-monsters.monsters | jsonify }};
+
 	var mnstramt = document.getElementById("monster-amount").value;
-	var resultsdetailline1 = "You generated " + mnstramt + " monster(s)";
+	document.getElementById("mapgen-results").innerHTML = "You generated " + mnstramt + " monster(s)";
 	
-	document.getElementById("mapgen-results").innerHTML = resultsdetailline1;
 	//document.getElementById("mapgen-results").innerHTML = monsters;
+	
+	for (var n=1;n<=mnstramt;n+=1){
+		var random_number = Math.floor(Math.random()*monsterlist.length);
+		var mymonster = monsterlist[random_number];
+		document.getElementById("mapgen-results").innerHTML += "<br>" + mymonster.name + ": ";
+		document.getElementById("mapgen-results").innerHTML += "<a href=\"" + mymonster.d20srd_url + "\">d20 SRD</a>";
+	}
 }
 
 
