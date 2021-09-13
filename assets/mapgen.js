@@ -5,11 +5,11 @@
 
 window.onload = function() {
 
-	var w = 800;
-	var h = 600;
+	var w = 670;
+	var h = 700;
 	var step = 20;
 
-	var canvas = document.getElementById("mapgenCanvas");
+	var canvas = document.getElementById("mapgen-canvas");
 	canvas.width = w;
 	canvas.height = h;
 	
@@ -23,7 +23,7 @@ window.onload = function() {
 			ctx.lineTo(x+0.5, h);
 		}
 		// set the color of the line
-		ctx.strokeStyle = 'rgb(150,150,150)';
+		ctx.strokeStyle = 'rgb(190,190,190)';
 		ctx.lineWidth = 1;
 		// the stroke will actually paint the current path
 		ctx.stroke();
@@ -35,7 +35,7 @@ window.onload = function() {
 			ctx.lineTo(w, y+0.5);
 		}
 		// set the color of the line
-		ctx.strokeStyle = 'rgb(150,150,150)';
+		ctx.strokeStyle = 'rgb(190,190,190)';
 		// just for fun
 		ctx.lineWidth = 1;
 		// stroke once
