@@ -1,21 +1,22 @@
 <!DOCTYPE html>
 <html>
 
-   <link rel="shortcut icon" type="image/png" href="{{ "/favicon.png" | prepend: site.baseurl }}" />
+ 
+  <header class="page-header">
+  {% include header.html %}
+  <link rel="shortcut icon" type="image/png" href="{{ "/favicon.png" | prepend: site.baseurl }}" />
   {% include head.html %}
 	<script src="{{ "/assets/mapgen.js" | prepend: site.baseurl }}"></script>
-
-
+  
+    <h1 class="page-title">{{ page.title }}</h1>
+  </header>
+  
   <body>
 
-    {% include header.html %}
-
-
-    <div class="page-content">
-      <div class="wrapper-wide">
+      <div class="mapgen-outer-wrapper">
         {{ content }}
       </div>
-    </div>
+
 
 		{% include footer-sm.html %}
 

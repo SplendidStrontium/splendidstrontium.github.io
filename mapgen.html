@@ -10,24 +10,48 @@ permalink: /dnd/mapgen/
 </head>
 
 <body>
-<div class="mapgen-intro">The following is a tool in development as of September 8, 2021. The monster list is from the open-source <a href="https://www.d20srd.org/index.htm">D20 SRD</a></div>
+
+
+<div class="mapgen-intro">The following is a Javascript tool in development as of September 13, 2021. The monster list is from the open-source <a href="https://www.d20srd.org/index.htm">D20 SRD</a>. To save your results, print to PDF. Each grid square is 5'x5'.</div>
 
 <div id="mapgen-disp-wrapper">
-<canvas id="mapgenCanvas"></canvas>
+<canvas id="mapgen-canvas"></canvas>
 
 <div id="mapgen-results">Your map is empty. Generate something using the options below.</div>
 
 <div id="mapgen-options">
-
-<div class="mapgen-dropdown">
-	<label for="monster-amount">How many monsters?</label>
-	<select name="monster-amount" id="monster-amount">
-		<option value="1">1</option>
-		<option value="2">2</option>
-		<option value="3">3</option>
-	</select>
+	<p id="mapgen-options-title">Generator Options</p>
 	
-</div>
+	<div class="mapgen-size-dropdown">
+		<label for="mapgen-size-dropdown">What size map to generate?</label>
+		<select name="mapgen-size" id="mapgen-size-dropdown">
+			<option value="1">1 room (XS)</option>
+			<option value="2">2-3 rooms (S)</option>
+			<option value="4">4-6 rooms (M)</option>
+		</select>
+		
+	</div>
+	
+	<div id="mapgen-tower-choice" style="display: none;">
+	<input type="radio" id="mapgen-maptype-tower" name="mapgen-maptype" value="tower">
+	<label for="tower">Tower</label><br/>
+	</div>
+	
+	<input type="radio" id="mapgen-maptype-dungeon" name="mapgen-maptype" value="dungeon">
+	<label for="dungeon">Dungeon</label><br/>
+	
+	<input type="radio" id="mapgen-maptype-cave" name="mapgen-maptype" value="cave">
+	<label for="cave">Cave</label><br/>
+
+	<div class="mapgen-dropdown">
+		<label for="monster-amount">How many monsters?</label>
+		<select name="monster-amount" id="monster-amount">
+			<option value="1">1</option>
+			<option value="2">2</option>
+			<option value="3">3</option>
+		</select>
+		
+	</div>
 
 <button id="mapgensubmitbtn" onclick="submitMapGen()">Submit</button>
 </div>
