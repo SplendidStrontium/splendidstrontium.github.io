@@ -14,9 +14,15 @@ window.onload = function() {
 	canvas.width = w;
 	canvas.height = h;
 	
-	var ctx = canvas.getContext("2d");
+	const ctx = canvas.getContext("2d");
 
-	var drawGrid = function(ctx, w, h, step){
+	drawGrid(ctx, w, h, step);
+	
+}
+//END onload function
+
+//BEGIN grid draw function
+function drawGrid(ctx, w, h, step){
 		// horizontal grid lines
 		ctx.beginPath();
 		for (var x=0;x<=w;x+=step) {
@@ -41,12 +47,8 @@ window.onload = function() {
 		ctx.lineWidth = 1;
 		// stroke once
 		ctx.stroke();
-	};
-
-	drawGrid(ctx, w, h, step);
-	
 }
-//END onload function
+//END grid draw function
 
 //BEGIN map size dropdown toggle
 function toggleMapType() {
@@ -57,6 +59,7 @@ function toggleMapType() {
 		document.getElementById("mapgen-tower-choice").style.display = "none";
 		document.getElementById("mapgen-cave-choice").style.display = "";
 	}
+	/*
 	if (mapsize == 2) {
 		document.getElementById("mapgen-tower-choice").style.display = ""; 
 		document.getElementById("mapgen-cave-choice").style.display = "";
@@ -65,18 +68,56 @@ function toggleMapType() {
 		document.getElementById("mapgen-tower-choice").style.display = "";
 		document.getElementById("mapgen-cave-choice").style.display = "none";
 	}
+	*/
 }
 //END map size dropdown toggle
 
 //BEGIN map generation process
 function submitMapGen() {
+	//CLEAR canvas
+	var canvas = document.getElementById("mapgen-canvas");
+	const ctx = canvas.getContext('2d');
+	ctx.clearRect(0, 0, canvas.width, canvas.height);
+	
+	//BEGIN drawing a room
+	var mapsize = document.getElementById("mapgen-size-dropdown").value;
+	//drawGrid(ctx, canvas.width, canvas.height, 30);
+	
+	//lets draw a rectangular room
+	var minrmdim = 10;
+	var maxrmdim = 100;
+	var x_rmdim = minrmdim + Math.floor(Math.random()*(maxrmdim-minrmdim));
+	var y_rmdim = minrmdim + Math.floor(Math.random()*(maxrmdim-minrmdim));
+	
+	//select largest dimension and calculate grid size accordingly
+	if (x_rmdim > y_rmdim) {
+		var large_rmdim = x_rmdim;
+		var mapgenpadding = Math.floor(canvas.width * 0.05);
+		var step = (canvas.width - (2*mapgenpadding)) / x_rmdim;
+		drawGrid(ctx, canvas.width, canvas.height, step*5);
+	} else {
+		var large_rmdim = y_rmdim;
+		var mapgenpadding = Math.floor(canvas.height * 0.05);
+		var step = (canvas.height - (2*mapgenpadding)) / y_rmdim;
+		drawGrid(ctx, canvas.width, canvas.height, step*5);
+	}
+	
+	ctx.beginPath();
+	ctx.rect(mapgenpadding, mapgenpadding, 5*(x_rmdim+mapgenpadding), 5*(y_rmdim+mapgenpadding));
+	// set the color of the line
+	ctx.strokeStyle = 'rgb(0,0,0)';
+	ctx.lineWidth = 2;
+	// the stroke will actually paint the current path
+	ctx.stroke();
+	//END drawing a room
+	console.log(x_rmdim + " " + y_rmdim);
+
 	// load monsterlist as an object
 	var monsterlist = {{ site.data.d20srd-monsters.monsters | jsonify }};
 
 	var mnstramt = document.getElementById("monster-amount").value;
 	document.getElementById("mapgen-results").innerHTML = "You generated " + mnstramt + " monster(s)";
 	
-	//document.getElementById("mapgen-results").innerHTML = monsters;
 	
 	for (var n=1;n<=mnstramt;n+=1){
 		var random_number = Math.floor(Math.random()*monsterlist.length);
