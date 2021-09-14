@@ -12,7 +12,7 @@ permalink: /dnd/mapgen/
 <body>
 
 
-<div class="mapgen-intro">The following is a Javascript tool in development as of September 13, 2021. The monster list is from the open-source <a href="https://www.d20srd.org/index.htm">D20 SRD</a>. To save your results, print to PDF. Each grid square is 5'x5'.</div>
+<div class="mapgen-intro">The following is a Javascript tool in development as of September 14, 2021. The monster list is from the open-source <a href="https://www.d20srd.org/index.htm">D20 SRD</a>. To save your results, print to PDF. Each grid square is 5'x5'.</div>
 
 <div id="mapgen-disp-wrapper">
 <canvas id="mapgen-canvas"></canvas>
@@ -26,8 +26,8 @@ permalink: /dnd/mapgen/
 		<label for="mapgen-size-dropdown">What size map to generate?</label>
 		<select name="mapgen-size" id="mapgen-size-dropdown" onchange="toggleMapType()">
 			<option value="1">1 room (XS)</option>
-			<option value="2">2-3 rooms (S)</option>
-			<option value="4">4-6 rooms (M)</option>
+			<option value="2" style="display: none;">2-3 rooms (S)</option>
+			<option value="4" style="display: none;">4-6 rooms (M)</option>
 		</select>
 		
 	</div>
@@ -38,11 +38,11 @@ permalink: /dnd/mapgen/
 	</div>
 	
 	<div id="mapgen-dungeon-choice">
-	<input type="radio" id="mapgen-maptype-dungeon" name="mapgen-maptype" value="dungeon">
+	<input type="radio" id="mapgen-maptype-dungeon" name="mapgen-maptype" value="dungeon" checked="checked">
 	<label for="dungeon">Dungeon</label><br/>
 	</div>
 	
-	<div id="mapgen-cave-choice">
+	<div id="mapgen-cave-choice" style="display: none;">
 	<input type="radio" id="mapgen-maptype-cave" name="mapgen-maptype" value="cave">
 	<label for="cave">Cave</label><br/>
 	</div>
@@ -58,6 +58,7 @@ permalink: /dnd/mapgen/
 	</div>
 
 <button id="mapgensubmitbtn" onclick="submitMapGen()">Submit</button>
+<button id="mapgenreloadbtn" onclick="location.reload()">Reload</button>
 </div>
 </div>
 
