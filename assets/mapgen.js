@@ -3,6 +3,7 @@
 
 // MAP GENERATOR
 
+//BEGIN onload function
 window.onload = function() {
 
 	var w = 670;
@@ -45,7 +46,29 @@ window.onload = function() {
 	drawGrid(ctx, w, h, step);
 	
 }
+//END onload function
 
+//BEGIN map size dropdown toggle
+function toggleMapType() {
+	var mapsize = document.getElementById("mapgen-size-dropdown").value;
+	console.log(mapsize);
+	//toggle depending on selected value
+	if (mapsize == 1) {
+		document.getElementById("mapgen-tower-choice").style.display = "none";
+		document.getElementById("mapgen-cave-choice").style.display = "";
+	}
+	if (mapsize == 2) {
+		document.getElementById("mapgen-tower-choice").style.display = ""; 
+		document.getElementById("mapgen-cave-choice").style.display = "";
+	}
+	if (mapsize == 4) {
+		document.getElementById("mapgen-tower-choice").style.display = "";
+		document.getElementById("mapgen-cave-choice").style.display = "none";
+	}
+}
+//END map size dropdown toggle
+
+//BEGIN map generation process
 function submitMapGen() {
 	// load monsterlist as an object
 	var monsterlist = {{ site.data.d20srd-monsters.monsters | jsonify }};
@@ -62,6 +85,6 @@ function submitMapGen() {
 		document.getElementById("mapgen-results").innerHTML += "<a href=\"" + mymonster.d20srd_url + "\">d20 SRD</a>";
 	}
 }
-
+//END map generation process
 
 
