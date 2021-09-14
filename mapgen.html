@@ -24,7 +24,7 @@ permalink: /dnd/mapgen/
 	
 	<div class="mapgen-size-dropdown">
 		<label for="mapgen-size-dropdown">What size map to generate?</label>
-		<select name="mapgen-size" id="mapgen-size-dropdown">
+		<select name="mapgen-size" id="mapgen-size-dropdown" onchange="toggleMapType()">
 			<option value="1">1 room (XS)</option>
 			<option value="2">2-3 rooms (S)</option>
 			<option value="4">4-6 rooms (M)</option>
@@ -37,11 +37,15 @@ permalink: /dnd/mapgen/
 	<label for="tower">Tower</label><br/>
 	</div>
 	
+	<div id="mapgen-dungeon-choice">
 	<input type="radio" id="mapgen-maptype-dungeon" name="mapgen-maptype" value="dungeon">
 	<label for="dungeon">Dungeon</label><br/>
+	</div>
 	
+	<div id="mapgen-cave-choice">
 	<input type="radio" id="mapgen-maptype-cave" name="mapgen-maptype" value="cave">
 	<label for="cave">Cave</label><br/>
+	</div>
 
 	<div class="mapgen-dropdown">
 		<label for="monster-amount">How many monsters?</label>
