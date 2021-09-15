@@ -1,7 +1,7 @@
 ---
 ---
 
-// MAP GENERATOR
+//MAP GENERATOR
 
 //BEGIN onload function
 window.onload = function() {
@@ -88,29 +88,33 @@ function submitMapGen() {
 	var maxrmdim = 100;
 	var x_rmdim = minrmdim + Math.floor(Math.random()*(maxrmdim-minrmdim));
 	var y_rmdim = minrmdim + Math.floor(Math.random()*(maxrmdim-minrmdim));
+	var mapgenpadding = canvas.width * 0.05;
+	console.log(x_rmdim + " " + y_rmdim);
 	
-	//select largest dimension and calculate grid size accordingly
-	if (x_rmdim > y_rmdim) {
-		var large_rmdim = x_rmdim;
-		var mapgenpadding = Math.floor(canvas.width * 0.05);
-		var step = (canvas.width - (2*mapgenpadding)) / x_rmdim;
-		drawGrid(ctx, canvas.width, canvas.height, step*5);
+	var x_step = (canvas.width - (2*mapgenpadding)) / x_rmdim;
+	var y_step = (canvas.height - (2*mapgenpadding)) / y_rmdim;
+	
+	//select limiting dimension
+	if (x_step < y_step) {
+		var step = x_step;
 	} else {
-		var large_rmdim = y_rmdim;
-		var mapgenpadding = Math.floor(canvas.height * 0.05);
-		var step = (canvas.height - (2*mapgenpadding)) / y_rmdim;
-		drawGrid(ctx, canvas.width, canvas.height, step*5);
+		var step = y_step;
 	}
 	
 	ctx.beginPath();
-	ctx.rect(mapgenpadding, mapgenpadding, 5*(x_rmdim+mapgenpadding), 5*(y_rmdim+mapgenpadding));
+	ctx.rect(mapgenpadding, mapgenpadding, x_rmdim*step, y_rmdim*step);
 	// set the color of the line
 	ctx.strokeStyle = 'rgb(0,0,0)';
 	ctx.lineWidth = 2;
 	// the stroke will actually paint the current path
 	ctx.stroke();
 	//END drawing a room
-	console.log(x_rmdim + " " + y_rmdim);
+	
+	var step5 = 5*step;
+	drawGrid(ctx, canvas.width, canvas.height, step5);
+	
+	
+	
 
 	// load monsterlist as an object
 	var monsterlist = {{ site.data.d20srd-monsters.monsters | jsonify }};
