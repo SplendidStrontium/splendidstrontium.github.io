@@ -4,14 +4,14 @@
 			"name": "Aboleth",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/aboleth.htm",
 			"size_category": "huge",
-			"creature_type": "aberration",
-			"environment": ["aquatic","subterranean"]
+			"creature_type": ["aberration","aquatic"],
+			"environment": ["aquatic","subterranean","underground"]
 		},
 		{
 			"name": "Achaierai",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/achaierai.htm",
 			"size_category": "large",
-			"creature_type": ["outsider","extraplanar"],
+			"creature_type": ["outsider","extraplanar","evil","lawful"],
 			"environment": ["lawful-plane"]
 		},
 		{
@@ -25,7 +25,7 @@
 			"name": "Angel",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/angel.htm",
 			"size_category": ["medium","large"],
-			"creature_type": ["extraplanar","outsider"],
+			"creature_type": ["extraplanar","outsider","angel","good"],
 			"environment": ["good-plane"]
 		},
 		{
@@ -63,14 +63,14 @@
 			"name": "Archon",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/archon.htm",
 			"size_category": ["small","medium"],
-			"creature_type": "outsider",
+			"creature_type": ["extraplanar","outsider","archon","good","lawful"],
 			"environment": ["lawful-good-plane"]
 		},
 		{
 			"name": "Arrowhawk",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/arrowhawk.htm",
 			"size_category": ["small","medium","large"],
-			"creature_type": "outsider",
+			"creature_type": ["extraplanar","outsider","air"],
 			"environment": ["air-plane"]
 		},
 		{
@@ -91,14 +91,14 @@
 			"name": "Avoral",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/avoral.htm",
 			"size_category": "medium",
-			"creature_type": "outsider",
+			"creature_type": ["extraplanar","outsider","good"],
 			"environment": ["good-plane"]
 		},
 		{
 			"name": "Azer",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/azer.htm",
 			"size_category": "medium",
-			"creature_type": "outsider",
+			"creature_type": ["extraplanar","outsider","fire"],
 			"environment": ["fire-plane"]
 		},
 		{
@@ -115,7 +115,7 @@
 			"name": "Barqhest",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/barqhest.htm",
 			"size_category": ["medium","large"],
-			"creature_type": ["outsider","shapechanger"],
+			"creature_type": ["outsider","shapechanger","evil","lawful","extraplanar"],
 			"environment": ["evil-plane"]
 		},
 		{
@@ -129,7 +129,7 @@
 			"name": "Basilisk, Abyssal Greater",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/basilisk.htm",
 			"size_category": ["large"],
-			"creature_type": ["outsider","magical-beast","augmented"],
+			"creature_type": ["outsider","magical-beast","augmented","extraplanar"],
 			"environment": ["chaotic-evil-plane"]
 		},
 		{
@@ -168,7 +168,7 @@
 			"name": "Belker",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/belker.htm",
 			"size_category": ["large"],
-			"creature_type": ["elemental"],
+			"creature_type": ["elemental","air","extraplanar"],
 			"environment": ["air-plane"]
 		},
 		{
@@ -192,7 +192,7 @@
 			"name": "Bodak",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/bodak.htm",
 			"size_category": ["medium"],
-			"creature_type": ["undead"],
+			"creature_type": ["undead","extraplanar"],
 			"environment": ["chaotic-evil-plane"]
 		},
 		{
@@ -204,7 +204,7 @@
 			"name": "Bralani",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/bralani.htm",
 			"size_category": ["medium"],
-			"creature_type": ["outsider"],
+			"creature_type": ["outsider","chaotic","extraplanar","good"],
 			"environment": ["chaotic-good-plane"]
 		},
 		{
@@ -233,11 +233,17 @@
 		},
 		{
 			"name": "Celestial Creature",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/celestialCreature.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/celestialCreature.htm",
+			"size_category": [],
+			"creature_type": ["extraplanar"],
+			"environment": []
 		},
 		{
 			"name": "Centaur",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/centaur.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/centaur.htm",
+			"size_category": ["large"],
+			"creature_type": ["monstrous","humanoid"],
+			"environment": ["temperate","forest"]
 		},
 		{
 			"name": "Centipede, Monstrous",
@@ -246,7 +252,10 @@
 		},
 		{
 			"name": "Chaos Beast",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/chaosBeast.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/chaosBeast.htm",
+			"size_category": ["medium"],
+			"creature_type": ["outsider","chaotic","extraplanar"],
+			"environment": ["limbo-plane"]
 		},
 		{
 			"name": "Cheetah",
@@ -255,27 +264,45 @@
 		},
 		{
 			"name": "Chimera",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/chimera.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/chimera.htm",
+			"size_category": ["large"],
+			"creature_type": ["magical-beast"],
+			"environment": ["temperate","hills"]
 		},
 		{
 			"name": "Choker",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/choker.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/choker.htm",
+			"size_category": ["small"],
+			"creature_type": ["aberration"],
+			"environment": ["underground"]
 		},
 		{
 			"name": "Chuul",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/chuul.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/chuul.htm",
+			"size_category": ["large"],
+			"creature_type": ["aberration","aquatic"],
+			"environment": ["temperate","marsh"]
 		},
 		{
 			"name": "Cloaker",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/cloaker.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/cloaker.htm",
+			"size_category": ["large"],
+			"creature_type": ["aberration"],
+			"environment": ["underground"]
 		},
 		{
 			"name": "Cockatrice",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/cockatrice.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/cockatrice.htm",
+			"size_category": ["small"],
+			"creature_type": ["magical-beast"],
+			"environment": ["temperate","plain"]
 		},
 		{
 			"name": "Couatl",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/couatl.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/couatl.htm",
+			"size_category": ["large"],
+			"creature_type": ["outsider","native"],
+			"environment": ["warm","forest"]
 		},
 		{
 			"name": "Crocodile",
@@ -289,39 +316,66 @@
 		},
 		{
 			"name": "Darkmantle",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/darkmantle.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/darkmantle.htm",
+			"size_category": ["small"],
+			"creature_type": ["magical-beast"],
+			"environment": ["underground"]
 		},
 		{
 			"name": "Delver",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/delver.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/delver.htm",
+			"size_category": ["huge"],
+			"creature_type": ["aberration"],
+			"environment": ["underground"]
 		},
 		{
 			"name": "Demon",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/demon.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/demon.htm",
+			"size_category": ["small","medium","large","huge"],
+			"creature_type": ["chaotic","extraplanar","evil"],
+			"environment": ["chaotic-evil-plane"]
 		},
 		{
 			"name": "Derro",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/derro.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/derro.htm",
+			"size_category": ["small"],
+			"creature_type": ["monstrous","humanoid"],
+			"environment": ["underground"]
 		},
 		{
 			"name": "Destrachan",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/destrachan.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/destrachan.htm",
+			"size_category": ["large"],
+			"creature_type": ["aberration"],
+			"environment": ["underground"]
 		},
 		{
 			"name": "Devil",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/devil.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/devil.htm",
+			"size_category": ["tiny","small","medium","large"],
+			"creature_type": ["outsider","evil","extraplanar","lawful"],
+			"environment": ["lawful-evil-plane"]
 		},
 		{
 			"name": "Devourer",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/devourer.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/devourer.htm",
+			"size_category": ["large"],
+			"creature_type": ["undead","extraplanar"],
+			"environment": []
 		},
 		{
 			"name": "Digester",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/digester.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/digester.htm",
+			"size_category": ["medium"],
+			"creature_type": ["magical-beast"],
+			"environment": ["warm","forest"]
 		},
 		{
 			"name": "Dinosaur",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/dinosaur.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dinosaur.htm",
+			"size_category": ["medium","large","huge"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","warm","forest","plain"]
 		},
 		{
 			"name": "Dire Animal",
@@ -329,7 +383,10 @@
 		},
 		{
 			"name": "Doppelganger",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/doppelganger.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/doppelganger.htm",
+			"size_category": ["medium"],
+			"creature_type": ["monstrous","humanoid","shapechanger"],
+			"environment": []
 		},
 		{
 			"name": "Dog",
@@ -352,23 +409,45 @@
 		},
 		{
 			"name": "Dragon Turtle",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/dragonTurtle.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dragonTurtle.htm",
+			"size_category": ["huge"],
+			"creature_type": ["dragon","aquatic"],
+			"environment": ["temperate","aquatic"]
 		},
 		{
 			"name": "Dragonne",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/dragonne.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dragonne.htm",
+			"size_category": ["large"],
+			"creature_type": ["magical-beast"],
+			"environment": ["temperate","desert"]
 		},
 		{
 			"name": "Drider",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/drider.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/drider.htm",
+			"size_category": ["large"],
+			"creature_type": ["aberration"],
+			"environment": ["underground"]
+		},
+		{
+			"name": "Drow",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/elf.htm",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","elf"],
+			"environment": ["underground"]
 		},
 		{
 			"name": "Dryad",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/dryad.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dryad.htm",
+			"size_category": ["medium"],
+			"creature_type": ["fey"],
+			"environment": ["temperate","forest"]
 		},
 		{
 			"name": "Dwarf",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/dwarf.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dwarf.htm",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","dwarf"],
+			"environment": ["temperate","mountains","underground"]
 		},
 		{
 			"name": "Eagle",
@@ -377,11 +456,17 @@
 		},
 		{
 			"name": "Eagle, Giant",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/eagleGiant.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/eagleGiant.htm",
+			"size_category": ["large"],
+			"creature_type": ["magical-beast"],
+			"environment": ["temperate","mountains"]
 		},
 		{
 			"name": "Elemental",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/elemental.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/elemental.htm",
+			"size_category": ["small","medium","large","huge"],
+			"creature_type": ["elemental","air","fire","water","earth","extraplanar"],
+			"environment": ["air-plane","earth-plane","fire-plane","water-plane"]
 		},
 		{
 			"name": "Elephant",
@@ -390,23 +475,38 @@
 		},
 		{
 			"name": "Elf",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/elf.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/elf.htm",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","elf"],
+			"environment": ["temperate","forest"]
 		},
 		{
 			"name": "Ethereal Filcher",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/etherealFilcher.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/etherealFilcher.htm",
+			"size_category": ["medium"],
+			"creature_type": ["aberration"],
+			"environment": ["underground"]
 		},
 		{
 			"name": "Ethereal Marauder",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/etherealMarauder.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/etherealMarauder.htm",
+			"size_category": ["medium"],
+			"creature_type": ["magical-beast","extraplanar"],
+			"environment": ["ethereal-plane"]
 		},
 		{
 			"name": "Ettercap",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/ettercap.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ettercap.htm",
+			"size_category": ["medium"],
+			"creature_type": ["aberration"],
+			"environment": ["warm","forest"]
 		},
 		{
 			"name": "Ettin",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/ettin.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ettin.htm",
+			"size_category": ["large"],
+			"creature_type": ["giant"],
+			"environment": ["cold","hills"]
 		},
 		{
 			"name": "Fire Beetle, Giant",
@@ -419,27 +519,45 @@
 		},
 		{
 			"name": "Formian",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/formian.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/formian.htm",
+			"size_category": ["small","medium","large"],
+			"creature_type": ["outsider","extraplanar","lawful"],
+			"environment": ["lawful-plane"]
 		},
 		{
 			"name": "Frost Worm",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/frostWorm.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/frostWorm.htm",
+			"size_category": ["huge"],
+			"creature_type": ["magical-beast","cold"],
+			"environment": ["cold","plain"]
 		},
 		{
 			"name": "Fungus",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/fungus.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/fungus.htm",
+			"size_category": ["medium"],
+			"creature_type": ["plant"],
+			"environment": ["underground"]
 		},
 		{
 			"name": "Gargoyle",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/gargoyle.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/gargoyle.htm",
+			"size_category": ["medium"],
+			"creature_type": ["monstrous","humanoid","earth"],
+			"environment": []
 		},
 		{
 			"name": "Genie",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/genie.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/genie.htm",
+			"size_category": ["medium","large"],
+			"creature_type": ["giant","extraplanar"],
+			"environment": []
 		},
 		{
 			"name": "Ghaele",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/ghaele.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ghaele.htm",
+			"size_category": ["medium"],
+			"creature_type": ["outsider","chaotic","extraplanar","good"],
+			"environment": ["chaotic-good-plane"]
 		},
 		{
 			"name": "Ghost",
@@ -447,59 +565,101 @@
 		},
 		{
 			"name": "Ghoul",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/ghoul.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ghoul.htm",
+			"size_category": ["medium"],
+			"creature_type": ["undead"],
+			"environment": []
 		},
 		{
 			"name": "Giant",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/giant.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/giant.htm",
+			"size_category": ["huge"],
+			"creature_type": ["giant", "air"],
+			"environment": ["temperate","mountains"]
 		},
 		{
 			"name": "Gibbering Mouther",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/gibberingMouther.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/gibberingMouther.htm",
+			"size_category": ["medium"],
+			"creature_type": ["aberration"],
+			"environment": ["underground"]
 		},
 		{
 			"name": "Girallon",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/girallon.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/girallon.htm",
+			"size_category": ["large"],
+			"creature_type": ["magical-beast"],
+			"environment": ["warm","forest"]
 		},
 		{
 			"name": "Gnoll",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/gnoll.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/gnoll.htm",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","gnoll"],
+			"environment": ["warm","plain"]
 		},
 		{
 			"name": "Gnome",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/gnome.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/gnome.htm",
+			"size_category": ["small"],
+			"creature_type": ["humanoid","gnome"],
+			"environment": ["temperate","hills"]
 		},
 		{
 			"name": "Goblin",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/goblin.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/goblin.htm",
+			"size_category": ["small"],
+			"creature_type": ["humanoid","goblinoid"],
+			"environment": ["temperate","plain"]
 		},
 		{
 			"name": "Golem",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/golem.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/golem.htm",
+			"size_category": ["large"],
+			"creature_type": ["construct"],
+			"environment": []
 		},
 		{
 			"name": "Gorgon",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/gorgon.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/gorgon.htm",
+			"size_category": ["large"],
+			"creature_type": ["magical-beast"],
+			"environment": ["temperate","plain"]
 		},
 		{
 			"name": "Gray Render",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/grayRender.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/grayRender.htm",
+			"size_category": ["large"],
+			"creature_type": ["magical-beast"],
+			"environment": ["temperate","marsh"]
 		},
 		{
 			"name": "Grick",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/grick.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/grick.htm",
+			"size_category": ["medium"],
+			"creature_type": ["aberration"],
+			"environment": ["underground"]
 		},
 		{
 			"name": "Griffon",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/griffon.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/griffon.htm",
+			"size_category": ["large"],
+			"creature_type": ["magical-beast"],
+			"environment": ["temperate","hills"]
 		},
 		{
 			"name": "Grimlock",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/grimlock.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/grimlock.htm",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","monstrous"],
+			"environment": ["underground"]
 		},
 		{
 			"name": "Hag",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/hag.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/hag.htm",
+			"size_category": ["medium","large"],
+			"creature_type": ["humanoid","monstrous"],
+			"environment": ["aquatic","marsh"]
 		},
 		{
 			"name": "Half-Celestial",
@@ -943,6 +1103,13 @@
 		{
 			"name": "Stirge",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/stirge.htm"
+		},
+		{
+			"name": "Svirfneblin",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/gnome.htm",
+			"size_category": ["small"],
+			"creature_type": ["humanoid","gnome"],
+			"environment": ["underground"]
 		},
 		{
 			"name": "Swarm",
