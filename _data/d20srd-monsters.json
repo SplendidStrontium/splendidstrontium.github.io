@@ -2,27 +2,45 @@
 	"monsters":[
 		{
 			"name": "Aboleth",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/aboleth.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/aboleth.htm",
+			"size_category": "huge",
+			"creature_type": "aberration",
+			"environment": ["aquatic","subterranean"]
 		},
 		{
 			"name": "Achaierai",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/achaierai.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/achaierai.htm",
+			"size_category": "large",
+			"creature_type": ["outsider","extraplanar"],
+			"environment": ["lawful-plane"]
 		},
 		{
 			"name": "Allip",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/allip.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/allip.htm",
+			"size_category": "medium",
+			"creature_type": ["undead", "incorporeal"],
+			"environment": []
 		},
 		{
 			"name": "Angel",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/angel.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/angel.htm",
+			"size_category": ["medium","large"],
+			"creature_type": ["extraplanar","outsider"],
+			"environment": ["good-plane"]
 		},
 		{
 			"name": "Animated Object",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/animatedObject.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/animatedObject.htm",
+			"size_category": ["tiny","small","medium","large","huge","gargantuan"],
+			"creature_type": ["construct"],
+			"environment": []
 		},
 		{
 			"name": "Ankheg",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/ankheg.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ankheg.htm",
+			"size_category": "large",
+			"creature_type": "magical-beast",
+			"environment": ["warm", "plain"]
 		},
 		{
 			"name": "Ant, Giant",
@@ -36,31 +54,52 @@
 		},
 		{
 			"name": "Aranea",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/aranea.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/aranea.htm",
+			"size_category": "medium",
+			"creature_type": ["magical-beast","shapechanger"],
+			"environment": ["temperate","forest"]
 		},
 		{
 			"name": "Archon",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/archon.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/archon.htm",
+			"size_category": ["small","medium"],
+			"creature_type": "outsider",
+			"environment": ["lawful-good-plane"]
 		},
 		{
 			"name": "Arrowhawk",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/arrowhawk.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/arrowhawk.htm",
+			"size_category": ["small","medium","large"],
+			"creature_type": "outsider",
+			"environment": ["air-plane"]
 		},
 		{
 			"name": "Assassin Vine",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/assassinVine.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/assassinVine.htm",
+			"size_category": "large",
+			"creature_type": "plant",
+			"environment": ["temperate","forest"]
 		},
 		{
 			"name": "Athach",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/athach.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/athach.htm",
+			"size_category": "huge",
+			"creature_type": "aberration",
+			"environment": ["temperate","hills"]
 		},
 		{
 			"name": "Avoral",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/avoral.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/avoral.htm",
+			"size_category": "medium",
+			"creature_type": "outsider",
+			"environment": ["good-plane"]
 		},
 		{
 			"name": "Azer",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/azer.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/azer.htm",
+			"size_category": "medium",
+			"creature_type": "outsider",
+			"environment": ["fire-plane"]
 		},
 		{
 			"name": "Baboon",
@@ -74,11 +113,24 @@
 		},
 		{
 			"name": "Barqhest",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/barqhest.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/barqhest.htm",
+			"size_category": ["medium","large"],
+			"creature_type": ["outsider","shapechanger"],
+			"environment": ["evil-plane"]
 		},
 		{
 			"name": "Basilisk",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/basilisk.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/basilisk.htm",
+			"size_category": ["medium"],
+			"creature_type": ["magical-beast"],
+			"environment": ["warm","desert"]
+		},
+		{
+			"name": "Basilisk, Abyssal Greater",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/basilisk.htm",
+			"size_category": ["large"],
+			"creature_type": ["outsider","magical-beast","augmented"],
+			"environment": ["chaotic-evil-plane"]
 		},
 		{
 			"name": "Bat",
@@ -107,7 +159,17 @@
 		},
 		{
 			"name": "Behir",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/behir.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/behir.htm",
+			"size_category": ["huge"],
+			"creature_type": ["magical-beast"],
+			"environment": ["warm","hills"]
+		},
+		{
+			"name": "Belker",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/belker.htm",
+			"size_category": ["large"],
+			"creature_type": ["elemental"],
+			"environment": ["air-plane"]
 		},
 		{
 			"name": "Bison",
@@ -116,7 +178,10 @@
 		},
 		{
 			"name": "Blink Dog",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/blinkDog.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/blinkDog.htm",
+			"size_category": ["medium"],
+			"creature_type": ["magical-beast"],
+			"environment": ["temperate","plain"]
 		},
 		{
 			"name": "Boar",
@@ -125,7 +190,10 @@
 		},
 		{
 			"name": "Bodak",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/bodak.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/bodak.htm",
+			"size_category": ["medium"],
+			"creature_type": ["undead"],
+			"environment": ["chaotic-evil-plane"]
 		},
 		{
 			"name": "Bombadier Beetle, Giant",
@@ -134,15 +202,24 @@
 		},
 		{
 			"name": "Bralani",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/bralani.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/bralani.htm",
+			"size_category": ["medium"],
+			"creature_type": ["outsider"],
+			"environment": ["chaotic-good-plane"]
 		},
 		{
 			"name": "Bugbear",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/bugbear.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/bugbear.htm",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","goblinoid"],
+			"environment": ["temperate","mountains"]
 		},
 		{
 			"name": "Bulette",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/bulette.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/bulette.htm",
+			"size_category": ["huge"],
+			"creature_type": ["magical-beast"],
+			"environment": ["temperate","hills"]
 		},
 		{
 			"name": "Camel",
