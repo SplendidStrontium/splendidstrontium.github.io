@@ -5,7 +5,14 @@
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/aboleth.htm",
 			"size_category": "huge",
 			"creature_type": ["aberration","aquatic"],
-			"environment": ["aquatic","subterranean","underground"]
+			"environment": ["aquatic","underground"]
+		},
+		{
+			"name": "Aboleth Mage",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/aboleth.htm#abolethMage",
+			"size_category": "huge",
+			"creature_type": ["aberration","aquatic"],
+			"environment": ["underground","aquatic"]
 		},
 		{
 			"name": "Achaierai",
@@ -25,6 +32,27 @@
 			"name": "Angel",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/angel.htm",
 			"size_category": ["medium","large"],
+			"creature_type": ["extraplanar","outsider","angel","good"],
+			"environment": ["good-plane"]
+		},
+		{
+			"name": "Angel, Astral Deva",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/angel.htm#angelAstralDeva",
+			"size_category": ["medium"],
+			"creature_type": ["extraplanar","outsider","angel","good"],
+			"environment": ["good-plane"]
+		},
+		{
+			"name": "Angel, Planetar",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/angel.htm#angelPlanetar",
+			"size_category": ["large"],
+			"creature_type": ["extraplanar","outsider","angel","good"],
+			"environment": ["good-plane"]
+		},
+		{
+			"name": "Angel, Solar",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/angel.htm#angelSolar",
+			"size_category": ["large"],
 			"creature_type": ["extraplanar","outsider","angel","good"],
 			"environment": ["good-plane"]
 		},
@@ -63,6 +91,34 @@
 			"name": "Archon",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/archon.htm",
 			"size_category": ["small","medium"],
+			"creature_type": ["extraplanar","outsider","archon","good","lawful"],
+			"environment": ["lawful-good-plane"]
+		},
+		{
+			"name": "Lantern Archon",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/archon.htm#lanternArchon",
+			"size_category": ["small"],
+			"creature_type": ["extraplanar","outsider","archon","good","lawful"],
+			"environment": ["lawful-good-plane"]
+		},
+		{
+			"name": "Hound Archon",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/archon.htm#houndArchon",
+			"size_category": ["medium"],
+			"creature_type": ["extraplanar","outsider","archon","good","lawful"],
+			"environment": ["lawful-good-plane"]
+		},
+		{
+			"name": "Hound Archon Hero",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/archon.htm#houndArchonHero",
+			"size_category": ["medium"],
+			"creature_type": ["extraplanar","outsider","archon","good","lawful"],
+			"environment": ["lawful-good-plane"]
+		},
+		{
+			"name": "Trumpet Archon",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/archon.htm#trumpetArchon",
+			"size_category": ["medium"],
 			"creature_type": ["extraplanar","outsider","archon","good","lawful"],
 			"environment": ["lawful-good-plane"]
 		},
@@ -114,7 +170,14 @@
 		{
 			"name": "Barqhest",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/barqhest.htm",
-			"size_category": ["medium","large"],
+			"size_category": ["medium"],
+			"creature_type": ["outsider","shapechanger","evil","lawful","extraplanar"],
+			"environment": ["evil-plane"]
+		},
+		{
+			"name": "Greater Barqhest",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/barghest.htm#greaterBarghest",
+			"size_category": ["large"],
 			"creature_type": ["outsider","shapechanger","evil","lawful","extraplanar"],
 			"environment": ["evil-plane"]
 		},
@@ -126,8 +189,8 @@
 			"environment": ["warm","desert"]
 		},
 		{
-			"name": "Basilisk, Abyssal Greater",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/basilisk.htm",
+			"name": "Abyssal Greater Basilisk",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/basilisk.htm#abyssalGreaterBasilisk",
 			"size_category": ["large"],
 			"creature_type": ["outsider","magical-beast","augmented","extraplanar"],
 			"environment": ["chaotic-evil-plane"]
@@ -332,7 +395,91 @@
 			"name": "Demon",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/demon.htm",
 			"size_category": ["small","medium","large","huge"],
-			"creature_type": ["chaotic","extraplanar","evil"],
+			"creature_type": ["chaotic","extraplanar","evil","outsider"],
+			"environment": ["chaotic-evil-plane"]
+		},
+		{
+			"name": "Babau",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/demon.htm#babau",
+			"size_category": ["medium"],
+			"creature_type": ["chaotic","extraplanar","evil","outsider"],
+			"environment": ["chaotic-evil-plane"]
+		},
+		{
+			"name": "Balor",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/demon.htm#balor",
+			"size_category": ["large"],
+			"creature_type": ["chaotic","extraplanar","evil","outsider"],
+			"environment": ["chaotic-evil-plane"]
+		},
+		{
+			"name": "Bebilith",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/demon.htm#bebilith",
+			"size_category": ["huge"],
+			"creature_type": ["chaotic","extraplanar","evil","outsider"],
+			"environment": ["chaotic-evil-plane"]
+		},
+		{
+			"name": "Dretch",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/demon.htm#dretch",
+			"size_category": ["small"],
+			"creature_type": ["chaotic","extraplanar","evil","outsider"],
+			"environment": ["chaotic-evil-plane"]
+		},
+		{
+			"name": "Glabrezu",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/demon.htm#glabrezu",
+			"size_category": ["huge"],
+			"creature_type": ["chaotic","extraplanar","evil","outsider"],
+			"environment": ["chaotic-evil-plane"]
+		},
+		{
+			"name": "Hezrou",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/demon.htm#hezrou",
+			"size_category": ["large"],
+			"creature_type": ["chaotic","extraplanar","evil","outsider"],
+			"environment": ["chaotic-evil-plane"]
+		},
+		{
+			"name": "Marilith",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/demon.htm#marilith",
+			"size_category": ["large"],
+			"creature_type": ["chaotic","extraplanar","evil","outsider"],
+			"environment": ["chaotic-evil-plane"]
+		},
+		{
+			"name": "Nalfeshnee",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/demon.htm#nalfeshnee",
+			"size_category": ["huge"],
+			"creature_type": ["chaotic","extraplanar","evil","outsider"],
+			"environment": ["chaotic-evil-plane"]
+		},
+		{
+			"name": "Quasit",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/demon.htm#quasit",
+			"size_category": ["tiny"],
+			"creature_type": ["chaotic","extraplanar","evil","outsider"],
+			"environment": ["chaotic-evil-plane"]
+		},
+		{
+			"name": "Retriever",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/demon.htm#retriever",
+			"size_category": ["huge"],
+			"creature_type": ["extraplanar"],
+			"environment": ["chaotic-evil-plane"]
+		},
+		{
+			"name": "Succubus",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/demon.htm#succubus",
+			"size_category": ["medium"],
+			"creature_type": ["extraplanar", "chaotic","evil","outsider"],
+			"environment": ["chaotic-evil-plane"]
+		},
+		{
+			"name": "Vrock",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/demon.htm#retriever",
+			"size_category": ["huge"],
+			"creature_type": ["extraplanar"],
 			"environment": ["chaotic-evil-plane"]
 		},
 		{
@@ -353,6 +500,83 @@
 			"name": "Devil",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/devil.htm",
 			"size_category": ["tiny","small","medium","large"],
+			"creature_type": ["outsider","evil","extraplanar","lawful"],
+			"environment": ["lawful-evil-plane"]
+		},
+		{
+			"name": "Barbed Devil (Hamatula)",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/devil.htm#barbedDevilHamatula",
+			"size_category": ["medium"],
+			"creature_type": ["outsider","evil","extraplanar","lawful"],
+			"environment": ["lawful-evil-plane"]
+		},
+		{
+			"name": "Bearded Devil (Barbazu)",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/devil.htm#beardedDevilBarbazu",
+			"size_category": ["medium"],
+			"creature_type": ["outsider","evil","extraplanar","lawful"],
+			"environment": ["lawful-evil-plane"]
+		},
+		{
+			"name": "Bone Devil (Osyluth)",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/devil.htm#boneDevilOsyluth",
+			"size_category": ["large"],
+			"creature_type": ["outsider","evil","extraplanar","lawful"],
+			"environment": ["lawful-evil-plane"]
+		},
+		{
+			"name": "Chain Devil (Kyton)",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/devil.htm#chainDevilKyton",
+			"size_category": ["medium"],
+			"creature_type": ["outsider","evil","extraplanar","lawful"],
+			"environment": ["lawful-evil-plane"]
+		},
+		{
+			"name": "Erinyes",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/devil.htm#erinyes",
+			"size_category": ["medium"],
+			"creature_type": ["outsider","evil","extraplanar","lawful"],
+			"environment": ["lawful-evil-plane"]
+		},
+		{
+			"name": "Hellcat (Bezekira)",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/devil.htm#hellcatBezekira",
+			"size_category": ["large"],
+			"creature_type": ["outsider","evil","extraplanar","lawful"],
+			"environment": ["lawful-evil-plane"]
+		},
+		{
+			"name": "Horned Devil (Cornugon)",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/devil.htm#hornedDevilCornugon",
+			"size_category": ["large"],
+			"creature_type": ["outsider","evil","extraplanar","lawful"],
+			"environment": ["lawful-evil-plane"]
+		},
+		{
+			"name": "Ice Devil (Gelugon)",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/devil.htm#iceDevilGelugon",
+			"size_category": ["large"],
+			"creature_type": ["outsider","evil","extraplanar","lawful"],
+			"environment": ["lawful-evil-plane"]
+		},
+		{
+			"name": "Imp",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/devil.htm#imp",
+			"size_category": ["tiny"],
+			"creature_type": ["outsider","evil","extraplanar","lawful"],
+			"environment": ["lawful-evil-plane"]
+		},
+		{
+			"name": "Lemure",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/devil.htm#lemure",
+			"size_category": ["medium"],
+			"creature_type": ["outsider","evil","extraplanar","lawful"],
+			"environment": ["lawful-evil-plane"]
+		},
+		{
+			"name": "Pit Fiend",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/devil.htm#pitFiend",
+			"size_category": ["large"],
 			"creature_type": ["outsider","evil","extraplanar","lawful"],
 			"environment": ["lawful-evil-plane"]
 		},
@@ -378,8 +602,134 @@
 			"environment": ["temperate","warm","forest","plain"]
 		},
 		{
+			"name": "Deinonychus",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dinosaur.htm#deinonychus",
+			"size_category": ["medium"],
+			"creature_type": ["animal"],
+			"environment": ["warm","forest"]
+		},
+		{
+			"name": "Elasmosaurus",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dinosaur.htm#elasmosaurus",
+			"size_category": ["huge"],
+			"creature_type": ["animal"],
+			"environment": ["warm","aquatic"]
+		},
+		{
+			"name": "Megaraptor",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dinosaur.htm#megaraptor",
+			"size_category": ["large"],
+			"creature_type": ["animal"],
+			"environment": ["warm","forest"]
+		},
+		{
+			"name": "Triceratops",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dinosaur.htm#triceratops",
+			"size_category": ["huge"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","plain"]
+		},
+		{
+			"name": "Tyrannosaurus",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dinosaur.htm#tyrannosaurus",
+			"size_category": ["huge"],
+			"creature_type": ["animal"],
+			"environment": ["warm","plains"]
+		},
+		{
 			"name": "Dire Animal",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/direAnimal.htm"
+		},
+		{
+			"name": "Dire Ape",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/direApe.htm",
+			"size_category": ["large"],
+			"creature_type": ["animal"],
+			"environment": ["warm","forest"]
+		},
+		{
+			"name": "Dire Badger",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/direBadger.htm",
+			"size_category": ["medium"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","forest"]
+		},
+		{
+			"name": "Dire Bat",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/direBat.htm",
+			"size_category": ["large"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","desert"]
+		},
+		{
+			"name": "Dire Bear",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/direBear.htm",
+			"size_category": ["large"],
+			"creature_type": ["animal"],
+			"environment": ["cold","forest"]
+		},
+		{
+			"name": "Dire Boar",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/direBoar.htm",
+			"size_category": ["large"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","forest"]
+		},
+		{
+			"name": "Dire Lion",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/direLion.htm",
+			"size_category": ["large"],
+			"creature_type": ["animal"],
+			"environment": ["warm","plain"]
+		},
+		{
+			"name": "Dire Rat",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/direRat.htm",
+			"size_category": ["small"],
+			"creature_type": ["animal"],
+			"environment": []
+		},
+		{
+			"name": "Fiendish Dire Rat",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/direRat.htm",
+			"size_category": ["small"],
+			"creature_type": ["magical-beast"],
+			"environment": ["evil-plane"]
+		},
+		{
+			"name": "Dire Shark",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/direShark.htm",
+			"size_category": ["huge"],
+			"creature_type": ["animal", "aquatic"],
+			"environment": ["cold","aquatic"]
+		},
+		{
+			"name": "Dire Tiger",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/direTiger.htm",
+			"size_category": ["large"],
+			"creature_type": ["animal"],
+			"environment": ["warm","forest"]
+		},
+		{
+			"name": "Dire Weasel",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/direWeasel.htm",
+			"size_category": ["medium"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","hills"]
+		},
+		{
+			"name": "Dire Wolf",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/direWolf.htm",
+			"size_category": ["large"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","forest"]
+		},
+		{
+			"name": "Dire Wolverine",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/direWolverine.htm",
+			"size_category": ["large"],
+			"creature_type": ["animal"],
+			"environment": ["cold","forest"]
 		},
 		{
 			"name": "Doppelganger",
