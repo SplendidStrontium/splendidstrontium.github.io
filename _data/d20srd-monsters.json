@@ -73,12 +73,18 @@
 		{
 			"name": "Ant, Giant",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/giantAnt.htm",
-			"meta_type": "vermin"
+			"meta_type": "vermin",
+			"size_category": ["large","medium"],
+			"creature_type": ["vermin"],
+			"environment": ["temperate", "plain"]
 		},
 		{
 			"name": "Ape",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/ape.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["large"],
+			"creature_type": ["animal"],
+			"environment": ["warm","forest"]
 		},
 		{
 			"name": "Aranea",
@@ -160,12 +166,18 @@
 		{
 			"name": "Baboon",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/baboon.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["medium"],
+			"creature_type": ["animal"],
+			"environment": ["warm","plain"]
 		},
 		{
 			"name": "Badger",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/badger.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["small"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","forest"]
 		},
 		{
 			"name": "Barqhest",
@@ -198,27 +210,42 @@
 		{
 			"name": "Bat",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/bat.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["diminutive"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","desert"]
 		},
 		{
 			"name": "Bear, Black",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/bearBlack.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["medium"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","forest"]
 		},
 		{
 			"name": "Bear, Brown",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/bearBrown.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["large"],
+			"creature_type": ["animal"],
+			"environment": ["cold","forest"]
 		},
 		{
 			"name": "Bear, Polar",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/bearPolar.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["large"],
+			"creature_type": ["animal"],
+			"environment": ["cold","forest"]
 		},
 		{
 			"name": "Bee, Giant",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/giantBee.htm",
-			"meta_type": "vermin"
+			"meta_type": "vermin",
+			"size_category": ["medium"],
+			"creature_type": ["vermin"],
+			"environment": ["temperate", "plain"]
 		},
 		{
 			"name": "Behir",
@@ -237,7 +264,10 @@
 		{
 			"name": "Bison",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/bison.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["large"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","plain"]
 		},
 		{
 			"name": "Blink Dog",
@@ -249,7 +279,10 @@
 		{
 			"name": "Boar",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/boar.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["medium"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","forest"]
 		},
 		{
 			"name": "Bodak",
@@ -261,7 +294,10 @@
 		{
 			"name": "Bombadier Beetle, Giant",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/giantBombardierBeetle.htm",
-			"meta_type": "vermin"
+			"meta_type": "vermin",
+			"size_category": ["medium"],
+			"creature_type": ["vermin"],
+			"environment": ["warm","forest"]
 		},
 		{
 			"name": "Bralani",
@@ -287,12 +323,18 @@
 		{
 			"name": "Camel",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/camel.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["large"],
+			"creature_type": ["animal"],
+			"environment": ["warm","desert"]
 		},
 		{
 			"name": "Cat",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/cat.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["tiny"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","plain"]
 		},
 		{
 			"name": "Celestial Creature",
@@ -311,7 +353,10 @@
 		{
 			"name": "Centipede, Monstrous",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/monstrousCentipede.htm",
-			"meta_type": "vermin"
+			"meta_type": "vermin",
+			"size_category": [],
+			"creature_type": ["vermin"],
+			"environment": ["underground"]
 		},
 		{
 			"name": "Chaos Beast",
@@ -323,7 +368,10 @@
 		{
 			"name": "Cheetah",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/cheetah.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["medium"],
+			"creature_type": ["animal"],
+			"environment": ["warm","plain"]
 		},
 		{
 			"name": "Chimera",
@@ -370,12 +418,18 @@
 		{
 			"name": "Crocodile",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/crocodile.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["medium"],
+			"creature_type": ["animal"],
+			"environment": ["warm","marsh"]
 		},
 		{
 			"name": "Crocodile, Giant",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/crocodileGiant.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["huge"],
+			"creature_type": ["animal"],
+			"environment": ["warm","marsh"]
 		},
 		{
 			"name": "Darkmantle",
@@ -741,21 +795,100 @@
 		{
 			"name": "Dog",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/dog.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["small"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","plain"]
 		},
 		{
 			"name": "Dog, Riding",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/dogRiding.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["medium"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","plain"]
 		},
 		{
 			"name": "Donkey",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/donkey.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["medium"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","desert"]
 		},
 		{
 			"name": "Dragon, True",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/dragonTrue.htm"
+		},
+		{
+			"name": "Black Dragon",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dragonTrue.htm#blackDragon",
+			"size_category": ["tiny","small","medium","large","huge","gargantuan"],
+			"creature_type": ["dragon","water"],
+			"environment": ["warm","marsh"]
+		},
+		{
+			"name": "Blue Dragon",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dragonTrue.htm#blueDragon",
+			"size_category": ["small","medium","large","huge","gargantuan"],
+			"creature_type": ["dragon","earth"],
+			"environment": ["temperate","desert"]
+		},
+		{
+			"name": "Green Dragon",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dragonTrue.htm#greenDragon",
+			"size_category": ["small","medium","large","huge","gargantuan"],
+			"creature_type": ["dragon","air"],
+			"environment": ["temperate","forest"]
+		},
+		{
+			"name": "Red Dragon",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dragonTrue.htm#redDragon",
+			"size_category": ["medium","large","huge","gargantuan"],
+			"creature_type": ["dragon","fire"],
+			"environment": ["warm","mountain"]
+		},
+		{
+			"name": "White Dragon",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dragonTrue.htm#whiteDragon",
+			"size_category": ["tiny","small","medium","large","huge","gargantuan"],
+			"creature_type": ["dragon","cold"],
+			"environment": ["cold","mountain"]
+		},
+		{
+			"name": "Brass Dragon",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dragonTrue.htm#brassDragon",
+			"size_category": ["tiny","small","medium","large","huge","gargantuan"],
+			"creature_type": ["dragon","fire"],
+			"environment": ["warm","desert"]
+		},
+		{
+			"name": "Bronze Dragon",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dragonTrue.htm#bronzeDragon",
+			"size_category": ["small","medium","large","huge","gargantuan"],
+			"creature_type": ["dragon","water"],
+			"environment": ["temperate","hills"]
+		},
+		{
+			"name": "Copper Dragon",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dragonTrue.htm#copperDragon",
+			"size_category": ["tiny","small","medium","large","huge","gargantuan"],
+			"creature_type": ["dragon","earth"],
+			"environment": ["warm","hills"]
+		},
+		{
+			"name": "Gold Dragon",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dragonTrue.htm#goldDragon",
+			"size_category": ["medium","large","huge","gargantuan","colossal"],
+			"creature_type": ["dragon","fire"],
+			"environment": ["warm","plain"]
+		},
+		{
+			"name": "Silver Dragon",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dragonTrue.htm#silverDragon",
+			"size_category": ["small","medium","large","huge","gargantuan","colossal"],
+			"creature_type": ["dragon","cold"],
+			"environment": ["temperate","mountain"]
 		},
 		{
 			"name": "Dragon Turtle",
@@ -797,12 +930,36 @@
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/dwarf.htm",
 			"size_category": ["medium"],
 			"creature_type": ["humanoid","dwarf"],
-			"environment": ["temperate","mountains","underground"]
+			"environment": []
+		},
+		{
+			"name": "Deep Dwarf",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dwarf.htm#deepDwarf",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","dwarf"],
+			"environment": ["underground"]
+		},
+		{
+			"name": "Duergar",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dwarf.htm#duergar",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","dwarf"],
+			"environment": ["underground"]
+		},
+		{
+			"name": "Mountain Dwarf",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/dwarf.htm#mountainDwarf",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","dwarf"],
+			"environment": ["mountain","underground"]
 		},
 		{
 			"name": "Eagle",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/eagle.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["small"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","mountains"]
 		},
 		{
 			"name": "Eagle, Giant",
@@ -812,23 +969,89 @@
 			"environment": ["temperate","mountains"]
 		},
 		{
-			"name": "Elemental",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/elemental.htm",
+			"name": "Air Elemental",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/elemental.htm#airElemental",
 			"size_category": ["small","medium","large","huge"],
-			"creature_type": ["elemental","air","fire","water","earth","extraplanar"],
-			"environment": ["air-plane","earth-plane","fire-plane","water-plane"]
+			"creature_type": ["elemental","air","extraplanar"],
+			"environment": ["air-plane"]
+		},
+		{
+			"name": "Earth Elemental",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/elemental.htm#earthElemental",
+			"size_category": ["small","medium","large","huge"],
+			"creature_type": ["elemental","eartg","extraplanar"],
+			"environment": ["earth-plane"]
+		},
+		{
+			"name": "Fire Elemental",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/elemental.htm#fireElemental",
+			"size_category": ["small","medium","large","huge"],
+			"creature_type": ["elemental","fire","extraplanar"],
+			"environment": ["fire-plane"]
+		},
+		{
+			"name": "Water Elemental",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/elemental.htm#waterElemental",
+			"size_category": ["small","medium","large","huge"],
+			"creature_type": ["elemental","water","extraplanar"],
+			"environment": ["water-plane"]
 		},
 		{
 			"name": "Elephant",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/elephant.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["huge"],
+			"creature_type": ["animal"],
+			"environment": ["warm","plain"]
 		},
 		{
 			"name": "Elf",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/elf.htm",
 			"size_category": ["medium"],
 			"creature_type": ["humanoid","elf"],
-			"environment": ["temperate","forest"]
+			"environment": []
+		},
+		{
+			"name": "Half-Elf",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/elf.htm#halfElf",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","elf"],
+			"environment": []
+		},
+		{
+			"name": "Aquatic Elf",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/elf.htm#aquaticElf",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","elf","aquatic"],
+			"environment": ["aquatic"]
+		},
+		{
+			"name": "Drow",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/elf.htm#drow",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","elf"],
+			"environment": ["underground"]
+		},
+		{
+			"name": "Gray Elf",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/elf.htm#grayElf",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","elf"],
+			"environment": []
+		},
+		{
+			"name": "Wild Elf",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/elf.htm#wildElf",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","elf"],
+			"environment": []
+		},
+		{
+			"name": "Wood Elf",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/elf.htm#woodElf",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","elf"],
+			"environment": ["forest"]
 		},
 		{
 			"name": "Ethereal Filcher",
@@ -861,7 +1084,10 @@
 		{
 			"name": "Fire Beetle, Giant",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/giantFireBeetle.htm",
-			"meta_type": "vermin"
+			"meta_type": "vermin",
+			"size_category": ["small"],
+			"creature_type": ["vermin"],
+			"environment": ["warm", "plain"]
 		},
 		{
 			"name": "Fiendish Creature",
@@ -871,6 +1097,41 @@
 			"name": "Formian",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/formian.htm",
 			"size_category": ["small","medium","large"],
+			"creature_type": ["outsider","extraplanar","lawful"],
+			"environment": ["lawful-plane"]
+		},
+		{
+			"name": "Formian Worker",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/formian.htm#worker",
+			"size_category": ["small"],
+			"creature_type": ["outsider","extraplanar","lawful"],
+			"environment": ["lawful-plane"]
+		},
+		{
+			"name": "Formian Warrior",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/formian.htm#warrior",
+			"size_category": ["medium"],
+			"creature_type": ["outsider","extraplanar","lawful"],
+			"environment": ["lawful-plane"]
+		},
+		{
+			"name": "Formian Taskmaster",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/formian.htm#taskmaster",
+			"size_category": ["medium"],
+			"creature_type": ["outsider","extraplanar","lawful"],
+			"environment": ["lawful-plane"]
+		},
+		{
+			"name": "Formian Myrmarch",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/formian.htm#myrmarch",
+			"size_category": ["large"],
+			"creature_type": ["outsider","extraplanar","lawful"],
+			"environment": ["lawful-plane"]
+		},
+		{
+			"name": "Formian Queen",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/formian.htm#queen",
+			"size_category": ["large"],
 			"creature_type": ["outsider","extraplanar","lawful"],
 			"environment": ["lawful-plane"]
 		},
@@ -889,6 +1150,20 @@
 			"environment": ["underground"]
 		},
 		{
+			"name": "Shrieker",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/fungus.htm#shrieker",
+			"size_category": ["medium"],
+			"creature_type": ["plant"],
+			"environment": ["underground"]
+		},
+		{
+			"name": "Violet Fungus",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/fungus.htm#violetFungus",
+			"size_category": ["medium"],
+			"creature_type": ["plant"],
+			"environment": ["underground"]
+		},
+		{
 			"name": "Gargoyle",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/gargoyle.htm",
 			"size_category": ["medium"],
@@ -896,11 +1171,39 @@
 			"environment": []
 		},
 		{
+			"name": "Kapoacinth",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/gargoyle.htm#kapoacinth",
+			"size_category": ["medium"],
+			"creature_type": ["monstrous","humanoid","aquatic"],
+			"environment": ["aquatic"]
+		},
+		{
 			"name": "Genie",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/genie.htm",
 			"size_category": ["medium","large"],
-			"creature_type": ["giant","extraplanar"],
+			"creature_type": ["outsider"],
 			"environment": []
+		},
+		{
+			"name": "Djinni",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/genie.htm#djinni",
+			"size_category": ["large"],
+			"creature_type": ["outsider","air","extraplanar"],
+			"environment": ["air-plane"]
+		},
+		{
+			"name": "Efreeti",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/genie.htm#efreeti",
+			"size_category": ["large"],
+			"creature_type": ["extraplanar","fire","outsider"],
+			"environment": ["fire-plane"]
+		},
+		{
+			"name": "Janni",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/genie.htm#janni",
+			"size_category": ["medium"],
+			"creature_type": ["outsider","native"],
+			"environment": ["warm","desert"]
 		},
 		{
 			"name": "Ghaele",
@@ -921,11 +1224,81 @@
 			"environment": []
 		},
 		{
+			"name": "Lacedon",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ghoul.htm#lacedon",
+			"size_category": ["medium"],
+			"creature_type": ["undead","aquatic"],
+			"environment": ["aquatic"]
+		},
+		{
+			"name": "Ghast",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ghoul.htm#ghast",
+			"size_category": ["medium"],
+			"creature_type": ["undead"],
+			"environment": []
+		},
+		{
 			"name": "Giant",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/giant.htm",
 			"size_category": ["huge"],
+			"creature_type": ["giant"],
+			"environment": ["mountains"]
+		},
+		{
+			"name": "Cloud Giant",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/giant.htm#cloudGiant",
+			"size_category": ["huge"],
 			"creature_type": ["giant", "air"],
 			"environment": ["temperate","mountains"]
+		},
+		{
+			"name": "Fire Giant",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/giant.htm#fireGiant",
+			"size_category": ["huge"],
+			"creature_type": ["giant", "fire"],
+			"environment": ["warm","mountains"]
+		},
+		{
+			"name": "Frost Giant",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/giant.htm#frostGiant",
+			"size_category": ["large"],
+			"creature_type": ["giant", "cold"],
+			"environment": ["cold","mountains"]
+		},
+		{
+			"name": "Frost Giant Jarl",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/giant.htm#frostGiantJarl",
+			"size_category": ["large"],
+			"creature_type": ["giant", "cold"],
+			"environment": ["cold","mountains"]
+		},
+		{
+			"name": "Hill Giant",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/giant.htm#hillGiant",
+			"size_category": ["large"],
+			"creature_type": ["giant"],
+			"environment": ["temperate","hills"]
+		},
+		{
+			"name": "Stone Giant",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/giant.htm#stoneGiant",
+			"size_category": ["large"],
+			"creature_type": ["giant", "earth"],
+			"environment": ["temperate","mountains"]
+		},
+		{
+			"name": "Stone Giant Elders",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/giant.htm#stoneGiantElders",
+			"size_category": ["large"],
+			"creature_type": ["giant", "earth"],
+			"environment": ["temperate","mountains"]
+		},
+		{
+			"name": "Storm Giant",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/giant.htm#stormGiant",
+			"size_category": ["huge"],
+			"creature_type": ["giant"],
+			"environment": ["warm","mountains"]
 		},
 		{
 			"name": "Gibbering Mouther",
@@ -956,6 +1329,20 @@
 			"environment": ["temperate","hills"]
 		},
 		{
+			"name": "Svirfneblin",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/gnome.htm#svirfneblin",
+			"size_category": ["small"],
+			"creature_type": ["humanoid","gnome"],
+			"environment": ["underground"]
+		},
+		{
+			"name": "Forest Gnome",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/gnome.htm#forestGnome",
+			"size_category": ["small"],
+			"creature_type": ["humanoid","gnome"],
+			"environment": ["forest"]
+		},
+		{
 			"name": "Goblin",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/goblin.htm",
 			"size_category": ["small"],
@@ -966,6 +1353,41 @@
 			"name": "Golem",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/golem.htm",
 			"size_category": ["large"],
+			"creature_type": ["construct"],
+			"environment": []
+		},
+		{
+			"name": "Clay Golem",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/golem.htm#clayGolem",
+			"size_category": ["large"],
+			"creature_type": ["construct"],
+			"environment": []
+		},
+		{
+			"name": "Flesh Golem",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/golem.htm#fleshGolem",
+			"size_category": ["large"],
+			"creature_type": ["construct"],
+			"environment": []
+		},
+		{
+			"name": "Iron Golem",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/golem.htm#ironGolem",
+			"size_category": ["large"],
+			"creature_type": ["construct"],
+			"environment": []
+		},
+		{
+			"name": "Stone Golem",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/golem.htm#stoneGolem",
+			"size_category": ["large"],
+			"creature_type": ["construct"],
+			"environment": []
+		},
+		{
+			"name": "Greater Stone Golem",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/golem.htm#greaterStoneGolem",
+			"size_category": ["huge"],
 			"creature_type": ["construct"],
 			"environment": []
 		},
@@ -1009,588 +1431,1549 @@
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/hag.htm",
 			"size_category": ["medium","large"],
 			"creature_type": ["humanoid","monstrous"],
-			"environment": ["aquatic","marsh"]
+			"environment": []
+		},
+		{
+			"name": "Annis",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/hag.htm#annis",
+			"size_category": ["large"],
+			"creature_type": ["humanoid","monstrous"],
+			"environment": ["cold","marsh"]
+		},
+		{
+			"name": "Green Hag",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/hag.htm#greenHag",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","monstrous"],
+			"environment": ["temperate","marsh"]
+		},
+		{
+			"name": "Sea Hag",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/hag.htm#seaHag",
+			"size_category": ["medium"],
+			"creature_type": ["aquatic","humanoid","monstrous"],
+			"environment": ["temperate","aquatic"]
 		},
 		{
 			"name": "Half-Celestial",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/halfCelestial.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/halfCelestial.htm",
+			"size_category": ["medium"],
+			"creature_type": ["outsider"],
+			"environment": []
 		},
 		{
 			"name": "Half-Dragon",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/halfDragon.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/halfDragon.htm",
+			"size_category": [],
+			"creature_type": ["dragon"],
+			"environment": []
 		},
 		{
 			"name": "Half-Fiend",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/halfFiend.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/halfFiend.htm",
+			"size_category": [],
+			"creature_type": ["outsider"],
+			"environment": []
 		},
 		{
 			"name": "Halfling",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/halfling.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/halfling.htm",
+			"size_category": ["small"],
+			"creature_type": ["humanoid","halfling"],
+			"environment": ["warm","plain"]
+		},
+		{
+			"name": "Deep Halfling",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/halfling.htm#deepHalfling",
+			"size_category": ["small"],
+			"creature_type": ["humanoid","halfling"],
+			"environment": ["warm","hills"]
+		},
+		{
+			"name": "Tallfellow",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/halfling.htm#tallfellow",
+			"size_category": ["small"],
+			"creature_type": ["humanoid","halfling"],
+			"environment": ["temperate","forest"]
 		},
 		{
 			"name": "Harpy",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/harpy.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/harpy.htm",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","monstrous"],
+			"environment": ["temperate","marsh"]
+		},
+		{
+			"name": "Harpy Archer",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/harpy.htm#harpyArcher",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","monstrous"],
+			"environment": ["temperate","marsh"]
 		},
 		{
 			"name": "Hawk",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/hawk.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["tiny"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","forest"]
 		},
 		{
 			"name": "Hell Hound",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/hellHound.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/hellHound.htm",
+			"size_category": ["medium"],
+			"creature_type": ["outsider","evil","extraplanar","fire","lawful"],
+			"environment": ["lawful-evil-plane"]
+		},
+		{
+			"name": "Nessian Warhound",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/hellHound.htm#nessianWarhound",
+			"size_category": ["large"],
+			"creature_type": ["outsider","evil","extraplanar","fire","lawful"],
+			"environment": ["lawful-evil-plane"]
 		},
 		{
 			"name": "Hippogriff",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/hippogriff.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/hippogriff.htm",
+			"size_category": ["large"],
+			"creature_type": ["magical-beast"],
+			"environment": ["temperate","hills"]
 		},
 		{
 			"name": "Hobgoblin",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/hobgoblin.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/hobgoblin.htm",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","goblinoid"],
+			"environment": ["warm","hills"]
 		},
 		{
 			"name": "Homunculus",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/homunculus.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/homunculus.htm",
+			"size_category": ["tiny"],
+			"creature_type": ["construct"],
+			"environment": []
 		},
 		{
 			"name": "Horse",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/horse.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["large"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","plain"]
+		},
+		{
+			"name": "Horse, Heavy",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/horse.htm#horseHeavy",
+			"meta_type": "animal",
+			"size_category": ["large"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","plain"]
+		},
+		{
+			"name": "Horse, Light",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/horse.htm#horseLight",
+			"meta_type": "animal",
+			"size_category": ["large"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","plain"]
+		},
+		{
+			"name": "Warhorse, Heavy",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/horse.htm#warhorseHeavy",
+			"meta_type": "animal",
+			"size_category": ["large"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","plain"]
+		},
+		{
+			"name": "Warhorse, Light",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/horse.htm#warhorseLight",
+			"meta_type": "animal",
+			"size_category": ["large"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","plain"]
 		},
 		{
 			"name": "Howler",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/howler.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/howler.htm",
+			"size_category": ["large"],
+			"creature_type": ["outsider","evil","extraplanar","chaotic"],
+			"environment": ["chaotic-plane"]
 		},
 		{
 			"name": "Hydra",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/hydra.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/hydra.htm",
+			"size_category": ["huge"],
+			"creature_type": ["magical-beast"],
+			"environment": ["temperate","marsh"]
+		},
+		{
+			"name": "Pyrohydra",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/hydra.htm#pyrohydra",
+			"size_category": ["huge"],
+			"creature_type": ["magical-beast","fire"],
+			"environment": ["warm","marsh"]
+		},
+		{
+			"name": "Cryohydra",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/hydra.htm#cryohydra",
+			"size_category": ["huge"],
+			"creature_type": ["magical-beast","cold"],
+			"environment": ["cold","marsh"]
 		},
 		{
 			"name": "Hyena",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/hyena.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["medium"],
+			"creature_type": ["animal"],
+			"environment": ["warm","desert"]
 		},
 		{
 			"name": "Inevitable",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/inevitable.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/inevitable.htm",
+			"size_category": ["medium","large"],
+			"creature_type": ["construct","extraplanar","lawful"],
+			"environment": ["lawful-plane"]
+		},
+		{
+			"name": "Kolyarut",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/inevitable.htm#kolyarut",
+			"size_category": ["medium"],
+			"creature_type": ["construct","extraplanar","lawful"],
+			"environment": ["lawful-plane"]
+		},
+		{
+			"name": "Marut",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/inevitable.htm#marut",
+			"size_category": ["large"],
+			"creature_type": ["construct","extraplanar","lawful"],
+			"environment": ["lawful-plane"]
+		},
+		{
+			"name": "Zelekhut",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/inevitable.htm#zelekhut",
+			"size_category": ["large"],
+			"creature_type": ["construct","extraplanar","lawful"],
+			"environment": ["lawful-plane"]
 		},
 		{
 			"name": "Invisible Stalker",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/invisibleStalker.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/invisibleStalker.htm",
+			"size_category": ["large"],
+			"creature_type": ["elemental","air","extraplanar"],
+			"environment": ["air-plane"]
 		},
 		{
 			"name": "Kobold",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/kobold.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/kobold.htm",
+			"size_category": ["small"],
+			"creature_type": ["humanoid","reptilian"],
+			"environment": ["temperate","forest"]
 		},
 		{
 			"name": "Kraken",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/kraken.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/kraken.htm",
+			"size_category": ["gargantuan"],
+			"creature_type": ["magical-beast","aquatic"],
+			"environment": ["temperate","aquatic"]
 		},
 		{
 			"name": "Krenshar",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/krenshar.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/krenshar.htm",
+			"size_category": ["medium"],
+			"creature_type": ["magical-beast"],
+			"environment": ["temperate","plain"]
 		},
 		{
 			"name": "Lamia",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/lamia.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/lamia.htm",
+			"size_category": ["large"],
+			"creature_type": ["magical-beast"],
+			"environment": ["temperate","desert"]
 		},
 		{
 			"name": "Lammasu",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/lammasu.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/lammasu.htm",
+			"size_category": ["large"],
+			"creature_type": ["magical-beast"],
+			"environment": ["temperate","desert"]
+		},
+		{
+			"name": "Golden Protector",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/lammasu.htm#goldenProtector",
+			"size_category": ["large"],
+			"creature_type": ["dragon","extraplanar"],
+			"environment": ["lawful-good-plane"]
 		},
 		{
 			"name": "Leonal",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/leonal.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/leonal.htm",
+			"size_category": ["medium"],
+			"creature_type": ["outsider","extraplanar","good"],
+			"environment": ["good-plane"]
 		},
 		{
 			"name": "Leopard",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/leopard.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["medium"],
+			"creature_type": ["animal"],
+			"environment": ["warm","forest"]
 		},
 		{
 			"name": "Lich",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/lich.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/lich.htm",
+			"size_category": ["medium"],
+			"creature_type": ["undead"],
+			"environment": []
 		},
 		{
 			"name": "Lillend",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/lillend.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/lillend.htm",
+			"size_category": ["large"],
+			"creature_type": ["outsider","extraplanar","good","chaotic"],
+			"environment": ["chaotic-plane"]
 		},
 		{
 			"name": "Lion",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/lion.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["large"],
+			"creature_type": ["animal"],
+			"environment": ["warm","plain"]
 		},
 		{
 			"name": "Lizard",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/lizard.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["tiny"],
+			"creature_type": ["animal"],
+			"environment": ["warm","forest"]
 		},
 		{
 			"name": "Lizard, Monitor",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/lizardMonitor.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["medium"],
+			"creature_type": ["animal"],
+			"environment": ["warm","forest"]
 		},
 		{
 			"name": "Lizardfolk",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/lizardfolk.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/lizardfolk.htm",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","reptilian"],
+			"environment": ["temperate","marsh"]
 		},
 		{
 			"name": "Locathah",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/locathah.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/locathah.htm",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","aquatic"],
+			"environment": ["warm","aquatic"]
 		},
 		{
 			"name": "Lycanthrope",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/lycanthrope.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/lycanthrope.htm",
+			"size_category": ["medium","large"],
+			"creature_type": ["humanoid","human","shapechanger"],
+			"environment": []
+		},
+		{
+			"name": "Werebear",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/lycanthrope.htm#werebear",
+			"size_category": ["medium","large"],
+			"creature_type": ["humanoid","human","shapechanger"],
+			"environment": ["cold","forest"]
+		},
+		{
+			"name": "Wereboar",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/lycanthrope.htm#wereboar",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","human","shapechanger"],
+			"environment": ["temperate","forest"]
+		},
+		{
+			"name": "Hill Giant Dire Wereboar",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/lycanthrope.htm#hillGiantDireWereboar",
+			"size_category": ["large"],
+			"creature_type": ["giant","shapechanger"],
+			"environment": ["temperate","hills"]
+		},
+		{
+			"name": "Wererat",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/lycanthrope.htm#wererat",
+			"size_category": ["medium","small"],
+			"creature_type": ["humanoid","human","shapechanger"],
+			"environment": []
+		},
+		{
+			"name": "Weretiger",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/lycanthrope.htm#weretiger",
+			"size_category": ["medium","large"],
+			"creature_type": ["humanoid","human","shapechanger"],
+			"environment": ["warm","forest"]
+		},
+		{
+			"name": "Werewolf",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/lycanthrope.htm#werewolf",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","human","shapechanger"],
+			"environment": ["temperate","forest"]
+		},
+		{
+			"name": "Werewolf Lord",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/lycanthrope.htm#WerewolfLord",
+			"size_category": ["medium","large"],
+			"creature_type": ["humanoid","human","shapechanger"],
+			"environment": ["temperate","forest"]
 		},
 		{
 			"name": "Magmin",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/magmin.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/magmin.htm",
+			"size_category": ["small"],
+			"creature_type": ["elemental","fire","extraplanar"],
+			"environment": ["fire-plane"]
 		},
 		{
 			"name": "Manta Ray",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/mantaRay.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["large"],
+			"creature_type": ["animal","aquatic"],
+			"environment": ["warm","aquatic"]
 		},
 		{
 			"name": "Manticore",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/manticore.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/manticore.htm",
+			"size_category": ["large"],
+			"creature_type": ["magical-beast"],
+			"environment": ["warm","marsh"]
 		},
 		{
 			"name": "Medusa",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/medusa.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/medusa.htm",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","monstrous"],
+			"environment": ["temperate","marsh"]
 		},
 		{
 			"name": "Mephit",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/mephit.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/mephit.htm",
+			"size_category": ["small"],
+			"creature_type": ["outsider","extraplanar"],
+			"environment": []
+		},
+		{
+			"name": "Air Mephit",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/mephit.htm#airMephit",
+			"size_category": ["small"],
+			"creature_type": ["outsider","extraplanar","air"],
+			"environment": ["air-plane"]
+		},
+		{
+			"name": "Dust Mephit",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/mephit.htm#dustMephit",
+			"size_category": ["small"],
+			"creature_type": ["outsider","extraplanar","air"],
+			"environment": ["air-plane"]
+		},
+		{
+			"name": "Earth Mephit",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/mephit.htm#earthMephit",
+			"size_category": ["small"],
+			"creature_type": ["outsider","extraplanar","earth"],
+			"environment": ["earth-plane"]
+		},
+		{
+			"name": "Fire Mephit",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/mephit.htm#fireMephit",
+			"size_category": ["small"],
+			"creature_type": ["outsider","extraplanar","fire"],
+			"environment": ["fire-plane"]
+		},
+		{
+			"name": "Ice Mephit",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/mephit.htm#iceMephit",
+			"size_category": ["small"],
+			"creature_type": ["outsider","extraplanar","air","cold"],
+			"environment": ["air-plane"]
+		},
+		{
+			"name": "Magma Mephit",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/mephit.htm#magmaMephit",
+			"size_category": ["small"],
+			"creature_type": ["outsider","extraplanar","fire"],
+			"environment": ["fire-plane"]
+		},
+		{
+			"name": "Ooze Mephit",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/mephit.htm#oozeMephit",
+			"size_category": ["small"],
+			"creature_type": ["outsider","extraplanar","water"],
+			"environment": ["water-plane"]
+		},
+		{
+			"name": "Salt Mephit",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/mephit.htm#saltMephit",
+			"size_category": ["small"],
+			"creature_type": ["outsider","extraplanar","earth"],
+			"environment": ["earth-plane"]
+		},
+		{
+			"name": "Steam Mephit",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/mephit.htm#steamMephit",
+			"size_category": ["small"],
+			"creature_type": ["outsider","extraplanar","fire"],
+			"environment": ["fire-plane"]
+		},
+		{
+			"name": "Water Mephit",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/mephit.htm#waterMephit",
+			"size_category": ["small"],
+			"creature_type": ["outsider","extraplanar","water"],
+			"environment": ["water-plane"]
 		},
 		{
 			"name": "Merfolk",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/merfolk.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/merfolk.htm",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","aquatic"],
+			"environment": ["temperate","aquatic"]
 		},
 		{
 			"name": "Mimic",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/mimic.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/mimic.htm",
+			"size_category": [],
+			"creature_type": ["aberration","shapechanger"],
+			"environment": ["underground"]
 		},
 		{
 			"name": "Minotaur",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/minotaur.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/minotaur.htm",
+			"size_category": ["large"],
+			"creature_type": ["monstrous","humanoid"],
+			"environment": ["underground"]
 		},
 		{
 			"name": "Mohrg",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/mohrg.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/mohrg.htm",
+			"size_category": ["medium"],
+			"creature_type": ["undead"],
+			"environment": []
 		},
 		{
 			"name": "Monkey",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/monkey.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["tiny"],
+			"creature_type": ["animal"],
+			"environment": ["warm","forest"]
 		},
 		{
 			"name": "Mule",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/mule.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["large"],
+			"creature_type": ["animal"],
+			"environment": ["warm","plain"]
 		},
 		{
 			"name": "Mummy",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/mummy.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/mummy.htm",
+			"size_category": ["medium"],
+			"creature_type": ["undead"],
+			"environment": []
+		},
+		{
+			"name": "Mummy Lord",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/mummy.htm#mummyLord",
+			"size_category": ["medium"],
+			"creature_type": ["undead"],
+			"environment": []
 		},
 		{
 			"name": "Naga",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/naga.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/naga.htm",
+			"size_category": ["large"],
+			"creature_type": ["aberration"],
+			"environment": []
+		},
+		{
+			"name": "Dark Naga",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/naga.htm#darkNaga",
+			"size_category": ["large"],
+			"creature_type": ["aberration"],
+			"environment": ["temperate","hills"]
+		},
+		{
+			"name": "Guardian Naga",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/naga.htm#guardianNaga",
+			"size_category": ["large"],
+			"creature_type": ["aberration"],
+			"environment": ["temperate","plain"]
+		},
+		{
+			"name": "Spirit Naga",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/naga.htm#spiritNaga",
+			"size_category": ["large"],
+			"creature_type": ["aberration"],
+			"environment": ["temperate","marsh"]
+		},
+		{
+			"name": "Water Naga",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/naga.htm#waterNaga",
+			"size_category": ["large"],
+			"creature_type": ["aberration","aquatic"],
+			"environment": ["temperate","aquatic"]
 		},
 		{
 			"name": "Night Hag",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/nightHag.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/nightHag.htm",
+			"size_category": ["medium"],
+			"creature_type": ["outsider","evil","extraplanar"],
+			"environment": ["evil-plane"]
 		},
 		{
 			"name": "Nightmare",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/nightmare.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/nightmare.htm",
+			"size_category": ["large"],
+			"creature_type": ["outsider","evil","extraplanar"],
+			"environment": ["evil-plane"]
+		},
+		{
+			"name": "Nightmare, Cauchemar",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/nightmare.htm#cauchemar",
+			"size_category": ["huge"],
+			"creature_type": ["outsider","evil","extraplanar"],
+			"environment": ["neutral-evil-plane"]
 		},
 		{
 			"name": "Nightshade",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/nightshade.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/nightshade.htm",
+			"size_category": [],
+			"creature_type": ["undead","extraplanar"],
+			"environment": ["shadow-plane"]
+		},
+		{
+			"name": "Nightcrawler",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/nightshade.htm#nightcrawler",
+			"size_category": ["gargantuan"],
+			"creature_type": ["undead","extraplanar"],
+			"environment": ["shadow-plane"]
+		},
+		{
+			"name": "Nightwalker",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/nightshade.htm#nightwalker",
+			"size_category": ["huge"],
+			"creature_type": ["undead","extraplanar"],
+			"environment": ["shadow-plane"]
+		},
+		{
+			"name": "Nightwing",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/nightshade.htm#nightwing",
+			"size_category": ["huge"],
+			"creature_type": ["undead","extraplanar"],
+			"environment": ["shadow-plane"]
 		},
 		{
 			"name": "Nymph",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/nymph.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/nymph.htm",
+			"size_category": ["medium"],
+			"creature_type": ["fey"],
+			"environment": ["temperate","forest"]
 		},
 		{
 			"name": "Octopus",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/octopus.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["small"],
+			"creature_type": ["animal","aquatic"],
+			"environment": ["warm","aquatic"]
 		},
 		{
 			"name": "Octopus, Giant",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/octopusGiant.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["large"],
+			"creature_type": ["animal","aquatic"],
+			"environment": ["warm","aquatic"]
 		},
 		{
 			"name": "Ogre",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/ogre.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ogre.htm",
+			"size_category": ["large"],
+			"creature_type": ["giant"],
+			"environment": ["temperate","hills"]
+		},
+		{
+			"name": "Ogre Barbarian",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ogre.htm#ogreBarbarian",
+			"size_category": ["large"],
+			"creature_type": ["giant"],
+			"environment": ["temperate","hills"]
+		},
+		{
+			"name": "Merrow",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ogre.htm#merrow",
+			"size_category": ["large"],
+			"creature_type": ["giant","aquatic"],
+			"environment": ["temperate","aquatic"]
 		},
 		{
 			"name": "Ogre Mage",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/ogreMage.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ogreMage.htm",
+			"size_category": ["large"],
+			"creature_type": ["giant"],
+			"environment": ["cold","hills"]
 		},
 		{
 			"name": "Ooze",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/ooze.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ooze.htm",
+			"size_category": ["medium","large","huge","gargantuan"],
+			"creature_type": ["ooze"],
+			"environment": []
+		},
+		{
+			"name": "Black Pudding",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ooze.htm#blackPudding",
+			"size_category": ["huge"],
+			"creature_type": ["ooze"],
+			"environment": ["underground"]
+		},
+		{
+			"name": "Elder Black Pudding",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ooze.htm#elderBlackPudding",
+			"size_category": ["gargantuan"],
+			"creature_type": ["ooze"],
+			"environment": ["underground"]
+		},
+		{
+			"name": "Gelatinous Cube",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ooze.htm#gelatinousCube",
+			"size_category": ["large"],
+			"creature_type": ["ooze"],
+			"environment": ["underground"]
+		},
+		{
+			"name": "Gray Ooze",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ooze.htm#grayOoze",
+			"size_category": ["medium"],
+			"creature_type": ["ooze"],
+			"environment": ["cold","marsh"]
+		},
+		{
+			"name": "Ochre Jelly",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ooze.htm#ochreJelly",
+			"size_category": ["large"],
+			"creature_type": ["ooze"],
+			"environment": ["temperate","marsh"]
 		},
 		{
 			"name": "Orc",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/orc.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/orc.htm",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","orc"],
+			"environment": ["temperate","hills"]
+		},
+		{
+			"name": "Half-Orc",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/orc.htm#halfOrcs",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","orc"],
+			"environment": ["temperate","hills"]
 		},
 		{
 			"name": "Otyugh",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/otyugh.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/otyugh.htm",
+			"size_category": ["large"],
+			"creature_type": ["aberration"],
+			"environment": ["underground"]
 		},
 		{
 			"name": "Owl",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/owl.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["tiny"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","forest"]
 		},
 		{
 			"name": "Owl, Giant",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/owlGiant.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/owlGiant.htm",
+			"size_category": ["large"],
+			"creature_type": ["magical-beast"],
+			"environment": ["temperate","forest"]
 		},
 		{
 			"name": "Owlbear",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/owlbear.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/owlbear.htm",
+			"size_category": ["large"],
+			"creature_type": ["magical-beast"],
+			"environment": ["temperate","forest"]
 		},
 		{
 			"name": "Pegasus",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/pegasus.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/pegasus.htm",
+			"size_category": ["large"],
+			"creature_type": ["magical-beast"],
+			"environment": ["temperate","forest"]
 		},
 		{
 			"name": "Phantom Fungus",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/phantomFungus.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/phantomFungus.htm",
+			"size_category": ["medium"],
+			"creature_type": ["plant"],
+			"environment": ["underground"]
 		},
 		{
 			"name": "Phase Spider",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/phaseSpider.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/phaseSpider.htm",
+			"size_category": ["large"],
+			"creature_type": ["magical-beast"],
+			"environment": ["warm","hills"]
 		},
 		{
 			"name": "Phasm",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/phasm.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/phasm.htm",
+			"size_category": ["medium"],
+			"creature_type": ["aberration","shapechanger"],
+			"environment": ["underground"]
 		},
 		{
 			"name": "Planetouched",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/planetouched.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/planetouched.htm",
+			"size_category": ["medium"],
+			"creature_type": ["outsider","native"],
+			"environment": ["temperate","plain"]
+		},
+		{
+			"name": "Aasimar",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/planetouched.htm#aasimar",
+			"size_category": ["medium"],
+			"creature_type": ["outsider","native"],
+			"environment": ["temperate","plain"]
+		},
+		{
+			"name": "Tiefling",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/planetouched.htm#tiefling",
+			"size_category": ["medium"],
+			"creature_type": ["outsider","native"],
+			"environment": ["temperate","plain"]
 		},
 		{
 			"name": "Pony",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/pony.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["medium"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","plain"]
 		},
 		{
 			"name": "Pony, War",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/ponyWar.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["medium"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","plain"]
 		},
 		{
 			"name": "Porpoise",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/porpoise.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["medium"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","aquatic"]
 		},
 		{
 			"name": "Praying Mantis, Giant",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/giantPrayingMantis.htm",
-			"meta_type": "vermin"
+			"meta_type": "vermin",
+			"size_category": ["large"],
+			"creature_type": ["vermin"],
+			"environment": ["temperate", "forest"]
 		},
 		{
 			"name": "Pseudodragon",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/pseudodragon.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/pseudodragon.htm",
+			"size_category": ["tiny"],
+			"creature_type": ["dragon"],
+			"environment": ["temperate","forest"]
 		},
 		{
 			"name": "Purple Worm",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/purpleWorm.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/purpleWorm.htm",
+			"size_category": ["gargantuan"],
+			"creature_type": ["magical-beast"],
+			"environment": ["underground"]
 		},
 		{
 			"name": "Rakshasa",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/rakshasa.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/rakshasa.htm",
+			"size_category": ["medium"],
+			"creature_type": ["outsider","native"],
+			"environment": ["warm","marsh"]
 		},
 		{
 			"name": "Rast",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/rast.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/rast.htm",
+			"size_category": ["medium"],
+			"creature_type": ["outsider","extraplanar","fire"],
+			"environment": ["fire-plane"]
 		},
 		{
 			"name": "Rat",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/rat.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["tiny"],
+			"creature_type": ["animal"],
+			"environment": []
 		},
 		{
 			"name": "Ravid",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/ravid.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/ravid.htm",
+			"size_category": ["medium"],
+			"creature_type": ["outsider","extraplanar"],
+			"environment": ["positive-energy-plane"]
 		},
 		{
 			"name": "Raven",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/raven.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["tiny"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","forest"]
 		},
 		{
 			"name": "Razor Boar",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/razorBoar.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/razorBoar.htm",
+			"size_category": ["large"],
+			"creature_type": ["magical-beast"],
+			"environment": ["temperate","warm","forest","mountain"]
 		},
 		{
 			"name": "Remorhaz",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/remorhaz.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/remorhaz.htm",
+			"size_category": ["huge"],
+			"creature_type": ["magical-beast"],
+			"environment": ["cold","desert"]
 		},
 		{
 			"name": "Rhinoceros",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/rhinoceros.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["large"],
+			"creature_type": ["animal"],
+			"environment": ["warm","plain"]
 		},
 		{
 			"name": "Roc",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/roc.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/roc.htm",
+			"size_category": ["gargantuan"],
+			"meta_type": "animal",
+			"creature_type": [],
+			"environment": ["warm","mountain"]
 		},
 		{
 			"name": "Roper",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/roper.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/roper.htm",
+			"size_category": ["large"],
+			"creature_type": ["magical-beast"],
+			"environment": ["underground"]
 		},
 		{
 			"name": "Rust Monster",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/rustMonster.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/rustMonster.htm",
+			"size_category": ["medium"],
+			"creature_type": ["aberration"],
+			"environment": ["underground"]
 		},
 		{
 			"name": "Sahuagin",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/sahuagin.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/sahuagin.htm",
+			"size_category": ["medium"],
+			"creature_type": ["monstrous","humanoid","aquatic"],
+			"environment": ["warm","aquatic"]
+		},
+		{
+			"name": "Sahuagin Mutants",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/sahuagin.htm#sahuaginMutants",
+			"size_category": ["medium"],
+			"creature_type": ["monstrous","humanoid","aquatic"],
+			"environment": ["warm","aquatic"]
+		},
+		{
+			"name": "Malenti",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/sahuagin.htm#malenti",
+			"size_category": ["medium"],
+			"creature_type": ["monstrous","humanoid","aquatic"],
+			"environment": ["warm","aquatic"]
 		},
 		{
 			"name": "Salamander",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/salamander.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/salamander.htm",
+			"size_category": ["small","large","medium"],
+			"creature_type": ["outsider","extraplanar","fire"],
+			"environment": ["fire-plane"]
 		},
 		{
 			"name": "Satyr",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/satyr.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/satyr.htm",
+			"size_category": ["medium"],
+			"creature_type": ["fey"],
+			"environment": ["temperate","forest"]
 		},
 		{
 			"name": "Scorpion, Monstrous",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/monstrousScorpion.htm",
-			"meta_type": "vermin"
+			"meta_type": "vermin",
+			"size_category": [],
+			"creature_type": ["vermin"],
+			"environment": ["warm","desert"]
 		},
 		{
 			"name": "Scorpionfolk",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/scorpionfolk.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/scorpionfolk.htm",
+			"size_category": ["large"],
+			"creature_type": ["monstrous","humanoid"],
+			"environment": ["warm","desert","plain","hills"]
 		},
 		{
 			"name": "Sea Cat",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/seaCat.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/seaCat.htm",
+			"size_category": ["large"],
+			"creature_type": ["magical-beast"],
+			"environment": ["temperate","aquatic"]
 		},
 		{
 			"name": "Shadow",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/shadow.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/shadow.htm",
+			"size_category": ["medium"],
+			"creature_type": ["undead","incorporeal"],
+			"environment": []
+		},
+		{
+			"name": "Greater Shadow",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/shadow.htm#greaterShadow",
+			"size_category": ["medium"],
+			"creature_type": ["undead","incorporeal"],
+			"environment": []
 		},
 		{
 			"name": "Shadow Mastiff",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/shadowMastiff.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/shadowMastiff.htm",
+			"size_category": ["medium"],
+			"creature_type": ["outsider","extraplanar"],
+			"environment": ["shadow-plane"]
 		},
 		{
 			"name": "Shambling Mound",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/shamblingMound.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/shamblingMound.htm",
+			"size_category": ["large"],
+			"creature_type": ["plant"],
+			"environment": ["temperate","marsh"]
 		},
 		{
 			"name": "Shark",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/shark.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["medium","large","huge"],
+			"creature_type": ["animal"],
+			"environment": ["cold","aquatic"]
 		},
 		{
 			"name": "Shield Guardian",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/shieldGuardian.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/shieldGuardian.htm",
+			"size_category": ["large"],
+			"creature_type": ["construct"],
+			"environment": []
 		},
 		{
 			"name": "Shocker Lizard",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/shockerLizard.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/shockerLizard.htm",
+			"size_category": ["small"],
+			"creature_type": ["magical-beast"],
+			"environment": ["warm","marsh"]
 		},
 		{
 			"name": "Skeleton",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/skeleton.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/skeleton.htm",
+			"size_category": [],
+			"creature_type": ["undead"],
+			"environment": []
 		},
 		{
 			"name": "Skum",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/skum.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/skum.htm",
+			"size_category": ["medium"],
+			"creature_type": ["aberration","aquatic"],
+			"environment": ["underground"]
 		},
 		{
 			"name": "Snake",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/snake.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["medium","tiny","small","large","huge"],
+			"creature_type": ["animal"],
+			"environment": ["warm","marsh","temperate","forest"]
+		},
+		{
+			"name": "Constrictor Snake",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/snake.htm#constrictorSnake",
+			"meta_type": "animal",
+			"size_category": ["medium","huge"],
+			"creature_type": ["animal"],
+			"environment": ["warm","forest"]
+		},
+		{
+			"name": "Viper Snake",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/snake.htm#viperSnake",
+			"meta_type": "animal",
+			"size_category": ["tiny","small","medium","large","huge"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","marsh"]
 		},
 		{
 			"name": "Spectre",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/spectre.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/spectre.htm",
+			"size_category": ["medium"],
+			"creature_type": ["undead","incorporeal"],
+			"environment": []
 		},
 		{
 			"name": "Sphinx",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/sphinx.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/sphinx.htm",
+			"size_category": ["large"],
+			"creature_type": ["magical-beast"],
+			"environment": ["warm","desert"]
+		},
+		{
+			"name": "Androsphinx",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/sphinx.htm#androsphinx",
+			"size_category": ["large"],
+			"creature_type": ["magical-beast"],
+			"environment": ["warm","desert"]
+		},
+		{
+			"name": "Criosphinx",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/sphinx.htm#criosphinx",
+			"size_category": ["large"],
+			"creature_type": ["magical-beast"],
+			"environment": ["warm","desert"]
+		},
+		{
+			"name": "Gynosphinx",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/sphinx.htm#gynosphinx",
+			"size_category": ["large"],
+			"creature_type": ["magical-beast"],
+			"environment": ["warm","desert"]
+		},
+		{
+			"name": "Hieracosphinx",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/sphinx.htm#hieracosphinx",
+			"size_category": ["large"],
+			"creature_type": ["magical-beast"],
+			"environment": ["warm","desert"]
 		},
 		{
 			"name": "Spider, Monstrous",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/monstrousSpider.htm",
-			"meta_type": "vermin"
+			"meta_type": "vermin",
+			"size_category": [],
+			"creature_type": ["vermin"],
+			"environment": ["temperate", "forest"]
 		},
 		{
 			"name": "Spider Eater",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/spiderEater.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/spiderEater.htm",
+			"size_category": ["large"],
+			"creature_type": ["magical-beast"],
+			"environment": ["temperate","forest"]
 		},
 		{
 			"name": "Sprite",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/sprite.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/sprite.htm",
+			"size_category": ["tiny","small"],
+			"creature_type": ["fey"],
+			"environment": ["temperate"]
+		},
+		{
+			"name": "Grig",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/sprite.htm#grig",
+			"size_category": ["tiny"],
+			"creature_type": ["fey"],
+			"environment": ["temperate","forest"]
+		},
+		{
+			"name": "Nixie",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/sprite.htm#nixie",
+			"size_category": ["small"],
+			"creature_type": ["fey","aquatic"],
+			"environment": ["temperate","aquatic"]
+		},
+		{
+			"name": "Pixie",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/sprite.htm#pixie",
+			"size_category": ["small"],
+			"creature_type": ["fey"],
+			"environment": ["temperate","forest"]
 		},
 		{
 			"name": "Squid",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/squid.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["medium"],
+			"creature_type": ["animal","aquatic"],
+			"environment": ["temperate","aquatic"]
 		},
 		{
 			"name": "Squid, Giant",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/squidGiant.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["huge"],
+			"creature_type": ["animal","aquatic"],
+			"environment": ["temperate","aquatic"]
 		},
 		{
 			"name": "Stag Beetle, Giant",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/giantStagBeetle.htm",
-			"meta_type": "vermin"
+			"meta_type": "vermin",
+			"size_category": ["large"],
+			"creature_type": ["vermin"],
+			"environment": ["temperate", "forest"]
 		},
 		{
 			"name": "Stirge",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/stirge.htm"
-		},
-		{
-			"name": "Svirfneblin",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/gnome.htm",
-			"size_category": ["small"],
-			"creature_type": ["humanoid","gnome"],
-			"environment": ["underground"]
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/stirge.htm",
+			"size_category": ["tiny"],
+			"creature_type": ["magical-beast"],
+			"environment": ["warm","marsh"]
 		},
 		{
 			"name": "Swarm",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/swarm.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/swarm.htm",
+			"size_category": ["fine","diminutive","tiny"],
+			"creature_type": ["magical-beast","animal","vermin"],
+			"environment": []
+		},
+		{
+			"name": "Bat Swarm",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/swarm.htm#batSwarm",
+			"size_category": ["diminutive"],
+			"creature_type": ["animal","swarm"],
+			"environment": ["temperate","desert"]
+		},
+		{
+			"name": "Centipede Swarm",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/swarm.htm#centipedeSwarm",
+			"size_category": ["diminutive"],
+			"creature_type": ["vermin","swarm"],
+			"environment": ["underground"]
+		},
+		{
+			"name": "Hellwasp Swarm",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/swarm.htm#hellwaspSwarm",
+			"size_category": ["diminutive"],
+			"creature_type": ["magical-beast","swarm","extraplanar","evil"],
+			"environment": ["evil-plane"]
+		},
+		{
+			"name": "Locust Swarm",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/swarm.htm#locustSwarm",
+			"size_category": ["diminutive"],
+			"creature_type": ["vermin","swarm"],
+			"environment": ["temperate","plain"]
+		},
+		{
+			"name": "Rat Swarm",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/swarm.htm#ratSwarm",
+			"size_category": ["tiny"],
+			"creature_type": ["animal","swarm"],
+			"environment": []
+		},
+		{
+			"name": "Spider Swarm",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/swarm.htm#spiderSwarm",
+			"size_category": ["diminutive"],
+			"creature_type": ["vermin","swarm"],
+			"environment": ["warm","forest"]
 		},
 		{
 			"name": "Tarrasque",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/tarrasque.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/tarrasque.htm",
+			"size_category": ["colossal"],
+			"creature_type": ["magical-beast"],
+			"environment": []
 		},
 		{
 			"name": "Tendriculos",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/tendriculos.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/tendriculos.htm",
+			"size_category": ["huge"],
+			"creature_type": ["plant"],
+			"environment": ["temperate","forest"]
 		},
 		{
 			"name": "Thoqqua",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/thoqqua.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/thoqqua.htm",
+			"size_category": ["medium"],
+			"creature_type": ["elemental","earth","extraplanar","fire"],
+			"environment": ["fire-plane"]
 		},
 		{
 			"name": "Tiger",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/tiger.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["large"],
+			"creature_type": ["animal"],
+			"environment": ["warm","forest"]
 		},
 		{
 			"name": "Titan",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/titan.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/titan.htm",
+			"size_category": ["huge"],
+			"creature_type": ["outsider","chaotic","extraplanar"],
+			"environment": ["chaotic-good-plane"]
 		},
 		{
 			"name": "Toad",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/toad.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["diminutive"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","marsh"]
 		},
 		{
 			"name": "Tojanida",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/tojanida.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/tojanida.htm",
+			"size_category": ["small","medium","large"],
+			"creature_type": ["outsider","extraplanar","water"],
+			"environment": ["water-plane"]
 		},
 		{
 			"name": "Treant",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/treant.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/treant.htm",
+			"size_category": ["huge"],
+			"creature_type": ["plant"],
+			"environment": ["temperate","forest"]
 		},
 		{
 			"name": "Triton",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/triton.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/triton.htm",
+			"size_category": ["medium"],
+			"creature_type": ["outsider","native","water"],
+			"environment": ["temperate","aquatic"]
 		},
 		{
 			"name": "Troglodyte",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/troglodyte.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/troglodyte.htm",
+			"size_category": ["medium"],
+			"creature_type": ["humanoid","reptilian"],
+			"environment": ["underground"]
 		},
 		{
 			"name": "Troll",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/troll.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/troll.htm",
+			"size_category": ["large"],
+			"creature_type": ["giant"],
+			"environment": ["cold","mountain"]
+		},
+		{
+			"name": "Scrag",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/troll.htm#scrag",
+			"size_category": ["large"],
+			"creature_type": ["giant","aquatic"],
+			"environment": ["aquatic"]
+		},
+		{
+			"name": "Troll Hunter",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/troll.htm#trollHunter",
+			"size_category": ["large"],
+			"creature_type": ["giant"],
+			"environment": ["cold","mountain"]
 		},
 		{
 			"name": "Unicorn",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/unicorn.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/unicorn.htm",
+			"size_category": ["large"],
+			"creature_type": ["magical-beast"],
+			"environment": ["temperate","forest"]
+		},
+		{
+			"name": "Celestial Charger",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/unicorn.htm#celestialCharger",
+			"size_category": ["large"],
+			"creature_type": ["magical-beast","extraplanar"],
+			"environment": ["chaotic-good-plane"]
 		},
 		{
 			"name": "Vampire",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/vampire.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/vampire.htm",
+			"size_category": [],
+			"creature_type": ["undead"],
+			"environment": []
+		},
+		{
+			"name": "Vampire Spawn",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/vampire.htm#vampireSpawn",
+			"size_category": ["medium"],
+			"creature_type": ["undead"],
+			"environment": []
 		},
 		{
 			"name": "Vargouille",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/vargouille.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/vargouille.htm",
+			"size_category": ["small"],
+			"creature_type": ["outsider","evil","extraplanar"],
+			"environment": ["evil-plane"]
 		},
 		{
 			"name": "Wasp, Giant",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/giantWasp.htm",
-			"meta_type": "vermin"
+			"meta_type": "vermin",
+			"size_category": ["large"],
+			"creature_type": ["vermin"],
+			"environment": ["temperate", "forest"]
 		},
 		{
 			"name": "Weasel",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/weasel.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["tiny"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","hills"]
 		},
 		{
 			"name": "Whale",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/whale.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["gargantuan"],
+			"creature_type": ["animal","aquatic"],
+			"environment": ["warm","aquatic"]
+		},
+		{
+			"name": "Baleen Whale",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/whale.htm#baleenWhale",
+			"meta_type": "animal",
+			"size_category": ["gargantuan"],
+			"creature_type": ["animal","aquatic"],
+			"environment": ["warm","aquatic"]
+		},
+		{
+			"name": "Cachalot Whale",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/whale.htm#cachalotWhale",
+			"meta_type": "animal",
+			"size_category": ["gargantuan"],
+			"creature_type": ["animal","aquatic"],
+			"environment": ["temperate","aquatic"]
+		},
+		{
+			"name": "Orca",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/whale.htm#orca",
+			"meta_type": "animal",
+			"size_category": ["huge"],
+			"creature_type": ["animal","aquatic"],
+			"environment": ["cold","aquatic"]
 		},
 		{
 			"name": "Wight",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/wight.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/wight.htm",
+			"size_category": ["medium"],
+			"creature_type": ["undead"],
+			"environment": []
 		},
 		{
 			"name": "Will-O-Wisp",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/willOWisp.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/willOWisp.htm",
+			"size_category": ["small"],
+			"creature_type": ["aberration","air"],
+			"environment": ["temperate","marsh"]
 		},
 		{
 			"name": "Winter Wolf",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/winterWolf.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/winterWolf.htm",
+			"size_category": ["large"],
+			"creature_type": ["magical-beast","cold"],
+			"environment": ["cold","forest"]
 		},
 		{
 			"name": "Wolf",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/wolf.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["medium"],
+			"creature_type": ["animal"],
+			"environment": ["temperate","forest"]
 		},
 		{
 			"name": "Wolverine",
 			"d20srd_url": "https://www.d20srd.org/srd/monsters/wolverine.htm",
-			"meta_type": "animal"
+			"meta_type": "animal",
+			"size_category": ["medium"],
+			"creature_type": ["animal"],
+			"environment": ["cold","forest"]
 		},
 		{
 			"name": "Worg",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/worg.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/worg.htm",
+			"size_category": ["medium"],
+			"creature_type": ["magical-beast"],
+			"environment": ["temperate","plain"]
 		},
 		{
 			"name": "Wraith",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/wraith.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/wraith.htm",
+			"size_category": ["medium"],
+			"creature_type": ["undead","incorporeal"],
+			"environment": []
+		},
+		{
+			"name": "Dread Wraith",
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/wraith.htm#dreadWraith",
+			"size_category": ["large"],
+			"creature_type": ["undead","incorporeal"],
+			"environment": []
 		},
 		{
 			"name": "Wyvern",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/wyvern.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/wyvern.htm",
+			"size_category": ["large"],
+			"creature_type": ["dragon"],
+			"environment": ["warm","hills"]
 		},
 		{
 			"name": "Xill",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/xill.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/xill.htm",
+			"size_category": ["medium"],
+			"creature_type": ["outsider","extraplanar"],
+			"environment": ["ethereal-plane"]
 		},
 		{
 			"name": "Xorn",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/xorn.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/xorn.htm",
+			"size_category": ["large","small","medium"],
+			"creature_type": ["outsider","extraplanar","earth"],
+			"environment": ["earth-plane"]
 		},
 		{
 			"name": "Yeth Hound",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/yethHound.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/yethHound.htm",
+			"size_category": ["medium"],
+			"creature_type": ["outsider","extraplanar","evil"],
+			"environment": ["evil-plane"]
 		},
 		{
 			"name": "Yrthak",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/yrthak.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/yrthak.htm",
+			"size_category": ["huge"],
+			"creature_type": ["magical-beast"],
+			"environment": ["temperate","mountain"]
 		},
 		{
 			"name": "Zombie",
-			"d20srd_url": "https://www.d20srd.org/srd/monsters/zombie.htm"
+			"d20srd_url": "https://www.d20srd.org/srd/monsters/zombie.htm",
+			"size_category": [],
+			"creature_type": ["undead"],
+			"environment": []
 		}
 	]
 }
