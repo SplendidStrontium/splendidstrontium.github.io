@@ -127,7 +127,7 @@ function submitMapGen() {
 		var random_number = Math.floor(Math.random()*monsterlist.length);
 		var mymonster = monsterlist[random_number];
 		document.getElementById("mapgen-results").innerHTML += "<br>" + mymonster.name + ": ";
-		document.getElementById("mapgen-results").innerHTML += "<a href=\"" + mymonster.d20srd_url + "\" target=\"_blank\" rel=\"noopener noreferrer\">d20 SRD</a>";
+		document.getElementById("mapgen-results").innerHTML += "&#128279; <a href=\"" + mymonster.d20srd_url + "\" target=\"_blank\" rel=\"noopener noreferrer\">d20 SRD</a>";
 	}
 }
 //END map generation process
