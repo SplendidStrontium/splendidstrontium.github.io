@@ -72,6 +72,12 @@ function toggleMapType() {
 }
 //END map size dropdown toggle
 
+//BEGIN climate selection
+function isTemperature(value, climate) {
+	return value == climate;
+}
+//END climate selection
+
 //BEGIN map generation process
 function submitMapGen() {
 	//CLEAR canvas
@@ -89,7 +95,6 @@ function submitMapGen() {
 	var x_rmdim = minrmdim + Math.floor(Math.random()*(maxrmdim-minrmdim));
 	var y_rmdim = minrmdim + Math.floor(Math.random()*(maxrmdim-minrmdim));
 	var mapgenpadding = canvas.width * 0.05;
-	console.log(x_rmdim + " " + y_rmdim);
 	
 	var x_step = (canvas.width - (2*mapgenpadding)) / x_rmdim;
 	var y_step = (canvas.height - (2*mapgenpadding)) / y_rmdim;
@@ -113,22 +118,34 @@ function submitMapGen() {
 	var step5 = 5*step;
 	drawGrid(ctx, canvas.width, canvas.height, step5);
 	
-	
-	
+	x_rmctr = mapgenpadding + ((x_rmdim/2) * step);
+	y_rmctr = mapgenpadding + ((y_rmdim/2) * step);
+	ctx.font = '48px serif';
+	ctx.strokeStyle = "#000";
+	ctx.fillStyle = "#000";
+	ctx.fillText('A', x_rmctr-24, y_rmctr-24);
 
 	// load monsterlist as an object
 	var monsterlist = {{ site.data.d20srd-monsters.monsters | jsonify }};
 
 	var mnstramt = document.getElementById("monster-amount").value;
-	document.getElementById("mapgen-results").innerHTML = "You generated " + mnstramt + " monster(s)";
+	document.getElementById("mapgen-results").innerHTML = "Your room is " + x_rmdim + " ft. by " + y_rmdim + " ft.<br/>";
+	document.getElementById("mapgen-results").innerHTML += "Room A contains :<br/>";
 	
+	// find a monster that obeys environment rules
+	var mnstrclimate = document.getElementById("mapgen-climate").value;
 	
-	for (var n=1;n<=mnstramt;n+=1){
+	while (true) {
 		var random_number = Math.floor(Math.random()*monsterlist.length);
 		var mymonster = monsterlist[random_number];
-		document.getElementById("mapgen-results").innerHTML += "<br>" + mymonster.name + ": ";
-		document.getElementById("mapgen-results").innerHTML += "&#128279; <a href=\"" + mymonster.d20srd_url + "\" target=\"_blank\" rel=\"noopener noreferrer\">d20 SRD</a>";
+		console.log(mymonster.environment);
+		if ((mymonster.environment).includes(mnstrclimate)) {
+			document.getElementById("mapgen-results").innerHTML += mymonster.name + ": ";
+			document.getElementById("mapgen-results").innerHTML += "&#128279; <a href=\"" + mymonster.d20srd_url + "\" target=\"_blank\" rel=\"noopener noreferrer\">d20 SRD</a>";
+			return false;
+		}
 	}
+	
 }
 //END map generation process
 

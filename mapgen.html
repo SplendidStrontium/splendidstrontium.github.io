@@ -12,7 +12,7 @@ permalink: /dnd/mapgen/
 <body>
 
 
-<div class="mapgen-intro">The following is a Javascript tool in development as of September 15, 2021. The monster list is from the open-source <a href="https://www.d20srd.org/index.htm" target="_blank" rel="noopener noreferrer">d20 SRD</a>. To save your results, print to PDF. Each grid square is 5'x5'.</div>
+<div class="mapgen-intro">The following is a Javascript tool in development as of September 20, 2021. The monster list is from the open-source <a href="https://www.d20srd.org/index.htm" target="_blank" rel="noopener noreferrer">d20 SRD</a>. To save your results, print to PDF. Each grid square is 5'x5'.</div>
 
 <div id="mapgen-disp-wrapper">
 <canvas id="mapgen-canvas"></canvas>
@@ -22,14 +22,13 @@ permalink: /dnd/mapgen/
 <div id="mapgen-options">
 	<p id="mapgen-options-title">Generator Options</p>
 	
-	<div class="mapgen-size-dropdown">
+	<div class="mapgen-dropdown">
 		<label for="mapgen-size-dropdown">What size map to generate?</label>
 		<select name="mapgen-size" id="mapgen-size-dropdown" onchange="toggleMapType()">
-			<option value="1">1 room (XS)</option>
-			<option value="2" style="display: none;">2-3 rooms (S)</option>
-			<option value="4" style="display: none;">4-6 rooms (M)</option>
+			<option value="1">1 room</option>
+			<option value="2" style="display: none;">2-3 rooms</option>
+			<option value="4" style="display: none;">4-6 rooms</option>
 		</select>
-		
 	</div>
 	
 	<div id="mapgen-tower-choice" style="display: none;">
@@ -47,14 +46,24 @@ permalink: /dnd/mapgen/
 	<label for="cave">Cave</label><br/>
 	</div>
 
-	<div class="mapgen-dropdown">
+	<div class="mapgen-dropdown" style="display: none;">
 		<label for="monster-amount">How many monsters?</label>
 		<select name="monster-amount" id="monster-amount">
 			<option value="1">1</option>
 			<option value="2">2</option>
 			<option value="3">3</option>
 		</select>
-		
+	</div>
+	
+	<div class="mapgen-dropdown">
+		<label for="mapgen-climate">What's the climate like?</label>
+		<select name="mapgen-climate" id="mapgen-climate">
+			<option value="warm">warm</option>
+			<option value="temperate">temperate</option>
+			<option value="cold">cold</option>
+			<option value="underground">subterranean</option>
+			<option value="aquatic">aquatic</option>
+		</select>
 	</div>
 
 <button id="mapgensubmitbtn" onclick="submitMapGen()">Submit</button>
