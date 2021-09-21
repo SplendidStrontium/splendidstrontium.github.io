@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: "Hexfiles"
-permalink: /fpmchexfiles/ 
+permalink: /hexfiles/ 
 ---
 
 <html>
