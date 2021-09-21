@@ -90,12 +90,50 @@ function submitMapGen() {
 	//drawGrid(ctx, canvas.width, canvas.height, 30);
 	
 	//lets draw a rectangular room
-	var minrmdim = 10;
-	var maxrmdim = 100;
-	var x_rmdim = minrmdim + Math.floor(Math.random()*(maxrmdim-minrmdim));
-	var y_rmdim = minrmdim + Math.floor(Math.random()*(maxrmdim-minrmdim));
-	var mapgenpadding = canvas.width * 0.05;
+	//table of probabilities approximates a bellcurve for most common room sizes
+	var rmsize_prob = [
+		[ 5,  2],  //2
+		[10,  8],  //6
+		[15, 20],  //12
+		[20, 38],  //18
+		[25, 51],  //13
+		[30, 59],  //8
+		[35, 65],  //6
+		[40, 70],  //5
+		[45, 75],  //5
+		[50, 79],  //4
+		[55, 83],  //4
+		[60, 86],  //3
+		[65, 89],  //3
+		[70, 92],  //3
+		[75, 94],  //2
+		[80, 96],  //2
+		[85, 98],  //2
+		[90, 99],  //1
+		[95, 100]  //1
+	]
 	
+	//select the x dimension
+	var weighted_room = Math.random()*100;
+	for (let i=0; i<rmsize_prob.length; i++){
+		if (rmsize_prob[i][1] >= weighted_room) {
+			var x_rmdim = rmsize_prob[i][0];
+			break; 
+		}
+	}
+	x_rmdim += Math.floor(Math.random()*5);
+
+	//select the y dimension
+	weighted_room = Math.random()*100;
+	for (let i=0; i<rmsize_prob.length; i++){
+		if (rmsize_prob[i][1] >= weighted_room) {
+			var y_rmdim = rmsize_prob[i][0];
+			break; 
+		}
+	}
+	y_rmdim += Math.floor(Math.random()*5);
+	
+	var mapgenpadding = canvas.width * 0.05;
 	var x_step = (canvas.width - (2*mapgenpadding)) / x_rmdim;
 	var y_step = (canvas.height - (2*mapgenpadding)) / y_rmdim;
 	
@@ -106,12 +144,13 @@ function submitMapGen() {
 		var step = y_step;
 	}
 	
+	//draw the room
 	ctx.beginPath();
 	ctx.rect(mapgenpadding, mapgenpadding, x_rmdim*step, y_rmdim*step);
-	// set the color of the line
+	//set the color of the line
 	ctx.strokeStyle = 'rgb(0,0,0)';
 	ctx.lineWidth = 2;
-	// the stroke will actually paint the current path
+	//the stroke will actually paint the current path
 	ctx.stroke();
 	//END drawing a room
 	
@@ -138,7 +177,6 @@ function submitMapGen() {
 	while (true) {
 		var random_number = Math.floor(Math.random()*monsterlist.length);
 		var mymonster = monsterlist[random_number];
-		console.log(mymonster.environment);
 		if ((mymonster.environment).includes(mnstrclimate)) {
 			document.getElementById("mapgen-results").innerHTML += mymonster.name + ": ";
 			document.getElementById("mapgen-results").innerHTML += "&#128279; <a href=\"" + mymonster.d20srd_url + "\" target=\"_blank\" rel=\"noopener noreferrer\">d20 SRD</a>";
