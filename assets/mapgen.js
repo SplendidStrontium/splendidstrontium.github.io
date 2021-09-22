@@ -87,7 +87,6 @@ function submitMapGen() {
 	
 	//BEGIN drawing a room
 	var mapsize = document.getElementById("mapgen-size-dropdown").value;
-	//drawGrid(ctx, canvas.width, canvas.height, 30);
 	
 	//lets draw a rectangular room
 	//table of probabilities approximates a bellcurve for most common room sizes
@@ -113,6 +112,22 @@ function submitMapGen() {
 		[95, 100]  //1
 	]
 	
+	var ceiling_prob = [
+		[ 5, 15],  //15
+		[10, 39],  //24
+		[15, 69],  //30
+		[20, 83],  //12
+		[25, 89],  //6
+		[30, 92],  //3
+		[35, 94],  //2
+		[40, 95],  //1
+		[45, 96],  //1
+		[50, 97],  //1
+		[55, 98],  //1
+		[60, 99],  //1
+		[65, 100]  //1
+	]
+	
 	//select the x dimension
 	var weighted_room = Math.random()*100;
 	for (let i=0; i<rmsize_prob.length; i++){
@@ -133,6 +148,16 @@ function submitMapGen() {
 	}
 	y_rmdim += Math.floor(Math.random()*5);
 	
+	//select the z dimension
+	weighted_room = Math.random()*100;
+	for (let i=0; i<ceiling_prob.length; i++){
+		if (ceiling_prob[i][1] >= weighted_room) {
+			var z_rmdim = ceiling_prob[i][0];
+			break;
+		}
+	}
+	z_rmdim += Math.floor(Math.random()*5);
+	
 	var mapgenpadding = canvas.width * 0.05;
 	var x_step = (canvas.width - (2*mapgenpadding)) / x_rmdim;
 	var y_step = (canvas.height - (2*mapgenpadding)) / y_rmdim;
@@ -152,6 +177,47 @@ function submitMapGen() {
 	ctx.lineWidth = 2;
 	//the stroke will actually paint the current path
 	ctx.stroke();
+	
+	//lets draw a door
+	//a door is equally likely on any wall
+	var door_probtotal = x_rmdim + y_rmdim;
+	var door_prob = Math.random()*door_probtotal;
+	if (door_prob <= x_rmdim) {
+		var door_loc = 'x';
+	} else {
+		var door_loc = 'y';
+	}
+	var door_loc_array = [];
+	if (door_loc == 'x') {
+		for (let i=0; i<=(x_rmdim-5); i++) { 
+			door_loc_array.push([i,y_rmdim]);
+		}
+		door_prob = Math.floor(Math.random()*door_loc_array.length);
+		var mydoorloc = door_loc_array[door_prob];
+		ctx.beginPath();
+		ctx.moveTo(mapgenpadding+(mydoorloc[0]*step),mapgenpadding+(y_rmdim*step)-10);
+		ctx.lineTo(mapgenpadding+(mydoorloc[0]*step),mapgenpadding+(y_rmdim*step)+10);
+		ctx.stroke();
+		ctx.beginPath();
+		ctx.moveTo(mapgenpadding+(mydoorloc[0]*step)+(5*step),mapgenpadding+(y_rmdim*step)-10);
+		ctx.lineTo(mapgenpadding+(mydoorloc[0]*step)+(5*step),mapgenpadding+(y_rmdim*step)+10);
+		ctx.stroke();
+	} else {
+		for (let i=0; i<=(y_rmdim-5); i++) {
+			door_loc_array.push([x_rmdim,i]);
+		}
+		door_prob = Math.floor(Math.random()*door_loc_array.length);
+		var mydoorloc = door_loc_array[door_prob];
+		ctx.beginPath();
+		ctx.moveTo(mapgenpadding+(x_rmdim*step)-10,mapgenpadding+(mydoorloc[1]*step));
+		ctx.lineTo(mapgenpadding+(x_rmdim*step)+10,mapgenpadding+(mydoorloc[1]*step));
+		ctx.stroke();
+		ctx.beginPath();
+		ctx.moveTo(mapgenpadding+(x_rmdim*step)-10,mapgenpadding+(mydoorloc[1]*step)+(5*step));
+		ctx.lineTo(mapgenpadding+(x_rmdim*step)+10,mapgenpadding+(mydoorloc[1]*step)+(5*step));
+		ctx.stroke();
+	}
+	
 	//END drawing a room
 	
 	var step5 = 5*step;
@@ -169,10 +235,20 @@ function submitMapGen() {
 
 	var mnstramt = document.getElementById("monster-amount").value;
 	document.getElementById("mapgen-results").innerHTML = "Your room is " + x_rmdim + " ft. by " + y_rmdim + " ft.<br/>";
-	document.getElementById("mapgen-results").innerHTML += "Room A contains :<br/>";
+	document.getElementById("mapgen-results").innerHTML += "Your room has a ceiling "+z_rmdim+" ft. high.<br/>";
+	document.getElementById("mapgen-results").innerHTML += "Room A contains:<br/>";
 	
-	// find a monster that obeys environment rules
+	//find a monster that obeys environment rules
 	var mnstrclimate = document.getElementById("mapgen-climate").value;
+	//as well as size rules
+	if (x_rmdim<y_rmdim && x_rmdim<z_rmdim) {
+		var limiting_dim = x_rmdim;
+	} 
+	if (y_rmdim<x_rmdim && y_rmdim<z_rmdim) {
+		var limiting_dim = y_rmdim;
+	} else {
+		var limiting_dim = z_rmdim;
+	}
 	
 	while (true) {
 		var random_number = Math.floor(Math.random()*monsterlist.length);
