@@ -253,6 +253,29 @@ function submitMapGen() {
 	while (true) {
 		var random_number = Math.floor(Math.random()*monsterlist.length);
 		var mymonster = monsterlist[random_number];
+		//select out monsters that are too large
+		var maxmnstrsize;
+		if (mymonster.size_category.includes("colossal")) {
+			maxmnstrsize = 64;
+		} else if (mymonster.size_category.includes("gargantuan")) {
+			maxmnstrsize = 32;
+		} else if (mymonster.size_category.includes("huge")) {
+			maxmnstrsize = 16;
+		} else if (mymonster.size_category.includes("large")) {
+			maxmnstrsize = 8;
+		} else if (mymonster.size_category.includes("medium")) {
+			maxmnstrsize = 4;
+		} else if (mymonster.size_category.includes("small")) {
+			maxmnstrsize = 2;
+		} else if (mymonster.size_category.includes("tiny")) {
+			maxmnstrsize = 1;
+		} else {
+			maxmnstrsize= 0.5;
+		}
+		if (maxmnstrsize > limiting_dim) {
+			console.log('your monster is too big!');
+			continue;
+		}
 		if ((mymonster.environment).includes(mnstrclimate)) {
 			document.getElementById("mapgen-results").innerHTML += mymonster.name + ": ";
 			document.getElementById("mapgen-results").innerHTML += "&#128279; <a href=\"" + mymonster.d20srd_url + "\" target=\"_blank\" rel=\"noopener noreferrer\">d20 SRD</a>";
