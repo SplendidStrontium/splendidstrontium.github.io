@@ -65,7 +65,7 @@ function validateDate(year) {
 
 //BEGIN make API call
 async function callHorizons(){
-	const response = await fetch('https://ssd.jpl.nasa.gov/api/horizons.api?format=json&COMMAND=\'399\'&OBJ_DATA=\'YES\'&MAKE_EPHEM=\'YES\'&EPHEM_TYPE=\'OBSERVER\'&CENTER=\'500@399\'&START_TIME=\'2006-01-01\'&STOP_TIME=\'2006-01-20\'&STEP_SIZE=\'1%20d\'&QUANTITIES=\'1,9,20,23,24,29\'');
+	const response = await fetch('https://ssd.jpl.nasa.gov/api/horizons.api?format=json&COMMAND=\'399\'&OBJ_DATA=\'YES\'&MAKE_EPHEM=\'YES\'&EPHEM_TYPE=\'OBSERVER\'&CENTER=\'500@0\'&START_TIME=\'2006-01-01\'&STOP_TIME=\'2006-01-20\'&STEP_SIZE=\'1%20d\'&QUANTITIES=\'1,9,20,23,24,29\'');
 	const myJson = await response.json(); //extract JSON from the http response
 	console.log(myJson);
 }
