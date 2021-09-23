@@ -61,13 +61,22 @@ function validateDate(year) {
 		location.reload();
 	}
 }
-
 //END function to validate entry date
+
+//BEGIN make API call
+async function callHorizons(){
+	const response = await fetch('https://ssd.jpl.nasa.gov/api/horizons.api?format=json&COMMAND=\'399\'&OBJ_DATA=\'YES\'&MAKE_EPHEM=\'YES\'&EPHEM_TYPE=\'OBSERVER\'&CENTER=\'500@399\'&START_TIME=\'2006-01-01\'&STOP_TIME=\'2006-01-20\'&STEP_SIZE=\'1%20d\'&QUANTITIES=\'1,9,20,23,24,29\'');
+	const myJson = await response.json(); //extract JSON from the http response
+	console.log(myJson);
+}
+//END make API call
 
 //BEGIN function to submit and calculate planet locations
 function submitCC() {
 	var ccyear = document.getElementById("cc-year-txtfield").value;
 	validateDate(ccyear);
+	
+	callHorizons();
 }
 
 
