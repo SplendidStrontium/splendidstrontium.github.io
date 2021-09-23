@@ -176,6 +176,7 @@ pre {
 
 .wrapper-wide{
 	width: 100%;
+	padding: 1em;
 }
 
 
@@ -236,9 +237,45 @@ pre {
 /**
  * Concentric Circles 
  */
-#ccCanvas {
+#cc-canvas {
 	border:1px solid #000;
-	//background-color:#fff;
+	background-color:#444;
+}
+
+#cc-action-bar {
+	width: 1500px;
+	height: 50px;
+	font-size: 1.3em;
+	border:1px solid #000;
+	background-color:#111;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#cc-month-dropdown {
+	padding: 0.3em;
+}
+
+#cc-day-dropdown {
+	padding: 0.3em;
+}
+
+#cc-year-txtfield-wrapper {
+	padding: 0.3em;
+}
+
+#cc-year-txtfield {
+	width: 50px;
+	text-align: center;
+}
+
+#cc-submitbtn {
+	padding: 0.3em;
+}
+
+#cc-reloadbtn {
+	padding: 0.3em;
 }
 
 /**
