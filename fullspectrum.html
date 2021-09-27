@@ -1,0 +1,55 @@
+---
+layout: fullwidthcc
+title: "Sol System: Day by Day"
+permalink: /sophieblue/orrery/cc/
+---
+
+<head>
+
+
+</head>
+
+<body>
+<div class="orrery-intro">
+<p>On which day in which year do the planets align? Good question.</p>
+
+</div>
+
+<div id="cc-disp-wrapper">
+
+<!-- BEGIN action bar -->
+<div id="cc-action-bar">
+	<div id="cc-month-dropdown">
+		<select name="cc-month" id="cc-month-selection">
+			<option value="jan">January</option>
+			<option value="feb">February</option>
+			<option value="mar">March</option>
+			<option value="apr">April</option>
+			<option value="may">May</option>
+			<option value="jun">June</option>
+			<option value="jul">July</option>
+			<option value="aug">August</option>
+			<option value="sep">September</option>
+			<option value="oct">October</option>
+			<option value="nov">November</option>
+			<option value="dec">December</option>
+		</select>
+	</div>
+	<div id="cc-day-dropdown">
+		<select name="cc-day" id="cc-day-selection">
+			<option value="1">1</option>
+		</select>
+	</div>
+	<div id="cc-year-txtfield-wrapper">
+		<input type="text" id="cc-year-txtfield" name="cc-year" value="2000">
+	</div>
+	
+	<button id="cc-submitbtn" onclick="submitCC()">Submit</button>
+	<button id="cc-reloadbtn" onclick="location.reload()">Reload</button>
+</div>
+<!-- END action bar -->
+
+<canvas id="cc-canvas"></canvas>
+</div>
+
+</body>
