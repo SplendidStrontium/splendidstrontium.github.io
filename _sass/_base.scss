@@ -250,12 +250,34 @@ pre {
 	border-collapse: collapse;
 	margin-left:auto;
 	margin-right:auto;
+	background-color:#ddd;
 }
 
 #fs-playfield tr td {
 	border:1px solid #000;
 	width: 4em;
 	height: 4em;
+}
+
+#fs-tile-tray {
+	display:flex;
+	justify-content:center;
+	border:2px solid #000;
+	background-color:#555;
+	width:700px;
+	height:90px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:1em;
+	margin-bottom:1em;
+}
+
+.fs-tile {
+	border:1px solid #000;
+	background-color:#222;
+	width:70px;
+	height:70px;
+	align-self:center;
 }
 
 /**
