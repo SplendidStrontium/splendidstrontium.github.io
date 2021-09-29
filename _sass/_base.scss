@@ -235,6 +235,30 @@ pre {
 }
 
 /**
+ * FULL SPECTRUM
+ */
+ 
+#fs-instructions:hover {
+	background-color:#fff;
+}
+
+#fs-hidden-instructions:hover {
+	background-color:#fff;
+}
+ 
+#fs-playfield {
+	border-collapse: collapse;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#fs-playfield tr td {
+	border:1px solid #000;
+	width: 4em;
+	height: 4em;
+}
+
+/**
  * Concentric Circles 
  */
 #cc-canvas {
