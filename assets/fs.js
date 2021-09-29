@@ -152,6 +152,11 @@ window.onload = function() {
 		["vlt",    "twinkle",  0,  246]
 	]
 	
+	const tile_1 = document.createElement("div");
+	tile_1.className = "fs-tile";
+	tile_1.setAttribute('draggable', true);
+	document.getElementById("fs-tile-tray").appendChild(tile_1);
+	
 
 
 	
