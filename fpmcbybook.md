@@ -12,17 +12,24 @@ permalink: /femputermanchine/books/
 
 <body>
 
-<div id="hm-intro">
-<p>The following is a list of FPMC pieces organized alphabetically by character.</p>
+<div id="fpmc-intro">
+<p>The following is a list of the two most recent FPMC pieces organized alphabetically by character. Navigate to each character's page to find their entire history.</p>
 <p>If you're interested in the reading the book chronologically, check out <a href="{{ '/femputermanchine/' | prepend: site.url }}">FPMC</a>.</p>
 </div>
 
-<h2> AVAEL </h2>
+<hr>
+
+<h2><a href="{{ '/femputermanchine/books/avael/' | prepend: site.url }}">AVAEL</a></h2>
+
+<p>AVAEL is a bionic vampress who assists CEDRIC with his many responsibilities.</p>
 
 <ul>
+	{% assign maxPost = 2 %}
+	{% assign counter = 0 %}
 	{% for post in site.posts %}
         {% if post.url %}
 			{% if post.tags contains "fpmcmain-avael" %}
+				{% assign counter = counter | plus: 1 %}
 
 		        <li class="fpmc-post">
 				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
@@ -46,6 +53,10 @@ permalink: /femputermanchine/books/
 				{% endcase %}</span>
 
 				{{post.date | date: "%d %b, %Y"}}</span></li>
+				
+				{% if counter == maxPost %}
+					{% break %}
+				{% endif %}
 
 
 			{% else %}	
@@ -57,12 +68,17 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2> CEDRIC </h2>
+<h2><a href="{{ '/femputermanchine/books/cedric/' | prepend: site.url }}">CEDRIC</a></h2>
+
+<p>CEDRIC is a daywalking vampire who has sworn his afterlife to destroy evil and greed.</p>
 
 <ul>
+	{% assign maxPost = 2 %}
+	{% assign counter = 0 %}
 	{% for post in site.posts %}
         {% if post.url %}
 			{% if post.tags contains "fpmcmain-cedric" %}
+				{% assign counter = counter | plus: 1 %}
 
 		        <li class="fpmc-post">
 				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
@@ -86,7 +102,10 @@ permalink: /femputermanchine/books/
 				{% endcase %}</span>
 
 				{{post.date | date: "%d %b, %Y"}}</span></li>
-
+			
+				{% if counter == maxPost %}
+					{% break %}
+				{% endif %}
 
 			{% else %}	
 			{% endif %}
@@ -97,12 +116,17 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2> GOTH </h2>
+<h2><a href="{{ '/femputermanchine/books/goth/' | prepend: site.url }}">GOTH</a></h2>
+
+<p>CASSANDRA GOTH is a child of old-money trying to find her way among strange and fantastical creatures.</p>
 
 <ul>
+	{% assign maxPost = 2 %}
+	{% assign counter = 0 %}
 	{% for post in site.posts %}
         {% if post.url %}
 			{% if post.tags contains "fpmcmain-goth" %}
+				{% assign counter = counter | plus: 1 %}
 
 		        <li class="fpmc-post">
 				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
@@ -127,6 +151,9 @@ permalink: /femputermanchine/books/
 
 				{{post.date | date: "%d %b, %Y"}}</span></li>
 
+				{% if counter == maxPost %}
+					{% break %}
+				{% endif %}
 
 			{% else %}	
 			{% endif %}
@@ -137,12 +164,17 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2> JUNIOR </h2>
+<h2><a href="{{ '/femputermanchine/books/jr/' | prepend: site.url }}">JUNIOR</a></h2>
+
+<p>JUNIOR is a frustrated younger sister vying for dominance in an uncooperative world.</p>
 
 <ul>
+	{% assign maxPost = 2 %}
+	{% assign counter = 0 %}
 	{% for post in site.posts %}
         {% if post.url %}
 			{% if post.tags contains "fpmcmain-jr" %}
+				{% assign counter = counter | plus: 1 %}
 
 		        <li class="fpmc-post">
 				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
@@ -167,6 +199,9 @@ permalink: /femputermanchine/books/
 
 				{{post.date | date: "%d %b, %Y"}}</span></li>
 
+				{% if counter == maxPost %}
+					{% break %}
+				{% endif %}
 
 			{% else %}	
 			{% endif %}
@@ -177,12 +212,17 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2> KEVIN </h2>
+<h2><a href="{{ '/femputermanchine/books/kevin/' | prepend: site.url }}">KEVIN</a></h2>
+
+<p>KEVIN MARSCAPONE is a magic-user seeking to overcome childhood illness and maintain a fair and just society.</p>
 
 <ul>
+	{% assign maxPost = 2 %}
+	{% assign counter = 0 %}
 	{% for post in site.posts %}
         {% if post.url %}
 			{% if post.tags contains "fpmcmain-kevin" %}
+				{% assign counter = counter | plus: 1 %}
 
 		        <li class="fpmc-post">
 				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
@@ -207,6 +247,9 @@ permalink: /femputermanchine/books/
 
 				{{post.date | date: "%d %b, %Y"}}</span></li>
 
+				{% if counter == maxPost %}
+					{% break %}
+				{% endif %}
 
 			{% else %}	
 			{% endif %}
@@ -217,12 +260,17 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2> MANDARC </h2>
+<h2><a href="{{ '/femputermanchine/books/mandarc/' | prepend: site.url }}">MANDARC</a></h2>
+
+<p>MANDARC SOO is a young vampire learning the value of a trustworthy first officer.</p>
 
 <ul>
+	{% assign maxPost = 2 %}
+	{% assign counter = 0 %}
 	{% for post in site.posts %}
         {% if post.url %}
 			{% if post.tags contains "fpmcmain-mandarc" %}
+				{% assign counter = counter | plus: 1 %}
 
 		        <li class="fpmc-post">
 				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
@@ -247,6 +295,9 @@ permalink: /femputermanchine/books/
 
 				{{post.date | date: "%d %b, %Y"}}</span></li>
 
+				{% if counter == maxPost %}
+					{% break %}
+				{% endif %}
 
 			{% else %}	
 			{% endif %}
@@ -257,12 +308,17 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2> McCOY </h2>
+<h2><a href="{{ '/femputermanchine/books/mccoy/' | prepend: site.url }}">McCOY</a></h2>
+
+<p>LENARD McCOY is a foreign doctor who takes his job very seriously.</p>
 
 <ul>
+	{% assign maxPost = 2 %}
+	{% assign counter = 0 %}
 	{% for post in site.posts %}
         {% if post.url %}
 			{% if post.tags contains "fpmcmain-mccoy" %}
+				{% assign counter = counter | plus: 1 %}
 
 		        <li class="fpmc-post">
 				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
@@ -287,6 +343,9 @@ permalink: /femputermanchine/books/
 
 				{{post.date | date: "%d %b, %Y"}}</span></li>
 
+				{% if counter == maxPost %}
+					{% break %}
+				{% endif %}
 
 			{% else %}	
 			{% endif %}
@@ -297,12 +356,17 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2> MYRTLE </h2>
+<h2><a href="{{ '/femputermanchine/books/myrtle/' | prepend: site.url }}">MYRTLE</a></h2>
+
+<p>MYRTLE MARSCAPONE is the Magicademy's ex-headmistress atoning for sins against Elysion.</p>
 
 <ul>
+	{% assign maxPost = 2 %}
+	{% assign counter = 0 %}
 	{% for post in site.posts %}
         {% if post.url %}
 			{% if post.tags contains "fpmcmain-myrtle" %}
+				{% assign counter = counter | plus: 1 %}
 
 		        <li class="fpmc-post">
 				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
@@ -327,6 +391,9 @@ permalink: /femputermanchine/books/
 
 				{{post.date | date: "%d %b, %Y"}}</span></li>
 
+				{% if counter == maxPost %}
+					{% break %}
+				{% endif %}
 
 			{% else %}	
 			{% endif %}
@@ -337,12 +404,17 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2> PERKINS </h2>
+<h2><a href="{{ '/femputermanchine/books/perkins/' | prepend: site.url }}">PERKINS</a></h2>
+
+<p>FRIDAY PERKINS is a capable magic-user aiming to eliminate the competition.</p>
 
 <ul>
+	{% assign maxPost = 2 %}
+	{% assign counter = 0 %}
 	{% for post in site.posts %}
         {% if post.url %}
 			{% if post.tags contains "fpmcmain-perkins" %}
+				{% assign counter = counter | plus: 1 %}
 
 		        <li class="fpmc-post">
 				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
@@ -366,6 +438,10 @@ permalink: /femputermanchine/books/
 				{% endcase %}</span>
 
 				{{post.date | date: "%d %b, %Y"}}</span></li>
+				
+				{% if counter == maxPost %}
+					{% break %}
+				{% endif %}
 
 
 			{% else %}	
@@ -377,12 +453,17 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2> STRAUD </h2>
+<h2><a href="{{ '/femputermanchine/books/straud/' | prepend: site.url }}">STRAUD</a></h2>
+
+<p>VLADISLAUS STRAUD is surrogate father to many a young vampire.</p>
 
 <ul>
+	{% assign maxPost = 2 %}
+	{% assign counter = 0 %}
 	{% for post in site.posts %}
         {% if post.url %}
 			{% if post.tags contains "fpmcmain-straud" %}
+				{% assign counter = counter | plus: 1 %}
 
 		        <li class="fpmc-post">
 				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
@@ -407,6 +488,9 @@ permalink: /femputermanchine/books/
 
 				{{post.date | date: "%d %b, %Y"}}</span></li>
 
+				{% if counter == maxPost %}
+					{% break %}
+				{% endif %}
 
 			{% else %}	
 			{% endif %}
@@ -417,12 +501,17 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2> TZU </h2>
+<h2><a href="{{ '/femputermanchine/books/tzu/' | prepend: site.url }}">TZU</a></h2>
+
+<p>TZU PRANO is a cheerful magic-user pursuing life as a doctor.</p>
 
 <ul>
+	{% assign maxPost = 2 %}
+	{% assign counter = 0 %}
 	{% for post in site.posts %}
         {% if post.url %}
 			{% if post.tags contains "fpmcmain-tzu" %}
+				{% assign counter = counter | plus: 1 %}
 
 		        <li class="fpmc-post">
 				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
@@ -447,6 +536,9 @@ permalink: /femputermanchine/books/
 
 				{{post.date | date: "%d %b, %Y"}}</span></li>
 
+				{% if counter == maxPost %}
+					{% break %}
+				{% endif %}
 
 			{% else %}	
 			{% endif %}
@@ -457,12 +549,17 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2> VATORE </h2>
+<h2><a href="{{ '/femputermanchine/books/vatore/' | prepend: site.url }}">VATORE</a></h2>
+
+<p>LILITH & CALEB VATORE are two vampires navigating a vegetarian ancestry.</p>
 
 <ul>
+	{% assign maxPost = 2 %}
+	{% assign counter = 0 %}
 	{% for post in site.posts %}
         {% if post.url %}
 			{% if post.tags contains "fpmcmain-vatore" %}
+				{% assign counter = counter | plus: 1 %}
 
 		        <li class="fpmc-post">
 				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
@@ -487,6 +584,9 @@ permalink: /femputermanchine/books/
 
 				{{post.date | date: "%d %b, %Y"}}</span></li>
 
+				{% if counter == maxPost %}
+					{% break %}
+				{% endif %}
 
 			{% else %}	
 			{% endif %}
@@ -497,12 +597,17 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2> WEASLIE </h2>
+<h2><a href="{{ '/femputermanchine/books/vatore/' | prepend: site.url }}">WEASLIE</a></h2>
+
+<p>BRONALD WEASLIE is a middling mage hoping to discover a grander destiny.</p>
 
 <ul>
+	{% assign maxPost = 2 %}
+	{% assign counter = 0 %}
 	{% for post in site.posts %}
         {% if post.url %}
 			{% if post.tags contains "fpmcmain-weaslie" %}
+				{% assign counter = counter | plus: 1 %}
 
 		        <li class="fpmc-post">
 				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
@@ -527,6 +632,9 @@ permalink: /femputermanchine/books/
 
 				{{post.date | date: "%d %b, %Y"}}</span></li>
 
+				{% if counter == maxPost %}
+					{% break %}
+				{% endif %}
 
 			{% else %}	
 			{% endif %}
