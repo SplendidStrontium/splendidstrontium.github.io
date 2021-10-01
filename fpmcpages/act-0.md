@@ -1,8 +1,7 @@
 ---
 layout: femputermanchine
-title: "FP & MC"
-menu: main
-permalink: /femputermanchine/ 
+title: "FP & MC ACT 0"
+permalink: /femputermanchine/act-0/
 ---
 
 <html>
@@ -13,24 +12,28 @@ permalink: /femputermanchine/
 
 <body>
 
-<div id="hm-intro">
-<p>FemputerManchine is a webnovel inspired by my adventures in The Sims 4.</p>
-<p>For ten thousand years the people of planet Earth have been awakening to create civilization and colonize their world. Underneath the mundane runs a secret: that some people are capable of curving reality to their own desires by more than just their force of personality. </p>
-<p>In the modern age, people are still hiding their Talent; the memory of witch hunts and mass exterminations fresh in the minds of the hunted. Those who have awakened as mages are scattered across the globe and largely keep to the safety of their own families.</p>
-<p>A mysterious Vampire VLADISLAUS STRAUD has sworn himself to his duty to protect the planet in the wake of the Revolution. </p>
+<div id="fpmc-intro">
+<p>Act 0 of Femputer&Manchine was a strange collection of adventures as I got my feet wet exploring the characters and working over their backstories and motivations. Much of what is enumerated here might be thought of as an alternate timeline, but certainly not all of it. Friends were established and loyalties cemented as the characters began to fall into what would become their eventual destinies.</p>
 <p>If you're interested in the adventures of a particular character, check out <a href="{{ '/femputermanchine/books/' | prepend: site.url }}">FPMC (by book)</a> as well as <a href="{{ '/fpmcnotes/' | prepend: site.url }}">notes</a> and <a href="{{ '/hexfiles/' | prepend: site.url }}">errata</a>.</p>
 </div>
 
 <hr>
 
-<h2> ACT II (current)</h2>
+<h2><a href="{{ '/femputermanchine/' | prepend: site.url }}">ACT II (current)</a></h2>
 
+<hr>
+
+<h2><a href="{{ '/femputermanchine/act-i/' | prepend: site.url }}">ACT I</a></h2>
+
+<hr>
+
+<h2>ACT 0</h2>
 
 <ul>
 	{% for post in site.posts %}
         {% if post.url %}
 			{% if post.category == "femputermanchine" %}
-				{% if post.tags contains "act-ii" %}
+				{% if post.tags contains "act-0" %}
 
 				    <li class="fpmc-post">
 					<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
@@ -65,13 +68,9 @@ permalink: /femputermanchine/
     {% endfor %}
 </ul>
 
-<hr>
 
-<h2><a href="{{ '/femputermanchine/act-i/' | prepend: site.url }}">ACT I</a></h2>
 
-<hr>
 
-<h2><a href="{{ '/femputermanchine/act-0/' | prepend: site.url }}">ACT 0</a></h2>
 
 <hr>
 
