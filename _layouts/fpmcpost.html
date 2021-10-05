@@ -30,18 +30,21 @@ layout: default
 	{% if post_index0 == forloop.index %}
 		{% assign next_post = post.url %}
 		{% assign next_post_title = post.title %}
+		{% assign next_post_desc = post.description %}
 	{% endif %}
 	{% if post_index1 == forloop.index0 %}
 		{% assign prev_post = post.url %}
 		{% assign prev_post_title = post.title %}
+		{% assign prev_post_desc = post.description %}
 	{% endif %}
 {% endfor %}
 <div class="fpmc-nav-box">
 {% if prev_post %}
-	<p class="fpmc-nav-prev">Previous: <a href="{{ prev_post }}">{{ prev_post_title }}</a></p>
+	<div class="fpmc-nav-link-box"><span class="fpmc-nav-link-txt"><a href="{{ prev_post }}">Previous: {{ prev_post_title }}</a></span><br/><span class="fpmc-nav-prev-desc">{{ prev_post_desc }}</span></div>
 {% endif %}
 {% if next_post %}
-	<p class="fpmc-nav-next">Next: <a href="{{ next_post }}">{{ next_post_title }}</a></p>
+	<div class="fpmc-nav-link-box"><span class="fpmc-nav-link-txt"><a href="{{ next_post }}">Next: {{ next_post_title }}</a></span><br/><span class="fpmc-nav-next-desc">{{ next_post_desc }}</span></div>
+	
 {% endif %}
 </div>
 

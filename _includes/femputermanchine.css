@@ -89,20 +89,39 @@
 } 
 
 .fpmc-nav-box{
-	border-top-style: solid;
-	border-bottom-style: solid;
+	border-top: 4px solid #555;
+	border-bottom: 4px solid #555;
+}
+
+.fpmc-nav-link-box{
+	background-color: #eee;
+	border-left: 7px solid #777;
+	border-radius: 4px;
+	padding: 0.7em;
+	margin-top: 0.6em;
+	margin-bottom: 0.6em;
+}
+
+.fpmc-nav-link-txt{
+	font-size: 1.5em;
 }
 
 .fpmc-nav-prev{
-	font-size: 1.4em;
-	align-items: center;
+	
 }
 
 .fpmc-nav-next{
 	display: flex;
 	justify-content: flex-end;
 	align-self: center;
-	font-size: 1.4em;
+}
+
+.fpmc-nav-prev-desc{
+	font-style: italic;
+}
+
+.fpmc-nav-next-desc{
+	font-style: italic;
 }
 
 @media (max-width: 600px){
