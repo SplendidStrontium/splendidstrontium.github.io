@@ -6,9 +6,11 @@ date: 2021-04-25 17:10
 description: "in which Perkins acquires the Hex of the Duelist"
 tags: [skit, fpmcmain-mandarc, act-i]
 published: true
+youtube_link: https://youtu.be/OoI6JHH4QH8
 lastmod: 2021-04-25 21:21
 ---
 [//]: # ( 04/25/21  -added)
+[//]: # ( 10/13/21  -youtubelink added)
 
 *****
 
