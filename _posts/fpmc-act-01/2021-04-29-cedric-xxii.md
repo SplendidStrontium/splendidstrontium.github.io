@@ -6,9 +6,11 @@ date: 2021-04-29 20:48
 description: "in which Caleb offers his family's fruit"
 tags: [skit, fpmcmain-cedric, act-i]
 published: true
+youtube_link: https://youtu.be/vNRIP9eHyb4
 lastmod: 2021-04-29 21:59
 ---
 [//]: # ( 04/29/21  -added)
+[//]: # ( 10/13/21  -youtubelink added)
 
 *****
 

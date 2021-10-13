@@ -6,9 +6,11 @@ date: 2021-04-30 20:33
 description: "in which Straud hastily performs the rites, again"
 tags: [skit, fpmcmain-straud, act-i]
 published: true
+youtube_link: https://youtu.be/w55ChhOnpq8
 lastmod: 2021-04-30 21:56
 ---
 [//]: # ( 04/30/21  -added)
+[//]: # ( 10/13/21  -youtubelink added)
 
 *****
 
