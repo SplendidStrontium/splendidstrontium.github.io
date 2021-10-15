@@ -6,9 +6,10 @@ category: femputermanchine
 tags: [skit, fpmcmain-cedric, act-0]
 description: "the ringtone"
 published: true
-lastmod:	2020-09-10 21:16
+lastmod: 2020-09-10 21:16
 ---
-[//]: # ( 9/10/20  -added)
+[//]: # (  9/10/20  -added)
+[//]: # ( 10/15/21  -linkout removed)
 
 ## // OPEN VISUAL // ##
 
@@ -96,14 +97,3 @@ lastmod:	2020-09-10 21:16
 ## // CLOSE VISUAL // ##
 
 
-*****
-<div class="fpmc-nav">
-
-<span class="fpmc-nav-prev"><a href="{{ 'cedric-vii' | prepend: site.baseurl }}">PREVIOUS</a></span> 
-
-<span class="fpmc-nav-next"><a href="{{ 'kevin-xi' | prepend: site.baseurl }}">NEXT</a></span> 
-
-
-
-</div>
-*****

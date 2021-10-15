@@ -8,10 +8,7 @@ tags: [fpmcmain-mandarc, act-0]
 published: true
 lastmod: 2020-07-07 18:43
 ---
-
-*****
-
-`linkout`
+[//]: # ( 10/15/21  -linkout removed)
 
 *****
 
@@ -247,12 +244,3 @@ lastmod: 2020-07-07 18:43
 </div>
 
 
-*****
-<div class="fpmc-nav">
-
-<span class="fpmc-nav-prev"><a href="{{ 'mandarc-iii' | prepend: site.baseurl }}">PREVIOUS</a></span>
-
-<span class="fpmc-nav-next"><a href="{{ 'mandarc-v' | prepend: site.baseurl }}">NEXT</a></span> 
-
-</div>
-*****

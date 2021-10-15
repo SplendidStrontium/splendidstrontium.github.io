@@ -6,9 +6,10 @@ category: femputermanchine
 tags: [skit, act-0]
 description: "the End of the Magicademy"
 published: true
-lastmod:	2020-08-15 14:27
+lastmod: 2020-08-15 14:27
 ---
-[//]: # ( 8/15/20  -added)
+[//]: # (  8/15/20  -added)
+[//]: # ( 10/15/21  -linkout removed)
 
 SETTING: 'TZU PRANO'S MAGICADEMY'<br/>
 YEAR: 2021, late winter
@@ -117,12 +118,4 @@ THE MAGICADEMY IS DONE. MOTHER -- _OUR_ MOTHER -- IS NOT HERE.
 
 In a moment, the smell of tar is all that remains between the two young women.
 
-*****
-<div class="fpmc-nav">
 
-<span class="fpmc-nav-prev"><a href="{{ 'aegwain-vii' | prepend: site.baseurl }}">PREVIOUS</a></span>
-
-<span class="fpmc-nav-next"><a href="{{ 'aegwain-ix' | prepend: site.baseurl }}">NEXT</a></span> 
-
-</div>
-*****

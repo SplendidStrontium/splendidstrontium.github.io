@@ -8,7 +8,8 @@ tags: [skit, fpmcmain-kevin, act-i]
 published: true
 lastmod: 2020-09-21 12:17
 ---
-[//]: # ( 9/19/20  -added)
+[//]: # (  9/19/20  -added)
+[//]: # ( 10/15/21  -linkout removed)
 
 ## cast of characters
 * 'KEVIN MARSCAPONE'
@@ -167,10 +168,3 @@ Sage of Untamed Magic
 </div>
 
 
-*****
-<div class="fpmc-nav">
-
-<span class="fpmc-nav-prev"><a href="{{ 'kevin-xii' | prepend: site.baseurl }}">PREVIOUS</a></span> 
-
-</div>
-*****

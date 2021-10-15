@@ -9,6 +9,7 @@ published: true
 lastmod:	2020-04-27 14:15
 ---
 [//]: # ( 4/27/20  -added link up)
+[//]: # (10/15/21  -removed linkout)
 
 'Only 'cause Kirk asked me to.' I said to myself. 
 
@@ -43,11 +44,5 @@ Looking back on it, I wish I had because when McCoy came in, he was just in an u
 I had no idea the old man was so strong. I guess the dollhouse hadn't been made as well as I'd have liked -- nails when I should have used joins -- but when he went over ... WHACK ... the roof just split in half. Most of the furniture was intact -- which was good because there were some gifts in there -- but the roof was splintered. 
 
 Norah -- well, she didn't say anything. She didn't cry, she just stared, kind of wide-eyed, at the whole debacle. She'd seemed kind of on-edge all night, because of the rainstorm, so maybe she was just so tired at this point that it was all she could do to watch. 
-
-<center>~</center>
-
-*****
-
-`linkout`
 
 

@@ -8,10 +8,7 @@ tags: [fpmcmain-kevin, act-0]
 published: true
 lastmod: 2020-07-08 17:53
 ---
-
-*****
-
-`linkout`
+[//]: # ( 10/15/21  -linkout removed)
 
 *****
 
@@ -237,12 +234,4 @@ lastmod: 2020-07-08 17:53
 <p class="ppl-sez">close private messaging @6:17 PM JUL08/2020</p>
 </div>
 
-*****
-<div class="fpmc-nav">
 
-<span class="fpmc-nav-prev"><a href="{{ 'kev-snags-fineus' | prepend: site.baseurl }}">PREVIOUS</a></span>
-
-<span class="fpmc-nav-next"><a href="{{ 'kevin-ix' | prepend: site.baseurl }}">NEXT</a></span> 
-
-</div>
-*****

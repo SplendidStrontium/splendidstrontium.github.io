@@ -8,12 +8,10 @@ tags: [etc, fpmcmain-mandarc, act-0]
 published: true
 lastmod: 2020-09-03 12:12
 ---
+[//]: # ( 10/15/21  -linkout removed)
 
 *****
 
-`linkout`
-
-*****
 
 You are my moonbeam<br/>
 parody of <br/>
@@ -57,12 +55,4 @@ you break my debuffs when times are blue<br/>
 i hope you'll see, girl, how much we need two<br/>
 please don't tilt my moonbeam askew
 
-*****
-<div class="fpmc-nav">
 
-<!--<span class="fpmc-nav-prev"><a href="{{ 'friday-i' | prepend: site.baseurl }}">PREVIOUS</a></span> -->
-
-<!--<span class="fpmc-nav-next"><a href="{{ 'myrtle-ii' | prepend: site.baseurl }}">NEXT</a></span> -->
-
-</div>
-*****

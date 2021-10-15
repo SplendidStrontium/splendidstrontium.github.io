@@ -9,10 +9,7 @@ published: true
 lastmod: 2020-10-03 15:19
 ---
 [//]: # ( 10/03/20  -added)
-
-*****
-
-<span class="fpmc-nav-prev"><a href="{{ 'perkins-i' | prepend: site.baseurl }}">PREVIOUS</a>
+[//]: # ( 10/15/21  -linkout removed)
 
 *****
 
@@ -146,11 +143,4 @@ lastmod: 2020-10-03 15:19
 
 ## // CLOSE VISUAL // ##
 
-*****
-<div class="fpmc-nav">
-
-<!--<span class="fpmc-nav-next"><a href="{{ 'kevin-xi' | prepend: site.baseurl }}">NEXT</a></span> -->
-
-
-</div>
 
