@@ -6,9 +6,10 @@ category: femputermanchine
 tags: [skit, fpmcmain-cedric, act-0]
 description: "the leash"
 published: true
-lastmod:	2020-09-01 18:46
+lastmod: 2020-09-01 18:46
 ---
-[//]: # ( 9/01/20  -added)
+[//]: # (  9/01/20  -added)
+[//]: # ( 10/15/21  -linkout removed)
 
 CEDRIC's eyes fly open. His foray into Elysion -- the Dream -- has concluded. He  just barely loses his sense of self while he travels; a brief respite from the endless chains of reality. Since accepting the Gift, true sleep as the Mortals experience has been unknown to him.
 
@@ -65,14 +66,4 @@ A flip, a few button presses, and the alarm is silenced. He grimaces, if only sl
 
 <center>~</center>
 
-*****
-<div class="fpmc-nav">
 
-<span class="fpmc-nav-prev"><a href="{{ 'cedric-vi' | prepend: site.baseurl }}">PREVIOUS</a></span> 
-
-<span class="fpmc-nav-next"><a href="{{ 'cedric-viii' | prepend: site.baseurl }}">NEXT</a></span> 
-
-
-
-</div>
-*****

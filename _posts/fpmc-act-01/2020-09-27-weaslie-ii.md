@@ -8,7 +8,8 @@ tags: [skit, fpmcmain-weaslie, act-i]
 published: true
 lastmod: 2020-09-27 10:20
 ---
-[//]: # ( 9/26/20  -added)
+[//]: # (  9/26/20  -added)
+[//]: # ( 10/15/21  -linkout removed)
 
 *****
 
@@ -180,14 +181,3 @@ lastmod: 2020-09-27 10:20
 ## // CLOSE VISUAL // ##
 
 
-*****
-<div class="fpmc-nav">
-
-<span class="fpmc-nav-prev"><a href="{{ 'perkins-i' | prepend: site.baseurl }}">PREVIOUS</a></span> 
-
-<!--<span class="fpmc-nav-next"><a href="{{ 'kevin-xi' | prepend: site.baseurl }}">NEXT</a></span> -->
-
-
-
-</div>
-*****

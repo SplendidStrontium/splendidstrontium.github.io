@@ -8,12 +8,10 @@ tags: [pm, fpmcmain-mandarc, act-0]
 published: true
 lastmod: 2020-09-05 18:47
 ---
+[//]: # ( 10/15/21  -linkout removed)
 
 *****
 
-`linkout`
-
-*****
 
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/pidge.jpg" class="chat-portrait" />
@@ -44,12 +42,4 @@ lastmod: 2020-09-05 18:47
 <p class="ppl-sez">close chat @6:33 PM SEP05/2020</p>
 </div>
 
-*****
-<div class="fpmc-nav">
 
-<!--<span class="fpmc-nav-prev"><a href="{{ 'friday-i' | prepend: site.baseurl }}">PREVIOUS</a></span> -->
-
-<!--<span class="fpmc-nav-next"><a href="{{ 'myrtle-ii' | prepend: site.baseurl }}">NEXT</a></span> -->
-
-</div>
-*****

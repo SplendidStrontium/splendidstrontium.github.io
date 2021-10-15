@@ -8,7 +8,8 @@ tags: [skit, fpmcmain-vatore, act-i]
 published: true
 lastmod: 2020-09-24 20:11
 ---
-[//]: # ( 9/24/20  -added)
+[//]: # (  9/24/20  -added)
+[//]: # ( 10/15/21  -linkout removed)
 
 ## // OPEN VISUAL : ##
 
@@ -103,14 +104,4 @@ lastmod: 2020-09-24 20:11
 
 ## // CLOSE VISUAL // ##
 
-*****
-<div class="fpmc-nav">
 
-<span class="fpmc-nav-prev"><a href="{{ 'vatore-i' | prepend: site.baseurl }}">PREVIOUS</a></span> 
-
-<span class="fpmc-nav-next"><a href="{{ 'vatore-iv' | prepend: site.baseurl }}">NEXT</a></span> 
-
-
-
-</div>
-*****

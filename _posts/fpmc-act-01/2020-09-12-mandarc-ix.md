@@ -8,7 +8,8 @@ tags: [pm, dreams, fpmcmain-mandarc, act-i]
 published: true
 lastmod: 2020-09-12 15:24
 ---
-[//]: # ( 9/12/20  -added)
+[//]: # (  9/12/20  -added)
+[//]: # ( 10/15/21  -linkout removed)
 
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/pidge.jpg" class="chat-portrait" />
@@ -130,14 +131,4 @@ lastmod: 2020-09-12 15:24
 </div>
 
 
-*****
-<div class="fpmc-nav">
 
-<span class="fpmc-nav-prev"><a href="{{ 'perkins-i' | prepend: site.baseurl }}">PREVIOUS</a></span> 
-
-<span class="fpmc-nav-next"><a href="{{ 'mandarc-x' | prepend: site.baseurl }}">NEXT</a></span> 
-
-
-
-</div>
-*****

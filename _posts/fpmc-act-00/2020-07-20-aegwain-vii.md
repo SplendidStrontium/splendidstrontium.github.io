@@ -6,9 +6,10 @@ category: femputermanchine
 tags: [skit, act-0]
 description: "afraid of the dark?"
 published: true
-lastmod:	2020-07-20 20:50
+lastmod: 2020-07-20 20:50
 ---
-[//]: # ( 7/20/20  -added)
+[//]: # (  7/20/20  -added)
+[//]: # ( 10/15/21  -linkout removed)
 
 SETTING: 'TZU PRANO'S MAGICADEMY'<br/>
 YEAR: approx. 2020, autumn
@@ -159,12 +160,4 @@ All thought suddenly leaves this dreamscape as she snaps awake -- the targ reapp
 
 <center>~</center>
 
-*****
-<div class="fpmc-nav">
 
-<span class="fpmc-nav-prev"><a href="{{ 'egwene-vi' | prepend: site.baseurl }}">PREVIOUS</a></span>
-
-<span class="fpmc-nav-next"><a href="{{ 'aegwain-viii' | prepend: site.baseurl }}">NEXT</a></span> 
-
-</div>
-*****
