@@ -6,10 +6,13 @@ category: femputermanchine
 tags: [skit, fpmcmain-cedric, act-0]
 description: "the ringtone"
 published: true
-lastmod: 2020-09-10 21:16
+lastmod: 2021-10-26 13:47
 ---
 [//]: # (  9/10/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
+[//]: # ( 10/26/21  -formatting update)
+
+*****
 
 ## // OPEN VISUAL // ##
 
@@ -36,21 +39,21 @@ lastmod: 2020-09-10 21:16
 
 <i>AGAIN, he knocks on the door, but louder and more insistent. A throng of children behind him are collecting at a bus-stop.</i>
 
-### CEDRIC ###
+#### CEDRIC ####
 
 > KEV? YOU IN THERE?
 
-<i>(Silence.)</i>
+<br><i>(Silence.)</i>
 
 <i>....</i>
 
 <i>Time passes without any input from the house. CEDRIC shifts about uncomfortably. The snow continues to sparkle. </i>
 
-### CEDRIC ###
+#### CEDRIC ####
 
 > KEVIN?! 
 
-<i>(Still silence.) </i>
+<br><i>(Still silence.) </i>
 
 <i>CEDRIC fumbles in his pocket for his cellphone. He looks at the screen and begins to enter a string of numbers when the door falls open. </i>
 
@@ -70,27 +73,27 @@ lastmod: 2020-09-10 21:16
 
 <i>CEDRIC turns KEVIN on his back and pulls him upward, gently attempting to shake him awake. </i>
 
-### CEDRIC ###
+#### CEDRIC ####
 
 > VINCE? KEV? YOU IN THERE?
 
-<i>SILENCE. His jaw hangs slack, lips dry and cracked. </i>
+<br><i>SILENCE. His jaw hangs slack, lips dry and cracked. </i>
 
-### CEDRIC ###
+#### CEDRIC ####
 
 > KEVIN?? MAN, YOU CAN'T CHUG THOSE PLENTIFUL NEEDS POTIONS --
 
-<i>KEVIN closes his mouth and moistens his lips.</i>
+<br><i>KEVIN closes his mouth and moistens his lips.</i>
 
-### KEVIN ###
+#### KEVIN ####
 
 > (eyes still closed after a pause) CUZ... THEY'LL START... TO REPEAT ON YOU...
 
-### CEDRIC ###
+#### CEDRIC ####
 
 > (sigh of relief, then a gentle chuckle.) HEH...
 
-### KEVIN ###
+#### KEVIN ####
 
 > (weakly) OK.
 

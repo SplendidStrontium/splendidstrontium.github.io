@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
 title: "Kevin 008"
-category: femputermanchine
+category: hexfiles
 date: 2020-07-08 17:52
 description: "PM@mandarc : bella goth"
-tags: [fpmcmain-kevin, act-0]
+tags: []
 published: true
-lastmod: 2020-07-08 17:53
+lastmod: 2021-10-26 10:28
 ---
 [//]: # ( 10/15/21  -linkout removed)
+[//]: # ( 10/26/21  -moved to hexfiles)
 
 *****
 

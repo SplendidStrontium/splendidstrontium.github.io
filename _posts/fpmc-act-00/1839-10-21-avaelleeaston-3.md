@@ -6,98 +6,103 @@ date: 1839-10-21 10:08
 description: "in which the houseguest keeps strange hours"
 tags: [skit, fpmcmain-avael, act-0]
 published: true
-lastmod: 2021-10-21 15:19
+lastmod: 2021-10-26 12:59
 ---
 [//]: # ( 10/21/21  -added)
+[//]: # ( 10/26/21  -formatting updated)
 
 *****
 <br/><i>Yesterday evening had been a strange evening. The late morning had seen AVAELLE EASTON, DOCTOR LENARD McCOY go out of doors to groom their horses. Soon after they went inside to [prepare for lunch]({% post_url /fpmc-act-00/1839-10-20-avaelleeaston-2 %}), THE DOCTOR cited a need for an afternoon nap and retreated to the guest room. AVAELLE spent the rest of the day by herself, spending some time in front of her Bible during a quiet time in the afternoon.</i>
 
 <i>The sun begins to wane and AVAELLE sees MAURICE for a small supper. Her father is still abed. AVAELLE is about to retire to her bedroom for the evening when she encounters THE DOCTOR in the upstairs hallway. She has a candle in hand, intending to light the hallway.</i>
 
-### AVAELLE ###
+#### AVAELLE ####
 
 > DID YOU ENJOY YOUR WALK?
 
-<I>AVAELLE's tone is lightly caustic. She had found herself desirous of his company after he'd spent the afternoon in seclusion.</i>
+<br/><I>AVAELLE's tone is lightly caustic. She had found herself desirous of his company after he'd spent the afternoon in seclusion.</i>
 
-### McCOY ###
+#### McCOY ####
 
 > DID YOU TRY TO COME FETCH ME FOR SUPPER?
-
+>
 > I'M TERRIBLY SORRY, MISS. I MUST HAVE MISSED YOU.
-
+>
 > YES, I WENT OUT FOR A WALK AROUND YOUR FIELDS.
 
-### AVAELLE ###
+#### AVAELLE ####
 
 > I'M SURE THERE WASN'T MUCH TO SEE.
 
-### McCOY ###
+#### McCOY ####
 
 > IT IS A LOVELY HOME. 
 
-### AVAELLE ###
+#### AVAELLE ####
 
 > WE MISSED YOU AT SUPPER.
 
-### McCOY ###
+#### McCOY ####
 
 > DID MAURICE MAKE IT DOWN?
 
-### AVAELLE ###
+#### AVAELLE ####
 
 > YES, HE DID.
-
+>
 > I'M GLAD TO SEE HE'S IMPROVING.
 
-### McCOY ###
+#### McCOY ####
 
 > YES, I AM TOO.
 
-<i>A pause hangs in the air for a moment. AVAELLE refuses eye contact with THE DOCTOR as she walks down the hallway sharing her flame with the candles.</i>
+<br/><i>A pause hangs in the air for a moment. AVAELLE refuses eye contact with THE DOCTOR as she walks down the hallway sharing her flame with the candles.</i>
+
+#### McCOY ####
 
 > WOULD YOU LET ME SIT FOR MY PORTRAIT THIS EVENING?
 
-<I>AVAELLE turns toward him, catching his eye.</i>
+<br/><I>AVAELLE turns toward him, catching his eye.</i>
 
-### AVAELLE ###
+#### AVAELLE ####
 
 > IT'S A LITTLE LATE, DON'T YOU THINK?
 
-### McCOY ###
+#### McCOY ####
 
 > WERE YOU GOING TO RETIRE?
 
-### AVAELLE ###
+#### AVAELLE ####
 
 > I WAS GOING TO.
 
-### McCOY ###
+#### McCOY ####
 
 > I DON'T INTEND TO KEEP YOU LONG.
 
-### AVAELLE ###
+#### AVAELLE ####
 
 > THE LIGHTING IS POOR.
 
-### McCOY ###
+#### McCOY ####
 
 > PERHAPS THAT IS SOMETHING WE CAN USE TO OUR ADVANTAGE.
-
+>
 > I DO SO LIKE THE DARKER PORTRAITS.
-
+>
 > SOMETHING SET TO CANDLELIGHT.
-
+>
 > I'M SOMETHING OF A NIGHT-OWL, MYSELF.
 
-### AVAELLE ###
+#### AVAELLE ####
 
 > MY FATHER, WHEN HE'S WELL, PREFERS TO WORK IN THE EARLY MORNING.
-
+>
 > I SUPPOSE I BECAME ACCUSTOMED TO IT.
 
-<I>She abruptly blows out the candle in her hand.</i>
+<BR/><I>She abruptly blows out the candle in her hand.</i>
+
+#### AVAELLE ####
 
 > IF YOU INSIST.
 
@@ -106,76 +111,76 @@ lastmod: 2021-10-21 15:19
 *****
 <BR/><BR/><I>AVAELLE, THE DOCTOR, continue downstairs and enter the sitting area. It is untidy with easels and sketch-paper. She lights some candles located on the mismatched tables around the room.</i>
 
-### AVAELLE ###
+#### AVAELLE ####
 
 > I HOPE YOU'LL EXCUSE THE MESS.
-
+>
 > WE HAVEN'T HAD TIME TO CLEAN.
-
+>
 > PLEASE, FIND YOURSELF A PLACE TO RELAX. I'LL RETURN IN A MOMENT.
 
-<I>She leaves the room and enters the kitchen. MAURICE is nursing the fire.</i>
+<BR/><I>She leaves the room and enters the kitchen. MAURICE is nursing the fire.</i>
 
 <i>AVAELLE is sure that THE DOCTOR can hear their words.</i>
 
-### MAURICE ###
+#### MAURICE ####
 
 > STAYING UP LATE, MISS?
 
-<I>A log falls upon the fire and hisses, steam rushing out as it ignites.</i>
+<BR/><I>A log falls upon the fire and hisses, steam rushing out as it ignites.</i>
 
-### AVAELLE ###
+#### AVAELLE ####
 
 > YES, TONIGHT I'M SKETCHING THE BEGINNINGS OF THE DOCTOR'S PORTRAIT.
 
-<I>There's nothing much to be shared in the twilight.</i>
+<BR/><I>There's nothing much to be shared in the twilight.</i>
 
-### MAURICE ###
+#### MAURICE ####
 
 > ... IS THERE ANYTHING I CAN GET FOR YOU, MISS?
 
-### AVAELLE ###
+#### AVAELLE ####
 
 > JUST... TAKE A BIT OF PIE UP FOR MY FATHER.
-
+>
 > IF YOU DON'T MIND.
-
+>
 > ARE YOU GOING TO BED?
 
-### MAURICE ###
+#### MAURICE ####
 
 > OH, YES. I'M STILL NOT FEELING WELL.
-
+>
 > I'M GOING TO READ AND SLEEP SOON AFTER.
-
+>
 > I CAN TAKE UP SOMETHING FOR YOUR FATHER.
 
-<I>AVAELLE bends down and warms her hands at the fire.</i>
+<BR/><I>AVAELLE bends down and warms her hands at the fire.</i>
 
-### AVAELLE ###
+#### AVAELLE ####
 
 > THANK YOU, MAURICE.
 
-<I>When AVAELLE again re-emerges into the sitting room, she has a small cup of whisky in hand.</i>
+<BR/><I>When AVAELLE again re-emerges into the sitting room, she has a small cup of whisky in hand.</i>
 
 <i>THE DOCTOR is tending the fire. He can smell the sweet stench of the alcohol from where he is standing.</i>
 
-### AVAELLE ###
+#### AVAELLE ####
 
 > CAN I GET YOU SOMETHING?
 
-### McCOY ###
+#### McCOY ####
 
 > WHISKY? OH NO, THAT'S QUITE ALRIGHT.
-
+>
 > THANK YOU, THANK YOU.
-
+>
 > IT MAKES ME A LITTLE SLEEPY AND I'D PREFER NOT TO FALL ASLEEP THIS EVENING.
 
-### AVAELLE ###
+#### AVAELLE ####
 
 > I UNDERSTAND. 
-
+>
 > I JUST NEED A LITTLE.
 
 <BR/>
@@ -185,147 +190,148 @@ lastmod: 2021-10-21 15:19
 
 <i>AVAELLE scratches against the paper in wide, careful strokes, trying to capture THE DOCTOR's serious, contemplative expression. She spends a good deal of time on his hair, combed straight over his skull, and his eyes, inset, and yet, with an alert brightness against the candlelight.</i>
 
-### AVAELLE ###
+#### AVAELLE ####
 
 > YOU WANT TO SEND THIS TO YOUR MOTHER?
 
-### McCOY ###
+#### McCOY ####
 
 > PERHAPS. SHE WAS ALWAYS ONE FOR GIFTS.
 
-### AVAELLE ###
+#### AVAELLE ####
 
 > WHAT IS SHE LIKE?
 
-### McCOY ###
+#### McCOY ####
 
 > MY MOTHER?
-
+>
 > SHE KEEPS BUSY TENDING AFTER MY YOUNGER SISTERS.
-
+>
 > SHE'S STRONG, STOUT.
 
-### AVAELLE ###
+#### AVAELLE ####
 
 > THEN YOU MUST BE LIKE YOUR FATHER.
 
-<I>THE DOCTOR chuckles.</i>
+<BR/><I>THE DOCTOR chuckles.</i>
+
+#### AVAELLE ####
 
 > OH, NO -- I DIDN'T MEAN IT LIKE THAT!
-
+>
 > JUST...
 
-### McCOY ###
+#### McCOY ####
 
 > AH, WELL. IT'S TRUE THAT I'VE SEEN BETTER DAYS.
-
+>
 > I OFTEN SUFFER FROM BOUTS OF INDIGESTION.
-
+>
 > I'M SORRY I HAVE NOT BE ABLE TO PARTAKE OF YOUR FINE COOKING.
 
-<I>AVAELLE tries to hide her disappointment.</i>
+<BR/><I>AVAELLE tries to hide her disappointment.</i>
 
-### AVAELLE ###
+#### AVAELLE ####
 
 > I'M NOT THAT GIFTED.
-
+>
 > MAURICE IS BETTER THAN I.
-
+>
 > I AM OFTEN TASKED WITH MINCING.
 
-### McCOY ###
+#### McCOY ####
 
 > I HAVE SAMPLED YOUR OFFERINGS BY SCENT.
-
+>
 > YOU DO NOT GIVE YOURSELF ENOUGH CREDIT.
 
-### AVAELLE ###
+#### AVAELLE ####
 
 > I...
-
+>
 > I APPRECIATE THAT.
 
-### McCOY ###
+#### McCOY ####
 
 > MY MOTHER RARELY APPLIES HERSELF TO THE KITCHEN.
-
+>
 > IT IS BECOMING LESS AND LESS ESSENTIAL.
 
-<I>AVAELLE continues to sketch, the sound filling the silent space.</i>
+<BR/><I>AVAELLE continues to sketch, the sound filling the silent space.</i>
 
-### AVAELLE ###
+#### AVAELLE ####
 
 > WHEN DO YOU PLAN ON LEAVING?
 
-### McCOY ###
+#### McCOY ####
 
 > I HAVE SENT FOR ANOTHER DOCTOR TO COME TO THE TOWN.
-
+>
 > I DO NOT KNOW WHEN HE WILL ARRIVE, BUT AFTERWARD, I INTEND TO GO TRAVELLING.
-
+>
 > I AM NOT WELL-SUITED TO STAY IN ONE PLACE.
 
-### AVAELLE ###
+#### AVAELLE ####
 
 > YOU'RE LEAVING THE VILLAGE?
 
-### McCOY ###
+#### McCOY ####
 
 > NOT FOR SOME TIME, YET.
 
-### AVAELLE ###
+#### AVAELLE ####
 
 > YOU'LL NEED TO COME BACK TO SIT FOR YOUR PORTRAIT.
 
-### McCOY ###
+#### McCOY ####
 
 > I'M SURE THAT MY REPLACEMENT WILL NOT BE HERE THIS WEEK OR THE NEXT.
-
+>
 > OR PERHAPS EVEN THE NEXT, AS THINGS GO.
-
+>
 > NO, I'M SURE WE'LL HAVE PLENTY OF TIME TO FINISH OUR WORK.
 
-<I>AVAELLE blushes at the use of the inclusive word.</i>
+<BR/><I>AVAELLE blushes at the use of the inclusive word.</i>
 
-### AVAELLE ###
+#### AVAELLE ####
 
 > I SHOULD HAVE KEPT THE ROOM CLEAN.
 
-<I>She thinks on the ruined paintbrushes.</i>
+<BR/><I>She thinks on the ruined paintbrushes.</i>
+
+#### AVAELLE ####
 
 > FATHER WOULD BE DISAPPOINTED.
 
-### McCOY ###
+#### McCOY ####
 
 > YOU'VE BEEN BUSY KEEPING THE HOUSE INTACT.
-
+>
 > IT'S NOT SOMETHING ONE SHOULD EVER HAVE TO DO FOR ONESELF.
 
-### AVAELLE ###
+#### AVAELLE ####
 
 > MAURICE SHOULD BE WELL TOMORROW.
 
-### McCOY ###
+#### McCOY ####
 
 > AND YOUR FATHER, TOO.
-
+>
 > I SPOKE TO HIM THIS AFTERNOON. HE IS CERTAINLY ON THE MEND.
-
+>
 > YOU'LL HAVE YOUR COMPANY SOON.
 
-### AVAELLE ###
+#### AVAELLE ####
 
 > I'M GLAD FOR IT.
-
+>
 > WHERE WILL YOU GO?
 
-### McCOY ###
+#### McCOY ####
 
 > I WILL GO WEST.
-
+>
 > I AM SURE THERE IS ROOM FOR A STRANGE MAN SUCH AS MYSELF.
-
-
-
 
 

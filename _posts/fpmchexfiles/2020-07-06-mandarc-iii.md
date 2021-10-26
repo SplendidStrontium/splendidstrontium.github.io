@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
 title: "Mandarc 003"
-category: femputermanchine
+category: hexfiles
 date: 2020-07-06 18:34
 description: "ATTN@MANDARC : W.T.F."
-tags: [fpmcmain-mandarc, act-0]
+tags: []
 published: true
-lastmod: 2020-07-06 18:34
+lastmod: 2021-10-26 10:20
 ---
 [//]: # ( 10/15/21  -linkout removed)
+[//]: # ( 10/26/21  -moved to hexfiles)
 
 *****
 

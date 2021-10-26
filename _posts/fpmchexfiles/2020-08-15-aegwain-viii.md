@@ -2,14 +2,15 @@
 layout: fpmcpost
 title: "Aegwain 008"
 date: 2020-08-15 12:37
-category: femputermanchine
-tags: [skit, act-0]
+category: hexfiles
+tags: []
 description: "the End of the Magicademy"
 published: true
-lastmod: 2020-08-15 14:27
+lastmod: 2021-10-26 10:39
 ---
 [//]: # (  8/15/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
+[//]: # ( 10/26/21  -moved to hexfiles)
 
 SETTING: 'TZU PRANO'S MAGICADEMY'<br/>
 YEAR: 2021, late winter
