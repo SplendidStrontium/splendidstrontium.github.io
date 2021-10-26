@@ -2,14 +2,15 @@
 layout: fpmcpost
 title: "Aegwain 007"
 date: 2020-07-20 17:51
-category: femputermanchine
-tags: [skit, act-0]
+category: hexfiles
+tags: []
 description: "afraid of the dark?"
 published: true
-lastmod: 2020-07-20 20:50
+lastmod: 2021-10-26 10:36
 ---
 [//]: # (  7/20/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
+[//]: # ( 10/26/21  -moved to hexfiles)
 
 SETTING: 'TZU PRANO'S MAGICADEMY'<br/>
 YEAR: approx. 2020, autumn

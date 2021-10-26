@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
 title: "Mandarc 004"
-category: femputermanchine
+category: hexfiles
 date: 2020-07-07 18:43
 description: "PM@avaelle : uhh"
-tags: [fpmcmain-mandarc, act-0]
+tags: []
 published: true
-lastmod: 2020-07-07 18:43
+lastmod: 2021-10-26 10:24
 ---
 [//]: # ( 10/15/21  -linkout removed)
+[//]: # ( 10/26/21  -moved to hexfiles)
 
 *****
 

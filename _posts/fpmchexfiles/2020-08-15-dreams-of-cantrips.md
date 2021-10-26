@@ -2,13 +2,14 @@
 layout: fpmcpost
 title: "A SpellList"
 date: 2020-08-15 16:37
-category: femputermanchine
-tags: [etc, act-0]
+category: hexfiles
+tags: []
 description: "dreams of andromede"
 published: true
-lastmod:	2020-08-15 19:13
+lastmod: 2021-10-26 10:41
 ---
-[//]: # ( 8/15/20  -added)
+[//]: # (  8/15/20  -added)
+[//]: # ( 10/26/21  -moved to hexfiles)
 
 The inspiration was cantrips and low-level spells but it quickly spun out-of-focus. I wrote these on paper and just typed them up with minimal editing. Who knows how accurate they are, or if I'll change my mind about what certain characters can or cannot do. (have fun)
 

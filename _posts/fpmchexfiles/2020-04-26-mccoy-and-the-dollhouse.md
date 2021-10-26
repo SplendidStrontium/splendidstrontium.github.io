@@ -2,14 +2,15 @@
 layout: fpmcpost
 title: "McCoy and the Dollhouse"
 date: 2020-04-26 22:12
-category: femputermanchine
-tags: [jim, act-0]
+category: hexfiles
+tags: []
 description: "damned either way"
 published: true
-lastmod:	2020-04-27 14:15
+lastmod: 2021-10-26 10:48
 ---
-[//]: # ( 4/27/20  -added link up)
-[//]: # (10/15/21  -removed linkout)
+[//]: # (  4/27/20  -added link up)
+[//]: # ( 10/15/21  -removed linkout)
+[//]: # ( 10/26/21  -moved to hexfiles)
 
 'Only 'cause Kirk asked me to.' I said to myself. 
 

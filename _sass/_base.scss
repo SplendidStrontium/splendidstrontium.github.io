@@ -87,6 +87,11 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
 }
 
+h4 {
+	padding-top: 1em;
+	//font-family: monospace;
+}
+
 
 
 /**
@@ -112,15 +117,19 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
+    color: #777;
+    //font-family: monospace;
+    border-left: 7px solid $grey-color-light;
     padding-left: $spacing-unit / 2;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
     font-size: 18px;
     letter-spacing: -1px;
-    font-style: italic;
+    //font-style: italic;
 
     > :last-child {
         margin-bottom: 0;
+       
     }
 }
 
