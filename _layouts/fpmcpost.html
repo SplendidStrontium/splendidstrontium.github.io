@@ -7,7 +7,7 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
     <span class="post-meta">Published: {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</span><br>
     	{% if page.lastmod %}
-		<span class="post-meta">Last update: {{ page.lastmod | date_to_rfc822 }}</span>
+		<span class="post-meta">Last update: {{ page.lastmod | date_to_rfc822 }}</span><br>
 	{% endif %}
     {% if page.youtube_link %}<span class="post-meta-youtubelink"><a href="{{ page.youtube_link }}" target="_blank" rel="noopener noreferrer">Reader's Theatre (YouTube)</a></span>{% endif %}
 
