@@ -645,7 +645,7 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2><a href="{{ '/femputermanchine/books/vatore/' | prepend: site.url }}">WEASLIE</a></h2>
+<h2><a href="{{ '/femputermanchine/books/weaslie/' | prepend: site.url }}">WEASLIE</a></h2>
 
 <p>BRONALD WEASLIE is a middling mage hoping to discover a grander destiny.</p>
 
