@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "PERKINS 003"
+title: "PERKINS 003: Mockup"
 category: femputermanchine
 date: 2020-12-03 09:38
 description: "in which Perkins snoops on the (w)IntraNet for the last time"
 tags: [skit, fpmcmain-perkins, act-i]
 published: true
-lastmod: 2020-12-03 19:37
+lastmod: 2021-11-03 15:27
 ---
 [//]: # ( 12/03/20  -added)
+[//]: # ( 11/03/21  -title added)
 
 *****
 

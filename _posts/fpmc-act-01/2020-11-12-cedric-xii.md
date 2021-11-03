@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 012"
+title: "CEDRIC 012: Shroud"
 category: femputermanchine
 date: 2020-11-12 09:15
 description: "pm@straud : the school, the library"
 tags: [chat, fpmcmain-cedric, act-i]
 published: true
-lastmod: 2020-11-12 14:06
+lastmod: 2021-11-03 15:19
 ---
 [//]: # ( 11/12/20  -added)
+[//]: # ( 11/03/21  -title added)
 
 *****
 

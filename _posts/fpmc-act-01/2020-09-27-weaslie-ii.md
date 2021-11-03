@@ -1,15 +1,16 @@
 ---
 layout: fpmcpost
-title: "WEASLIE 002"
+title: "WEASLIE 002: Great Uncle"
 category: femputermanchine
 date: 2020-09-27 10:20
 description: "waffles"
 tags: [skit, fpmcmain-weaslie, act-i]
 published: true
-lastmod: 2020-09-27 10:20
+lastmod: 2021-11-03 15:03
 ---
 [//]: # (  9/26/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
+[//]: # ( 11/03/21  -title added)
 
 *****
 

@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "MANDARC 007"
+title: "MANDARC 007: Moonbeam"
 category: femputermanchine
 date: 2020-09-03 12:12
 description: "to my Main Woman, the girl Friday Perkins"
 tags: [etc, fpmcmain-mandarc, act-0]
 published: true
-lastmod: 2020-09-03 12:12
+lastmod: 2021-11-03 14:36
 ---
 [//]: # ( 10/15/21  -linkout removed)
+[//]: # ( 11/03/21  -title added)
 
 *****
 

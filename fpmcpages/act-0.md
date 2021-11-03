@@ -1,6 +1,6 @@
 ---
 layout: femputermanchine
-title: "FP & MC ACT 0"
+title: "FP & MC: ACT 0"
 permalink: /femputermanchine/act-0/
 ---
 
@@ -13,17 +13,9 @@ permalink: /femputermanchine/act-0/
 <body>
 
 <div id="fpmc-intro">
-<p>Act 0 of Femputer&Manchine was a strange collection of adventures as I got my feet wet exploring the characters and working over their backstories and motivations. Much of what is enumerated here might be thought of as an alternate timeline, but certainly not all of it. Friends were established and loyalties cemented as the characters began to fall into what would become their eventual destinies.</p>
+<p>Act 0 of Femputer&Manchine is a strange collection of stories before the modern age. Friends were established and loyalties cemented as the characters began to fall into what would become their eventual destinies.</p>
 <p>If you're interested in the adventures of a particular character, check out <a href="{{ '/femputermanchine/books/' | prepend: site.url }}">FPMC (by book)</a> as well as <a href="{{ '/fpmcnotes/' | prepend: site.url }}">notes</a> and <a href="{{ '/hexfiles/' | prepend: site.url }}">errata</a>.</p>
 </div>
-
-<hr>
-
-<h2><a href="{{ '/femputermanchine/' | prepend: site.url }}">ACT II (current)</a></h2>
-
-<hr>
-
-<h2><a href="{{ '/femputermanchine/act-i/' | prepend: site.url }}">ACT I</a></h2>
 
 <hr>
 
@@ -68,8 +60,13 @@ permalink: /femputermanchine/act-0/
     {% endfor %}
 </ul>
 
+<hr>
 
+<h2><a href="{{ '/femputermanchine/act-i/' | prepend: site.url }}">ACT I</a></h2>
 
+<hr>
+
+<h2><a href="{{ '/femputermanchine/' | prepend: site.url }}">ACT II (current)</a></h2>
 
 
 <hr>

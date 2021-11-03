@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "MANDARC 013"
+title: "MANDARC 013: Wonderland"
 category: femputermanchine
 date: 2020-11-05 11:09
 description: "in which Mandarc first goes to the house of Sergeant Bobbie and encounters Wendy"
 tags: [skit, fpmcmain-mandarc, act-i]
 published: true
-lastmod: 2020-11-05 13:28
+lastmod: 2021-11-03 15:16
 ---
 [//]: # ( 11/05/20  -added)
+[//]: # ( 11/03/21  -title added)
 
 *****
 

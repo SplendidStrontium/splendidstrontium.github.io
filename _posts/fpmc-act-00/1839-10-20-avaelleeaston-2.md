@@ -1,16 +1,17 @@
 ---
 layout: fpmcpost
-title: "Avaelle Easton 2"
+title: "Avaelle Easton 2: Sunday"
 category: femputermanchine
 date: 1839-10-20 09:56
 description: "in which Avaelle speaks of the trouble with life at Easton House"
 tags: [skit, fpmcmain-avael, act-0]
 published: true
-lastmod: 2021-10-26 12:44
+lastmod: 2021-11-03 14:16
 ---
 [//]: # ( 10/20/21  -added)
 [//]: # ( 10/20/21  -avaelles bible is the isaiah thomas illustrated edition)
 [//]: # ( 10/26/21  -formatting updated)
+[//]: # ( 11/03/21  -title added)
 
 *****
 <br/><i>The EASTON HOUSE has taken on a somber air with its two male denizens in the grip of a fierce illness. Finally, after over a week of MR.EASTON bedridden, his daughter AVAELLE decided to ride into town to [fetch the local doctor]({% post_url /fpmc-act-00/1839-10-19-avaelleeaston-1 %}).</i>

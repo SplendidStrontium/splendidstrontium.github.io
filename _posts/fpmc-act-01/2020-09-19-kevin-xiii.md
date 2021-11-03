@@ -1,15 +1,16 @@
 ---
 layout: fpmcpost
-title: "KEVIN 013"
+title: "KEVIN 013: Mudblood"
 category: femputermanchine
 date: 2020-09-19 09:23
 description: "the bully hates competition"
 tags: [skit, fpmcmain-kevin, act-i]
 published: true
-lastmod: 2020-09-21 12:17
+lastmod: 2021-11-03 14:56
 ---
 [//]: # (  9/19/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
+[//]: # ( 11/03/21  -title added)
 
 ## cast of characters
 * 'KEVIN MARSCAPONE'

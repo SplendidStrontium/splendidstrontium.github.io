@@ -1,15 +1,16 @@
 ---
 layout: fpmcpost
-title: "Avaelle Easton 3"
+title: "Avaelle Easton 3: Avoidance"
 category: femputermanchine
 date: 1839-10-21 10:08
 description: "in which the houseguest keeps strange hours"
 tags: [skit, fpmcmain-avael, act-0]
 published: true
-lastmod: 2021-10-26 12:59
+lastmod: 2021-11-03 14:17
 ---
 [//]: # ( 10/21/21  -added)
 [//]: # ( 10/26/21  -formatting updated)
+[//]: # ( 11/03/21  -title added)
 
 *****
 <br/><i>Yesterday evening had been a strange evening. The late morning had seen AVAELLE EASTON, DOCTOR LENARD McCOY go out of doors to groom their horses. Soon after they went inside to [prepare for lunch]({% post_url /fpmc-act-00/1839-10-20-avaelleeaston-2 %}), THE DOCTOR cited a need for an afternoon nap and retreated to the guest room. AVAELLE spent the rest of the day by herself, spending some time in front of her Bible during a quiet time in the afternoon.</i>

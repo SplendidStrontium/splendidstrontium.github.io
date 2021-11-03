@@ -1,15 +1,16 @@
 ---
 layout: fpmcpost
-title: "PERKINS 002"
+title: "PERKINS 002: Bandages"
 category: femputermanchine
 date: 2020-10-03 09:08
 description: "Dexx returns"
 tags: [skit, fpmcmain-perkins, act-i]
 published: true
-lastmod: 2020-10-03 15:19
+lastmod: 2021-11-03 15:09
 ---
 [//]: # ( 10/03/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
+[//]: # ( 11/03/21  -title added)
 
 *****
 

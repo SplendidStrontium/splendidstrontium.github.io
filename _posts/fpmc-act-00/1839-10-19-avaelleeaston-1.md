@@ -1,15 +1,16 @@
 ---
 layout: fpmcpost
-title: "Avaelle Easton 1"
+title: "Avaelle Easton 1: Tatters"
 category: femputermanchine
 date: 1839-10-19 09:51
 description: "in which Mr. Easton and Maurice are deathly ill"
 tags: [skit, fpmcmain-avael, act-0]
 published: true
-lastmod: 2021-10-26 12:24
+lastmod: 2021-11-03 14:15
 ---
 [//]: # ( 10/19/21  -added)
 [//]: # ( 10/26/21  -formatting updated)
+[//]: # ( 11/03/21  -title added)
 
 *****
 <br/><i>At a small estate in NE Amerrka live three people. It has been years since [the visit]({% post_url /fpmc-act-00/1831-06-23-avaelleeaston-0 %}) from European royalty and the last few years have been just above starving. The fence, once a cheerful blue, has faded and flaked. The grasses are tall and unkempt. A young woman stands inside the grey-white house and looks out the front window. A cold wind seeps in through the cracks.</i>
