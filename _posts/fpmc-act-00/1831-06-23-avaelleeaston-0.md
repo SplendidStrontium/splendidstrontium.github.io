@@ -1,15 +1,16 @@
 ---
 layout: fpmcpost
-title: "Avaelle Easton 0"
+title: "Avaelle Easton 0: Eleven"
 category: femputermanchine
 date: 1831-06-23 12:00
-description: "Straud, at Easton House, first meets A.Easton"
+description: "in which Straud, at Easton House, first meets A.Easton"
 tags: [fpmcmain-avael, act-0]
 published: true
-lastmod: 2021-10-26 10:59
+lastmod: 2021-11-03 14:12
 ---
 [//]: # ( 10/26/21  -EastonHouseLooksLike https://en.wikipedia.org/wiki/Lieut._Thomas_Fuller_House)
 [//]: # ( 10/26/21  -updated speech formatting)
+[//]: # ( 11/03/21  -in which description added)
 
 *****
 <br/><i>THE SETTING is NE Amerrka, post-colonialisation, pre-industrialization. A few buildings are built around a vertex of dirt roads: a church, a schoolhouse, some stalls that serve as a market. The fainted signs of morning life trickle through -- an orange cat runs behind a pile of dampening firewood left abandoned behind a small shack.</i>

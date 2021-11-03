@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "MANDARC 015"
+title: "MANDARC 015: Therapy"
 category: femputermanchine
 date: 2020-12-05 17:33
 description: "in which Mandarc contemplates the lonely nature of Dream and seeks solace in AVAEL"
 tags: [skit, fpmcmain-mandarc, act-i]
 published: true
-lastmod: 2020-12-05 17:33
+lastmod: 2021-11-03 15:34
 ---
 [//]: # ( 12/05/20  -added)
+[//]: # ( 11/03/21  -title added)
 
 *****
 

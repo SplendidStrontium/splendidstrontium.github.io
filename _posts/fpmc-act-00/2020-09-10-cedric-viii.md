@@ -1,16 +1,17 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 008"
+title: "CEDRIC 008: Oklahoma"
 date: 2020-09-10 13:12
 category: femputermanchine
 tags: [skit, fpmcmain-cedric, act-0]
-description: "the ringtone"
+description: "in which Cedric finds Kevin collapsed"
 published: true
-lastmod: 2021-10-26 13:47
+lastmod: 2021-11-03 14:04
 ---
 [//]: # (  9/10/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
 [//]: # ( 10/26/21  -formatting update)
+[//]: # ( 11/03/21  -in which description added)
 
 *****
 

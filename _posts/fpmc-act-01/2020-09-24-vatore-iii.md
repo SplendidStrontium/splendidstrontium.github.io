@@ -1,15 +1,16 @@
 ---
 layout: fpmcpost
-title: "VATORE 003"
+title: "VATORE 003: Sheeple"
 category: femputermanchine
 date: 2020-09-24 12:23
 description: "Lilith in Quarq's car"
 tags: [skit, fpmcmain-vatore, act-i]
 published: true
-lastmod: 2020-09-24 20:11
+lastmod: 2021-11-03 15:01
 ---
 [//]: # (  9/24/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
+[//]: # ( 11/03/21  -title added)
 
 ## // OPEN VISUAL : ##
 

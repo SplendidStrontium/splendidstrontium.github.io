@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 013"
+title: "CEDRIC 013: Pain"
 category: femputermanchine
 date: 2020-11-24 07:19
 description: "in which Makoa, Cedric, Bob discuss the golden pineapple"
 tags: [skit, fpmcmain-cedric, act-i]
 published: true
-lastmod: 2020-11-24 11:03
+lastmod: 2021-11-03 15:21
 ---
 [//]: # ( 11/24/20  -added)
+[//]: # ( 11/03/21  -title added)
 
 *****
 

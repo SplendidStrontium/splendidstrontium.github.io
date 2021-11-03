@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "MYRTLE 007"
+title: "MYRTLE 007: Cinderella"
 category: femputermanchine
 date: 2020-11-30 12:33
 description: "in which Myrtle instructs Lucia on matters of filth, dust, and Scruberoo"
 tags: [skit, fpmcmain-myrtle, act-i]
 published: true
-lastmod: 2020-11-30 14:38
+lastmod: 2021-11-03 15:24
 ---
 [//]: # ( 11/30/20  -added)
+[//]: # ( 11/03/21  -title added)
 
 *****
 

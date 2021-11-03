@@ -1,15 +1,16 @@
 ---
 layout: fpmcpost
-title: "MANDARC 009"
+title: "MANDARC 009: Airwaves"
 category: femputermanchine
 date: 2020-09-12 14:16
 description: "PM@CEDRIC (before the holdup)"
 tags: [pm, dreams, fpmcmain-mandarc, act-i]
 published: true
-lastmod: 2020-09-12 15:24
+lastmod: 2021-11-03 14:49
 ---
 [//]: # (  9/12/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
+[//]: # ( 11/03/21  -title added)
 
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/pidge.jpg" class="chat-portrait" />

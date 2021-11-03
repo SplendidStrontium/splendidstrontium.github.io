@@ -1,15 +1,16 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 014"
+title: "CEDRIC 014: Credentials"
 category: femputermanchine
 date: 2020-12-04 13:14
 description: "in which Cedric revels in his recent eviction of Perkins"
 tags: [skit, fpmcmain-cedric, act-i]
 published: true
-lastmod: 2021-03-03 11:27
+lastmod: 2021-11-03 15:30
 ---
 [//]: # ( 12/04/20  -added)
 [//]: # ( 03/03/21  -the house is in suffolk, not nassau county)
+[//]: # ( 11/03/21  -title added)
 
 *****
 

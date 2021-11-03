@@ -1,16 +1,17 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 007"
+title: "CEDRIC 007: Chintzy"
 date: 2020-09-01 09:15
 category: femputermanchine
 tags: [skit, fpmcmain-cedric, act-0]
-description: "the leash"
+description: "in which Cedric buys a leash"
 published: true
-lastmod: 2021-10-26 13:38
+lastmod: 2021-11-03 14:01
 ---
 [//]: # (  9/01/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
 [//]: # ( 10/26/21  -formatting update)
+[//]: # ( 11/03/21  -in which description added)
 
 *****
 <br><i>CEDRIC's eyes fly open. His foray into Elysion -- the Dream -- has concluded. He  just barely loses his sense of self while he travels; a brief respite from the endless chains of reality. Since accepting the Gift, true sleep as the Mortals experience has been unknown to him.</i>

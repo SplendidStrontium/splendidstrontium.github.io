@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "WEASLIE 003"
+title: "WEASLIE 003: Unannounced"
 category: femputermanchine
 date: 2020-12-02 15:22
 description: "in which Weaslie and Perkins discuss the change of the dog's temperament"
 tags: [skit, fpmcmain-weaslie, act-i]
 published: true
-lastmod: 2020-12-02 16:38
+lastmod: 2021-11-03 15:26
 ---
 [//]: # ( 12/02/20  -added)
+[//]: # ( 11/03/21  -title added)
 
 *****
 

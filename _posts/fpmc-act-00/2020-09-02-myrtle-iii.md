@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "Myrtle 003"
+title: "Myrtle 003: Attendance"
 category: femputermanchine
 date: 2020-09-02 07:19
 description: "rollcall, checkin, firstcastlist, or whatever"
 tags: [fireside, fpmcmain-myrtle, act-0]
 published: true
-lastmod: 2020-09-02 09:07
+lastmod: 2021-11-03 14:35
 ---
 [//]: # ( 10/15/21  -linkout removed)
+[//]: # ( 11/03/21  -title added)
 
 *****
 

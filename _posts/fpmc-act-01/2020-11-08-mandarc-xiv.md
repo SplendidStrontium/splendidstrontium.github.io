@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "MANDARC 014"
+title: "MANDARC 014: Golem"
 category: femputermanchine
 date: 2020-11-08 10:08
 description: "in which Straud and Mandarc discuss the appearance of Wendy"
 tags: [skit, fpmcmain-mandarc, act-i]
 published: true
-lastmod: 2020-11-08 14:51
+lastmod: 2021-11-03 15:18
 ---
 [//]: # ( 11/08/20  -added)
+[//]: # ( 11/03/21  -title added)
 
 *****
 

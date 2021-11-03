@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "MANDARC 008"
+title: "MANDARC 008: Platitude"
 category: femputermanchine
 date: 2020-09-05 18:15
 description: "from an Elder to a Younger"
 tags: [pm, fpmcmain-mandarc, act-0]
 published: true
-lastmod: 2020-09-05 18:47
+lastmod: 2021-11-03 14:40
 ---
 [//]: # ( 10/15/21  -linkout removed)
+[//]: # ( 11/03/21  -title added)
 
 *****
 

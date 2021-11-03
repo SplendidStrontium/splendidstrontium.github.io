@@ -1,15 +1,16 @@
 ---
 layout: fpmcpost
-title: "MANDARC 011"
+title: "MANDARC 011: Bearer"
 category: femputermanchine
 date: 2020-09-28 18:21
 description: "ATTN@all : Eliza"
 tags: [chat, fpmcmain-mandarc, act-i]
 published: true
-lastmod: 2020-09-28 19:39
+lastmod: 2021-11-03 15:06
 ---
 [//]: # (  9/28/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
+[//]: # ( 11/03/21  -title added)
 
 *****
 

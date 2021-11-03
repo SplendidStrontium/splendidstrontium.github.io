@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "MYRTLE 008"
+title: "MYRTLE 008: Distraction"
 category: femputermanchine
 date: 2021-03-02 10:43
 description: "in which Kevin tells the truth about the sale of the school"
 tags: [skit, fpmcmain-myrtle, act-i]
 published: true
-lastmod: 2021-03-02 15:37
+lastmod: 2021-11-03 15:38
 ---
 [//]: # ( 03/02/21  -added)
+[//]: # ( 11/03/21  -title added)
 
 *****
 
