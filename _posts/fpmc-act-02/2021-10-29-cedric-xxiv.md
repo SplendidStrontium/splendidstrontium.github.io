@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 024"
+title: "CEDRIC 024: On the Level"
 category: femputermanchine
 date: 2021-10-29 09:40
 description: "in which Cedric raises a toast to the Crone Marscapone"
 tags: [skit, fpmcmain-cedric, act-ii]
 published: true
-lastmod: 2021-10-29 14:39
+lastmod: 2021-11-04 17:04
 ---
 [//]: # ( 10/29/21  -added)
+[//]: # ( 11/04/21  -title added)
 
 *****
 <br><i>A rickety old car in teal drives up to the MARSCAPONE APARTMENTS. Today, it belongs to KEVIN but it originally belonged to his father, the Elder VINCENT MARSCAPONE. The car has a tendency to remind CEDRIC of the years it sat fallow in the driveway of the MAGICADEMY, awaiting rehabilitation. In those days, rust collected in the wheel-wells, eating away at the frame. It had sat through snowstorm and sunbeams alike, never graced by a cover.</i>

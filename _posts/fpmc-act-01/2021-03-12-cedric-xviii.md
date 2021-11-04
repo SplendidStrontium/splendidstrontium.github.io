@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 018"
+title: "CEDRIC 018: Crocodile"
 category: femputermanchine
 date: 2021-03-12 15:07
 description: "in which Myrtle reminisces with Cedric"
 tags: [skit, fpmcmain-cedric, act-i]
 published: true
-lastmod: 2021-03-12 22:35
+lastmod: 2021-11-04 12:53
 ---
 [//]: # ( 03/12/21  -added)
+[//]: # ( 11/04/21  -title added)
 
 *****
 

@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "KEVIN 018"
+title: "KEVIN 018: Footfall"
 category: femputermanchine
 date: 2021-04-04 18:48
 description: "in which Kevin attends a typical Sunday dinner"
 tags: [skit, fpmcmain-kevin, act-i]
 published: true
-lastmod: 2021-04-04 21:13
+lastmod: 2021-11-04 15:53
 ---
 [//]: # ( 04/04/21  -added)
+[//]: # ( 11/04/21  -title added)
 
 *****
 

@@ -1,16 +1,17 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 021"
+title: "CEDRIC 021: Closed Doors"
 category: femputermanchine
 date: 2021-04-23 20:34
 description: "in which the party rests at Strixhaven"
 tags: [skit, fpmcmain-cedric, act-i]
 published: true
 youtube_link: https://youtu.be/pK86MssxPyo
-lastmod: 2021-04-23 22:25
+lastmod: 2021-11-04 16:20
 ---
 [//]: # ( 04/23/21  -added)
 [//]: # ( 10/13/21  -youtubelink added)
+[//]: # ( 11/04/21  -title added)
 
 *****
 
@@ -733,3 +734,4 @@ lastmod: 2021-04-23 22:25
 > I HATE CHILDREN.
 
 *****
+

@@ -1,16 +1,17 @@
 ---
 layout: fpmcpost
-title: "STRAUD 007"
+title: "STRAUD 007: Lisa Frank"
 category: femputermanchine
 date: 2021-04-30 20:33
 description: "in which Straud hastily performs the rites, again"
 tags: [skit, fpmcmain-straud, act-i]
 published: true
 youtube_link: https://youtu.be/w55ChhOnpq8
-lastmod: 2021-04-30 21:56
+lastmod: 2021-11-04 16:29
 ---
 [//]: # ( 04/30/21  -added)
 [//]: # ( 10/13/21  -youtubelink added)
+[//]: # ( 11/04/21  -title added)
 
 *****
 
