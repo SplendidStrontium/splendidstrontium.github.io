@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "WEASLIE 004"
+title: "WEASLIE 004: Inheritance"
 category: femputermanchine
 date: 2021-04-03 12:21
 description: "in which Weaslie and Perkins discuss their magical childhoods"
 tags: [skit, fpmcmain-weaslie, act-i]
 published: true
-lastmod: 2021-04-03 15:13
+lastmod: 2021-11-04 15:51
 ---
 [//]: # ( 04/03/21  -added)
+[//]: # ( 11/04/21  -title added)
 
 *****
 

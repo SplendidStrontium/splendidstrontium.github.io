@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "MANDARC 016"
+title: "MANDARC 016: Honeycrisp"
 category: femputermanchine
 date: 2021-04-15 13:21
 description: "in which Straud and Mandarc discuss the plasma fruit and cat's paradox"
 tags: [skit, fpmcmain-mandarc, act-i]
 published: true
-lastmod: 2021-04-15 14:40
+lastmod: 2021-11-04 16:01
 ---
 [//]: # ( 04/15/21  -added)
+[//]: # ( 11/04/21  -title added)
 
 *****
 
@@ -245,3 +246,4 @@ lastmod: 2021-04-15 14:40
 > AND YOU SHOULD HOLD YOUR TONGUE.
 
 *****
+

@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "KEVIN 017"
+title: "KEVIN 017: Six Rounds"
 category: femputermanchine
 date: 2021-03-15 10:31
 description: "in which Kevin presents his prototype as a gift to Cedric"
 tags: [skit, fpmcmain-kevin, act-i]
 published: true
-lastmod: 2021-03-15 13:02
+lastmod: 2021-11-04 15:40
 ---
 [//]: # ( 03/15/21  -added)
+[//]: # ( 11/04/21  -title added)
 
 *****
 
@@ -441,3 +442,4 @@ lastmod: 2021-03-15 13:02
 > YOU ARE WELCOME.
 
 *****
+

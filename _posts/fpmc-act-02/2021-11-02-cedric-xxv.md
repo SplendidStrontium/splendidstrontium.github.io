@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 025"
+title: "CEDRIC 025: Skepticism"
 category: femputermanchine
 date: 2021-11-02 19:49
 description: "in which Cedric's plans are changed"
 tags: [skit, fpmcmain-cedric, act-ii]
 published: true
-lastmod: 2021-11-02 21:37
+lastmod: 2021-11-04 17:06
 ---
 [//]: # ( 11/02/21  -added)
+[//]: # ( 11/04/21  -title added)
 
 *****
 <br>

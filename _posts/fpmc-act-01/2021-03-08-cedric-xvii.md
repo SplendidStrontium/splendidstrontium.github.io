@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 017"
+title: "CEDRIC 017: Theft"
 category: femputermanchine
 date: 2021-03-08 09:28
 description: "in which Myrtle announces the flight of Meifeng Tang"
 tags: [skit, fpmcmain-cedric, act-i]
 published: true
-lastmod: 2021-03-08 12:47
+lastmod: 2021-11-04 12:49
 ---
 [//]: # ( 03/08/21  -added)
+[//]: # ( 11/04/21  -title added)
 
 *****
 

@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "MANDARC 018"
+title: "MANDARC 018: Barrier"
 category: femputermanchine
 date: 2021-10-08 09:42
 description: "in which Mandarc receives an aid to resist the sun's rays"
 tags: [skit, fpmcmain-mandarc, act-ii]
 published: true
-lastmod: 2021-10-08 14:36
+lastmod: 2021-11-04 16:51
 ---
 [//]: # ( 10/07/21  -added)
+[//]: # ( 11/04/21  -title added)
 
 *****
 <br/><i>Over the last year, MANDARC SOO has been trying to seek the truth regarding his mysterious past. He bears memories of being a child, but continues to insist that he was not born, but was instead created. He believes he had always been a vampire, and was human only in appearance.</i>

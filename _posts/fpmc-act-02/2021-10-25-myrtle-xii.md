@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "MYRTLE 012"
+title: "MYRTLE 012: Stay of Execution"
 category: femputermanchine
 date: 2021-10-25 10:43
 description: "in which Myrtle begins to pen her memoirs"
 tags: [chat, fpmcmain-myrtle, act-ii]
 published: true
-lastmod: 2021-10-25 15:33
+lastmod: 2021-11-04 17:00
 ---
 [//]: # ( 10/25/21  -added)
+[//]: # ( 11/04/21  -title added)
 
 *****
 <br/>

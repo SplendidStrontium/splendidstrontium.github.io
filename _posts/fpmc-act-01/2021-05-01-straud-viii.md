@@ -1,16 +1,17 @@
 ---
 layout: fpmcpost
-title: "STRAUD 008"
+title: "STRAUD 008: Dischord"
 category: femputermanchine
 date: 2021-05-01 20:00
 description: "in which Straud brings his Saturday delivery to the Oborovsky twins"
 tags: [skit, fpmcmain-straud, act-i]
 published: true
 youtube_link: https://youtu.be/D4IW254ctmo
-lastmod: 2021-05-01 21:08
+lastmod: 2021-11-04 16:31
 ---
 [//]: # ( 05/01/21  -added)
 [//]: # ( 10/13/21  -youtubelink added)
+[//]: # ( 11/04/21  -title added)
 
 *****
 

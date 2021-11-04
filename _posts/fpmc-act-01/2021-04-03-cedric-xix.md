@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 019"
+title: "CEDRIC 019: Undergrowth"
 category: femputermanchine
 date: 2021-04-03 15:25
 description: "in which Straud lectures, despairing about the failing strength of the Wild"
 tags: [skit, fpmcmain-cedric, act-i]
 published: true
-lastmod: 2021-04-03 21:15
+lastmod: 2021-11-04 15:52
 ---
 [//]: # ( 04/03/21  -added)
+[//]: # ( 11/04/21  -title added)
 
 *****
 

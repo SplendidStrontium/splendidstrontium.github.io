@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 016"
+title: "CEDRIC 016: Altercation"
 category: femputermanchine
 date: 2021-03-03 09:46
 description: "in which Cedric again dons his uniform"
 tags: [skit, fpmcmain-cedric, act-i]
 published: true
-lastmod: 2021-03-03 15:03
+lastmod: 2021-11-04 12:43
 ---
 [//]: # ( 03/03/21  -added)
+[//]: # ( 11/04/21  -title added)
 
 *****
 

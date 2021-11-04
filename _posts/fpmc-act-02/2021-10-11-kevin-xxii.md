@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "KEVIN 022"
+title: "KEVIN 022: Personal Effects"
 category: femputermanchine
 date: 2021-10-11 20:43
 description: "in which Kevin receives a phone call from Sulani"
 tags: [skit, fpmcmain-kevin, act-ii]
 published: true
-lastmod: 2021-10-11 20:43
+lastmod: 2021-11-04 16:53
 ---
 [//]: # ( 10/11/21  -added)
+[//]: # ( 11/04/21  -title added)
 
 *****
 <br/>

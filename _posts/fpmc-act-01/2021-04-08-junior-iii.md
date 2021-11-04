@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "JUNIOR 003"
+title: "JUNIOR 003: Truthy"
 category: femputermanchine
 date: 2021-04-08 10:32
 description: "in which Trente sees the young Orphan off to school"
 tags: [skit, fpmcmain-jr, act-i]
 published: true
-lastmod: 2021-04-08 13:33
+lastmod: 2021-11-04 15:56
 ---
 [//]: # ( 04/08/21  -added)
+[//]: # ( 11/04/21  -title added)
 
 *****
 
@@ -396,3 +397,5 @@ lastmod: 2021-04-08 13:33
 <p class="ppl-sez">TRENTE//</p>
 <p class="ppl-sez">The trees will be good enough for what they are.</p>
 </div>
+
+

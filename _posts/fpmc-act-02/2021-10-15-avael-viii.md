@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "AVAEL 008"
+title: "AVAEL 008: Custody"
 category: femputermanchine
 date: 2021-10-15 10:48
 description: "in which Cedric and AVAEL discuss the death penalty"
 tags: [skit, fpmcmain-avael, act-ii]
 published: true
-lastmod: 2021-10-15 15:47
+lastmod: 2021-11-04 16:56
 ---
 [//]: # ( 10/15/21  -added)
+[//]: # ( 11/04/21  -title added)
 
 *****
 <br/><i>It's been two days since the runaway AVAELLE EASTON has been returned to her home in Brooklyn. KEVIN MARSCAPONE had [brought the young woman]({% post_url /fpmc-act-02/2021-10-13-straud-x %}) to meet AVAEL and receive a quasi-blessing for VLADISLAUS STRAUD to probe her memories. AVAEL stated that she felt she could not forbid such an operation, unwilling to accept the title of "Mother".</i>

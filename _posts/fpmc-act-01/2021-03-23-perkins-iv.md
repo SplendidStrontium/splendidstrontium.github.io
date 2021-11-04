@@ -1,14 +1,15 @@
 ---
 layout: fpmcpost
-title: "PERKINS 004"
+title: "PERKINS 004: Mister"
 category: femputermanchine
 date: 2021-03-23 08:57
 description: "in which Weaslie receives a handwritten letter"
 tags: [skit, fpmcmain-perkins, act-i]
 published: true
-lastmod: 2021-03-23 12:02
+lastmod: 2021-11-04 15:42
 ---
 [//]: # ( 03/23/21  -added)
+[//]: # ( 11/04/21  -title added)
 
 *****
 
@@ -245,3 +246,4 @@ lastmod: 2021-03-23 12:02
 > ... WE HAVE A WEBSITE, YOU KNOW.
 
 *****
+
