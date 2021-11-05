@@ -30,7 +30,7 @@ permalink: /femputermanchine/act-i/
 <h2>ACT I</h2>
 
 <ul>
-	{% for post in site.posts %}
+	{% for post in site.posts reversed %}
         {% if post.url %}
 			{% if post.category == "femputermanchine" %}
 				{% if post.tags contains "act-i" %}
