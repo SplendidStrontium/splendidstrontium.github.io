@@ -68,6 +68,8 @@ permalink: /femputermanchine/books/vatore/
     {% endfor %}
 </ul>
 
+<br>
+
 <hr>
 
 

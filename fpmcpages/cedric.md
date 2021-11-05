@@ -63,6 +63,8 @@ permalink: /femputermanchine/books/cedric/
     {% endfor %}
 </ul>
 
+<br>
+
 <hr>
 
 

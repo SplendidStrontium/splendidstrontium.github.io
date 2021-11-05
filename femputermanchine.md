@@ -35,7 +35,7 @@ permalink: /femputermanchine/
 
 
 <ul>
-	{% for post in site.posts %}
+	{% for post in site.posts reversed %}
         {% if post.url %}
 			{% if post.category == "femputermanchine" %}
 				{% if post.tags contains "act-ii" %}
@@ -76,7 +76,7 @@ permalink: /femputermanchine/
 
 
 
-
+<br>
 
 
 <hr>

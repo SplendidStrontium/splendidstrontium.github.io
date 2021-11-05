@@ -63,6 +63,8 @@ permalink: /femputermanchine/books/mandarc/
     {% endfor %}
 </ul>
 
+<br>
+
 <hr>
 
 

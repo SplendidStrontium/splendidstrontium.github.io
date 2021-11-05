@@ -63,6 +63,8 @@ permalink: /femputermanchine/books/straud/
     {% endfor %}
 </ul>
 
+<br>
+
 <hr>
 
 

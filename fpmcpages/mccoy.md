@@ -63,6 +63,8 @@ permalink: /femputermanchine/books/mccoy/
     {% endfor %}
 </ul>
 
+<br>
+
 <hr>
 
 

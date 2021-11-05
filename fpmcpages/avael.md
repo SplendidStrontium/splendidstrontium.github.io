@@ -63,6 +63,8 @@ permalink: /femputermanchine/books/avael/
     {% endfor %}
 </ul>
 
+<br>
+
 <hr>
 
 

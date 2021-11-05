@@ -22,7 +22,7 @@ permalink: /femputermanchine/act-0/
 <h2>ACT 0</h2>
 
 <ul>
-	{% for post in site.posts %}
+	{% for post in site.posts reversed %}
         {% if post.url %}
 			{% if post.category == "femputermanchine" %}
 				{% if post.tags contains "act-0" %}
