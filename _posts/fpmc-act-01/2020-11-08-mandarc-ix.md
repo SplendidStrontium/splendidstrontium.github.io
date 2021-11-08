@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "MANDARC 008: Golem"
+title: "MANDARC 009: Golem"
 category: femputermanchine
 date: 2020-11-08 10:08
 description: "in which Straud and Mandarc discuss the appearance of Wendy"

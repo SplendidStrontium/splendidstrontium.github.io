@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "MANDARC 005: Bearer"
+title: "MANDARC 006: Bearer"
 category: femputermanchine
 date: 2020-09-28 18:21
 description: "ATTN@all : Eliza"

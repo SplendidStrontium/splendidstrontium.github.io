@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "MANDARC 010: Honeycrisp"
+title: "MANDARC 011: Honeycrisp"
 category: femputermanchine
 date: 2021-04-15 13:21
 description: "in which Straud and Mandarc discuss the plasma fruit and cat's paradox"

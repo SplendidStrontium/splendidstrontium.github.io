@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "MANDARC 011: Warrior"
+title: "MANDARC 012: Warrior"
 category: femputermanchine
 date: 2021-04-25 17:10
 description: "in which Perkins acquires the Hex of the Duelist"

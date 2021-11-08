@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "MANDARC 002: Platitude"
+title: "MANDARC 003: Platitude"
 category: femputermanchine
 date: 2020-09-05 18:15
 description: "from an Elder to a Younger"

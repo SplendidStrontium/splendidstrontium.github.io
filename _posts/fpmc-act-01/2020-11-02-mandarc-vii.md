@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "MANDARC 006: Pillows"
+title: "MANDARC 007: Pillows"
 category: femputermanchine
 date: 2020-11-02 15:13
 description: "in which Mandarc receives word that Minerva Charm has passed on and arrives at Cedric's townhome"

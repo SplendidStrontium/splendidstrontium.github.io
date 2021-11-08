@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "MANDARC 007: Wonderland"
+title: "MANDARC 008: Wonderland"
 category: femputermanchine
 date: 2020-11-05 11:09
 description: "in which Mandarc first goes to the house of Sergeant Bobbie and encounters Wendy"
