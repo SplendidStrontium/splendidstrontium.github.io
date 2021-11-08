@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "MANDARC 001: Moonbeam"
+title: "MANDARC 002: Moonbeam"
 category: femputermanchine
 date: 2020-09-03 12:12
 description: "to my Main Woman, the girl Friday Perkins"

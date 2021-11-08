@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "MANDARC 012: Barrier"
+title: "MANDARC 013: Barrier"
 category: femputermanchine
 date: 2021-10-08 09:42
 description: "in which Mandarc receives an aid to resist the sun's rays"
