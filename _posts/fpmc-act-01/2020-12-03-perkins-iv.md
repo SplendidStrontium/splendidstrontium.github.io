@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "PERKINS 003: Mockup"
+title: "PERKINS 004: Mockup"
 category: femputermanchine
 date: 2020-12-03 09:38
 description: "in which Perkins snoops on the (w)IntraNet for the last time"
