@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "PERKINS 001: Liar"
+title: "PERKINS 002: Liar"
 date: 2020-09-12 06:36
 category: femputermanchine
 tags: [skit, fpmcmain-perkins, act-i]
@@ -17,7 +17,7 @@ lastmod: 2020-09-12 20:48
 
 <I>The faintest whisper of wind has started to pick up outside the Straud Mansion. A stream of young snow trickles over the air, adding a chill that hadn't been there before. </i>
 
-<i>Standing on the stoop of Straud Mansion is the young woman Friday Perkins. Her tightly crimped brown hair waves in the breeze. We can't see her eyes; she's wearing dark blue sunglasses. She wears a black t-shirt with a violet</i> <span style="font-family: monospace">&#9211;</span> 
+<i>Standing on the stoop of Straud Mansion is the young woman Friday Perkins. Her tightly crimped brown hair waves in the breeze. We can't see her eyes; she's wearing dark blue sunglasses. She wears a black t-shirt with a violet</i> <span style="font-family: Arial">&#9211;</span> 
 
 <i>In the distance, the sun threatens to set. She's been here all day, pounding on the heavy stone door. </i>
 
