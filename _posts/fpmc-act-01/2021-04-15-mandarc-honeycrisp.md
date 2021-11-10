@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "MANDARC 011: Honeycrisp"
+title: "MANDARC 012: Honeycrisp"
 permalink: /femputermanchine/mandarc/honeycrisp/
 category: femputermanchine
 date: 2021-04-15 13:21

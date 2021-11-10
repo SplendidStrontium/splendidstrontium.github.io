@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "MANDARC 005: Mulling About"
+title: "MANDARC 006: Mulling About"
 permalink: /femputermanchine/mandarc/mulling-about/
 category: femputermanchine
 date: 2020-09-23 12:29

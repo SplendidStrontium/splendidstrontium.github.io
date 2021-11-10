@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "MANDARC 006: Bearer"
+title: "MANDARC 007: Bearer"
 permalink: /femputermanchine/mandarc/bearer/
 category: femputermanchine
 date: 2020-09-28 18:21
