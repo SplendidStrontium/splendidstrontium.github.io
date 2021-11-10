@@ -1,7 +1,7 @@
 ---
 layout: femputermanchine
 title: "AVAEL"
-permalink: /femputermanchine/books/avael/
+permalink: /femputermanchine/avael/
 ---
 
 <html>

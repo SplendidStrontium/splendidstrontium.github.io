@@ -1,7 +1,7 @@
 ---
 layout: femputermanchine
 title: "VATORE"
-permalink: /femputermanchine/books/vatore/
+permalink: /femputermanchine/vatore/
 ---
 
 <html>

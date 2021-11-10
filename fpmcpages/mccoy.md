@@ -1,7 +1,7 @@
 ---
 layout: femputermanchine
 title: "McCOY"
-permalink: /femputermanchine/books/mccoy/
+permalink: /femputermanchine/mccoy/
 ---
 
 <html>

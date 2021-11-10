@@ -1,7 +1,7 @@
 ---
 layout: femputermanchine
 title: "GOTH"
-permalink: /femputermanchine/books/goth/
+permalink: /femputermanchine/goth/
 ---
 
 <html>

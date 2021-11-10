@@ -1,7 +1,7 @@
 ---
 layout: femputermanchine
 title: "ROXXIE"
-permalink: /femputermanchine/books/roxxie/
+permalink: /femputermanchine/roxxie/
 ---
 
 <html>

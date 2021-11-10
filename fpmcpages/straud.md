@@ -1,7 +1,7 @@
 ---
 layout: femputermanchine
 title: "STRAUD"
-permalink: /femputermanchine/books/straud/
+permalink: /femputermanchine/straud/
 ---
 
 <html>

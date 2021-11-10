@@ -1,7 +1,7 @@
 ---
 layout: femputermanchine
 title: "TZU"
-permalink: /femputermanchine/books/tzu/
+permalink: /femputermanchine/tzu/
 ---
 
 <html>
