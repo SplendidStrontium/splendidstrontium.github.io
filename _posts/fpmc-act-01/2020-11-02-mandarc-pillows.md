@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "MANDARC 007: Pillows"
+title: "MANDARC 008: Pillows"
 permalink: /femputermanchine/mandarc/pillows/
 category: femputermanchine
 date: 2020-11-02 15:13
