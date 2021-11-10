@@ -19,7 +19,7 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2><a href="{{ '/femputermanchine/books/avael/' | prepend: site.url }}">AVAEL</a></h2>
+<h2><a href="{{ '/femputermanchine/avael/' | prepend: site.url }}">AVAEL</a></h2>
 
 <p>AVAEL is a bionic vampress who assists CEDRIC with his many responsibilities.</p>
 
@@ -68,7 +68,7 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2><a href="{{ '/femputermanchine/books/cedric/' | prepend: site.url }}">CEDRIC</a></h2>
+<h2><a href="{{ '/femputermanchine/cedric/' | prepend: site.url }}">CEDRIC</a></h2>
 
 <p>CEDRIC is a daywalking vampire who has sworn his afterlife to destroy evil and greed.</p>
 
@@ -116,7 +116,7 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2><a href="{{ '/femputermanchine/books/goth/' | prepend: site.url }}">GOTH</a></h2>
+<h2><a href="{{ '/femputermanchine/goth/' | prepend: site.url }}">GOTH</a></h2>
 
 <p>CASSANDRA GOTH is a child of old-money trying to find her way among strange and fantastical creatures.</p>
 
@@ -164,7 +164,7 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2><a href="{{ '/femputermanchine/books/jr/' | prepend: site.url }}">JUNIOR</a></h2>
+<h2><a href="{{ '/femputermanchine/jr/' | prepend: site.url }}">JUNIOR</a></h2>
 
 <p>JUNIOR is a frustrated younger sister vying for dominance in an uncooperative world.</p>
 
@@ -212,7 +212,7 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2><a href="{{ '/femputermanchine/books/kealoha/' | prepend: site.url }}">KEALOHA</a></h2>
+<h2><a href="{{ '/femputermanchine/kealoha/' | prepend: site.url }}">KEALOHA</a></h2>
 
 <p>MAKOA KEALOHA is a young man trying to cut through resentment of forced isolation and claim a family of his own.</p>
 
@@ -261,7 +261,7 @@ permalink: /femputermanchine/books/
 <hr>
 
 
-<h2><a href="{{ '/femputermanchine/books/kevin/' | prepend: site.url }}">KEVIN</a></h2>
+<h2><a href="{{ '/femputermanchine/kevin/' | prepend: site.url }}">KEVIN</a></h2>
 
 <p>KEVIN MARSCAPONE is a magic-user seeking to overcome childhood illness and maintain a fair and just society.</p>
 
@@ -309,7 +309,7 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2><a href="{{ '/femputermanchine/books/mandarc/' | prepend: site.url }}">MANDARC</a></h2>
+<h2><a href="{{ '/femputermanchine/mandarc/' | prepend: site.url }}">MANDARC</a></h2>
 
 <p>MANDARC SOO is a young vampire learning the value of a trustworthy first officer.</p>
 
@@ -357,7 +357,7 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2><a href="{{ '/femputermanchine/books/mccoy/' | prepend: site.url }}">McCOY</a></h2>
+<h2><a href="{{ '/femputermanchine/mccoy/' | prepend: site.url }}">McCOY</a></h2>
 
 <p>LENARD McCOY is a foreign doctor who takes his job very seriously.</p>
 
@@ -405,7 +405,7 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2><a href="{{ '/femputermanchine/books/myrtle/' | prepend: site.url }}">MYRTLE</a></h2>
+<h2><a href="{{ '/femputermanchine/myrtle/' | prepend: site.url }}">MYRTLE</a></h2>
 
 <p>MYRTLE MARSCAPONE is the Magicademy's ex-headmistress atoning for sins against Elysion.</p>
 
@@ -453,7 +453,7 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2><a href="{{ '/femputermanchine/books/perkins/' | prepend: site.url }}">PERKINS</a></h2>
+<h2><a href="{{ '/femputermanchine/perkins/' | prepend: site.url }}">PERKINS</a></h2>
 
 <p>FRIDAY PERKINS is a capable magic-user aiming to eliminate the competition.</p>
 
@@ -502,7 +502,7 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2><a href="{{ '/femputermanchine/books/roxxie/' | prepend: site.url }}">ROXXIE</a></h2>
+<h2><a href="{{ '/femputermanchine/roxxie/' | prepend: site.url }}">ROXXIE</a></h2>
 
 <p>ROXANNE SCHWARTZ is one of the most recent of STRAUD's conversions.</p>
 
@@ -550,7 +550,7 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2><a href="{{ '/femputermanchine/books/straud/' | prepend: site.url }}">STRAUD</a></h2>
+<h2><a href="{{ '/femputermanchine/straud/' | prepend: site.url }}">STRAUD</a></h2>
 
 <p>VLADISLAUS STRAUD is surrogate father to many a young vampire.</p>
 
@@ -598,7 +598,7 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2><a href="{{ '/femputermanchine/books/tzu/' | prepend: site.url }}">TZU</a></h2>
+<h2><a href="{{ '/femputermanchine/tzu/' | prepend: site.url }}">TZU</a></h2>
 
 <p>TZU PRANO is a cheerful magic-user pursuing life as a doctor.</p>
 
@@ -646,7 +646,7 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2><a href="{{ '/femputermanchine/books/vatore/' | prepend: site.url }}">VATORE</a></h2>
+<h2><a href="{{ '/femputermanchine/vatore/' | prepend: site.url }}">VATORE</a></h2>
 
 <p>LILITH & CALEB VATORE are two vampires navigating a vegetarian ancestry.</p>
 
@@ -694,7 +694,7 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2><a href="{{ '/femputermanchine/books/weaslie/' | prepend: site.url }}">WEASLIE</a></h2>
+<h2><a href="{{ '/femputermanchine/weaslie/' | prepend: site.url }}">WEASLIE</a></h2>
 
 <p>BRONALD WEASLIE is a middling mage hoping to discover a grander destiny.</p>
 

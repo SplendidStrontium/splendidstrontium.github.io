@@ -1,7 +1,7 @@
 ---
 layout: femputermanchine
 title: "JUNIOR"
-permalink: /femputermanchine/books/jr/
+permalink: /femputermanchine/jr/
 ---
 
 <html>

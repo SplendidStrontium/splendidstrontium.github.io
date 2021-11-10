@@ -1,7 +1,7 @@
 ---
 layout: femputermanchine
 title: "KEALOHA"
-permalink: /femputermanchine/books/kealoha/
+permalink: /femputermanchine/kealoha/
 ---
 
 <html>

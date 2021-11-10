@@ -1,7 +1,7 @@
 ---
 layout: femputermanchine
 title: "WEASLIE"
-permalink: /femputermanchine/books/weaslie/
+permalink: /femputermanchine/weaslie/
 ---
 
 <html>

@@ -1,7 +1,7 @@
 ---
 layout: femputermanchine
 title: "MANDARC"
-permalink: /femputermanchine/books/mandarc/
+permalink: /femputermanchine/mandarc/
 ---
 
 <html>
@@ -15,7 +15,7 @@ permalink: /femputermanchine/books/mandarc/
 <div id="fpmc-intro">
 <table class="inline-imgtbl-l">
 <tr>
-<td><img class="inline-img" src="{{ site.url }}/assets/tb/mandarc-flowers.jpg"></td>
+<td><img class="inline-img" src="{{ site.url }}/assets/tb/mandarc-skeptic.jpg"></td>
 </tr>
 </table>
 <p>MANDARC swears he was created, not born. His earliest memories are those of the safety and solace he enjoyed in the company of his canine companion, Dexx.</p>

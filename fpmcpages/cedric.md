@@ -1,7 +1,7 @@
 ---
 layout: femputermanchine
 title: "CEDRIC"
-permalink: /femputermanchine/books/cedric/
+permalink: /femputermanchine/cedric/
 ---
 
 <html>
