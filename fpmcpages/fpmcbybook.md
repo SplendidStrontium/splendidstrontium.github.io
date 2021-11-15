@@ -507,7 +507,7 @@ permalink: /femputermanchine/books/
 <p>ROXANNE SCHWARTZ is one of the most recent of STRAUD's conversions.</p>
 
 <ul>
-	{% assign maxPost = 1 %}
+	{% assign maxPost = 2 %}
 	{% assign counter = 0 %}
 	{% for post in site.posts %}
         {% if post.url %}
