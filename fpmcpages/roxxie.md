@@ -15,7 +15,7 @@ permalink: /femputermanchine/roxxie/
 <div id="fpmc-intro">
 <table class="inline-imgtbl-l">
 <tr>
-<td><img class="inline-img" src="{{ site.url }}/assets/tb/roxanne-tb.jpg"></td>
+<td><img class="inline-img" src="{{ site.url }}/assets/tb/roxanne-speaks.jpg"></td>
 </tr>
 </table>
 <p>ROXANNE SCHWARTZ is a very young vampire recently converted by VLADISLAUS STRAUD. She brings with her the dog EDWARD, a mangy mutt with waxy hair and the 'couch potato' trait.</p>
