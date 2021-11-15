@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "STRAUD 006: Tangental"
+title: "STRAUD 007: Tangental"
 permalink: /femputermanchine/straud/tangental/
 category: femputermanchine
 date: 2021-10-13 10:36
