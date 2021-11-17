@@ -7,12 +7,13 @@ date: 1908-10-26 11:04
 description: "in which Myrtle suspects magnetic interference"
 tags: [skit, fpmcmain-myrtle, act-0]
 published: true
-lastmod: 2021-11-03 14:20
+lastmod: 2021-11-17 15:26
 ---
 [//]: # ( 10/25/21  -added)
 [//]: # ( 10/25/21  -https://www.nycsubway.org/wiki/Early_Rapid_Transit_in_Brooklyn,_1878-1913)
 [//]: # ( 10/26/21  -formatting update)
 [//]: # ( 11/03/21  -title added)
+[//]: # ( 11/17/21  -Myrtle's friend was changed from Edward to Richard)
 
 *****
 <br/><i>MYRTLE SOO is eight years old when she begins to realize that she is different from her peers. She and her father, a widower, live alone at SOO TOWNHOME in BROOKLYN, NEW YORK. MYRTLE lives a highly solitary childhood; her father spends much of the day away from the homestead. He is a well-to-do gentleman who relocated to NEW YORK CITY from THE ORIENT in the late 1800s. A skilled English-speaker, he manages trade through MANHATTAN's CHINATOWN. His crucial position in the import-export chain leaves him little time for his daughter. MYRTLE attends a local public school, her day-to-day focus occupied with learning the three R's.</I>
@@ -116,11 +117,11 @@ lastmod: 2021-11-03 14:20
 
 <i>Twelve and thirteen-year-olds clustered in groups. Their younger siblings piled stones and dug for pebbles in what once, MYRTLE had surmised, held animals intended for slaughter.</i>
 
-<i>She had here made friends with a young boy EDWARD. He had a fondness for digging dirt that the young MYRTLE generally found infectious. He was a sweet boy, as of yet unspoilt by the hustle of the city.</i>
+<i>She had here made friends with a young boy RICHARD. He had a fondness for digging dirt that the young MYRTLE generally found infectious. He was a sweet boy, as of yet unspoilt by the hustle of the city.</i>
 
 <i>Today, the young boy had a bucket with him that he was filling and refilling, creating a small mound of soil next to a hole.</i>
 
-#### EDWARD ####
+#### RICHARD ####
 
 > I'M DIGGING FOR DRAGON BONES.
 
@@ -138,7 +139,7 @@ lastmod: 2021-11-03 14:20
 
 > DRAGONS ONLY COME FROM THE OLD WORLD.
 
-#### EDWARD ####
+#### RICHARD ####
 
 > WHERE IS 'THE OLD WORLD'?
 
@@ -152,7 +153,7 @@ lastmod: 2021-11-03 14:20
 >
 > ONLY INDIANS.
 
-<br/><I>EDWARD looks down at his pile of dirt, pausing a moment, contemplative.</i>
+<br/><I>RICHARD looks down at his pile of dirt, pausing a moment, contemplative.</i>
 
 <i>He ignores her and continues to dig.</i>
 <br/><br/>
