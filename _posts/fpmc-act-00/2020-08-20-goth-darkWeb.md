@@ -7,22 +7,18 @@ category: femputermanchine
 tags: [skit, fpmcmain-goth, act-0]
 description: "Bella, the Good"
 published: true
-lastmod: 2021-11-03 14:28
+lastmod: 2021-11-17 14:28
 ---
 [//]: # (  8/23/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
 [//]: # ( 10/26/21  -italics and speech formatting updated)
 [//]: # ( 11/03/21  -title added)
+[//]: # ( 11/17/21  -updated for correction of place names as well as Alexander's age)
 
-SETTING: 'Old Goth Estate', Neucrest<br/>
-'Goth Estate', Willow Creek<br/>
-YEAR: 2020, autumn
+*****
+<br><i>CASSANDRA GOTH, 24, sits alone in a large house in STEINWAY. She puts down a hairbrush and emits a heavy sigh. She pulls out from a desk drawer her cell phone, a large, dated device. </i>
 
-<center>~</center>
-
-<i>Cassandra Goth, 24, sits alone in a large house in Neucrest. She puts down a hairbrush and emits a heavy sigh. She pulls out from a desk drawer her cell phone, a large, dated device. </i>
-
-<i>She scrolls through a short list of contacts to find 'Alex', her younger brother. His contact photo shows a young boy with an uncertain smile. He is about ten years old. </i>
+<i>She scrolls through a short list of contacts to find 'Alex', her younger brother. His contact photo shows a young boy with an uncertain smile. He is about fifteen years old. </i>
 
 #### CASSANDRA
 
@@ -42,14 +38,13 @@ YEAR: 2020, autumn
 
 > YEAH I HAVE A PROJECT DUE MONDAY TOO. I GOTTA BUILD A CASTLE OR SOMETHING.
 
-
-<i>CASSANDRA is silent for a moment. But ALEXANDER, too, seems to want to dwell in the quiet. It is just peaceful for the siblings to hear each other on the phone.</i>
+<br><i>CASSANDRA is silent for a moment. But ALEXANDER, too, seems to want to dwell in the quiet. It is just peaceful for the siblings to hear each other on the phone.</i>
 
 #### CASSANDRA
 
 > HOW IS DAD DOING?
 
-<i>ALEX doesn't respond.</i>
+<br><i>ALEX doesn't respond.</i>
 
 #### CASSANDRA 
 
@@ -75,9 +70,9 @@ YEAR: 2020, autumn
 
 > YEAH... SURE.
 
-<i>CASSANDRA leaves her room and exits through an untidy conservatory. A number of plants lay abandoned in their planters. She locks the door and gets into a sporty red convertible.</i>
+<br><i>CASSANDRA leaves her room and exits through an untidy conservatory. A number of plants lay abandoned in their planters. She locks the door and gets into a sporty red convertible.</i>
 
-<i>When she reaches the GOTH ESTATE, it seems as if she's been driving for some time. Her loose hair, secured in a simple ponytail at the back of her neck, is untidy from the wind. ALEXANDER is sitting on the sheltered front stoop, writing in a black&white composition notebook. He hears the car arrive and closes the notebook. He joins her in the car without greeting. </i>
+<i>When she reaches the GOTH MANOR, it seems as if she's been driving for some time. Her loose hair, secured in a simple ponytail at the back of her neck, is untidy from the wind. ALEXANDER is sitting on the sheltered front stoop, writing in a black&white composition notebook. He hears the car arrive and closes the notebook. He joins her in the car without greeting. </i>
 
 <i>CASSANDRA is about to drive off when her father, MORTIMER, runs out of the house carrying a golden URN.</i>
 
@@ -89,7 +84,7 @@ YEAR: 2020, autumn
 
 > (with pause) HI, DAD. 
 
-<i>MORTIMER walks up to the car. ALEX is fiddling with his seatbelt, and seeming to take as long as possible to avoid his father's gaze.</i>
+<br><i>MORTIMER walks up to the car. ALEX is fiddling with his seatbelt, and seeming to take as long as possible to avoid his father's gaze.</i>
 
 #### MORTIMER 
 
@@ -99,7 +94,7 @@ YEAR: 2020, autumn
 
 > (interrupting) YEAH DAD, NO PROBLEM.
 
-<i>CASSANDRA reaches under her dash and pops the trunk. MORTIMER places the URN in the net affixed to the inside of the trunk. He uses a few bungie cords to attach the urn. When he's finished, he comes around to the side of the car to talk to his children. The car idles noisily.</i>
+<br><i>CASSANDRA reaches under her dash and pops the trunk. MORTIMER places the URN in the net affixed to the inside of the trunk. He uses a few bungie cords to attach the urn. When he's finished, he comes around to the side of the car to talk to his children. The car idles noisily.</i>
 
 #### CASSANDRA 
 
@@ -125,7 +120,7 @@ YEAR: 2020, autumn
 
 > SEE YA, DAD. I'LL MAKE SURE MOM GETS WHERE SHE'S GOING.
 
-<i>MORTIMER awkwardly waves as his children drive off. CASSANDRA, ALEX sit in silence for a while; ALEX stares intently out the right side of the car. The young boy maintains his gaze while breaking the silence.</i>
+<br><i>MORTIMER awkwardly waves as his children drive off. CASSANDRA, ALEX sit in silence for a while; ALEX stares intently out the right side of the car. The young boy maintains his gaze while breaking the silence.</i>
 
 #### ALEXANDER 
 
@@ -135,7 +130,7 @@ YEAR: 2020, autumn
 
 > (pause) IT'S OKAY. (pause) I THINK OUR RECEPTIONIST HAS A CRUSH ON ME.
 
-<i>ALEXANDER refuses to answer. Her attempt at humor falls on a cold shoulder.</i>
+<br><i>ALEXANDER refuses to answer. Her attempt at humor falls on a cold shoulder.</i>
 
 #### CASSANDRA
 
@@ -153,7 +148,7 @@ YEAR: 2020, autumn
 
 > YOU DO KNOW HE'S A VAMPIRE, RIGHT?
 
-<i>A thick silence falls over the car. CASSANDRA's attention drifts as a driver rudely cuts her off.</i>
+<br><i>A thick silence falls over the car. CASSANDRA's attention drifts as a driver rudely cuts her off.</i>
 
 #### ALEXANDER 
 
@@ -163,19 +158,19 @@ YEAR: 2020, autumn
 
 > (fiercely) ALEX, WHAT THE HELL ARE YOU TALKING ABOUT?
 
-<i>The two are embarrassed. CASSANDRA is blushing.</i>
+<br><i>The two are embarrassed. CASSANDRA is blushing.</i>
 
 #### CASSANDRA
 
 > (pause) AND WE'RE NOT DATING.
 
-<i>Silence.</i>
+<br><i>Silence.</i>
 
 #### CASSANDRA
 
 > HE'S MY NEIGHBOR AND HE'S HELPED ME DEAL WITH THAT CREEPY ASS HOUSE, OKAY? I'M SORRY ABOUT WEDNESDAY --
 
-<i>Silence.</i>
+<br><i>Silence.</i>
 
 #### CASSANDRA
 
@@ -209,7 +204,7 @@ YEAR: 2020, autumn
 
 > YES THEY ARE!
 
-<i>Traffic on the road is heavy, keeping CASSANDRA occupied. But ALEXANDER has turned to face his sister. </i>
+<br><i>Traffic on the road is heavy, keeping CASSANDRA occupied. But ALEXANDER has turned to face his sister. </i>
 
 #### ALEXANDER 
 
@@ -223,7 +218,7 @@ YEAR: 2020, autumn
 
 > CAN YOU PLEASE STOP BEING LIKE DAD?
 
-<i>CASSANDRA grimaces. She cuts off someone in traffic and produces a rude hand gesture.</i>
+<br><i>CASSANDRA grimaces. She cuts off someone in traffic and produces a rude hand gesture.</i>
 
 #### CASSANDRA 
 
@@ -237,7 +232,7 @@ YEAR: 2020, autumn
 
 > OKAY OKAY ENOUGH ALEX! GEEZ! I'LL DRIVE YOU HOME RIGHT NOW!
 
-<i>A regretful silence. CASSANDRA seems uncommitted to disciplining her brother over cursing.</i>
+<br><i>A regretful silence. CASSANDRA seems uncommitted to disciplining her brother over cursing.</i>
 
 #### ALEXANDER 
 
@@ -259,13 +254,13 @@ YEAR: 2020, autumn
 
 > ON THE COMPUTER. YEAH. THANKS DAD.
 
-<i>CASSANDRA is struggling to hold back her anger. She brakes suddenly and glares to the passenger seat.</i>
+<br><i>CASSANDRA is struggling to hold back her anger. She brakes suddenly and glares to the passenger seat.</i>
 
 #### ALEXANDER 
 
 > I CHECKED MULTIPLE SOURCES. HE'S FAMOUS. 
 
-<i>In a moment, her attention is back to the road. Another light and she quickly begins chewing gum she pulls from her cupholder.</i>
+<br><i>In a moment, her attention is back to the road. Another light and she quickly begins chewing gum she pulls from her cupholder.</i>
 
 #### ALEXANDER 
 
@@ -275,4 +270,5 @@ YEAR: 2020, autumn
 
 > I THOUGHT I TOLD YOU NEVER BRING THAT UP AGAIN.
 
+*****
 

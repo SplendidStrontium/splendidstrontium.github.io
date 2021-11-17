@@ -19,7 +19,7 @@ lastmod: 2021-10-19 15:44
 <p class="ppl-sez">AVAEL//</p>
 <p class="ppl-sez">GOOD AFTERNOON, EVERYONE.</p>
 <p class="ppl-sez">I HAVE COMPOSED THE FIRST EPISODE OF MY FORAY INTO THE PAST.</p>
-<p class="ppl-sez">YOU MAY FIND IT <a href="{{ '/femputermanchine/avaelleeaston-1' | prepend: site.url }}">HERE</a>.</p>
+<p class="ppl-sez">YOU MAY FIND IT <a href="{{ '/femputermanchine/avael/tatters' | prepend: site.url }}">HERE</a>.</p>
 <p class="ppl-sez">AS THEY SAY, AH TO BE YOUNG AGAIN.</p>
 <p class="ppl-sez">DID YOU HAVE ANY DREAMS LAST NIGHT, CEDRIC?</p>
 </div>

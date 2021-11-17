@@ -7,17 +7,18 @@ category: femputermanchine
 tags: [skit, fpmcmain-cedric, act-0]
 description: "in which Cedric arises from a daymare about the family car"
 published: true
-lastmod: 2021-11-03 13:59
+lastmod: 2021-11-17 14:52
 ---
 [//]: # (  8/30/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
 [//]: # ( 10/26/21  -formatting update)
 [//]: # ( 11/03/21  -in which description added)
+[//]: # ( 11/17/21  -placenames updated)
 
-SETTING: 'Marscapone Apartments', Neucrest<br/>
-YEAR: 2020, summer
+*****
+<br>
 
-<center>~</center>
+### // MARSCAPONE AUXILIARY APTS //
 
 <br><i>CEDRIC rises from his nightly meditation. He is in a dark basement; the simple coffin of dark jungle wood is one of the few features of the cavern.</i>
 
@@ -45,4 +46,7 @@ YEAR: 2020, summer
 
 <i>CEDRIC buries his fingers in his light hair and crumples to the ground in dry tears. In the distance, a bird's tinny melody silences the crickets.</i>
 
+<BR>
+
+*****
 

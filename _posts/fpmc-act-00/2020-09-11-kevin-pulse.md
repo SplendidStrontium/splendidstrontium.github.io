@@ -7,20 +7,20 @@ category: femputermanchine
 tags: [skit, fpmcmain-kevin, act-0]
 description: "the approach"
 published: true
-lastmod: 2021-11-03 14:42
+lastmod: 2021-11-17 15:04
 ---
 [//]: # (  9/11/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
 [//]: # ( 10/26/21  -formatting update)
 [//]: # ( 11/03/21  -title added)
+[//]: # ( 11/17/21  -formatting update)
 
 *****
-
-## // OPEN VISUAL : ##
+<br>
 
 ### K.MARSCAPONE'S HOUSE INTERIOR ###
 
-<i>The ranch has a matching set of stairs off to the left of the entrance. The small house seems to have had walls removed; only the upward stairs set the small kitchen off from the rest of the house. Brown ceiling fans circulate regularly, buzzing just perceptively. </i>
+<br><i>The ranch has a matching set of stairs off to the left of the entrance. The small house seems to have had walls removed; only the upward stairs set the small kitchen off from the rest of the house. Brown ceiling fans circulate regularly, buzzing just perceptively. </i>
 
 <i>KEVIN allows CEDRIC to help him to his feet, slowly but firmly. He's still winded from passing out. </i>
 
@@ -54,7 +54,7 @@ lastmod: 2021-11-03 14:42
 
 <i>KEVIN fades into his bedroom and prepares himself for the day. </i>
 
-## // UPSTAIRS : ##
+### // UPSTAIRS :
 
 <I>CEDRIC is sitting at the piano bench, resting his fingers on the keys as if he's going to start playing. He moves his hands expressively over the keys but refuses to press them down, playing a whispered concert. </i>
 
@@ -90,12 +90,13 @@ lastmod: 2021-11-03 14:42
 
 <br><I>They continue to drive in silence. </i>
 
-## // STRAUD MANSION // ##
+### // STRAUD MANSION // 
 
 <i>The Straud Mansion is a forbidding four-story home in Jamaica Estates. The snow is clean; the airy open driveway is covered with a soft, powdery snow that is freshly disturbed by KEVIN's car. </i>
 
 <i>KEVIN parks boldly, diagonal across the oval approach. HE, CEDRIC exit the car on the left side and ascend the steps.</i>
 
-## // CLOSE VISUAL // ##
+<br>
 
+*****
 

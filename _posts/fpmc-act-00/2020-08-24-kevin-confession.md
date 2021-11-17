@@ -7,19 +7,19 @@ category: femputermanchine
 tags: [skit, fpmcmain-kevin, act-0]
 description: "the Beginning of the Mystery"
 published: true
-lastmod: 2021-11-03 14:32
+lastmod: 2021-11-17 14:49
 ---
 [//]: # (  8/24/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
 [//]: # ( 10/26/21  -formatting update)
 [//]: # ( 11/03/21  -title added)
+[//]: # ( 11/17/21  -updated for place names)
 
-SETTING: 'Old Goth Estate', Neucrest<br/>
-SEASON: WINTER, approx 2020
+*****
+<BR>
+## // OLD GOTH ESTATE // 
 
-<center>~</center>
-
-<i>Cassandra is sitting alone in her house. She looks at her phone nervously. Once, twice, and then again. </i>
+<BR><i>Cassandra is sitting alone in her house. She looks at her phone nervously. Once, twice, and then again. </i>
 
 <i>When it finally rings, she jumps.</i>
 
@@ -85,4 +85,7 @@ SEASON: WINTER, approx 2020
 
 <br><i>CASSANDRA GOTH, violently crying, runs in the house and slams the door.</i>
 
+<BR>
+
+*****
 
