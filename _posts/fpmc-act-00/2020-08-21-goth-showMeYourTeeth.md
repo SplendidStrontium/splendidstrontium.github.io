@@ -7,21 +7,18 @@ category: femputermanchine
 tags: [skit, fpmcmain-goth, act-0]
 description: "Lenny, 'the Patient' Dentist"
 published: true
-lastmod: 2021-11-03 14:30
+lastmod: 2021-11-17 14:43
 ---
 [//]: # (  8/25/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
 [//]: # ( 10/26/21  -formatting update)
 [//]: # ( 11/03/21  -title added)
+[//]: # ( 11/17/21  -updated for place names)
 
-SETTING: 'Old Goth Estate', Neucrest<br/>
-YEAR: 2020, autumn
+*****
+<br><i>CASSANDRA GOTH and her younger brother are sitting together in the OLD GOTH ESTATE, a relatively decrepit house that has been part of the GOTH holdings for generations.</i>
 
-<center>~</center>
-
-<i>Cassandra Goth and her younger brother are sitting together in the Old Goth Estate, a relatively decrepit house that has been part of the Goth holdings for generations.</i>
-
-<i>The house shows some signs of life; the walls have a fresh coat of paint. The siblings are sitting on the floor looking at Alexander's cellphone.</i>
+<i>The house shows some signs of life; the walls have a fresh coat of paint. The siblings are sitting on the floor looking at ALEXANDER's cellphone.</i>
 
 #### ALEXANDER 
 
@@ -70,4 +67,8 @@ YEAR: 2020, autumn
 <i>The boy has long fangs, yes, but his incisors are incomplete as well. Just one front tooth. And by the look of it, he's missing other teeth as well.</i>
 
 <i>And he has a strange sadness. Yes, the eyes are soft and wandering, a dreaminess she's come to associate with the young man. And yet even photographed, she can't look into the eyes for too long and she puts the phone down.</i>
+
+<BR>
+
+*****
 

@@ -7,37 +7,40 @@ category: femputermanchine
 tags: [skit, fpmcmain-cedric, act-0]
 description: "in which Cedric finds Kevin collapsed"
 published: true
-lastmod: 2021-11-03 14:04
+lastmod: 2021-11-17 15:00
 ---
 [//]: # (  9/10/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
 [//]: # ( 10/26/21  -formatting update)
 [//]: # ( 11/03/21  -in which description added)
+[//]: # ( 11/17/21  -formatting refinement)
 
 *****
-
-## // OPEN VISUAL // ##
+<BR>
 
 ### CEDRIC'S BASEMENT ###
 
-<i>CEDRIC wakes up again. A ringtone is going off to a familiar tune. </i>
+<BR><i>CEDRIC wakes up again. A ringtone is going off to a familiar tune. </i>
 
 ### &#119070; oh-kla-home-ah &#119135; ###
 
-<i>He lets it play to completion before shutting it off. A moment of meditation, CEDRIC draws air into his lungs and flushes it out again.</i>
+<BR><i>He lets it play to completion before shutting it off. A moment of meditation, CEDRIC draws air into his lungs and flushes it out again.</i>
 
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/straud-fine.jpg" class="chat-portrait" />
 <p class="ppl-sez">STRAUD//</p>
 </div>
 
-<i>After dressing in his familiar garb, CEDRIC reflects for a moment, looking toward an empty mirror.</i>
+<BR><i>After dressing in his familiar garb, CEDRIC reflects for a moment, looking toward an empty mirror.</i>
 
-## // CHG VISUAL // ##
+<br>
+
+*****
+<BR>
 
 ### OUTSIDE KEVIN'S HOUSE ###
 
-<i>CEDRIC knocks on the door. He looks around anxiously, squinting. The ground is covered in bright, clean winter snow. </i>
+<br><i>CEDRIC knocks on the door. He looks around anxiously, squinting. The ground is covered in bright, clean winter snow. </i>
 
 <i>AGAIN, he knocks on the door, but louder and more insistent. A throng of children behind him are collecting at a bus-stop.</i>
 
@@ -60,8 +63,6 @@ lastmod: 2021-11-03 14:04
 <i>CEDRIC fumbles in his pocket for his cellphone. He looks at the screen and begins to enter a string of numbers when the door falls open. </i>
 
 <i>He drops the burner on the ground and rushes into the house. </i>
-
-### K.MARSCAPONE'S HOUSE INTERIOR ###
 
 <i>The house is sparsely decorated despite numerous paintings hanging on the tan walls. It is darkly lit; some major features include two large easels, a drying rack, and a grand piano set in the center of the snug room. A pale orange couch has corners that have been destroyed, presumably by a cat. </i>
 
@@ -99,6 +100,7 @@ lastmod: 2021-11-03 14:04
 
 > (weakly) OK.
 
-## // CLOSE VISUAL // ##
+<br>
 
+*****
 
