@@ -14,135 +14,134 @@ lastmod: 2021-11-03 15:09
 [//]: # ( 11/03/21  -title added)
 
 *****
+<br>
+### // WEASLIE HOMESTEAD // ###
 
-### WEASLIE HOMESTEAD ###
-
-<i>FRIDAY PERKINS, after a grueling roadtrip via motorcycle, has arrived at the WEASLIE plot in Saint Louie. </i>
+<br><i>FRIDAY PERKINS, after a grueling roadtrip via motorcycle, has arrived at the WEASLIE plot in Saint Louie. </i>
 
 <i>It's been a few days of decompression, so at lunch, PERKINS decides she's going to ask the question that's been bothering her. </i>
 
-## // OPEN VISUAL // ##
-
-### PERKINS ###
+#### PERKINS 
 
 > SO... UH... WHERE'S THE DOG?
 
-<I>WEASLIE takes a few moments to collect his thoughts. </i>
+<br><I>WEASLIE takes a few moments to collect his thoughts. </i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > (thinking) YOU KNEW THIS WAS GOING TO COME UP...
-
+> 
 > WELL I HIRED ONE OF MY ASSOCIATES TO DRIVE HIM HERE. I HAVEN'T HEARD FROM HIM AND HONESTLY I THOUGHT HE'D BE HERE BY NOW. YOU WANT ME TO GIVE HIM A CALL?
 
-### PERKINS ###
+#### PERKINS 
 
 > YEAH I DO. 
 
-<I>WEASLIE attempts to fish his cellphone from his pocket when he realizes he's left it in the bedroom.</i>
+<br><I>WEASLIE attempts to fish his cellphone from his pocket when he realizes he's left it in the bedroom.</i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > I... UH... DON'T HAVE MY PHONE ON ME. LET ME GO GET IT.
 
-<I>PERKINS sits at the table eating macaroni and cheese while WEASLIE leaves to go downstairs.</i>
+<br><I>PERKINS sits at the table eating macaroni and cheese while WEASLIE leaves to go downstairs.</i>
 
 <i>His house is an unusual configuration: the living room and kitchen are elevated on the second floor. Ever since his mother's death, WEASLIE has taken up residence in the master bedroom on the first floor. He has made a number of updates to the house but it is still a hodge-podge of modern and antique finishings. The notable exception to the renovations is a wallpaper that was his mother's favorite finish.</i>
 
 <center>~</center>
-
-<i>PERKINS is still sitting somewhat awkwardly alone in the dining room. To her right lies a book: 'BROOMIES!' -- a screenplay she's been trying to suffer through.</i>
+<br><i>PERKINS is still sitting somewhat awkwardly alone in the dining room. To her right lies a book: 'BROOMIES!' -- a screenplay she's been trying to suffer through.</i>
 
 <i>WEASLIE starts speaking loudly, lowering to a more acceptable tone as he approaches.</i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > HE SUFFERED A BIT OF A SETBACK, AND UH...
-
+> 
 > THE DOG BIT HIM.
 
-<i>She gasps, genuinely shocked.</i>
+<br><i>She gasps, genuinely shocked.</i>
 
-### PERKINS ###
+#### PERKINS
 
 > DEXX BIT HIM?! FUCK I'M SORRY.
 
-### WEASLIE ###
+#### WEASLIE 
 
 > YEAH...
-
+> 
 > BUT HE'S GOING TO BE HERE IN A COUPL'A HOURS.
 
-### PERKINS ###
+#### PERKINS 
 
 > DOG'S ALWAYS BEEN A BIT OF AN AGGRESSIVE CUNT. I'M SORRY. IS THERE ANYTHING I CAN DO?
 
-### WEASLIE ###
+#### WEASLIE 
 
 > APPARENTLY IT'S NOT BAD, ALTHOUGH MY GUY IS PRETTY PISSED AT THE DOG AND JUST WANTS TO GET RID OF IT. 
-
+> 
 > MAYBE WE JUST SHOULD HAVE TAKEN THE CAR.
 
 <CENTER>~</CENTER>
-
-<I>The afternoon passes without event until the doorbell rings. WEASLIE opens the door. BRONALD'S ACCOMPLICE stands unhappily in the door, holding the dog on a red leash. </i>
+<br><I>The afternoon passes without event until the doorbell rings. WEASLIE opens the door. BRONALD'S ACCOMPLICE stands unhappily in the door, holding the dog on a red leash. </i>
 
 <i>PERKINS appears, walking into the living room, and the dog catches her scent. The ACCOMPLICE grunts in irritation as the dog pulls at the leash.</i>
 
-### ACCOMPLICE ###
+#### ACCOMPLICE 
 
 > DAMN THING. I'M GONNA LET IT GO, OKAY?
 
-<I>Before anyone can speak, DEXX pulls on the leash and the ACCOMPLICE lets the dog go. The thin white dog, deceptively strong, rears up and licks PERKINS, who welcomes him, albeit stiffly.</i>
+<br><I>Before anyone can speak, DEXX pulls on the leash and the ACCOMPLICE lets the dog go. The thin white dog, deceptively strong, rears up and licks PERKINS, who welcomes him, albeit stiffly.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > (severely) I HEAR YOU'VE BEEN A BAD DOG!
 
-<I>THE ACCOMPLICE grumbles.</i>
+<br><I>THE ACCOMPLICE grumbles.</i>
 
-### ACCOMPLICE ###
+#### ACCOMPLICE 
 
 > YOUR WITCH GON' DO SOMETHIN' ABOUT THIS?
 
-<I>HE waves a messily bandaged hand. </i>
+<br><I>HE waves a messily bandaged hand. </i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > NO, SHE'S NOT.
-
+> 
 > GO GET TO THE DOCTOR, I'LL SEE THAT YOU'RE TAKEN CARE OF.
 
-### PERKINS ###
+#### PERKINS 
 
 > I'M SORRY ABOUT -- 
 
-<I>But she quickly quiets herself in embarrassment, catching his eyes and realizing that no words can make up for the fact that Mandar-- ...her... dog... bit this man. </i>
+<br><I>But she quickly quiets herself in embarrassment, catching his eyes and realizing that no words can make up for the fact that Mandar-- ...her... dog... bit this man. </i>
 
-### ACCOMPLICE ### 
+#### ACCOMPLICE 
 
 > YA OUGHTA GET THAT THING FIXED! 
 
-<I>WEASLIE steps out of the house and shuts the door to talk to the man.</i>
+<br><I>WEASLIE steps out of the house and shuts the door to talk to the man.</i>
 
 <i>PERKINS wants to be angry at the dog but it's difficult to muster the feeling. It's good to see the mutt again.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > WE GOT YOU SOME FOOD...
 
-<I>PERKINS leads DEXX upstairs to the kitchen where there is a shiny new plastic food bowl. She pours food for him and he gobbles it up greedily. </i>
+<br><I>PERKINS leads DEXX upstairs to the kitchen where there is a shiny new plastic food bowl. She pours food for him and he gobbles it up greedily. </i>
 
 <i>When WEASLIE reenters the kitchen, he receives a thorough smelldown from the dog. </i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > (gently) MANGY MUTT...
 
-<I>WEASLIE pets the dog and surprisingly to PERKINS, he seems to pass muster and gets a firm wag of the tail. </i>
+<br><I>WEASLIE pets the dog and surprisingly to PERKINS, he seems to pass muster and gets a firm wag of the tail. </i>
+
+#### WEASLIE
 
 > GONNA COST ME A FRIEND AND A FEW THOUSAND BUCKS, CRITTER.
 
-## // CLOSE VISUAL // ##
+<br>
 
+*****
 

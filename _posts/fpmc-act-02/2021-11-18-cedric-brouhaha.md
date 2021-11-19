@@ -237,13 +237,7 @@ lastmod: 2021-11-18 15:29
 
 > HEH. GOOD POINT.
 
-#### CEDRIC
-
-> THESE ASSHOLES REALLY DIDN'T LIKE GRASS, THOUGH, HUH?
-
-<BR><I>The areas that could have been small patches of grass are bricked over.</i>
-
-<I>KEVIN pulls an oversized keyring from his pocket and begins to sort through it.</i>
+<br><I>KEVIN pulls an oversized keyring from his pocket and begins to sort through it.</i>
 
 #### CEDRIC 
 

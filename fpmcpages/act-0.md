@@ -15,6 +15,7 @@ permalink: /femputermanchine/act-0/
 <div id="fpmc-intro">
 <p>Act 0 of Femputer&Manchine is a strange collection of stories before the modern age. Friends were established and loyalties cemented as the characters began to fall into what would become their eventual destinies.</p>
 <p>If you're interested in the adventures of a particular character, check out <a href="{{ '/femputermanchine/books/' | prepend: site.url }}">FPMC (by book)</a> as well as <a href="{{ '/fpmcnotes/' | prepend: site.url }}">notes</a> and <a href="{{ '/hexfiles/' | prepend: site.url }}">errata</a>.</p>
+<p>For background information (spoilers) on the setting and jargon, check out the <a href="https://github.com/SplendidStrontium/splendidstrontium.github.io/wiki">wiki</a> or for general discussion, check out our <a href="https://discord.gg/A5PyBpFvE8">Discord</a>.</p>
 </div>
 
 <hr>

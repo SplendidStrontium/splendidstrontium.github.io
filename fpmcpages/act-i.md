@@ -19,6 +19,7 @@ permalink: /femputermanchine/act-i/
 <p>The colder months saw a quiet in activity; Kevin continued to work on his enchanted guns and a number of individuals succumbed to passions they'd merely been sitting upon. McCoy began his courtship of the Arachnid and the Ruby while Trente focused on Caleb Vatore.</p>
 <p>As the summer began, friendships were strong and loyalty was the name of the game. The Journey to the West began, wherein Mandarc realized the strength of his friends as they accompanied him to regain his lost companion, the dog Dexx. Vladislaus Straud administered a memory charm to Perkins and Weaslie, leaving them without the memory of the battle, and indeed, of all they had learned about the Vampire.</p>
 <p>If you're interested in the adventures of a particular character, check out <a href="{{ '/femputermanchine/books/' | prepend: site.url }}">FPMC (by book)</a> as well as <a href="{{ '/fpmcnotes/' | prepend: site.url }}">notes</a> and <a href="{{ '/hexfiles/' | prepend: site.url }}">errata</a>.</p>
+<p>For background information (spoilers) on the setting and jargon, check out the <a href="https://github.com/SplendidStrontium/splendidstrontium.github.io/wiki">wiki</a> or for general discussion, check out our <a href="https://discord.gg/A5PyBpFvE8">Discord</a>.</p>
 </div>
 
 <hr>
