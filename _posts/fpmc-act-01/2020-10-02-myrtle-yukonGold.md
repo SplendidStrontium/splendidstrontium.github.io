@@ -7,15 +7,15 @@ date: 2020-10-02 16:45
 description: "potion of emotional stability"
 tags: [skit, fpmcmain-myrtle, act-i]
 published: true
-lastmod: 2021-11-03 15:08
+lastmod: 2021-11-19 15:02
 ---
 [//]: # ( 10/02/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
 [//]: # ( 11/03/21  -title added)
+[//]: # ( 11/19/21  -formatting update)
 
 *****
-
-<i>MYRTLE MARSCAPONE has just read the news that ELIZA PANCAKES has passed. She solemnly puts down her tablet computer and lets the screen time out to black. </i>
+<br><i>MYRTLE MARSCAPONE has just read the news that ELIZA PANCAKES has passed. She solemnly puts down her tablet computer and lets the screen time out to black. </i>
 
 <i>Living alone in her new home has given her a quiet existence, a loneliness. But it is something she's felt before. She once had a husband, the man who gave her the name 'MARSCAPONE'. </I>
 
@@ -34,16 +34,17 @@ lastmod: 2021-11-03 15:08
 <i>MYRTLE has prolonged her life as long as possible, but today she remains as an elderly spellcaster, desperate but despairing that her studies will be answered. Her husband now all-but-dead and her son absorbed in the Defense of Dream, she has begun to give herself up to retirement. </i>
 
 <i>Her family inextricably tied to STRAUD and his allies, she quietly reflects. A lifetime of pursuing her Talent has led her to this : an old woman alone in a pink house. </i>
+<br><br>
 
-## // OPEN VISUAL // ##
+*****
+<br>
+### // MARSCAPONE SR. RANCH // ###
 
-### MARSCAPONE SR. RANCH ###
-
-### MYRTLE MARSCAPONE ###
+#### MYRTLE MARSCAPONE
 
 > (thinking) YET ANOTHER OBITUARY...
 
-<I>MYRTLE stares at the black tablet for a few moments before closing her eyes and shaking her head. She had just barely known ELIZA, although she had; before her relocation to STRAUD's FORGOTTEN HALLOW, she had lived just a few minutes down the street. </i>
+<br><I>MYRTLE stares at the black tablet for a few moments before closing her eyes and shaking her head. She had just barely known ELIZA, although she had; before her relocation to STRAUD's FORGOTTEN HALLOW, she had lived just a few minutes down the street. </i>
 
 <i>The two had met a few times coming to and from STRAUD's functions; MYRTLE had thought the young woman had an unforgiving glance, a quiet cruelty. </i>
 
@@ -51,43 +52,41 @@ lastmod: 2021-11-03 15:08
 
 <i>Her cauldron. </i>
 
-### MYRTLE MARSCAPONE ###
+#### MYRTLE MARSCAPONE 
 
 > (thinking) MY CAULDRON...
 
-<I>And why had she left it? Surely she could have come up with some kind of incantation to move it, shrink it, anything. And yet, she had felt afraid to damage it, to change it in any way. </i>
+<br><I>And why had she left it? Surely she could have come up with some kind of incantation to move it, shrink it, anything. And yet, she had felt afraid to damage it, to change it in any way. </i>
 
-### MYRTLE MARSCAPONE ###
+#### MYRTLE MARSCAPONE 
 
 > (thinking) MY CAULDRON...
 
-<i>A sudden old fire of anger rises in her heart.</i>
+<br><i>A sudden old fire of anger rises in her heart.</i>
 
-### MYRTLE MARSCAPONE ###
+#### MYRTLE MARSCAPONE
 
 > (thinking) I DON'T NEED IT.
 
-<i>The woman walks into the kitchen and rifles through her cabinets. They are a clatter of pots and pans -- some of them had moved here covered in dust. </i>
+<br><i>The woman walks into the kitchen and rifles through her cabinets. They are a clatter of pots and pans -- some of them had moved here covered in dust. </i>
 
 <i>From the mess she retreives a dated crockpot -- name brand with a brown powercord. She sets it out on the counter and glares at it.</i>
 
 <center>~</center>
-
-<i>Later that afternoon, MYRTLE leaves the modest ranch home and walks down the street.</i>
+<br><i>Later that afternoon, MYRTLE leaves the modest ranch home and walks down the street.</i>
 
 <i>MYRTLE grits her teeth while walking down the street. Her tightened jaw produces a tight-lipped grimace that many who know her find characteristic. </i>
 
 <i>Her simple goal is to buy a sack of potatoes.</i>
 
 <center>~</center>
+<br><i>When she arrives at the grocery store, she is struck with a twinge of irritation. No one here knows who she is. She's just an ordinary... old woman.</i>
 
-<i>When she arrives at the grocery store, she is struck with a twinge of irritation. No one here knows who she is. She's just an ordinary... old woman.</i>
-
-### MYRTLE MARSCAPONE ###
+#### MYRTLE MARSCAPONE 
 
 > (thinking) YUKON GOLD.
 
-<i>She eyes a five-pound bag of organic mashers. But before she picks up the bag, she slips her hand into her right pocket to ensure she still has the five-dollar bill she retreived before leaving her home. </i>
+<br><i>She eyes a five-pound bag of organic mashers. But before she picks up the bag, she slips her hand into her right pocket to ensure she still has the five-dollar bill she retreived before leaving her home. </i>
 
 <i>She thanks the stars that she's evaded pick-pockets for yet another day.</i>
 
@@ -96,16 +95,15 @@ lastmod: 2021-11-03 15:08
 <i>SENIOR WEDNESDAY.</I>
 
 <center>~</center>
-
-<i>Once she gets home, she throws the sack on the counter inelegantly. She had had to insist that she didn't need paper or plastic, nor had she brought her own shopping bag. She simply wanted to carry the bag of potatoes home with her bare hands. </i>
+<br><i>Once she gets home, she throws the sack on the counter inelegantly. She had had to insist that she didn't need paper or plastic, nor had she brought her own shopping bag. She simply wanted to carry the bag of potatoes home with her bare hands. </i>
 
 <i>Slowly, scared, she plugs in the crockpot. The stench of burning dust rises from the interior of the appliance. </i>
 
-### MYRTLE MARSCAPONE ###
+#### MYRTLE MARSCAPONE
 
 > (softly) UGH...
 
-<i>The smell reminds her of a time long-past and she feels suddenly embarrassed, thinking of her cauldron.</i>
+<br><i>The smell reminds her of a time long-past and she feels suddenly embarrassed, thinking of her cauldron.</i>
 
 <i>MYRTLE's cauldron, standing at her son's residence, had been with her since she bought the flat on the edge of the park in the late twenties. Back then it had been easier to haul around enormous bowls of iron without anyone turning an eye. Easier, but then again, not easy.</i>
 
@@ -119,18 +117,18 @@ lastmod: 2021-11-03 15:08
 
 <i>The potatoes were cubed; something she hadn't bothered to do in the cauldron. No, she usually chucked them in whole -- the splash was always satisfying. But today she was stuck with -- </i>
 
-### MYRTLE MARSCAPONE ###
+#### MYRTLE MARSCAPONE
 
 > SHIT!!
 
-<i>The smell quickly worsens as the cord's connection to the crockpot catches fire. Melting plastic stinks up the kitchen as MYRTLE begins to panic.</i>
+<br><i>The smell quickly worsens as the cord's connection to the crockpot catches fire. Melting plastic stinks up the kitchen as MYRTLE begins to panic.</i>
 
-### MYRTLE MARSCAPONE ###
+#### MYRTLE MARSCAPONE 
 
 > SHIT! SHIT! SHI-I-IT!!
 
-<i>MYRTLE pulls a towel off the oven and attempts to stifle the fire. Thankfully there is little but dust to catch and the fire settles, leaving MYRTLE alone with a failed potion in a cloud of disgust and shame. </i>
+<br><i>MYRTLE pulls a towel off the oven and attempts to stifle the fire. Thankfully there is little but dust to catch and the fire settles, leaving MYRTLE alone with a failed potion in a cloud of disgust and shame. </i>
+<br><br>
 
-## // CLOSE VISUAL // ##
-
+*****
 
