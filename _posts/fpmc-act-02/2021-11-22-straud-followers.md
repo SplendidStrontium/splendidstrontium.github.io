@@ -4,7 +4,7 @@ title: "STRAUD 010: Followers"
 permalink: /femputermanchine/straud/followers/
 category: femputermanchine
 date: 2021-11-22 10:09
-description: "in which "
+description: "in which Straud observes Kali"
 tags: [skit, fpmcmain-straud, act-ii]
 published: true
 lastmod: 2021-11-22 10:12
