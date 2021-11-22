@@ -1,26 +1,6 @@
 ---
 layout: default
 ---
-<div class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <span class="post-meta">Published: {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</span><br>
-    	{% if page.lastmod %}
-		<span class="post-meta">Last update: {{ page.lastmod | date_to_rfc822 }}</span><br>
-	{% endif %}
-    {% if page.youtube_link %}<span class="post-meta-youtubelink"><a href="{{ page.youtube_link }}" target="_blank" rel="noopener noreferrer">Reader's Theatre (YouTube)</a></span>{% endif %}
-
-
-  </header>
-
-  <article class="post-content">
-    {{ content }}
-  </article>
-	
-
-
-
 
 {% for post in site.categories.femputermanchine %}
 	{% if post.url == page.url %}
@@ -40,6 +20,30 @@ layout: default
 		{% assign prev_post_desc = post.description %}
 	{% endif %}
 {% endfor %}
+
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <span class="post-meta">Published: {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</span><br>
+    	{% if page.lastmod %}
+		<span class="post-meta">Last update: {{ page.lastmod | date_to_rfc822 }}</span><br>
+	{% endif %}
+    {% if prev_post %}<span class="post-meta">Previous: <a href="{{ prev_post }}">{{ prev_post_title }}</a></span><br>{% endif %}
+    {% if next_post %}<span class="post-meta">Next: <a href="{{ next_post }}">{{ next_post_title }}</a></span><br>{% endif %}
+    {% if page.youtube_link %}<span class="post-meta-youtubelink"><a href="{{ page.youtube_link }}" target="_blank" rel="noopener noreferrer">Reader's Theatre (YouTube)</a></span>{% endif %}
+
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+	
+
+
+
+
+
 <div class="fpmc-nav-box">
 {% if prev_post %}
 	<div class="fpmc-nav-link-box"><span class="fpmc-nav-link-txt"><a href="{{ prev_post }}">Previous// {{ prev_post_title }}</a></span><br/><span class="fpmc-nav-prev-desc">{{ prev_post_desc }}</span></div>
