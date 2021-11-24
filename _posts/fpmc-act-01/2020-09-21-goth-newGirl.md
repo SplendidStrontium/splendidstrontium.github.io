@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "GOTH 005: New Girl"
+title: "GOTH 006: New Girl"
 permalink: /femputermanchine/goth/new-girl/
 category: femputermanchine
 date: 2020-09-21 18:11

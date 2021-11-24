@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "GOTH 006: Arms Race"
+title: "GOTH 007: Arms Race"
 permalink: /femputermanchine/goth/arms-race/
 category: femputermanchine
 date: 2020-11-28 11:16

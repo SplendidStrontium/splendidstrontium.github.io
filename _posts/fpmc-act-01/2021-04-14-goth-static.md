@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "GOTH 007: Static"
+title: "GOTH 008: Static"
 permalink: /femputermanchine/goth/static/
 category: femputermanchine
 date: 2021-04-14 20:11
