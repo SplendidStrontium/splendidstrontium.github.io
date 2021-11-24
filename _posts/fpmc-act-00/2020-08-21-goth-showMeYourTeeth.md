@@ -7,16 +7,18 @@ category: femputermanchine
 tags: [skit, fpmcmain-goth, act-0]
 description: "Lenny, 'the Patient' Dentist"
 published: true
-lastmod: 2021-11-17 14:43
+lastmod: 2021-11-24 09:57
 ---
 [//]: # (  8/25/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
 [//]: # ( 10/26/21  -formatting update)
 [//]: # ( 11/03/21  -title added)
 [//]: # ( 11/17/21  -updated for place names)
+[//]: # ( 11/24/21  -going with Galantome)
 
 *****
-<br><i>CASSANDRA GOTH and her younger brother are sitting together in the OLD GOTH ESTATE, a relatively decrepit house that has been part of the GOTH holdings for generations.</i>
+### // OLD GALANTOME ESTATES // ##
+<br><i>CASSANDRA GOTH and her younger brother are sitting together in the OLD GALANTOME ESTATE, a relatively decrepit house that has been part of the GOTH holdings since the death of CASSANDRA's grandmother some years ago.</i>
 
 <i>The house shows some signs of life; the walls have a fresh coat of paint. The siblings are sitting on the floor looking at ALEXANDER's cellphone.</i>
 

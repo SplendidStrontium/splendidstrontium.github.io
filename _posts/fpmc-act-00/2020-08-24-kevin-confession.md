@@ -7,17 +7,17 @@ category: femputermanchine
 tags: [skit, fpmcmain-kevin, act-0]
 description: "the Beginning of the Mystery"
 published: true
-lastmod: 2021-11-17 14:49
+lastmod: 2021-11-24 10:06
 ---
 [//]: # (  8/24/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
 [//]: # ( 10/26/21  -formatting update)
 [//]: # ( 11/03/21  -title added)
 [//]: # ( 11/17/21  -updated for place names)
+[//]: # ( 11/24/21  -going with Galantome)
 
 *****
-<BR>
-## // OLD GOTH ESTATE // 
+### // OLD GALANTOME ESTATE // 
 
 <BR><i>Cassandra is sitting alone in her house. She looks at her phone nervously. Once, twice, and then again. </i>
 

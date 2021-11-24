@@ -7,57 +7,68 @@ date: 2021-04-14 20:11
 description: "in which Cassandra is advised to leave her job at FutureSim"
 tags: [skit, fpmcmain-goth, act-i]
 published: true
-lastmod: 2021-11-04 15:58
+lastmod: 2021-11-24 10:54
 ---
 [//]: # ( 04/14/21  -added)
 [//]: # ( 11/04/21  -title added)
+[//]: # ( 11/24/21  -going with Galantome)
 
 *****
 
-## // OLD GOTH ESTATE // ##
+## // OLD GALANTOME ESTATE // ##
 
-<i>CASSANDRA GOTH has suffered an exhausting year. Last summer, her mother died of a mysterious illness that struck her quickly and completely. Her husband left the family parentless just a month later, leaving a pained message to his son that he could no longer continue on. Her younger brother left the city to move in with a family friend of their father's.</i>
+<br><i>CASSANDRA GOTH has suffered an exhausting year. Last summer, her mother died of a mysterious illness that struck her quickly and completely. Her husband left the family parentless just a month later, leaving a pained message to his son that he could no longer continue on. Her younger brother left the city to move in with a family friend of their father's.</i>
 
-<i>Sometimes the whole thing seems incomprehensible in its scope. Just a year ago, her parents were alive and the four of them celebrating her new job at FutureSim.</i>
+<i>Sometimes the whole thing seems incomprehensible in its scope. Just a year ago, her parents were alive.</i>
 
 <i>Today she is at home with a cold.</i>
 
 <i>She's watching videos on her phone when it buzzes with a phone number she hasn't seen in quite some time.</i>
 
 <i>The preview is bold and alights the spirit of defiance.</i>
+<br><br>
 
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/kevin-inctbeyes.jpg" class="chat-portrait" />
 <p class="ppl-sez">KEVIN//</p>
 <p class="ppl-sez">I think you should quit.</p>
 </div>
-
-<i>The last time she'd talked to her co-worker, she had mentioned her worry that the receptionist had stopped showing up to work.</i>
+<br>
 
 *****
+<br><i>The last time she'd talked to her co-worker, she had mentioned her worry that the receptionist had stopped showing up to work.</i>
+<br><br>
 
-### CASSANDRA ###
+*****
+<br>
+#### CASSANDRA 
 
 > WE WEREN'T SUPER CLOSE... BUT I DON'T KNOW. I FEEL LIKE HE WOULD HAVE TOLD ME IF HE WERE GONNA QUIT.
 
-### KEVIN ###
+#### KEVIN 
 
 > SIMEON AND I WEREN'T FRIENDS. 
-
+> 
 > BUT I WILL LOOK INTO IT.
 
-### CASSANDRA ###
+#### CASSANDRA 
 
 > I DON'T THINK HE WOULDA QUIT. I DON'T KNOW. SEEMS OUT OF CHARACTER.
-
+> 
 > MAYBE HE'S JUST SICK?
-
+> 
 > IF YOU COULD JUST SEND ME HIS ADDRESS?
 
+<br>
+
 *****
+<br><i>CASSANDRA closes the video player and opens up her text messaging client.</i>
+<br><br>
 
-<i>CASSANDRA closes the video player and opens up her text messaging client.</i>
-
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/kevin-inctbeyes.jpg" class="chat-portrait" />
 <p class="ppl-sez">KEVIN//</p>
@@ -66,15 +77,23 @@ lastmod: 2021-11-04 15:58
 <p class="ppl-sez">He didn't get fired.</p>
 <p class="ppl-sez">He's dead.</p>
 </div>
+<br>
 
-<i>The words make her heart sink.</i>
+*****
+<br><i>The words make her heart sink.</i>
+<br><br>
 
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/cassandragoth.jpg" class="chat-portrait" />
 <p class="ppl-sez">CASSANDRA//</p>
 <p class="ppl-sez">He's dead?</p>
 </div>
+<br>
 
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/cassandragoth.jpg" class="chat-portrait" />
 <p class="ppl-sez">CASSANDRA//</p>
@@ -110,51 +129,78 @@ lastmod: 2021-11-04 15:58
 <p class="ppl-sez">Like Lucia.</p>
 <p class="ppl-sez">Like your mother.</p>
 </div>
+<br>
 
-<i>CASSANDRA is silent. She stares at the words, acutely aware of the empty house. She has been resistant to believing any of what she's seen could be true. Resistant to believe what she once thought she'd dreamt as a child -- that her mother was ... a witch.</i>
+*****
+<br><i>CASSANDRA is silent. She stares at the words, acutely aware of the empty house. She has been resistant to believing any of what she's seen could be true. Resistant to believe what she once thought she'd dreamt as a child -- that her mother was ... a witch.</i>
 
 <i>It proves her childish claim correct. But it also means her mother was something special. And special in a way that she herself was not.</i>
+<br><br>
 
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/cassandragoth.jpg" class="chat-portrait" />
 <p class="ppl-sez">CASSANDRA//</p>
 <p class="ppl-sez">Did you ever...?</p>
 <p class="ppl-sez">What could my mother do?</p>
 </div>
+<br>
 
-<i>Just this past November, when the young 'princess' had invaded her home, CASSANDRA had been witness to KEVIN's elderly mother MYRTLE conjure a prison of ice, immobilizing the woman. It was something she couldn't explain, and she'd been trying desperately to put it out of mind.</i>
+*****
+<br><i>Just this past November, when the young 'princess' had invaded her home, CASSANDRA had been witness to KEVIN's elderly mother MYRTLE conjure a prison of ice, immobilizing the woman. It was something she couldn't explain, and she'd been trying desperately to put it out of mind.</i>
+<br><br>
 
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/kevin-inctbeyes.jpg" class="chat-portrait" />
 <p class="ppl-sez">KEVIN//</p>
 <p class="ppl-sez">I don't know.</p>
 <p class="ppl-sez">But the trait was enough that she tried to hide it.</p>
 </div>
+<br>
 
-### CASSANDRA ###
+*****
+<br>
+#### CASSANDRA 
 
 > (thinking) Why me? Why would she hide this from me?
 
+<br>
+
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/kevin-inctbeyes.jpg" class="chat-portrait" />
 <p class="ppl-sez">KEVIN//</p>
 <p class="ppl-sez">My mother was acquainted with your grandmother.</p>
 <p class="ppl-sez">If you want, I could tell her contact you. If you want to know more.</p>
 </div>
+<br>
 
-<i>Just the thought of the old hag sends a chill down her spine.</i>
+*****
+<br><i>Just the thought of the old hag sends a chill down her spine.</i>
 
 <i>She wipes her runny nose.</i>
+<br><br>
 
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/kevin-inctbeyes.jpg" class="chat-portrait" />
 <p class="ppl-sez">KEVIN//</p>
 <p class="ppl-sez">The sensitivity to leylines is commonly passed from mother to daughter.</p>
 <p class="ppl-sez">That isn't to say there aren't exceptions.</p>
 </div>
+<br>
 
-<i>Despite plain-text, the conversation seems to hang, awkwardly, with words unsaid.</i>
+*****
+<br><i>Despite plain-text, the conversation seems to hang, awkwardly, with words unsaid.</i>
+<br><br>
 
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/kevin-inctbeyes.jpg" class="chat-portrait" />
 <p class="ppl-sez">KEVIN//</p>
@@ -174,9 +220,14 @@ lastmod: 2021-11-04 15:58
 <p class="ppl-sez">Is it worth losing your life over?</p>
 <p class="ppl-sez">An hour and a half commute and your name mentioned at the bottom of someone else's bullshit report?</p>
 </div>
+<br>
 
-<i>The words sting.</i>
+*****
+<br><i>The words sting.</i>
+<br><br>
 
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/kevin-inctbeyes.jpg" class="chat-portrait" />
 <p class="ppl-sez">KEVIN//</p>
@@ -211,9 +262,14 @@ lastmod: 2021-11-04 15:58
 <p class="ppl-sez">But their patron is someone -- something -- far larger.</p>
 <p class="ppl-sez">We can't trust anyone.</p>
 </div>
+<br>
 
-<i>The timestamp flashes as CASSANDRA pauses to scroll again through the conversation.</i>
+*****
+<br><i>The timestamp flashes as CASSANDRA pauses to scroll again through the conversation.</i>
+<br><br>
 
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/kevin-inctbeyes.jpg" class="chat-portrait" />
 <p class="ppl-sez">KEVIN//</p>
@@ -226,9 +282,14 @@ lastmod: 2021-11-04 15:58
 <p class="ppl-sez">CASSANDRA//</p>
 <p class="ppl-sez">What about you?</p>
 </div>
+<br>
 
-<i>CASSANDRA stares at the words she's sent, waiting longer than she wished for a response.</i>
+*****
+<br><i>CASSANDRA stares at the words she's sent, waiting longer than she wished for a response.</i>
+<br><br>
 
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/kevin-inctbeyes.jpg" class="chat-portrait" />
 <p class="ppl-sez">KEVIN//</p>
@@ -251,15 +312,18 @@ lastmod: 2021-11-04 15:58
 <p class="ppl-sez">Stay.</p>
 <p class="ppl-sez">Heal.</p>
 </div>
+<br>
 
-<i>Soon, the messages stop populating. CASSANDRA is thankful, yearning for silence.</i>
+*****
+<br><i>Soon, the messages stop populating. CASSANDRA is thankful, yearning for silence.</i>
 
 <i>She yearns to sleep, to wake up in a world she thought she knew.</i>
 
 <i>All she had wanted to hear was the news that SIMEON, too, was simply ill.</i>
+<br><br>
 
 *****
-
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/cassandragoth.jpg" class="chat-portrait" />
 <p class="ppl-sez">CASSANDRA//</p>
@@ -272,19 +336,31 @@ lastmod: 2021-11-04 15:58
 <p class="ppl-sez">Hey sis, i'm OK.</p>
 <p class="ppl-sez">You?</p>
 </div>
+<br>
 
-### CASSANDRA ###
+*****
+<br>
+#### CASSANDRA 
 
 > (thinking) Oh, geez. Alex. Where to begin.
 
+<br>
+
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/cassandragoth.jpg" class="chat-portrait" />
 <p class="ppl-sez">CASSANDRA//</p>
 <p class="ppl-sez">One of my coworkers died.</p>
 </div>
+<br>
 
-<i>CASSANDRA has not relayed the story of LUCIA and the invasion to her brother.</i>
+*****
+<br><i>CASSANDRA has not relayed the story of LUCIA and the invasion to her brother.</i>
+<br><br>
 
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/alexander-tb.jpg" class="chat-portrait" />
 <p class="ppl-sez">ALEXANDER//</p>
@@ -427,6 +503,7 @@ lastmod: 2021-11-04 15:58
 <p class="ppl-sez">ALEXANDER//</p>
 <p class="ppl-sez">I think there's a lot about Mom and Dad that we didn't know.</p>
 </div>
+<br>
 
 *****
 
