@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "GOTH 009: Loony"
+title: "GOTH 010: Loony"
 permalink: /femputermanchine/goth/loony/
 category: femputermanchine
 date: 2021-06-06 18:21
