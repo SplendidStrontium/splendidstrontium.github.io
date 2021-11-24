@@ -7,16 +7,16 @@ date: 2020-09-14 09:12
 description: "access denied"
 tags: [skit, fpmcmain-goth, act-i]
 published: true
-lastmod: 2021-11-19 13:38
+lastmod: 2021-11-24 10:08
 ---
 [//]: # (  9/14/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
 [//]: # ( 11/03/21  -title added)
 [//]: # ( 11/19/21  -formatting update)
+[//]: # ( 11/24/21  -going with Galantome, Goth Manor)
 
 *****
-<br>
-### // GOTH TOWNHOME INT // ###
+### // GOTH MANOR // ###
 
 <br><i>It is morning. ALEXANDER GOTH wakes. He's had a disturbing dream but by the time he rubs his eyes, it is already fading from his memory. He tries to retrieve it, but the more he tries, the more he feels the half-wet sand disintegrating in his grip.</i>
 

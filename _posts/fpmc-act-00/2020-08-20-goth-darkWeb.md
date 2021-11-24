@@ -7,15 +7,17 @@ category: femputermanchine
 tags: [skit, fpmcmain-goth, act-0]
 description: "Bella, the Good"
 published: true
-lastmod: 2021-11-17 14:28
+lastmod: 2021-11-24 09:55
 ---
 [//]: # (  8/23/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
 [//]: # ( 10/26/21  -italics and speech formatting updated)
 [//]: # ( 11/03/21  -title added)
 [//]: # ( 11/17/21  -updated for correction of place names as well as Alexander's age)
+[//]: # ( 11/24/21  -we're going with Galantome)
 
 *****
+### // OLD GALANTOME ESTATE // ###
 <br><i>CASSANDRA GOTH, 24, sits alone in a large house in STEINWAY. She puts down a hairbrush and emits a heavy sigh. She pulls out from a desk drawer her cell phone, a large, dated device. </i>
 
 <i>She scrolls through a short list of contacts to find 'Alex', her younger brother. His contact photo shows a young boy with an uncertain smile. He is about fifteen years old. </i>
@@ -269,6 +271,8 @@ lastmod: 2021-11-17 14:28
 #### CASSANDRA 
 
 > I THOUGHT I TOLD YOU NEVER BRING THAT UP AGAIN.
+
+<BR>
 
 *****
 

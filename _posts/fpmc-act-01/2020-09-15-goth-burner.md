@@ -7,14 +7,14 @@ date: 2020-09-17 11:01
 description: "father and son"
 tags: [skit, fpmcmain-goth, act-i]
 published: true
-lastmod: 2021-11-17 13:28
+lastmod: 2021-11-24 10:13
 ---
 [//]: # (  9/14/20  -added)
 [//]: # ( 11/03/21  -title added)
 [//]: # ( 11/19/21  -formatting and location update)
+[//]: # ( 11/24/21  -going with Goth Manor)
 
 *****
-<br>
 ### // QUEENS, DOUGLASTON // ###
 
 <br><i>A city bus rumbles through the suburbs. The view of the road alternates small apartments and single-family. As with any city bus, it drives roughly, throwing its passengers up and down from time to time without any warning. </i>
@@ -43,8 +43,7 @@ lastmod: 2021-11-17 13:28
 <BR><BR>
 
 *****
-<BR>
-### // GOTH TOWNHOME EXT // ###
+### // GOTH MANOR EXT // ###
 
 <BR><i>ALEX sits on the other side of the concrete wall, out of eyeshot of the windows of his home. He removes his backpack and places it on the ground to the right of him and proceeds to dig through it. </i>
 
@@ -58,8 +57,7 @@ lastmod: 2021-11-17 13:28
 <BR><BR>
 
 *****
-<BR>
-### // GOTH TOWNHOME INT // ###
+### // GOTH MANOR INT // ###
 
 <BR><i>The house is quiet, no different than when ALEX left this morning.</i>
 
