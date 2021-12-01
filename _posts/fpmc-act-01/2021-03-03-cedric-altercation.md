@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 012: Altercation"
+title: "CEDRIC 013: Altercation"
 permalink: /femputermanchine/cedric/altercation/
 category: femputermanchine
 date: 2021-03-03 09:46
