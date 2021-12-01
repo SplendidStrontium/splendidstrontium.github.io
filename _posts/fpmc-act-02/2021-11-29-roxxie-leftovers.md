@@ -7,13 +7,18 @@ date: 2021-11-29 09:15
 description: "in which Roxxie pens a short letter to Ivette"
 tags: [etc, fpmcmain-roxxie, act-ii]
 published: true
-lastmod: 2021-11-29 09:16
+lastmod: 2021-12-01 10:09
 ---
 [//]: # ( 11/29/21  -added)
+[//]: # ( 12/01/21  -changed email formatting)
 
 *****
 
-<br>Dear Ivette --
+<br>FROM: ROXANNE SCHWARTZ (personal)
+
+TO: IVETTE CAMPBELL (personal)
+
+Dear Ivette --
 
 It was lovely to hear from you. I'm sorry it's taken me so long to write you back -- It's not your fault but I don't check that email address much any more. I've cc-ed the email address that I use more often these days. 
 
@@ -27,7 +32,7 @@ I have a dog now. His name is Edward. He takes good care of me. He's a mutt. Do 
 
 Write when you can. All my love,
 
--- Roxxie
+ROXANNE
 
 *****
 

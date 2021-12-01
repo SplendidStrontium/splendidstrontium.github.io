@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "KEVIN 007: Kixen"
+title: "KEVIN 008: Kixen"
 permalink: /femputermanchine/kevin/kixen/
 category: femputermanchine
 date: 2021-03-08 22:31
@@ -14,7 +14,7 @@ lastmod: 2021-11-04 12:50
 
 *****
 
-## // MARSCAPONE SUMMER HOME // ##
+### // MARSCAPONE SUMMER HOME // 
 
 <i>When the boards go silent, KEVIN MARSCAPONE stays and lurks for a little while, waiting to see if any new messages propogate.</i>
 
@@ -27,80 +27,113 @@ lastmod: 2021-11-04 12:50
 <i>During his youth, the color had flown freely from his hand. He had created so long as his energy lasted. But he is troubled and his mind is quiet.</i>
 
 <i>He looks toward the other side of the home where a spare bedroom had been used for months by CEDRIC.</i>
+<br><br>
 
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/vincent-tb.jpg" class="chat-portrait" />
 <p class="ppl-sez">VINCENT//</p>
 <p class="ppl-sez">Do you think he's ever coming back?</p>
 </div>
+<br>
 
-<I>Without CEDRIC around, the spacious home is occupied only by him. Though he has no need to speak aloud to the Prince of Dream, the sound of his voice is comforting and lends some normalcy to the conversation.</i>
+*****
+<br><I>Without CEDRIC around, the spacious home is occupied only by him. Though he has no need to speak aloud to the Prince of Dream, the sound of his voice is comforting and lends some normalcy to the conversation.</i>
 
-### KEVIN ###
+#### KEVIN 
 
 > NO, I DON'T THINK SO.
-
+> 
 > IT WAS NICE HAVING HIM. I THINK SKITTLES AND KIX LIKED IT TOO.
 
-<I>At the thought, he raises his voice and calls to his feline companions.</i>
+<br><I>At the thought, he raises his voice and calls to his feline companions.</i>
+
+#### KEVIN
 
 > HERE, KITTY! HERE, KITTY-KITTY!
 
-<I>A moment passes and up the stairs come the soft pitter-patter of two cats. KIX uses the side of an easel to rub his flank. SKITTLES wonders whether the master is in the mood to retreive the treats from atop a nearby wardrobe.</i>
+<br><I>A moment passes and up the stairs come the soft pitter-patter of two cats. KIX uses the side of an easel to rub his flank. SKITTLES wonders whether the master is in the mood to retreive the treats from atop a nearby wardrobe.</i>
 
 <i>KEVIN bends down to spend a few minutes appreciating the soft fluff both the cats are covered in. For two brothers, their fur seems remarkably different, but both are densely downy.</i>
 
 <i>SKITTLES meows loudly.</i>
 
-### KEVIN ###
+#### KEVIN 
 
 > SORRY, KIDDO. IT'S NOT FEEDING TIME YET.
 
-<I>He gives the cat a conciliatory scruffle of the chin and cheek.</i>
+<br><I>He gives the cat a conciliatory scruffle of the chin and cheek.</i>
+
+#### KEVIN
 
 > I'M GLAD THEY'RE HERE. GLAD THEY'RE ALIVE.
 
+<br>
+
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/vincent-tb.jpg" class="chat-portrait" />
 <p class="ppl-sez">VINCENT//</p>
 <p class="ppl-sez">Yes. It was a pity your mother never let us keep cats.</p>
 </div>
+<br>
 
-### KEVIN ###
+*****
+<br>
+#### KEVIN 
 
 > WHAT DO YOU MEAN 'NEVER LET US KEEP CATS'? 
 
+<br>
+
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/vincent-tb.jpg" class="chat-portrait" />
 <p class="ppl-sez">VINCENT//</p>
 <p class="ppl-sez">I would have liked a cat or two. But your mother insisted on feeding every stray dog that wandered by, so it kept the cats at bay.</p>
 </div>
+<br>
 
-### KEVIN ###
+*****
+<br>
+#### KEVIN 
 
 > SURELY THE RATS AS WELL.
 
+<br>
+
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/vincent-tb.jpg" class="chat-portrait" />
 <p class="ppl-sez">VINCENT//</p>
 <p class="ppl-sez">Only the most foolish of rats aren't afraid of a dog.</p>
 </div>
+<br>
 
-<i>KEVIN's cellphone gives a faint vibration.</i>
+*****
+<br><i>KEVIN's cellphone gives a faint vibration.</i>
 
-### KEVIN ###
+#### KEVIN 
 
 > (thinking) E-mail.
 
+<br>
+
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/vincent-tb.jpg" class="chat-portrait" />
 <p class="ppl-sez">VINCENT//</p>
 <p class="ppl-sez">Check it.</p>
 </div>
+<br>
 
 *****
-
-FROM: ANGELA PLEASANT (personal)
+<br>FROM: ANGELA PLEASANT (personal)
 
 TO: KEVIN MARSCAPONE (personal)
 
@@ -115,34 +148,51 @@ I'm sorry. I hope we can still share our work at coffee hour, whenever that will
 All the best,
 
 ANGELA
+<br>
 
 *****
+<br><i>KEVIN reads the e-mail over three, four, five times, each time trying to conjure her voice over the stark LED.</i>
+<br><br>
 
-<i>KEVIN reads the e-mail over three, four, five times, each time trying to conjure her voice over the stark LED.</i>
-
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/vincent-tb.jpg" class="chat-portrait" />
 <p class="ppl-sez">VINCENT//</p>
 <p class="ppl-sez">You knew that was coming.</p>
 </div>
+<br>
 
-### KEVIN ###
+*****
+<br>
+#### KEVIN 
 
 > (thinking) Yeah, I did.
-
+> 
 > BUT --
 
+<br>
+
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/vincent-tb.jpg" class="chat-portrait" />
 <p class="ppl-sez">VINCENT//</p>
 <p class="ppl-sez">I love the way she puts it too.</p>
 <p class="ppl-sez">'A personal matter'.</p>
 </div>
+<br>
 
-### KEVIN ###
+*****
+<br>
+#### KEVIN 
 
 > THE GUY'S SISTER HAS GONE MISSING.
 
+<br>
+
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/vincent-tb.jpg" class="chat-portrait" />
 <p class="ppl-sez">VINCENT//</p>
@@ -151,13 +201,20 @@ ANGELA
 <p class="ppl-sez">I don't have to like it.</p>
 <p class="ppl-sez">But hey. At least she was honest with you.</p>
 </div>
+<br>
 
-### KEVIN ###
+*****
+<br>
+#### KEVIN
 
 > ANGELA DOESN'T KNOW I KNOW.
-
+> 
 > TO HER, I'M JUST --
 
+<br>
+
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/vincent-tb.jpg" class="chat-portrait" />
 <p class="ppl-sez">VINCENT//</p>
@@ -167,21 +224,32 @@ ANGELA
 <p class="ppl-sez">Decent cook.</p>
 <p class="ppl-sez">Shit wizard.</p>
 </div>
+<br>
 
-### KEVIN ###
+*****
+<br>
+#### KEVIN 
 
 > THAT'S NICE.
-
+> 
 > (thinking) Shall we return to work?
 
+<br>
+
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/vincent-tb.jpg" class="chat-portrait" />
 <p class="ppl-sez">VINCENT//</p>
 <p class="ppl-sez">We shall.</p>
 </div>
-
-<i>KEVIN walks downstairs, past the ground floor, and enters the basement. A number of unpacked boxes have been pushed up against the wall. A large tank filled with a dark, viscous liquid glows with an eerie greenish light.</i>
-
-<i>He takes a seat on a yoga mat laid out on the stone floor, faces the empty tank, and begins to meditate.</i>
+<br>
 
 *****
+<br><i>KEVIN walks downstairs, past the ground floor, and enters the basement. A number of unpacked boxes have been pushed up against the wall. A large tank filled with a dark, viscous liquid glows with an eerie greenish light.</i>
+
+<i>He takes a seat on a yoga mat laid out on the stone floor, faces the empty tank, and begins to meditate.</i>
+<br><br>
+
+*****
+
