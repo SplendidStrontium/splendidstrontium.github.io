@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 022: Brouhaha"
+title: "CEDRIC 023: Brouhaha"
 permalink: /femputermanchine/cedric/brouhaha/
 category: femputermanchine
 date: 2021-11-18 09:39

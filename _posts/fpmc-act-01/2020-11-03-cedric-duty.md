@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 007: Duty"
+title: "CEDRIC 008: Duty"
 permalink: /femputermanchine/cedric/duty/
 category: femputermanchine
 date: 2020-11-03 16:54

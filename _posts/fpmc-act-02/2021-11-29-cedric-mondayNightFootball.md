@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 023: Monday Night Football"
+title: "CEDRIC 024: Monday Night Football"
 permalink: /femputermanchine/cedric/monday-night-football/
 category: femputermanchine
 date: 2021-11-29 09:55
@@ -298,7 +298,7 @@ lastmod: 2021-11-29 14:54
 
 #### VICTIM
 
-> [interj.] THE SHOW-RUNNER'S GAY.
+> [interj.] THE SHOWRUNNER'S GAY.
 
 #### CEDRIC
 
