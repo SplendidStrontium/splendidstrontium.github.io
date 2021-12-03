@@ -1,16 +1,17 @@
 ---
 layout: fpmcpost
-title: "MYRTLE 005: Attendance"
-permalink: /femputermanchine/myrtle/attendance/
-category: femputermanchine
+title: "Attendance"
+permalink: /hexfiles/myrtle/attendance/
+category: hexfiles
 date: 2020-09-02 07:19
 description: "rollcall, checkin, firstcastlist, or whatever"
-tags: [fireside, fpmcmain-myrtle, act-0]
+tags: [fireside]
 published: true
-lastmod: 2021-11-03 14:35
+lastmod: 2021-12-03 14:04
 ---
 [//]: # ( 10/15/21  -linkout removed)
 [//]: # ( 11/03/21  -title added)
+[//]: # ( 12/03/21  -moved to hexfiles)
 
 *****
 

@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "TZU 005: Reluctance"
+title: "TZU 003: Reluctance"
 permalink: /femputermanchine/tzu/reluctance/
 category: femputermanchine
 date: 2021-11-05 09:08

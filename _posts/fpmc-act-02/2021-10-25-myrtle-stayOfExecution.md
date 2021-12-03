@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "MYRTLE 014: Stay of Execution"
+title: "MYRTLE 013: Stay of Execution"
 permalink: /femputermanchine/myrtle/stay-of-execution/
 category: femputermanchine
 date: 2021-10-25 10:43

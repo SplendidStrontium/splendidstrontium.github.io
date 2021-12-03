@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "TZU 004: Initials"
+title: "TZU 002: Initials"
 permalink: /femputermanchine/tzu/initials/
 category: femputermanchine
 date: 2021-10-09 20:19

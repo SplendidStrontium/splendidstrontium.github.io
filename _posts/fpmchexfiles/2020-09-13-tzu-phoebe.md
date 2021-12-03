@@ -1,17 +1,18 @@
 ---
 layout: fpmcpost
-title: "TZU 001: Phoebe"
-permalink: /femputermanchine/tzu/phoebe/
-category: femputermanchine
+title: "Phoebe"
+permalink: /hexfiles/tzu/phoebe/
+category: hexfiles
 date: 2020-09-13 14:24
 description: "yet another book: but this time it's Tzu"
-tags: [etc, fpmcmain-tzu, act-i]
+tags: [etc]
 published: true
-lastmod: 2021-11-03 14:51
+lastmod: 2021-12-03 14:25
 ---
 [//]: # (  9/13/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
 [//]: # ( 11/03/21  -title added)
+[//]: # ( 12/03/21  -moved to hexfiles)
 
 * fact: agewise she's a rough analogue to the author so born about 1988 - guess she's the oft forgot BFF, Asian-AMERICAN LIKE HEY! ARNOLD'S PHOEBE
 

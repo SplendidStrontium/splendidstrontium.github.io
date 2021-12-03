@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "MYRTLE 007: Yukon Gold"
+title: "MYRTLE 006: Yukon Gold"
 permalink: /femputermanchine/myrtle/yukon-gold/
 category: femputermanchine
 date: 2020-10-02 16:45

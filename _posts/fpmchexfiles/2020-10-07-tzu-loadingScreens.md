@@ -1,17 +1,18 @@
 ---
 layout: fpmcpost
-title: "TZU 002: Loading Screens"
-permalink: /femputermanchine/tzu/loading-screens/
-category: femputermanchine
+title: "Loading Screens"
+permalink: /hexfiles/tzu/loading-screens/
+category: hexfiles
 date: 2020-10-07 19:06
 description: "dear diary"
-tags: [etc, fpmcmain-tzu, act-i]
+tags: [etc]
 published: true
-lastmod: 2021-11-03 15:11
+lastmod: 2021-12-03 14:28
 ---
 [//]: # ( 10/07/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
 [//]: # ( 11/03/21  -title added)
+[//]: # ( 12/03/21  -moved to hexfiles)
 
 *****
 
