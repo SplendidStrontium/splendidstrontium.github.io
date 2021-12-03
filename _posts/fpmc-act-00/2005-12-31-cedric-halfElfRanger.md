@@ -6,17 +6,17 @@ category: femputermanchine
 date: 2005-12-31 23:59
 description: "in which Cedric meets Svetlana Oborovsky"
 tags: [skit, fpmcmain-cedric, act-0]
-published: false
-lastmod: 2021-12-02 11:34
+published: true
+lastmod: 2021-12-03 13:28
 ---
-[//]: # ( 12/02/21  -added)
+[//]: # ( 12/03/21  -added)
 
 *****
 ### // MARSCAPONE APARTMENTS // 
 
-<br><i>It is the evening of VLADISLAUS STRAUD's New Year's Eve Fête. It marks a day of fasting for the Vampires; he has customarily requested each of the invited to refrain from dining on 'last year's sorrows'. For the Elders, this is less of a concession than it is for the young. </I>
+<i>It is the evening of VLADISLAUS STRAUD's New Year's Eve Fête. It traditionally marks a day of fasting for the Vampires; he customarily requests each of the invited to refrain from 'partaking in last year's sorrows' before their arrival. For the Elders, this is less of a concession than it is for the young. </I>
 
-<i>Adjacent to the School known as the MAGICADEMY sits a cluster of townhomes owned by MYRTLE MARSCAPONE. Inside one of these apartments dwell the vampires KEVIN, CEDRIC, now left largely to their own devices following the death of the esteemed Elder VINCENT MARSCAPONE. </i>
+<i>Adjacent to the School known as the MAGICADEMY of Astoria, Queens, sits a cluster of townhomes owned by MYRTLE MARSCAPONE. Inside one of these apartments dwell the vampires KEVIN, CEDRIC, now left largely to their own devices following the death of the esteemed Elder VINCENT MARSCAPONE. </i>
 
 <I>The night rises and CEDRIC begins to stir from sleep's solitude.</i>
 
@@ -34,23 +34,29 @@ lastmod: 2021-12-02 11:34
 
 <i>CEDRIC rises from the padded interior of his sleeping arrangement and takes a seat at a nearby piano.</i>
 
-<i>How this instrument got into the basement has always been a mystery to the young vampire. Was it constructed here? Was it placed before the building was fully constructed? Was it brought in parts? He knew VINCENT was knowledgable in many subjects but the finer art of piano construction was not one he'd thought was in his purview.</i>
+<i>How this instrument got into the basement has always been a mystery to the young vampire. Was it constructed here? Was it placed before the building was fully constructed? Was it brought in parts? He knew VINCENT was knowledgable in many subjects but the finer art of piano construction was not one he'd thought in his purview.</i>
 
-<i>But ever since the Elder had left, it had increasingly seemed prudent to accept the way things were, rather than wish for something else, to hearken back to a time long past with questions that didn't need to be asked.</i>
+<i>But ever since the Elder had gone, it had increasingly seemed prudent to accept the way things were, rather than wish for something else. Impolite, it would be, to hearken back to a time long past with questions that didn't need to be asked; inquiries that didn't need to be answered.</i>
 
-<i>He flips through some sheet music and settles on a familiar theme, plunking through the opening notes gently, repeating each motion until he can achieve even the faintest claim of ease.</i>
+<i>He flips through some sheet music and settles on a familiar theme, plunking through the opening notes gently, repeating each motion until he can make even the faintest claim of ease.</i>
 
 <i>The noise wouldn't stir KEVIN's otherworldly slumber, though it does pass the time and lessen the anxiety that clouds CEDRIC's thoughts in the quiet chamber.</i>
+
+#### CEDRIC
+
+> (thinking) Kev, you up?
+
+<br><i>But he would wait until his companion rose of his own accord. There was no risk of missing the party.</i>
 <br><br>
 
 *****
-<br><i>There was evidence of past rainfall when they approached the car.</i>
+<br><i>There was evidence of precipitation when they approached the car. A light sprinkling of water covered the windshield and roof of the car. Had it fallen as snow? It was likely, despite the difficulty to precisely tell the exact chill of the night air.</i>
 
 #### KEVIN
 
 > DID YOU KEEP TO STRAUD'S REQUEST THIS YEAR?
 
-<BR><I>He hadn't last year.</i>
+<BR><I>CEDRIC hadn't regarded the fasting last year.</i>
 
 #### CEDRIC
 
@@ -65,6 +71,10 @@ lastmod: 2021-12-02 11:34
 #### KEVIN
 
 > HE'S BEEN PRETTY LENIENT WITH YOU.
+> 
+> I WOULDN'T WORRY ABOUT IT.
+> 
+> WE CAN ALWAYS STOP IF YOU NEED.
 > 
 > I DON'T REALLY THINK IT'S US HE'S TARGETING.
 
@@ -89,15 +99,17 @@ lastmod: 2021-12-02 11:34
 *****
 ### // STRAUD MANSION //
 
-<BR><I>The car curls into place outside the Jamaica Estates home. No one else has arrived.</i>
+<BR><I>The car curls into place outside the Jamaica Estates home. The house has a generous carpark out front but no one else has arrived. STRAUD usually parked his car on the street's edge; evidently he hated the idea of being blocked into his own home.</i>
 
-<i>They knock, wait, and STRAUD answers the door.</i>
+<i>They knock, wait, and soon STRAUD answers the door.</i>
 
 #### STRAUD
 
 > WELCOME, FRIENDS.
 
-<BR><i>CEDRIC had always thought the line would be better finished with the term 'children', though he balked at the idea of being referred to in such a way.</i>
+<BR><i>CEDRIC had thought the line would be better finished with the term 'children', though he balked at the idea of being referred to in such a way.</i>
+
+<i>It would be for the theatrics only. Neither CEDRIC nor KEVIN were technically STRAUD's children, making them ideally suited for apprenticeship.</i>
 
 #### KEVIN
 
@@ -109,9 +121,9 @@ lastmod: 2021-12-02 11:34
 
 > FIRST IN, LAST OUT.
 
-<BR><I>It was common knowledge that once the bell tolled, the vampires oft scattered, eager to partake of the young humans when boozy and agreeable. STRAUD's comment was hardly a threat.</i>
+<BR><I>It was common knowledge that once the bell tolled midnight, the vampires oft scattered, eager to locate prey when boozy and agreeable. STRAUD's comment was hardly a threat; he had no complaint.</i>
 
-<i>The foyer is dimly lit with candles and a dusty chandelier.</i>
+<i>The foyer is dimly lit with candles and a dusty chandelier. The flames waver, struggling against the wind, but they do not go out. STRAUD shuts the door behind his guests.</i>
 
 #### STRAUD
 
@@ -131,33 +143,39 @@ lastmod: 2021-12-02 11:34
 > 
 > CEDRIC.
 > 
-> I HAVE A MATTER ABOUT WHICH I'D LIKE TO SPEAK.
+> I HAVE A MATTER ABOUT WHICH I'D LIKE TO SPEAK BEFORE ANYONE ELSE ARRIVES.
 
-<BR><I>KEVIN took this opportunity to walk up the stairs to his left and leave the entryway.</i>
+<BR><I>KEVIN took this opportunity to take his leave and walk up the stairs to his left.</i>
 
 #### STRAUD
 
 > PLEASE COME HAVE A SEAT IN THE SITTING ROOM.
 
-<BR><I>A fire roars in the hearth. CEDRIC, STRAUD sit on catty-corner couches.</i>
+<BR><I>A fire roars in the hearth. CEDRIC, STRAUD sit on catty-corner couches. By the look of the healthy flames, it has been burning for hours.</i>
 
 #### STRAUD
 
 > I WANT YOU TO PLEDGE YOURSELF TO OBOROVSKY.
 
-<BR><I>SVETLANA OBOROVSKY was a name with which he was familiar, though they had never spoken. She occasionally made an appearance on the wIntraNet, though she often seemed distracted.</i>
+<BR><i>The command is out of left field.</i>
+
+<I>SVETLANA OBOROVSKY was a name with which he was familiar, though they had never spoken privately. She occasionally made appearance on the wIntraNet, though she often seemed distracted.</i>
 
 #### CEDRIC
 
 > I THOUGHT <U>YOU</U> WERE TO TAKE ON VINCENT'S STUDENTS.
+> 
+> WASN'T THAT WHAT YOU PROMISED HIM?
 
 #### STRAUD
 
 > I DID, AND I HAVE.
 > 
-> I AM NOT REFUSING YOUR SERVICE. THERE IS STILL MUCH I CAN TEACH YOU.
+> I AM NOT TURNING YOU OUT.
 > 
 > SHE IS WISE. SHE IS NOT OF MY LINEAGE. THERE IS MUCH SHE KNOWS THAT I DO NOT.
+
+<br><i>CEDRIC knew SVETLANA was a native of MUSKOVY. Of the scant things he knew about her, notably that she'd once sold her services as a ghostwriter to a famous name, he reckoned her birthyear in the 1810s or 1820s. Older than many, but not as old as STRAUD.</I>
 
 #### CEDRIC
 
@@ -170,6 +188,8 @@ lastmod: 2021-12-02 11:34
 #### CEDRIC
 
 > ISN'T SHE CAUGHT IN THE HALF-DREAM?
+
+<br><i>Vampires commonly believed in supernatural causes of insanity.</i>
 
 #### STRAUD
 
@@ -184,6 +204,8 @@ lastmod: 2021-12-02 11:34
 > WHAT.
 > 
 > ARE YOU AFRAID OF ME?
+
+<BR><I>A lesser man might have laughed.</i>
 
 #### STRAUD
 
@@ -202,6 +224,8 @@ lastmod: 2021-12-02 11:34
 #### CEDRIC
 
 > SO YOU'RE PLAYING AT BEING A MATCHMAKER.
+
+<br><i>STRAUD's tone hints at exasperation. He speaks calmly and carefully.</i>
 
 #### STRAUD
 
@@ -225,9 +249,13 @@ lastmod: 2021-12-02 11:34
 
 > I DON'T WANT A YOUNGLING AS MY MASTER.
 
+<BR><i>STRAUD continues to inspect the knife but looks away a moment, locking eyes with CEDRIC to try to impress upon him the severity of his speech.</i>
+
 #### STRAUD
 
-> I WANT YOU TO ACT YOUR AGE.
+> IT IS UNWISE FOR ANY, BUT ESPECIALLY ONE AS YOUNG AS YOU, TO FORGET HIS PLACE.
+
+<br><i>But CEDRIC continues to plead with blue eyes.</i>
 
 #### CEDRIC
 
@@ -235,15 +263,15 @@ lastmod: 2021-12-02 11:34
 
 #### STRAUD
 
-> LET ME BE CLEAR WITH YOU, CEDRIC.
+> (stern) LET ME BE CLEAR WITH YOU, CEDRIC.
 > 
 > THIS IS NOT A CHOICE.
 > 
 > YOU WILL TRAIN WITH OBOROVSKY.
 > 
-> BESIDES WHICH.
+> BESIDES WHICH--
 
-<BR><I>STRAUD turns the knife around and uses it to remove a speck of dirt from underneath his fingernails.</i>
+<BR><I>STRAUD looks toward his blade. He turns the knife around and uses it to remove a speck of dirt from underneath his fingernails.</i>
 
 #### STRAUD
 
@@ -252,7 +280,11 @@ lastmod: 2021-12-02 11:34
 <BR>
 
 *****
-<BR><i>CEDRIC feigns interest in KEVIN's piano while vampires slowly appear at the party.</i>
+<BR><i>CEDRIC tries to interest STRAUD in a quick sparring match, but he won't have it. He's too much to do, too much to focus upon. He disappears within the house.</i>
+
+<i>Soon after, KEVIN reappears to try to bolster CEDRIC's mood. They make small talk in anticipation of the arriving guests. KEVIN sits down to work upon the piano, providing some kind of ambiance as guests appear.</i>
+
+<i>CEDRIC feigns attention to KEVIN's piano while the noise level in the room slowly rises.</i>
 
 #### KEVIN
 
@@ -266,6 +298,8 @@ lastmod: 2021-12-02 11:34
 > 
 > SMALL FUCKING WORLD.
 
+<BR><I>CEDRIC is sour and full of resentment.</i>
+
 #### KEVIN
 
 > HE'S NOT PUSHING YOU AWAY.
@@ -278,7 +312,7 @@ lastmod: 2021-12-02 11:34
 
 > YEAH, THAT'S REALLY WHAT I GIVE A FUCK ABOUT.
 > 
-> RUNNING AROUND LIKE A BEAST.
+> RUNNING AROUND IN IDIOT'S COSTUME. PLAYING PRETEND AT BEING A BEAST.
 > 
 > THANKS BUT NO THANKS.
 > 
@@ -294,9 +328,9 @@ lastmod: 2021-12-02 11:34
 
 <BR><I>CEDRIC turns his head back into the throngs of people.</i>
 
-<i>STRAUD approaches with a slight woman in a long black dress. She has hair to match, drawn up in a tight updo. One lock of hair has been loosened from its grasp.</i>
+<i>STRAUD approaches with a slight woman in a long black dress. She has hair to match, drawn up in an updo. One lock of hair has been loosened from its grasp.</i>
 
-<i>She <u>is</u> beautiful.</i>
+<i>For what it's worth, she <u>is</u> beautiful.</i>
 
 #### STRAUD
 
@@ -316,7 +350,7 @@ lastmod: 2021-12-02 11:34
 > 
 > THE COUNT HAS TOLD ME SO MUCH ABOUT YOU.
 
-<BR><I>CEDRIC's jaw tightens.</i>
+<BR><I>CEDRIC's jaw seizes.</i>
 
 #### CEDRIC
 
@@ -337,6 +371,8 @@ lastmod: 2021-12-02 11:34
 > OH, OF COURSE!
 > 
 > DON'T WE ALL?
+
+<br><i>STRAUD delivers his lines with patience, though his careful enunciation seems to betray a quiet irritation.</i>
 
 #### STRAUD
 
@@ -366,11 +402,13 @@ lastmod: 2021-12-02 11:34
 
 > I PLAY A PRIEST.
 
-<br><i>KEVIN pokes CEDRIC with his elbow.</i>
+<br><i>KEVIN pokes CEDRIC with his elbow. SVETLANA smiles, expectantly.</i>
 
 #### CEDRIC
 
-> ME? OH. UH.
+> ME? OH. 
+> 
+> UH.
 > 
 > ORC HUNTER.
 
@@ -384,25 +422,33 @@ lastmod: 2021-12-02 11:34
 
 > YOU TAKE THAT BACK!
 > 
-> I AM A HUMAN. OR, AT LEAST, I WAS BORN A HUMAN.
+> I AM A HUMAN. OR, AT LEAST, I WAS <u>BORN</u> A HUMAN.
 > 
 > BEFORE THE HUMANS SAID THEY WANTED NOTHING MORE TO DO WITH ME.
 
 #### SVETLANA
 
 > WELL MAYBE YOU'D HAVE MORE FRIENDS IF YOU'D STOP INFECTING THEM WITH PLAGUE AND BURNING DOWN THEIR FORESTS.
+> 
+> THE HORDE HAS NO PLACE IN ASHENVALE.
+> 
+> PURE AND SIMPLE THEFT. 
 
 #### KEVIN
 
-> THAT ONE WASN'T MY IDEA.
+> WASN'T MY IDEA.
 
 #### SVETLANA
 
 > NIGHT ELF DRUID.
+> 
+> SPIRIT OF THE FOREST.
 
 #### KEVIN
 
 > NICE. TELDRASSIL IS BEAUTIFUL.
+
+<BR><I>CEDRIC is unaccustomed to discussing his imagination worlds in the prime material plane. He tries to get a word in edgewise.</i>
 
 #### CEDRIC
 
@@ -417,7 +463,11 @@ lastmod: 2021-12-02 11:34
 > AND THE NIGHT ELF MUSIC IS EXCELLENT.
 > 
 > I REALLY LOVE THE STARTING ZONE.
-> 
+
+<br><i>CEDRIC has his arms crossed, still leaning against the silent piano.</i>
+
+#### KEVIN
+ 
 > CEDRIC HERE IS JUST GRUMPY HIS TOONS ALL START OUT IN BROWN TOWN.
 
 #### SVETLANA
@@ -441,4 +491,186 @@ lastmod: 2021-12-02 11:34
 #### CEDRIC
 
 > I WANTED TO ROLL HUNTER BUT I DIDN'T WANT TO PLAY AN ELF OR A DWARF.
+
+#### SVETLANA
+
+> AW, DWARVES ARE KINDA CUTE.
+
+#### CEDRIC
+
+> THE SAME PROBLEMS YOU HAVE WITH ORCS CAN APPLY TO THE DWARVES.
+> 
+> DESTROYERS. COLONIZERS. HABITAT INVADERS.
+
+#### SVETLANA
+
+> YES, BUT MATTERS OF SCALE...
+
+#### CEDRIC
+
+> IT'S NOT A MATTER OF SCALE.
+> 
+> IT'S SIMPLY THE CHOSEN TARGETS.
+> 
+> DWARVES MAY NOT WORRY MUCH ABOUT CHOPPING DOWN TREES, BUT THEY WILL DIG IN THE EARTH TO EXTRACT WHATEVER SHINY THING IS THE HOT COMMODITY OF THE WEEK.
+> 
+> AND THEY STILL CHOP DOWN PLENTY OF TREES.
+> 
+> AND GNOMES? DON'T EVEN GET ME STARTED ON GNOMES.
+> 
+> HEADS ARE TOO BIG, BODIES TOO SMALL.
+> 
+> I DON'T KNOW WHY THEY CAN'T JUST HAVE AN ACTUAL HALFLING.
+
+#### KEVIN
+
+> GNOMES ARE FROM AT LEAST AS FAR BACK AS WARCRAFT 2.
+> 
+> THERE IS ABSOLUTELY NO PRECIDENT FOR HALFLINGS AS FAR AS I AM AWARE.
+
+#### CEDRIC
+
+> YEAH YEAH YEAH.
+> 
+> I JUST THINK THEY LOOK GOOFY.
+> 
+> THERE'S NO WAY THAT BODY COULD SUPPORT THAT HEAD.
+> 
+> I PREFER THERE TO BE A LITTLE REALITY IN MY FANTASY GAMES.
+
+<BR><I>The conversation is cut short when a familiar face and set of ears approaches.</i>
+
+<i>QUARQ has ruddy skin and eyes deep set underneath a pronounced hairless brow. His crown, too, shines, having long since ceased growing even the slightest covering of hair. His eyes are bright, intense, always searching.</i>
+
+<i>He is an friend of STRAUD's from the 'old country'. Rumor had it that the man had struck it rich on the railroad. He wears a stiff old suit that couldn't have been much fresher than his fortunes.</i> 
+
+#### QUARQ 
+
+> EVENING, KIDDOS.
+
+<BR><I>He turns from the men to address SVETLANA.</I>
+
+#### QUARQ
+
+> MY LADY.
+
+<BR><I>QUARQ bends down to administer a small kiss upon the back of SVETLANA's hand.</i>
+
+<i>She giggles tenderly.</i>
+
+#### SVETLANA
+
+> OH, QUARQ. YOU ARE TOO MUCH.
+
+#### QUARQ 
+
+> SO WHAT SCINTILLATING CONVERSATION HAVE I INTERRUPTED AMONG THE BRAIN TRUST?
+
+#### KEVIN
+
+> VIDEO GAMES.
+
+#### QUARQ 
+
+> AH. THE DEMISE OF YOUNG MEN.
+> 
+> STUFF ROTS YOUR BRAIN, YOU KNOW.
+> 
+> NOT TO MENTION THEY'RE MADE BY MORTALS FOR MORTALS.
+> 
+> PLEASE TELL ME YOU AREN'T BORING THIS LOVELY YOUNG LADY WITH YOUR --
+
+#### SVETLANA
+
+> OH, BUT I PLAY TOO.
+
+#### QUARQ
+
+> YOU?!
+> 
+> OH. WELL.
+> 
+> NOW I'VE SEEN EVERYTHING.
+
+#### KEVIN
+
+> THERE'S MORE PROFIT THAN YOU'D THINK TO BE MADE JUST WAITING TO BE CLAIMED IN CYBERSPACE.
+
+#### QUARQ 
+
+> I DON'T WANT TO PUT A DIME I DON'T HAVE TO INTO A MORTAL'S POCKET.
+
+#### KEVIN
+
+> WE COULD ALWAYS START UP A PRIVATE SERVER IF THAT'D PIQUE YOUR INTEREST.
+> 
+> NO SUBSCRIPTION FEE REQUIRED.
+
+#### QUARQ
+
+> NO, THANK YOU.
+> 
+> I'M A BUSY MAN.
+
+<BR><I>With this, he leaves the conversation, drink in hand, and weaves out between the chattering vampires.</i>
+
+<i>SVETLANA turns to KEVIN and smiles, shrugging.</i>
+
+#### SVETLANA
+
+> NO ACCOUNTING FOR TASTE.
+> 
+> ANYWAY.
+> 
+> DID YOU HEAR THEY LAUNCHED SOME NEW SERVERS?
+> 
+> OCEANIC TIME ZONE.
+
+#### CEDRIC
+
+> PING ALL THE WAY TO AUSTRALIA?
+> 
+> LATENCY'S GONNA BE TERRIBLE.
+
+#### SVETLANA
+
+> YEAH, I KNOW, BUT...
+
+#### KEVIN
+
+> OUR SERVER'S PRETTY QUIET AT NIGHT, TOO.
+> 
+> MIGHT BE WORTH BRAVING THE PING.
+
+#### CEDRIC
+
+> YOU SAY THAT NOW.
+
+#### SVETLANA
+
+> DO YOU GUYS PLAY PvE OR PvP?
+
+#### CEDRIC
+
+> GOTTA BE PvP.
+
+#### SVETLANA
+
+> OH, OF COURSE.
+> 
+> I PLAY BY MYSELF SO...
+> 
+> I'D RATHER NOT GET GANKED.
+
+#### KEVIN
+
+> WHAT, IT'S NOT FUN TO GET NAILED WITH A TEN-THOUSAND DAMAGE SHADOWBOLT CRIT?
+
+#### SVETLANA
+
+> RIGHT?
+
+<br>
+
+*****
 
