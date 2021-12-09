@@ -408,9 +408,9 @@ lastmod: 2021-12-08 09:18
 
 #### VANESSA
 
-> 'YOU' --
+> YOU --
 > 
-> NOTHING.
+> WERE ONLY THINKING OF YOURSELF.
 
 <BR><I>VANESSA grasps the top of the canvas bag, pulling it off her mother's head, along with a few locks of hair. PEIYUN cries out in pain.</i>
 
