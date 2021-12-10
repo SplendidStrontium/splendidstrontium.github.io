@@ -7,10 +7,11 @@ date: 2021-09-27 12:36
 description: "in which Friday Perkins has a rough morning"
 tags: [skit, fpmcmain-perkins, act-ii]
 published: true
-lastmod: 2021-11-04 16:45
+lastmod: 2021-12-10 10:37
 ---
 [//]: # ( 09/27/21  -added)
 [//]: # ( 11/04/21  -title added)
+[//]: # ( 12/10/21  -formatting update)
 
 *****
 
@@ -26,47 +27,45 @@ lastmod: 2021-11-04 16:45
 <br/><br/>
 
 *****
-
-<br/>
 ## // WEASLIE HOUSE // ##
 
-<I>FRIDAY PERKINS, a woman with a wavy mass of fine brown hair, wakes from the bare floor to a quiet house. Her eyes are red, a rarity even among magic-users. But in the silence of the early morning, she struggles to grasp full consciousness, no different than anyone else waking from a strange dream.</i>
+<br><I>FRIDAY PERKINS, a woman with a wavy mass of fine brown hair, wakes from the bare floor to a quiet house. Her eyes are red, a rarity even among magic-users. But in the silence of the early morning, she struggles to grasp full consciousness, no different than anyone else waking from a strange dream.</i>
 
 <i>She looks up first to the large window, wired throughout in an ornate fashion. She furrows her brow, unsure if she's to trust the sight before her.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > [thinking] Wasn't it ... broken?
 
-<i>But her thought stands on shaky ground. The window was clearly not broken. And why should it be?</i>
+<br><i>But her thought stands on shaky ground. The window was clearly not broken. And why should it be?</i>
 
 <i>Panic sets in.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > WEASLIE? 
-
+> 
 > WEASLIE!!
 
-<I>PERKINS looks around her. The fear of the shattered window lingers as she surveys the floor. She half-imagines a sea of glass shards upon the floor. But confusion grips her as no such hazard fills the living room.</i>
+<br><I>PERKINS looks around her. The fear of the shattered window lingers as she surveys the floor. She half-imagines a sea of glass shards upon the floor. But confusion grips her as no such hazard fills the living room.</i>
 
 <i>Her heart calms when she finally spies WEASLIE -- He's asleep on the couch, wrapped inside a red blanket. She releases her breath unsteadily, trying to calm herself.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > GOD-DAMN.
 
-<i>She brings her hand up to her forehead. A headache surges through her temple. She looks again around the room. The lights are still on.</i>
+<br><i>She brings her hand up to her forehead. A headache surges through her temple. She looks again around the room. The lights are still on.</i>
 
 <i>...Had they been drinking last night...?</i>
 
 <i>She considers calling out for WEASLIE, but the sight of his slumber makes her think better of it.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > [thinking] If he's resting, I might as well let him rest.
 
-<i>PERKINS looks around the room yet again. But nothing has changed. The window seems to laugh at her insistence.</i>
+<br><i>PERKINS looks around the room yet again. But nothing has changed. The window seems to laugh at her insistence.</i>
 
 <i>It all seemed so surreal. Just a few short years ago, she'd graduated from MYRTLE's academy. And here she was, sleeping on the floor in a house in Saint Louie.</i>
 
@@ -88,11 +87,11 @@ lastmod: 2021-11-04 16:45
 
 <i>She reaches in, daring even to push aside other leavings, searching for anything that might have held alcohol.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > NOTHING? --NOT ANYTHING?!
 
-<I>The garbage can holds no wisdom for the young witch. She pushes the contents around, scraping the bottom of the can. The liner is clear, allowing the color of the plastic to show through. Nothing meaningful.</i>
+<br><I>The garbage can holds no wisdom for the young witch. She pushes the contents around, scraping the bottom of the can. The liner is clear, allowing the color of the plastic to show through. Nothing meaningful.</i>
 
 <i>She straightens her back and looks about the room, as if embarrassed at the prospect of getting caught rummaging in the garbage can.</i>
 
@@ -106,11 +105,11 @@ lastmod: 2021-11-04 16:45
 
 <i>It's bright red, round, and just matte enough to suggest that it's not straight off the shelf.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > A DOG? WE DON'T HAVE A DOG...
 
-<I>She looks around the area. Everything else seems normal. Is this all that's out of place?</i>
+<br><I>She looks around the area. Everything else seems normal. Is this all that's out of place?</i>
 
 <i>The bowl is empty but shines dully in the light.</i>
 
@@ -120,141 +119,143 @@ lastmod: 2021-11-04 16:45
 
 <i>PERKINS has the bowl in her hands when she hears the sound of WEASLIE ascending the stairs.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > WEASLIE?
 
-<I>The speech highlights a growing fear in her gut. Inside this house are two alone with only their magic to protect them.</i>
+<br><I>The speech highlights a growing fear in her gut. Inside this house are two alone with only their magic to protect them.</i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > MORNING. HOW'S IT GOING?
 
-### PERKINS ###
+#### PERKINS 
 
 > NOT WELL, NOT WELL.
 
-### WEASLIE ###
+#### WEASLIE 
 
 > WHAT'S WRONG?
 
-<I>PERKINS raises the plastic bowl in her hand without removing her tense gaze at WEASLIE.
+<BR><I>PERKINS raises the plastic bowl in her hand without removing her tense gaze at WEASLIE.
 
-### PERKINS ###
+#### PERKINS 
 
 > HAVE WE EVER OWNED A DOG?
 
-### WEASLIE ###
+#### WEASLIE 
 
 > A DOG?
 
-<I>WEASLIE spies the bowl in her hand. Her question is leading but it still doesn't answer the mystery of the dog bowl.</i>
+<BR><I>WEASLIE spies the bowl in her hand. Her question is leading but it still doesn't answer the mystery of the dog bowl.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > I FOUND THIS ON THE FLOOR. SOMEONE SNUCK INTO THE HOUSE LAST NIGHT.
 
-### WEASLIE ###
+#### WEASLIE 
 
 > WE WERE IN THE LIVING ROOM.
 
-### PERKINS ###
+#### PERKINS 
 
 > I KNOW, BUT--
 
-### WEASLIE ###
+#### WEASLIE 
 
 > [interrupting] WHY WOULD SOMEONE LEAVE A DOG BOWL IN OUR HOUSE?
 
-### PERKINS ###
+#### PERKINS 
 
 > SOME KIND OF BAD JOKE OR SOMETHING.
 
-### WEASLIE ###
+#### WEASLIE 
 
 > SEEMS STUPID.
 
-### PERKINS ###
+#### PERKINS 
 
 > YEAH BUT HOW ELSE DID IT GET HERE?
 
-### WEASLIE ###
+#### WEASLIE 
 
 > A SPELL BACKFIRE?
 
-### PERKINS ###
+#### PERKINS 
 
 > I GUESS IT'S POSSIBLE... JUST... SEEMS WEIRD.
-
+> 
 > I DON'T THINK I WORKED ANY MAGIC LAST NIGHT.
 
-### WEASLIE ###
+#### WEASLIE 
 
 > ME EITHER.
 
-### PERKINS ###
+#### PERKINS 
 
 > I... HAVEN'T KNOWN...
 
-<I>They both look at the bowl. The working of magic often had mysterious side effects but it seemed unlikely the effect in question wouldn't have been noticed by the wizard.</i>
+<BR><I>They both look at the bowl. The working of magic often had mysterious side effects but it seemed unlikely the effect in question wouldn't have been noticed by the wizard.</i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > WHERE'D YOU FIND IT?
 
-### PERKINS ###
+#### PERKINS 
 
 > ON THE FLOOR, OVER THERE IN THE KITCHEN.
 
-<I>She points toward a spot on the floor not too far from the garbage can. WEASLIE walks over to the noted location and waves his hand through the area, as if inspecting for trip wire.</i>
+<BR><I>She points toward a spot on the floor not too far from the garbage can. WEASLIE walks over to the noted location and waves his hand through the area, as if inspecting for trip wire.</i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > WHERE'S THE WATER DISH?
 
-### PERKINS ###
+#### PERKINS 
 
 > I'M SERIOUS!
 
-<I>He is suddenly apologetic. He straightens his back and meets her eyes again.</i>
+<BR><I>He is suddenly apologetic. He straightens his back and meets her eyes again.</i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > I KNOW YOU ARE, BABE. SORRY.
 
-### PERKINS ###
+#### PERKINS 
 
 > I JUST DON'T KNOW WHERE THE HELL THIS CAME FROM! WHY'S IT HERE?
 
-<I>The room is saturated with silence tainted by PERKIN's fear.</i>
+<BR><I>The room is saturated with silence tainted by PERKIN's fear.</i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > MAYBE ONE OF THE GUYS LEFT IT AS A PRACTICAL JOKE.
 
-### PERKINS ###
+#### PERKINS 
 
 > WE WERE ASLEEP IN THE LIVING ROOM!
 
-### WEASLIE ###
+#### WEASLIE 
 
 > MAYBE THEY LEFT IT A FEW DAYS AGO AND WE JUST DIDN'T NOTICE IT UNTIL TODAY.
 
-<I>She doesn't like this explanation. It's unlikely enough; she's fastidious and obsessive.</i>
+<BR><I>She doesn't like this explanation. It's unlikely enough; she's fastidious and obsessive.</i>
+
+#### WEASLIE
 
 > ... I KNOW WE'D HAVE PROBABLY NOTICED IT BY NOW, BUT--
 
-### PERKINS ###
+#### PERKINS 
 
 > WHAT KIND OF STUPID JOKE?! WHAT'S IT ABOUT?
 
-<i>WEASLIE shrugs. He tries to force a half-smile.</i>
+<BR><i>WEASLIE shrugs. He tries to force a half-smile.</i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > I NEVER KNOW WITH THESE GUYS.
 
-<I>There is nothing to say in response. PERKINS clearly doesn't believe him but what is there to contest? With what evidence can she refute his claim?</i>
+<BR><I>There is nothing to say in response. PERKINS clearly doesn't believe him but what is there to contest? With what evidence can she refute his claim?</i>
 
 <i>Frozen in uncertainty, she looks from WEASLIE to the bowl and back again.</i>
 
@@ -262,109 +263,110 @@ lastmod: 2021-11-04 16:45
 
 <i>She stands still, looking at the bowl. The room is quiet in her discomfort.</i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > I'LL FIND OUT WHO LEFT IT, OKAY?
 
-<I>He speaks toward her back, the sound echoing through the open space. It was true something felt disturbed but he was more concerned about his companion's worry than he was with his own.</i>
+<BR><I>He speaks toward her back, the sound echoing through the open space. It was true something felt disturbed but he was more concerned about his companion's worry than he was with his own.</i>
 
 <i>PERKINS breaks the silence without looking back toward him.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > YOU GOIN' INTO WORK TODAY?
 
-<I>He considers.</i>
+<BR><I>He considers.</i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > [pause] 
-
+> 
 > I DON'T HAVE TO.
-
+> 
 > [pause]
-
+> 
 > YOU WANT ME TO STAY IN?
 
-### PERKINS ###
+#### PERKINS 
 
 > ... YEAH. MAYBE.
 
-<I>FRIDAY runs the water, washing her hands. Bubbles fall into the dog bowl, but she just leaves them where they are.</i>
+<BR><I>FRIDAY runs the water, washing her hands. Bubbles fall into the dog bowl, but she just leaves them where they are.</i>
+
+#### PERKINS
 
 > WHAT DO YOU WANT FOR BREAKFAST?
 
-<I>She tries to feign normalcy. Something flashes back to her time at the Magicademy, where she'd always kept up walls, trying to seem as cool and capable as was possible. She'd wanted there to be no possible reason for anyone to doubt her capabilities.</i>
+<BR><I>She tries to feign normalcy. Something flashes back to her time at the Magicademy, where she'd always kept up walls, trying to seem as cool and capable as was possible. She'd wanted there to be no possible reason for anyone to doubt her capabilities.</i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > I'LL PICK AROUND.
 
-### PERKINS ###
+#### PERKINS 
 
 > DID WE DRINK LAST NIGHT?
 
-### WEASLIE ###
+#### WEASLIE 
 
 > I DON'T THINK SO.
 
-<I>She can't just let it go.</i>
+<BR><I>She can't just let it go.</i>
 
 <i>She opens the refrigerator and bends down to peer inside. On the top shelf, in the back, is a large container of plain yogurt. FRIDAY removes it from the chamber and closes the door. The chill reminds her that she's not looking forward to the winter months inching upon them.</i>
 
 <i>Inside the cupboard is a jar of honey, the bottom of which is beginning to show the yellow of crystallization.</i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > DID <u>YOU</u> DRINK LAST NIGHT?
 
-<i>FRIDAY pours a healthy dollop of honey atop the yogurt. There is so little left, it appears that she's just going to eat it directly from the container.</i>
+<BR><i>FRIDAY pours a healthy dollop of honey atop the yogurt. There is so little left, it appears that she's just going to eat it directly from the container.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > NO. I JUST DON'T FEEL WELL. LOOKING FOR SOMETHING TO BLAME.
 
-<I>She uses her finger to clean the remains of the poured honey from the screw-top jar. She licks her finger and replaces the jar into the cabinet. Guilt pushes her to rinse the offending finger with water from the sink.</i>
+<BR><I>She uses her finger to clean the remains of the poured honey from the screw-top jar. She licks her finger and replaces the jar into the cabinet. Guilt pushes her to rinse the offending finger with water from the sink.</i>
 
 <i>WEASLIE steps forward, fully into the kitchen, and pulls open a silverware drawer. He digs around for a few seconds, aiming for a particular spoon.</i>
 
 <i>He presents it to her as soon as she turns around.</i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > THIS ONE, RIGHT? YOUR FAVORITE?
 
-<I>It was true. The gesture is touching and well-received.</i>
+<BR><I>It was true. The gesture is touching and well-received.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > YEAH. 
-
+> 
 > THANKS.
 
-### WEASLIE ###
+#### WEASLIE 
 
 > YOU' WELCOME.
 
 <BR/>
 
 *****
-
 <br/><i>Breakfast passes with deliberation. The pair try to make light conversation, anything to distract from the strangeness that rose with them that morning.</i>
 
 <I>But the mood is somber and unresolved. WEASLIE still insists that it's a bad joke from one of his crew. He apologizes profusely but offers to go into work in an attempt to discover the root of the joke.</i>
 
 <i>In less than an hour, WEASLIE has left and coffee cups litter the bottom of the sink.</i>
 
-<i>A quiet sets in after WEASLIE's car leaves the driveway. FRIDAY had a habit of wishing people gone, then lamenting their absense.</i>
+<i>A quiet sets in after WEASLIE's car leaves the driveway. FRIDAY had a habit of wishing people gone, then lamenting their absence.</i>
 
 <i>She leaves the second floor and descends to the first floor. She checks the front door.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > [thinking] Locked.
 
-<i>A peace filling her, she sits down at the computer desk.</i>
+<BR><i>A peace filling her, she sits down at the computer desk.</i>
 
 <i>She had been looking for work. For months after leaving New York City, she'd sat on her ass, twiddled her thumbs, enjoying the sound of silence. But nothing lasted forever.</i>
 
@@ -372,7 +374,7 @@ lastmod: 2021-11-04 16:45
 
 <i>She has a sizeable number of emails from unwelcome senders but one name seems a little less than random.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > LENARD McCOY.
 
@@ -393,16 +395,15 @@ WE ARE NOT SO UNALIKE, YOU AND I. WE ARE BOTH ORPHANS, FOR ONE.
 <BR/>
 
 *****
-
 <BR/><I>She looks up from the phone to try to soak in the strange letter.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > HOW DOES HE KNOW THAT I'M AN ORPHAN? I SUPPOSE MOST STUDENTS AT THE MAGICADEMY WERE BUT CERTAINLY NOT ALL.
-
+> 
 > COULD IT BE WHEN HE WAS FRIENDS WITH --
 
-<I>But her mind draws a blank. As if she'd forgotten the name of someone she shouldn't have. An old friend who'd be ashamed to know she was so careless with names.</i>
+<BR><I>But her mind draws a blank. As if she'd forgotten the name of someone she shouldn't have. An old friend who'd be ashamed to know she was so careless with names.</i>
 
 <i>An anger begins to flare in her at the inability to recall.</i>
 <br/><br/>
@@ -419,20 +420,19 @@ SIGNED, DR LENARD McCOY.
 <BR/><BR/>
 
 *****
-
 <BR/><i>She repeats the name a few times over in her mind.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > STAR TREK?
 
-<I>But that doesn't seem right and she places her hand on her temples as if nursing an intense headache. No actual pain, just the irritation of... a misplaced memory.</i>
+<BR><I>But that doesn't seem right and she places her hand on her temples as if nursing an intense headache. No actual pain, just the irritation of... a misplaced memory.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > I'VE GOT TO STOP DRINKING.
 
-<I>It hits her all of a sudden that MYRTLE MARSCAPONE was dead.</i>
+<BR><I>It hits her all of a sudden that MYRTLE MARSCAPONE was dead.</i>
 
 <i>She hadn't thought often of the old woman in the recent months but for a significant part of her life, the old CRONE had played the part of mother and teacher. And yet, those years seemed further away than they ever had. </i>
 
@@ -445,4 +445,7 @@ SIGNED, DR LENARD McCOY.
 <i>Her eyes gloss over LENARD McCOY's strange email.</i>
 
 <i>Whatever had happened to the CRONE's son?</i>
+<BR><BR>
+
+*****
 

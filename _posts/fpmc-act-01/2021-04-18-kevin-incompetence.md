@@ -12,7 +12,7 @@ lastmod: 2021-04-19 00:46
 [//]: # ( 04/18/21  -added)
 
 *****
-
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/pidge.jpg" class="chat-portrait" />
 <p class="ppl-sez">PIDGE-ADMIN//</p>
@@ -97,13 +97,16 @@ lastmod: 2021-04-19 00:46
 <img src="{{ site.url }}/assets/tb/autress-aug.jpg" class="chat-portrait" />
 <p class="ppl-sez">close chat @01:36 PM</p>
 </div>
+<br>
 
 *****
-
 ## // MARSCAPONE SCHOOL OF MAGIC // ##
 
-<i>The drive from FutureSim to Queens is mostly uneventful. A few nutsos but nothing out of the ordinary. Finally, he reaches his destination.</i>
+<br><i>The drive from FutureSim to Queens is mostly uneventful. A few nutsos but nothing out of the ordinary. Finally, he reaches his destination.</i>
+<br><br>
 
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/vincent-tbfine.jpg" class="chat-portrait" />
 <p class="ppl-sez">VINCENT//</p>
@@ -115,582 +118,635 @@ lastmod: 2021-04-19 00:46
 <p class="ppl-sez">to which she responded,</p>
 <p class="ppl-sez">'My husband's name <u>IS</u> on this!'</p>
 </div>
+<br>
 
-### KEVIN ###
+*****
+<br>
+#### KEVIN 
 
 > (thinking) Mother was quite the go-getter.
 
 <i>KEVIN is in the process of parallel-parking the car.</i>
+<br><br>
 
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/vincent-tbfine.jpg" class="chat-portrait" />
 <p class="ppl-sez">VINCENT//</p>
 <p class="ppl-sez">There were plenty of brokers in the city that worked primarily with magic folk.</p>
 <p class="ppl-sez">But your mother wanted to go legit; no middle-man.</p>
 </div>
+<br>
 
-### KEVIN ###
+*****
+<br>
+#### KEVIN 
 
 > (thinking) Dangerous. What with her weakness for lay-text.
 
+<br>
+
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/vincent-tbfine.jpg" class="chat-portrait" />
 <p class="ppl-sez">VINCENT//</p>
 <p class="ppl-sez">You're telling me.</p>
 </div>
+<br>
 
-### KEVIN ### 
+*****
+<br>
+#### KEVIN 
 
 > (thinking) I wonder how many seats I need.
 
 <i>He eyes the driveway to the auxiliary units.</i>
+<br><br>
 
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/vincent-tbfine.jpg" class="chat-portrait" />
 <p class="ppl-sez">VINCENT//</p>
 <p class="ppl-sez">Don't go without Henry.</p>
 <p class="ppl-sez">This would be good for him.</p>
 </div>
+<br>
 
-### KEVIN ###
+*****
+<br>
+#### KEVIN
 
 > (thinking) He's afraid of Straud.
 
+<br>
+
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/vincent-tbfine.jpg" class="chat-portrait" />
 <p class="ppl-sez">VINCENT//</p>
 <p class="ppl-sez">As well he should be.</p>
 </div>
+<br>
 
-<i>KEVIN removes a set of keys from his pocket. In a moment, the front door to his mother's academy is unlocked.</i>
+*****
+<br><i>KEVIN removes a set of keys from his pocket. In a moment, the front door to his mother's academy is unlocked.</i>
 
 <I>The entrance and parlor are empty.</i>
 
-### KEVIN ###
+#### KEVIN 
 
 > (yelling) MOTHER!
 
+<br>
+
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/vincent-tbfine.jpg" class="chat-portrait" />
 <p class="ppl-sez">VINCENT//</p>
 <p class="ppl-sez">George Henry is hiding.</p>
 <p class="ppl-sez">Fetch him.</p>
 </div>
+<br>
 
-<i>A familiar face hangs down the upper landing.</i>
+*****
+<br><i>A familiar face hangs down the upper landing.</i>
 
-### CEDRIC ###
+#### CEDRIC 
 
 > KEV.
-
+> 
 > DON'T BOTHER TAKING OFF YOUR SHOES; WE GOTTA GET THE VAN.
 
-### KEVIN ###
+#### KEVIN 
 
 > I FIGURED AS MUCH.
 
-<I>CEDRIC comes downstairs and slips his shoes back on.</i>
+<br><I>CEDRIC comes downstairs and slips his shoes back on.</i>
 
 <i>Once they are outside, CEDRIC spills the beans.</i>
 
 <i>The weather is calm and sunny.</i>
 
-### CEDRIC ###
+#### CEDRIC 
 
 > IT'S ONE OF OUR DEARLY DEPARTED CLASSMATES. 
-
+> 
 > LARRY.
 
-### KEVIN ###
+#### KEVIN 
 
 > POTTER? WHAT'S HE NEED?
 
-### CEDRIC ###
+#### CEDRIC 
 
 > HIS LITTLE GIRLFRIEND HAS GONE M.I.A.
 
-### KEVIN ###
+#### KEVIN 
 
 > HERMIONE?
 
-### CEDRIC ###
+#### CEDRIC 
 
 > YEAH.
 
-### KEVIN ###
+#### KEVIN 
 
 > MOM SAID YOU GUYS SCRIED FOR HER?
 
-<I>CEDRIC smooths his hair.</i>
+<br><I>CEDRIC smooths his hair.</i>
 
-### CEDRIC ###
+#### CEDRIC 
 
 > YEAH AND NO DICE.
 
-<I>KEVIN sighs, but tries to restrain his disappointment.</i>
+<br><I>KEVIN sighs, but tries to restrain his disappointment.</i>
 
-### KEVIN ###
+#### KEVIN 
 
 > NOT TERRIBLY SURPRISING IF ALL YOU HAD TO GO BY WAS THE YEARBOOK.
 
-<I>KEVIN unlocks the gate to the driveway of the left units.</i>
+<br><I>KEVIN unlocks the gate to the driveway of the left units.</i>
 
-### KEVIN ###
+#### KEVIN 
 
 > KEYS TO THE MONSTROSITY ARE INSIDE?
 
-<I>KEVIN, of course, refers to a large, black, high-walled van owned by the MARSCAPONES.</I>
+<br><I>KEVIN, of course, refers to a large, black, high-walled van owned by the MARSCAPONES.</I>
 
-### CEDRIC ###
+#### CEDRIC 
 
 > YEAH, HANGING ON THE PEG.
 
-### KEVIN ###
+#### KEVIN 
 
 > AIGHT. I'LL BE RIGHT BACK.
 
-<I>KEVIN goes in the side entrance of the complex, nabs the keys from the nearby hook, and returns to the outdoors. On the ring is an oversized barcode fob for the local pet store.</i>
+<br><I>KEVIN goes in the side entrance of the complex, nabs the keys from the nearby hook, and returns to the outdoors. On the ring is an oversized barcode fob for the local pet store.</i>
 
 <i>He raises his hand with his own set of keys in hand. CEDRIC reaches forward to receive the intended drop. It lands, secure.</i>
 
 <i>The pair perform a sort of round-robin wherein KEVIN runs the van out of the driveway and CEDRIC replaces it with KEVIN's teal jalopy. CEDRIC relocks the door to the driveway and meets KEVIN in front of the MARSCAPONE HOUSE, where he's parked the dark van. KEVIN passes the keys back to KEVIN.</I>
 
-### CEDRIC ###
+#### CEDRIC 
 
 > YOU OKAY DRIVIN' THIS THING?
 
-### KEVIN ###
+#### KEVIN 
 
 > LIKE BUTTER.
 
-<I>CEDRIC laughs lightly, almost a scoff.</i>
+<br><I>CEDRIC laughs lightly, almost a scoff.</i>
 
-### CEDRIC ###
+#### CEDRIC 
 
 > TO EACH HIS OWN.
 
-<I>They reenter the house. Still, the entry is quiet; it's not immediately apparent where the guests are.</i>
+<br><I>They reenter the house. Still, the entry is quiet; it's not immediately apparent where the guests are.</i>
 
 <i>KEVIN speaks quietly, for only CEDRIC to hear.</i>
 
-### KEVIN ###
+#### KEVIN 
 
 > SO. 
-
+> 
 > POTTER, HUH.
 
-### CEDRIC ###
+#### CEDRIC 
 
 > YEAH, POTTER.
 
-### KEVIN ###
+#### KEVIN 
 
 > WHAT'S HE UP TO THESE DAYS?
 
-### CEDRIC ###
+#### CEDRIC 
 
 > I DON'T KNOW. DIDN'T ASK.
 
-### KEVIN ###
+#### KEVIN 
 
 > WHERE'S G.H.?
 
-### CEDRIC ###
+#### CEDRIC 
 
 > SLEEPIN'. LIKE A FOOL.
 
-### KEVIN ###
+#### KEVIN 
 
 > COULD YOU DO THE HONORS?
 
-### CEDRIC ###
+#### CEDRIC 
 
 > MY PLEASURE.
 
-<I>CEDRIC leaves and heads to the basement. It is up to KEVIN to find his mother and her guest.</i>
+<br><I>CEDRIC leaves and heads to the basement. It is up to KEVIN to find his mother and her guest.</i>
+<br><br>
 
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/vincent-tbfine.jpg" class="chat-portrait" />
 <p class="ppl-sez">VINCENT//</p>
 <p class="ppl-sez">She always loved the library.</p>
 </div>
+<br>
 
-### KEVIN ###
+*****
+<br>
+#### KEVIN 
 
 > (thinking) But I don't hear any noise from the landing.
 
-<i>KEVIN goes up to the second floor but no one is around. The record player echoes some sort of pop melody.</i>
+<br><i>KEVIN goes up to the second floor but no one is around. The record player echoes some sort of pop melody.</i>
 
-### KEVIN ###
+#### KEVIN 
 
 > MOTHER! WHERE ARE YOU?
 
-<I>But there is no response.</i>
+<br><I>But there is no response.</i>
 
 <i>He ascends to the third floor, quietly, slowly, carefully.</i>
 
 <i>There is his mother, trolling the (w)IntraNet. Lurking.</i>
 
-### KEVIN ###
+#### KEVIN 
 
 > MOTHER?
 
-<I>She jumps and looks toward his voice.</i>
+<br><I>She jumps and looks toward his voice.</i>
 
-### MYRTLE ###
+#### MYRTLE 
 
 > KEVIN! HELLO!
 
-<I>His expression calms.</i>
+<br><I>His expression calms.</i>
 
-### KEVIN ###
+#### KEVIN 
 
 > EY, MA.
 
-<I>She double-checks the computer screen.</i>
+<br><I>She double-checks the computer screen.</i>
 
-### MYRTLE ###
+#### MYRTLE 
 
 > YOU MADE GOOD TIME, DIDN'T YOU?
 
-<I>KEVIN laughs a bit, shrugs.</i>
+<br><I>KEVIN laughs a bit, shrugs.</i>
 
-### KEVIN ###
+#### KEVIN 
 
 > YOU KNOW ME: ALWAYS SPEEDING.
 
-### MYRTLE ###
+#### MYRTLE 
 
 > WELL YOU ALWAYS KEEP SAFE. 
-
+> 
 > GOOD, GOOD, GLAD TO SEE YOU.
 
-### KEVIN ###
+#### KEVIN 
 
 > WHERE'S LARRY?
 
-### MYRTLE ###
+#### MYRTLE 
 
 > OH GEEZ, I LOST TRACK OF HIM. YOU SURE HE'S NOT IN THE LIBRARY?
 
-### KEVIN ###
+#### KEVIN 
 
 > I JUST PASSED THROUGH...
 
-### MYRTLE ### 
+#### MYRTLE 
 
 > RIGHT. 
-
+> 
 > WELL LET'S GO FIND THE LITTLE BUGGER.
 
-<I>The pair descend the stairs. KEVIN lets his mother go first. When she gets to the bottom of the stairs, she looks about.</i>
+<br><I>The pair descend the stairs. KEVIN lets his mother go first. When she gets to the bottom of the stairs, she looks about.</i>
 
-### MYRTLE ###
+#### MYRTLE 
 
 > NO, CERTAINLY NOT HERE.
 
-<I>They pass through two more floors until they are in the basement. LARRY is there, at a computer station, browsing a popular forum-style website on the Internet.</i>
+<br><I>They pass through two more floors until they are in the basement. LARRY is there, at a computer station, browsing a popular forum-style website on the Internet.</i>
 
 <i>He hears the two step into the lair and looks around to greet them.</i>
 
-### LARRY ###
+#### LARRY 
 
 > ...KEVIN.... HI.
 
-### KEVIN ###
+#### KEVIN 
 
 > LARRY. SALUTATIONS.
 
-### LARRY ###
+#### LARRY 
 
 > AND... SAME TO YOU.
 
-<I>The conversation hangs for a moment until MYRTLE breaks the silence.</i>
+<br><I>The conversation hangs for a moment until MYRTLE breaks the silence.</i>
 
-### MYRTLE ###
+#### MYRTLE
 
 > LARRY IS TRYING TO LOCATE HIS CLASSMATE.
 
-### KEVIN ###
+#### KEVIN 
 
 > HERMIONE.
 
-### LARRY ###
+#### LARRY 
 
 > YES.
 
-### KEVIN ###
+#### KEVIN 
 
 > CEDRIC TOLD ME.
-
+> 
 > LISTEN. WE GOTTA GET ON THE ROAD IF WE'RE GONNA MAKE IT IN ANY DECENT TIME.
 
-### LARRY ###
+#### LARRY 
 
 > YOU'RE WORKING AT FUTURESIM?
 
-### KEVIN ###
+#### KEVIN 
 
 > (with pause) FOR NOW.
 
-### LARRY ###
+#### LARRY 
 
 > WE'RE SEEKING THE SERVICES OF A HOLY MAN?
 
-### KEVIN ###
+#### KEVIN 
 
 > IN A MANNER OF SPEAKING.
 
-<I>CEDRIC comes out of the doorway at the end of the hallway.</i>
+<br><I>CEDRIC comes out of the doorway at the end of the hallway.</i>
 
-### CEDRIC ###
+#### CEDRIC 
 
 > G.H. IS GETTING AROUND. HE'LL BE OUT IN A FEW.
 
-<I>MYRTLE desires to provide additional background to the uninformed.</i>
+<br><I>MYRTLE desires to provide additional background to the uninformed.</i>
 
-### MYRTLE ###
+#### MYRTLE 
 
 > LARRY, I HOPE YOU DON'T MIND. AN ASSOCIATE OF MY LATE HUSBAND WOULD LIKE TO ATTEND THE SÉANCE.
 
-### KEVIN ###
+#### KEVIN 
 
 > CAR SEATS SEVEN COMFORTABLY SO WE SHOULD BE FINE.
-
+> 
 > (to LARRY) WHEN'S THE LAST YOU HEARD FROM HERMIONE?
 
-### LARRY ###
+#### LARRY 
 
 > FEW YEARS AGO WE MET UP FOR COFFEE IN THE CITY.
 
-### KEVIN ###
+#### KEVIN 
 
 > THAT'S NOT MUCH TO GO ON.
 
+<br>
+
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/vincent-tbfine.jpg" class="chat-portrait" />
 <p class="ppl-sez">VINCENT//</p>
 <p class="ppl-sez">Certainly not.</p>
 </div>
+<br>
 
-### KEVIN ###
+*****
+<br>
+#### KEVIN 
 
 > WELL, WE'LL WORK WITH IT. WE'RE GOING TO VISIT THE VAMPIRE VLADISLAUS STRAUD.
 
-### LARRY ###
+#### LARRY 
 
 > STRAUD?
 
-### CEDRIC ###
+#### CEDRIC 
 
 > VLADISLAUS STRAUD. COUNT. THE FOURTH.
 
-<I>LARRY seems unnerved.</i>
+<br><I>LARRY seems unnerved.</i>
 
-### LARRY ###
+#### LARRY 
 
 > ...THIS... NEARBY?
 
-### KEVIN ###
+#### KEVIN 
 
 > THE COUNT LIVES IN JAMAICA ESTATES.
 
-### CEDRIC ###
+#### CEDRIC 
 
 > AND THANK GOD YOU AIN'T DRIVIN'.
 
-<I>LARRY flashes an indignant look at CEDRIC.</I>
+<br><I>LARRY flashes an indignant look at CEDRIC.</I>
 
-### MYRTLE ###
+#### MYRTLE 
 
 > WHY DON'T WE ALL GET IN THE CAR? I'M SURE G.H. WILL BE READY MOMENTARILY.
 
-<I>LARRY, MYRTLE head upstairs. CEDRIC, KEVIN stand in the basement, wordless for a few moments.</i>
+<br><I>LARRY, MYRTLE head upstairs. CEDRIC, KEVIN stand in the basement, wordless for a few moments.</i>
 
 <i>GEORGE HENRY emerges from his sanctuary. He is clad in a jacket and dockers. His orange hair is tied into a bun.</i>
 
-### G.H. ###
+#### G.H. 
 
 > (to KEVIN, bowing) CONJURER.
-
+> 
 > ...STRAUD'S?
 
-### CEDRIC ###
+#### CEDRIC 
 
 > YEP.
 
-### G.H. ###
+#### G.H. 
 
 > OKEE DOKIE.
 
-<center>~ ~ ~</center>
+<br>
 
-<i>In the car are five people. KEVIN drives, CEDRIC rides shotgun. MYRTLE takes the middle bench by her lonesome. LARRY, G.H. sit as far as possible from each other in the backseat.</i>
+*****
+<br><i>In the car are five people. KEVIN drives, CEDRIC rides shotgun. MYRTLE takes the middle bench by her lonesome. LARRY, G.H. sit as far as possible from each other in the backseat.</i>
 
-### KEVIN ###
+#### KEVIN 
 
 > ANYONE HAVE ANY REQUESTS FOR THE RADIO? 
-
+> 
 > IT'S NOT A SHORT RIDE.
 
-<I>The car is silent, each contemplating his own dilemma.</i>
+<br><I>The car is silent, each contemplating his own dilemma.</i>
 
 <i>After a moment of indecision,</i>
 
-### CEDRIC ###
+#### CEDRIC 
 
 > JUST PUT IT ON THE ALTERNATIVE TRASH.
 
-<I>but G.H. pipes up.</i>
+<br><I>but G.H. pipes up.</i>
 
-### G.H. ###
+#### G.H. 
 
 > THEY PLAY TOO MANY COMMERCIALS. 
-
+> 
 > 'TWO MINUTE PROMISE', MY ASS.
 
+<br>
+
+*****
+<br>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/vincent-tbfine.jpg" class="chat-portrait" />
 <p class="ppl-sez">VINCENT//</p>
 <p class="ppl-sez">He's not wrong.</p>
 </div>
+<br>
 
-<i>The car is silent for a few choice moments before LARRY speaks up.</i>
+*****
+<br><i>The car is silent for a few choice moments before LARRY speaks up.</i>
 
-### LARRY ###
+#### LARRY 
 
 > MY PHONE'S GOT BLUETOOTH.
 
-### KEVIN ###
+#### KEVIN 
 
 > GO AHEAD. I'LL KEY YOU IN FROM UP HERE.
 
-<I>The group proceeds to listen to a procession of girl bands while they move across Queens.</i>
+<br><I>The group proceeds to listen to a procession of girl bands while they move across Queens.</i>
 
-<center>~ ~ ~</center>
+<br>
 
-## // STRAUD MANSION // ##
+*****
+### // STRAUD MANSION // 
 
-<i>When they reach the STRAUD MANSION, the sun is threatening to set in the sky. The huge stone structure stands monolithic against the impending sunset.</i>
+<br><i>When they reach the STRAUD MANSION, the sun is threatening to set in the sky. The huge stone structure stands monolithic against the impending sunset.</i>
 
 <i>KEVIN drives up the carpark and secures the vehicle just barely catty-corner. The engine goes to silence, begging the passengers to exit the van.</i>
 
-<center>SLAM.</center>
+<center>[ SLAM. ]</center>
+<center>[ SLAM... ]</center>
+<center>[ ...SLAM. ]</center>
 
-<center>SLAM...</center>
-
-<center>...SLAM.</center>
-
-<i>And soon the five are collected outside the dark, high-walled van.</i>
+<br><i>And soon the five are collected outside the dark, high-walled van.</i>
 
 <i>KEVIN is the first to approach the door. He knocks. A moment passes. MYRTLE, LARRY, G.H. still collected, scattered about the carpark.</i>
 
 <i>A young man with pale skin and a tossle of dark hair answers the door.</i>
 
-### KEVIN ###
+#### KEVIN 
 
 > MANDARC. GREETINGS. WE'RE HERE TO SEE THE MASTER.
 
-### MANDARC ###
+#### MANDARC 
 
 > HE'S AVAILABLE. ALLOW ME A MOMENT TO FETCH HIM.
-
+> 
 > PLEASE, COME IN.
 
-<I>The inside of the mansion is darkly colored and severe. Stone gargoyles line the entrance. MANDARC has disappeared. The party of five stands awkwardly in the entrance.</i>
+<br><I>The inside of the mansion is darkly colored and severe. Stone gargoyles line the entrance. MANDARC has disappeared. The party of five stands awkwardly in the entrance.</i>
 
-### MYRTLE ###
+#### MYRTLE 
 
 > WELL. 
-
+> 
 > IT'S ABOUT DINNER-TIME AND I DOUBT MY GOOD FRIEND HAS A TURKEY PREPARED.
-
+> 
 > PLEASE, POTTER, COME INTO THE KITCHEN AND I'LL FIX A LITTLE RESPITE FOR US.
 
-<I>LARRY is cautious. CEDRIC has left the foyer and sits at the pipe organ in the parlor. KEVIN takes up the place to his right, at a far more modern piano.</i>
+<br><I>LARRY is cautious. CEDRIC has left the foyer and sits at the pipe organ in the parlor. KEVIN takes up the place to his right, at a far more modern piano.</i>
 
 <i>MYRTLE goes into the dining room and prepares to summon a feast at the table.</i>
 
 <I>She raises her hands and waves them about, tiny sparks flying about as she recites the words.</i>
 
-### MYRTLE ###
+#### MYRTLE 
 
 > OUR FATHER, WHICH ART IN HEAVEN.
-
+> 
 > HALLOWED BE THY NAME.
-
+> 
 > GIVE US THIS DAY OUR DAILY BREAD AND FORGIVE US OUR TRESPASSES.
-
+> 
 > FOR THINE IS THE KINGDOM, THE POWER, AND THE GLORY, FOR EVER AND EVER.
-
+> 
 > AMEN.
 
-<I>As she completes the prayer, she flicks her wrist and all the makings of a fine dinner clutter the table.</i>
+<br><I>As she completes the prayer, she flicks her wrist and all the makings of a fine dinner clutter the table.</i>
 
 <i>CEDRIC soon joins the party, leaning up against the doorway, arms crossed, watching LARRY, MYRTLE enjoy the feast.</i>
+<br><br>
 
-<center>~ ~ ~</center>
-
-<i>They are nearly done eating when the smell of wet tar fills the air. KEVIN gets up from the piano.</i>
+*****
+<br><i>They are nearly done eating when the smell of wet tar fills the air. KEVIN gets up from the piano.</i>
 
 <i>STRAUD materializes in the doorway.</i>
 
-### STRAUD ###
+#### STRAUD 
 
 > WELCOME TO MY ABODE.
 
-<I>LARRY still has a face full of food, desperately trying to swallow when he sees he's being greeted.</i>
+<br><I>LARRY still has a face full of food, desperately trying to swallow when he sees he's being greeted.</i>
 
 <i>MYRTLE takes it upon herself to try to help him out.</i>
 
-### MYRTLE ###
+#### MYRTLE 
 
 > (gesturing) MY STUDENT, LARRY. 
-
+> 
 > POTTER.
 
-<I>He struggles to quickly chew his food and down a gulp of water -- </i>
+<br><I>He struggles to quickly chew his food and down a gulp of water -- </i>
 
-### CEDRIC ###
+#### CEDRIC 
 
 > MY... CLASSMATE.
 
-<I>LARRY collects himself.</i>
+<br><I>LARRY collects himself.</i>
 
-### LARRY ###
+#### LARRY 
 
 > WELL YOU WERE A FEW YEARS AHEAD OF ME, UPPERCLASSMAN.
 
-### CEDRIC ###
+#### CEDRIC 
 
 > INDEED.
 
-<I>No one seems to have taken notice of the silent entrance of the house's butler.</i>
+<br><I>No one seems to have taken notice of the silent entrance of the house's butler.</i>
 
-### MANDARC ###
+#### MANDARC 
 
 > MY MASTER HEARS THAT YOU ARE LOOKING FOR ANSWERS FROM THE GREAT BEYOND.
 
-<I>He stands behind the freshly recomposed Elder. KEVIN soon follows, standing behind them, but in earshot, in the hallway.</i>
+<br><I>He stands behind the freshly recomposed Elder. KEVIN soon follows, standing behind them, but in earshot, in the hallway.</i>
 
-### LARRY ###
+#### LARRY 
 
 > YES... MY FRIEND HAS GONE MISSING.
 
-### MYRTLE ###
+#### MYRTLE 
 
 > (interrupting) A FORMER STUDENT OF MINE, THE YOUNG HERMIONE GRANGER.
 
-### STRAUD ###
+#### STRAUD 
 
 > HERMIONE... 'GRANGER'.
 
-<I>As if to try to qualify the information, MYRTLE speaks with surprising vigor.</i>
+<br><I>As if to try to qualify the information, MYRTLE speaks with surprising vigor.</i>
 
-### MYRTLE ###
+#### MYRTLE 
 
 > SHE WAS A STUDENT OF MINE, JUST A FEW YEARS OLDER THAN LARRY HERE.
-
+> 
 > HER PARENTAGE WAS NON-MAGICAL, AN ORPHAN, LIKE SO MANY OF MINE.
 
 ### CEDRIC ###
