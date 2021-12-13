@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 005: Oklahoma"
+title: "CEDRIC 006: Oklahoma"
 permalink: /femputermanchine/cedric/oklahoma/
 date: 2020-09-10 13:12
 category: femputermanchine

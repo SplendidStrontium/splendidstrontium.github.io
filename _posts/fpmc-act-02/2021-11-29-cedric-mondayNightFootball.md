@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 024: Monday Night Football"
+title: "CEDRIC 025: Monday Night Football"
 permalink: /femputermanchine/cedric/monday-night-football/
 category: femputermanchine
 date: 2021-11-29 09:55
