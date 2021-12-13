@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 002: Local Library"
+title: "CEDRIC 003: Local Library"
 category: femputermanchine
 permalink: /femputermanchine/cedric/local-library/
 date: 2020-08-28 13:41

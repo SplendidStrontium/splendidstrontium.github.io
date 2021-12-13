@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 010: Pain"
+title: "CEDRIC 011: Pain"
 permalink: /femputermanchine/cedric/pain/
 category: femputermanchine
 date: 2020-11-24 07:19

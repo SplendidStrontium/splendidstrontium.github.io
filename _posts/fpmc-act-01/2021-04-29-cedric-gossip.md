@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 019: Gossip"
+title: "CEDRIC 020: Gossip"
 permalink: /femputermanchine/cedric/gossip/
 category: femputermanchine
 date: 2021-04-29 20:48

@@ -1,15 +1,16 @@
 ---
 layout: fpmcpost
-title: "KEVIN 011: Incompetence"
+title: "KEVIN 012: Incompetence"
 permalink: /femputermanchine/kevin/incompetence/
 category: femputermanchine
 date: 2021-04-18 22:54
 description: "in which Myrtle, &al ask Straud to use clerical magicks"
 tags: [skit, fpmcmain-kevin, act-i]
 published: true
-lastmod: 2021-04-19 00:46
+lastmod: 2021-12-13 09:21
 ---
 [//]: # ( 04/18/21  -added)
+[//]: # ( 12/13/21  -formatting update)
 
 *****
 <br>
@@ -749,182 +750,186 @@ lastmod: 2021-04-19 00:46
 > 
 > HER PARENTAGE WAS NON-MAGICAL, AN ORPHAN, LIKE SO MANY OF MINE.
 
-### CEDRIC ###
+#### CEDRIC 
 
 > 'I' SUSPECT SHE'S MUDDLED IN MAGICS BEYOND HER UNDERSTANDING.
 
-### STRAUD ###
+#### STRAUD 
 
 > ...KEVIN?
 
-### KEVIN ###
+#### KEVIN 
 
 > WELL, SIR. I CAN'T SAY I WAS TOO CLOSE WITH THE YOUNG WITCH BUT SHE WAS INDEED ONE OF MY MOTHER'S STUDENTS.
-
+> 
 > AS FOR HER GENERAL APPROACH, QUITE HONESTLY I CANNOT COMMENT.
-
+> 
 > BUT SHE WAS ALWAYS KIND TO ME.
 
-### STRAUD ###
+#### STRAUD 
 
 > ...VERY WELL.
-
+> 
 > YOU WANT TO KNOW IF SHE YET LIVES?
 
-### CEDRIC ###
+#### CEDRIC 
 
 > OR IF SHE'S CAUGHT ON SOME DISTANT PLANE.
 
-### STRAUD ###
+#### STRAUD 
 
 > SHE WAS A PLANESWALKER?
 
-### MYRTLE ###
+#### MYRTLE 
 
 > NOT HABITUALLY. BUT I DO THINK SHE WAS MORE THAN CAPABLE.
 
-### MANDARC ###
+#### MANDARC 
 
 > SHALL I SET UP THE TABLE, PROFESSOR?
 
-### STRAUD ###
+#### STRAUD 
 
 > INDEED.
-
+> 
 > WE'LL NEED TWO ADDITIONAL CHAIRS.
-
+> 
 > NO. THREE.
 
-### MANDARC ###
+#### MANDARC 
 
 > THREE, SIR?
 
-<I>STRAUD pauses and looks toward the young vampire, looking him up and down.</i>
+<br><I>STRAUD pauses and looks toward the young vampire, looking him up and down.</i>
 
-### STRAUD ###
+#### STRAUD 
 
 > YES, MANDARC. I THINK IT WOULD BE GOOD FOR YOU TO BE IN ATTENDANCE.
 
-### MANDARC ###
+#### MANDARC 
 
 > UH... SIR...
 
-### STRAUD ###
+#### STRAUD 
 
 > IF CEDRIC CAN SIT THROUGH THIS SCHLOCK, SURELY YOU CAN MANAGE IT.
 
-<I>Embarrassed, MANDARC acquieses. He disappears.</i>
+<br><I>Embarrassed, MANDARC acquieses. He disappears.</i>
 
 <i>STRAUD turns toward the remaining in attendance.</i>
 
-### STRAUD ###
+#### STRAUD 
 
 > YOU DO REALIZE THAT IF I SPEAK TO MY GODS THAT I AM TALKING TO 'MY' GODS.
-
+> 
 > NOT YOURS.
-
+> 
 > THAT DOESN'T CHANGE THE VERITY OF THE DIVINATION BUT IT DOES COLOR THE RESPONSE.
 
-### MYRTLE ###
+#### MYRTLE 
 
 > WE TRIED TO SCRY FOR ANSWERS IN MY REALM. BUT WE RECEIVED NO SATISFACTORY ANSWER.
 
-### STRAUD ###
+#### STRAUD 
 
 > AND IT'S IMPERATIVE THAT YOU CONDUCT THIS RITUAL?
 
-### LARRY ###
+#### LARRY 
 
 > YES, SIR! 
-
+> 
 > IT IS!
 
-<I>The party focuses their attention upon the young upstart.</i>
+<br><I>The party focuses their attention upon the young upstart.</i>
+
+#### LARRY
 
 > MY FRIEND IS MISSING!
 
-<I>STRAUD's demeanor toward the young wizard is kindly, if somewhat pandering.</i>
+<BR><I>STRAUD's demeanor toward the young wizard is kindly, if somewhat pandering.</i>
 
-### STRAUD ###
+#### STRAUD 
 
 > AND I ASSUME YOUR LETTERS HAVE GONE UNANSWERED?
 
-<I>LARRY goes silent, embarrassed.</i>
+<BR><I>LARRY goes silent, embarrassed.</i>
 
-### LARRY ###
+#### LARRY 
 
 > YES... SIR.
 
-<I>STRAUD takes pause, looking at each of his guests.</i>
+<BR><I>STRAUD takes pause, looking at each of his guests.</i>
 
 <i>Then he turns a gaze of disgust upon the bird's corpse neatly garnished upon his table. He sneers.</i>
 
-### STRAUD ###
+#### STRAUD 
 
 > WE'LL BEGIN THE RITUAL SHORTLY AFTER YOU HAVE FINISHED YOUR EVENING REPAST.
 
-<I>The moments pass by agonizingly. STRAUD retreats into his parlor. Finally MYRTLE, LARRY, KEVIN clean the table.</i>
+<BR><I>The moments pass by agonizingly. STRAUD retreats into his parlor. Finally MYRTLE, LARRY, KEVIN clean the table.</i>
+<BR><BR>
 
-<center>~ ~ ~</center>
-
-### STRAUD ###
+*****
+<BR>
+#### STRAUD 
 
 > I HOPE EVERYONE IS SATIATED.
-
+> 
 > MY MAN HAS PREPARED THE RITUAL SPACE. BUT LET US ALLOW FOR A BIT OF A DIGESTIF.
 
-### KEVIN ###
+#### KEVIN 
 
 > (to LARRY) THE PROFESSOR COMMONLY PREFERS A MOMENT OF MUSIC POST-DINNER.
 
 <I>He looks around at the room and notes a violin sitting upon a stand next to a plush couch.</i>
 
-### LARRY ###
+#### LARRY 
 
 > (to KEVIN, quietly) I... UH... DON'T KNOW HOW TO PLAY.
 
-### STRAUD ###
+#### STRAUD 
 
 > THEN YOU WILL PERMIT YOURSELF TO BE ENTERTAINED BY ME AND MY FRIENDS.
 
-<center>~ ~ ~</center>
+<BR>
 
-<i>The sun is just setting when the music-making concludes. STRAUD gets up from his seat at the parlor's pipe organ.</i>
+*****
+<BR><i>The sun is just setting when the music-making concludes. STRAUD gets up from his seat at the parlor's pipe organ.</i>
 
-### STRAUD ###
+#### STRAUD 
 
 > MANDARC HAS BEEN WAITING LONG ENOUGH FOR US. I SUGGEST WE RETIRE TO THE OBSERVATORY.
 
-<I>The six slowly file upstairs, past the floor of bedrooms.</i>
+<BR><I>The six slowly file upstairs, past the floor of bedrooms.</i>
 
 <i>On the third floor is a small table with a crystal sphere set in its center. MANDARC stands off to one side, attempting to play steward to the guests.</i>
 
 <i>The table is dwarfed by the seven chair clamoured around it. The primary four all match, but two folding chairs and a strange wooden chair make the contrast.</i>
 
-### STRAUD ###
+#### STRAUD 
 
 > IT'S GOING TO BE A BIT OF A TIGHT SQUEEZE, BUT I THINK WE CAN FIT SEVEN AROUND THE TABLE.
 
-### MANDARC ###
+#### MANDARC 
 
 > SIR?
 
-### STRAUD ###
+#### STRAUD 
 
 > YES, MANDARC?
 
-<I>As if he's put his foot in his mouth, he's reserved.</i>
+<BR><I>As if he's put his foot in his mouth, he's reserved.</i>
 
-### MANDARC ###
+#### MANDARC 
 
 > OH, UH... NOTHING, SIR.
 
-<I>The seven file in toward the chairs. STRAUD stands while the rest find their seat.</i>
+<BR><I>The seven file in toward the chairs. STRAUD stands while the rest find their seat.</i>
 
 <i>KEVIN is the first to sit. CEDRIC, MYRTLE follow quickly after. GEORGE HENRY takes one of the folding chairs, as does LARRY POTTER.</I>
 
 <I>MANDARC takes the back of a chair in his hands and stands until his Master approaches the dais.</i>
+<BR><BR>
 
 *****
-
 
