@@ -7,10 +7,11 @@ date: 2021-03-03 09:46
 description: "in which Cedric again dons his uniform"
 tags: [skit, fpmcmain-cedric, act-i]
 published: true
-lastmod: 2021-11-04 12:43
+lastmod: 2021-12-15 12:11
 ---
 [//]: # ( 03/03/21  -added)
 [//]: # ( 11/04/21  -title added)
+[//]: # ( 12/15/21  -d'Iggory censored)
 
 *****
 
@@ -109,9 +110,7 @@ lastmod: 2021-11-04 12:43
 
 <i>CEDRIC employs a number of protocols to disconnect his computer from the 'Net. The monitor goes black and the whirring of the cooling fan drops out of the room's noise. A bird tweets mournfully in the background.</i>
 
-<i>Hanging on the inside of the door, in a burlap-backed plastic sleeve, is the dark, almost black uniform of a police officer. The winter jacket is festooned with the usual accoutrement. A metal badge is pinned to the front. Below it sits a silvered rectangle with a name carved into it.</i>
-
-<i>It reads: 'D'Iggory'.</i>
+<i>Hanging on the inside of the door, in a burlap-backed plastic sleeve, is the dark, almost black uniform of a police officer. The winter jacket is festooned with the usual accoutrement.</i>
 
 *****
 
@@ -470,3 +469,4 @@ lastmod: 2021-11-04 12:43
 > I'VE GOT A FULL BAR.
 
 *****
+

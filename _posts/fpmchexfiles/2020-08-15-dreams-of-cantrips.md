@@ -6,10 +6,11 @@ category: hexfiles
 tags: []
 description: "dreams of andromede"
 published: true
-lastmod: 2021-10-26 10:41
+lastmod: 2021-12-15 12:22
 ---
 [//]: # (  8/15/20  -added)
 [//]: # ( 10/26/21  -moved to hexfiles)
+[//]: # ( 12/15/21  -d'Iggory censored)
 
 The inspiration was cantrips and low-level spells but it quickly spun out-of-focus. I wrote these on paper and just typed them up with minimal editing. Who knows how accurate they are, or if I'll change my mind about what certain characters can or cannot do. (have fun)
 
@@ -49,10 +50,10 @@ The inspiration was cantrips and low-level spells but it quickly spun out-of-foc
 * COMPREHEND MACHINERY (MNDC)
 	* With a touch, electrons travel through the device & create a 3D map in MNDC's consciousn. He can distinguish magical from non-magical objects as well as identify true&false microprocessors.
 	
-* TO DO CLUES (CEDRIC D'IGGORY)	
+* TO DO CLUES (CEDRIC)	
 	* especially in anxious people who tend to repeat their thoughts, C' can hear their worries but esp. intentions. e.g. "Oh man. after I'm done working out I can't forget to go to the store to buy eggs&flour"
 	
-* DEBUGGIFY (CEDRIC D'IGGORY)
+* DEBUGGIFY (CEDRIC)
 	* insects are chaotic (in behavior, despite order of hives) & trees are lawful. Cedric can protect a tree from insect predation -- tends to use music & tonal resonance
 	
 * DEBACTERIATE (MNDC)
@@ -73,7 +74,7 @@ The inspiration was cantrips and low-level spells but it quickly spun out-of-foc
 * ILLUMINATE GHAST (SEPAL)
 	* Sepal's dinosaurs have been banished to the Haunt but no idea is truly forgot. She is able to create an illusion of any of her monsters -- a hologram of sorts, though she must maintain concentration
 	
-* SILENCE FLAME (CEDRIC D'IGGORY)
+* SILENCE FLAME (CEDRIC)
 	* Cedric is able to stop a fire at will. Depending on the size of the fire, more time/concentration needed. Any dmg incurred will not be fixed
 	
 * EMPATHIZE (PLANT) (CEDRIC, KEVIN)
