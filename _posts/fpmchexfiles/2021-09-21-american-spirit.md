@@ -6,9 +6,10 @@ date: 2021-09-21 11:19
 description: "unpublished"
 tags: []
 published: true
-lastmod: 2021-09-21 14:36
+lastmod: 2021-12-15 12:18
 ---
 [//]: # ( 09/21/21  -added)
+[//]: # ( 12/15/21  -d'Iggory censored)
 
 *****
 <br/>
@@ -33,7 +34,7 @@ lastmod: 2021-09-21 14:36
 
 ## // QUEENS // ##
 
-<i>In a sterile room sleeps the young man known to his friends as "CEDRIC D'IGGORY". He is yellow-haired and pale. His familiar uniform is nowhere to be seen; rather he has been garbed in a simply patterned hospital robe and light blue trousers. Tangled about his form is a stiff white topsheet. Under his head is a matching pillow. The pillow is so thin as to nearly be unnoticed. A bold sunset filters through the window.</i>
+<i>In a sterile room sleeps the young man known to his friends as "CEDRIC". He is yellow-haired and pale. His familiar uniform is nowhere to be seen; rather he has been garbed in a simply patterned hospital robe and light blue trousers. Tangled about his form is a stiff white topsheet. Under his head is a matching pillow. The pillow is so thin as to nearly be unnoticed. A bold sunset filters through the window.</i>
 <br/><br/>
 
 
@@ -164,7 +165,7 @@ lastmod: 2021-09-21 14:36
 
 ### DR ###
 
-> MR IGGORY. 
+> CECIL.
 
 > IT'S GOOD TO SEE YOU AWAKE. HOW ARE YOU FEELING?
 
@@ -186,7 +187,7 @@ lastmod: 2021-09-21 14:36
 
 ### DR ###
 
-> MR IGGORY?
+> CECIL?
 
 <I>CEDRIC looks up at her from the bed, an awkward pause filling the room.</i>
 
