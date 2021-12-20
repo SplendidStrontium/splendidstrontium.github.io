@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "AVAEL 010: Dialogue"
+title: "AVAEL 011: Dialogue"
 permalink: /femputermanchine/avael/dialogue/
 category: femputermanchine
 date: 2021-05-04 13:35
