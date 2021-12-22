@@ -7,11 +7,12 @@ date: 1905-06-28 10:00
 description: "in which a strange lady visits SOO TOWNHOME" 
 tags: [fpmcmain-myrtle, act-0] 
 published: true 
-lastmod: 2021-11-03 14:19
+lastmod: 2021-12-22 10:50
 ---
 [//]: # ( 10/25/21  -changedTitleToTripleZeroes)
 [//]: # ( 10/26/21  -updated speech formatting)
 [//]: # ( 11/03/21  -title and description updated)
+[//]: # ( 12/22/21  -toots is an anachronism, removed)
 
 *****
 
@@ -35,5 +36,5 @@ lastmod: 2021-11-03 14:19
 
 #### THE ENTERTAINER
 
-> DON'T WORRY, TOOTS, YOUR DADDY'S EXPECTING ME.
+> DON'T WORRY, YOUR DADDY'S EXPECTING ME.
 
