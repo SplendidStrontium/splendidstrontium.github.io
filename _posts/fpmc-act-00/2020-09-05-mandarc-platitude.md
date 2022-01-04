@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "MANDARC 004: Platitude"
+title: "MANDARC 005: Platitude"
 permalink: /femputermanchine/mandarc/platitude/
 category: femputermanchine
 date: 2020-09-05 18:15
