@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "MANDARC 013: Warrior"
+title: "MANDARC 014: Warrior"
 permalink: /femputermanchine/mandarc/warrior/
 category: femputermanchine
 date: 2021-04-25 17:10
