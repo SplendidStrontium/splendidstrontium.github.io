@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 023: Skepticism"
+title: "CEDRIC 024: Skepticism"
 permalink: /femputermanchine/cedric/skepticism/
 category: femputermanchine
 date: 2021-11-02 19:49

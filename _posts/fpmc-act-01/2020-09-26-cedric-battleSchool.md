@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 007: Battle School"
+title: "CEDRIC 008: Battle School"
 permalink: /femputermanchine/cedric/battle-school/
 date: 2020-09-26 13:18
 category: femputermanchine

@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 012: Credentials"
+title: "CEDRIC 013: Credentials"
 permalink: /femputermanchine/cedric/credentials/
 category: femputermanchine
 date: 2020-12-04 13:14

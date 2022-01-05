@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 005: Chintzy"
+title: "CEDRIC 006: Chintzy"
 permalink: /femputermanchine/cedric/chintzy/
 date: 2020-09-01 09:15
 category: femputermanchine
