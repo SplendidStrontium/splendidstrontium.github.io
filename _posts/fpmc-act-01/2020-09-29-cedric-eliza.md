@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 008: Eliza"
+title: "CEDRIC 009: Eliza"
 permalink: /femputermanchine/cedric/eliza/
 category: femputermanchine
 date: 2020-09-29 16:53

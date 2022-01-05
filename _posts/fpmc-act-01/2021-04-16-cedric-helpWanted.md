@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 018: Help Wanted"
+title: "CEDRIC 019: Help Wanted"
 permalink: /femputermanchine/cedric/help-wanted/
 category: femputermanchine
 date: 2021-04-16 22:14

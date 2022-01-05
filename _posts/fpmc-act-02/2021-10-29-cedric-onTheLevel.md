@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 022: On the Level"
+title: "CEDRIC 023: On the Level"
 permalink: /femputermanchine/cedric/on-the-level/
 category: femputermanchine
 date: 2021-10-29 09:40

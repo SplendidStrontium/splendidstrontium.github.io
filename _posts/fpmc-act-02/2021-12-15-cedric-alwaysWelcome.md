@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 026: Always Welcome"
+title: "CEDRIC 027: Always Welcome"
 permalink: /femputermanchine/cedric/always-welcome/
 category: femputermanchine
 date: 2021-12-15 09:31
