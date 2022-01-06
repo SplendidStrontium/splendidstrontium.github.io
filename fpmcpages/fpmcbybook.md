@@ -603,7 +603,7 @@ permalink: /femputermanchine/books/
 <p>VANESSA & ZHANGWEI TANG stand on opposite sides of the conflict following the death of their mother.</p>
 
 <ul>
-	{% assign maxPost = 1 %}
+	{% assign maxPost = 2 %}
 	{% assign counter = 0 %}
 	{% for post in site.posts %}
         {% if post.url %}
