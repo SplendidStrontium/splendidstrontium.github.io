@@ -56,6 +56,7 @@ lastmod: 2021-12-14 14:56
 
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/straud1.jpg" class="chat-portrait" />
+<p class="ppl-sez">STRAUD//</p>
 <p class="ppl-sez">It's repulsive, revolting, and wrong</p>
 <p class="ppl-sez">Chewing and chewing all day long --</p>
 <p class="ppl-sez">The way that a cow does.</p>
