@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 005: Where's My Car?"
+title: "CEDRIC 006: Where's My Car?"
 permalink: /femputermanchine/cedric/wheres-my-car/
 date: 2020-08-30 06:42
 category: femputermanchine
@@ -16,8 +16,6 @@ lastmod: 2021-11-17 14:52
 [//]: # ( 11/17/21  -placenames updated)
 
 *****
-<br>
-
 ### // MARSCAPONE AUXILIARY APTS //
 
 <br><i>CEDRIC rises from his nightly meditation. He is in a dark basement; the simple coffin of dark jungle wood is one of the few features of the cavern.</i>

@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 011: Shroud"
+title: "CEDRIC 012: Shroud"
 permalink: /femputermanchine/cedric/shroud/
 category: femputermanchine
 date: 2020-11-12 09:15

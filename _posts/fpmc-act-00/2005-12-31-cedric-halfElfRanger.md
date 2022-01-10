@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 001: Half-Elf Ranger"
+title: "CEDRIC 002: Half-Elf Ranger"
 permalink: /femputermanchine/cedric/half-elf-ranger/
 category: femputermanchine
 date: 2005-12-31 23:59
