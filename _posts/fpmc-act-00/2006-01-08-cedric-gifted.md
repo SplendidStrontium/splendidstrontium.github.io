@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 002: Gifted"
+title: "CEDRIC 003: Gifted"
 permalink: /femputermanchine/cedric/gifted/
 category: femputermanchine
 date: 2006-01-08 20:40

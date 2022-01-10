@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 028: Pattern"
+title: "CEDRIC 029: Pattern"
 permalink: /femputermanchine/cedric/pattern/
 category: femputermanchine
 date: 2022-01-07 14:33

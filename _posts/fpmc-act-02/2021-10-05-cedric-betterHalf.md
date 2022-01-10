@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "CEDRIC 022: Better Half"
+title: "CEDRIC 023: Better Half"
 permalink: /femputermanchine/cedric/better-half/
 category: femputermanchine
 date: 2021-10-05 11:16
