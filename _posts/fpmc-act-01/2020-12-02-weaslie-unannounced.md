@@ -7,395 +7,399 @@ date: 2020-12-02 15:22
 description: "in which Weaslie and Perkins discuss the change of the dog's temperament"
 tags: [skit, fpmcmain-weaslie, act-i]
 published: true
-lastmod: 2021-11-03 15:26
+lastmod: 2022-01-11 09:30
 ---
 [//]: # ( 12/02/20  -added)
 [//]: # ( 11/03/21  -title added)
+[//]: # (  1/11/22  -formatting review)
 
 *****
+### // WEASLIE HOUSE // 
 
-## // WEASLIE HOUSE // ##
-
-<I>It has been months since BRONALD WEASLIE brought the young witch FRIDAY PERKINS back to his family home in Saint Louie. The pair have settled into a quiet standoff; a few flirtations thrown back and forth but a few choice arguments have kept the pair from cementing anything beyond mutual toleration.</i>
+<br><I>It has been months since BRONALD WEASLIE brought the young witch FRIDAY PERKINS back to his family home in Saint Louie. The pair have settled into a quiet standoff; a few flirtations thrown back and forth but a few choice arguments have kept the pair from cementing anything beyond mutual toleration.</i>
 
 <i>Today, WEASLIE awakes to the sound of the dog growling. When he sits up and spies the dog, he's chewing on a shoe. One of his own shoes.</i>
 
 <i>He raises his hand and voice.</i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > SCAT DOG, SCAT!
 
-<I>The dog runs away. WEASLIE tidies himself up a bit in front of the mirror and prepares to enter the living space. PERKINS is playing a game at the computer.</i>
+<br><I>The dog runs away. WEASLIE tidies himself up a bit in front of the mirror and prepares to enter the living space. PERKINS is playing a game at the computer.</i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > D'YOU KNOW THIS DOG WAS CHEWING ON MY SHOE?
 
-### PERKINS ###
+#### PERKINS 
 
 > YEAH?
 
-### WEASLIE ###
+#### WEASLIE 
 
 > MY GOOD WORK SHOES!
 
-<I>He looks toward the dog in irritation. He's since taken up chewing one of his toys, playing the innocent.</i>
+<br><I>He looks toward the dog in irritation. He's since taken up chewing one of his toys, playing the innocent.</i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > WHAT IS UP WITH HIM LATELY? HE SEEMS...
-
+> 
 > AGITATED.
 
-### PERKINS ###
+#### PERKINS 
 
 > I DUNNO.
 
-<I>But PERKINS does know what's up with the Dog. He hasn't been the same since one evening, when WEASLIE was out late at work, MANDARC showed up unexpectedly. 'Here to visit the dog.' he'd said, and darkly pushed himself inside the house. The dog had greeted him warmly, licking his face, possibly formerly unaware that his former Master was still alive. But since the visit, the dog had been testy, grumpy. </i>
+<br><I>But PERKINS does know what's up with the Dog. He hasn't been the same since one evening, when WEASLIE was out late at work, MANDARC showed up unexpectedly. 'Here to visit the dog.' he'd said, and darkly pushed himself inside the house. The dog had greeted him warmly, licking his face, possibly formerly unaware that his former Master was still alive. But since the visit, the dog had been testy, grumpy. </i>
 
 <i>PERKINS had decided to keep the unwelcome visit from WEASLIE.</I>
 
-### PERKINS ###
+#### PERKINS
 
 > HE'S ALWAYS BEEN AN AGGRESSIVE PIECE OF SHIT.
 
-<I>DEXX faces toward the door, passionately chewing a rubber ball. Slick squeaks grates on their ears as he forces it back and forth between his jaws.</i>
+<br><I>DEXX faces toward the door, passionately chewing a rubber ball. Slick squeaks grates on their ears as he forces it back and forth between his jaws.</i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > YEAH, I'VE JUST NEVER HAD A DOG BEFORE SO IT'S... I DON'T KNOW.
-
+> 
 > STRESSFUL.
-
+> 
 > HE SEEMS ANGRY.
-
+> 
 > I'VE BEEN TRYING TO PLAY WITH HIM.
 
-### PERKINS ###
+#### PERKINS 
 
 > ARE YOU GOING TO WORK TODAY?
 
-<I>WEASLIE had been struggling with an illness over the past few days.</i>
+<br><I>WEASLIE had been struggling with an illness over the past few days.</i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > YEAH, I FEEL A LITTLE BETTER TODAY. I'VE TAKEN OFF ENOUGH DAYS AS IT IS.
 
-### PERKINS ###
+#### PERKINS 
 
 > YOU WANT BREAKFAST TODAY?
 
-### WEASLIE ###
+#### WEASLIE 
 
 > YEAH.
 
-### PERKINS ###
+#### PERKINS 
 
 > CONJURED OR COOKED?
 
-### WEASLIE ###
+#### WEASLIE 
 
 > YOU'RE HOPING TO PRACTICE? GO AHEAD AND SEE WHAT WE GET.
 
-<I>The pair head upstairs to the kitchen, located on the second floor of the house. It had been a strange remodel, done when BRONALD was a child, but had worked for their family.</i>
+<br><I>The pair head upstairs to the kitchen, located on the second floor of the house. It had been a strange remodel, done when BRONALD was a child, but had worked for their family.</i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > YOU DIDN'T, LIKE, CHANGE HIS FOOD OR SOMETHING, DID YOU?
 
-<I>PERKINS groans in irritation.</i>
+<br><I>PERKINS groans in irritation.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > NO I DIDN'T, LIKE, CHANGE HIS FOOD OR SOMETHING.
-
+> 
 > I'M TRYING TO FOCUS.
 
-<I>PERKINS opens up a small rift in spacetime and pulls out a short wooden wand. She grasps it in her right hand and sparks fly as she moves it around.</i>
+<br><I>PERKINS opens up a small rift in spacetime and pulls out a short wooden wand. She grasps it in her right hand and sparks fly as she moves it around.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > BRING US...
-
+> 
 > BREAKFAST!
 
-<I>The warm smell of family dinner fills the air. On the dining room table appears a roast chicken, complete with garnish.</i>
+<br><I>The warm smell of family dinner fills the air. On the dining room table appears a roast chicken, complete with garnish.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > NOT EXACTLY BREAKFAST FARE.
 
-<I>The clatter of dog claws scratch against the floor. DEXX enters the room, rubber ball in mouth, and plops down on the floor to chew vigorously.</i>
+<br><I>The clatter of dog claws scratch against the floor. DEXX enters the room, rubber ball in mouth, and plops down on the floor to chew vigorously.</i>
 
 <i>WEASLIE stands.</i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > I'LL GET A KNIFE.
 
-<I>He retrieves a large carving knife and fork from the kitchen drawers and reenters the dining room, first cutting the legs from the chicken. It's hot.</i>
+<br><I>He retrieves a large carving knife and fork from the kitchen drawers and reenters the dining room, first cutting the legs from the chicken. It's hot.</i>
 
 <i>He has barely finished cutting the second leg from the chicken when his phone alarm goes off. 'BEEP BEEP BEEP...' it cuckoos, before WEASLIE silences it.</i>
 
 <i>Without asking, he presents PERKINS with the first cut leg, and takes the second for himself.</i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > I GUESS WE'LL BE HAVING SOUP LATER.
 
-### PERKINS ###
+#### PERKINS 
 
 > CHICKEN SOUP?
 
-### WEASLIE ###
+#### WEASLIE 
 
 > YEAH CHICKEN SOUP. I LOVE CHICKEN SOUP.
 
-<I>They eat in silence, both trying to exert their very best manners upon the table.</i>
+<br><I>They eat in silence, both trying to exert their very best manners upon the table.</i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > SO WHERE DO YOU THINK IT COMES FROM?
 
-### PERKINS ###
+#### PERKINS 
 
 > SOUP?
 
-### WEASLIE ###
+#### WEASLIE 
 
 > THE CHICKEN.
 
-<I>She pauses.</i>
+<br><I>She pauses.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > IT'S CONJURED. CREATED.
 
-### WEASLIE ###
+#### WEASLIE 
 
 > ... 
-
+> 
 > WHAT IF IT'S NOT?
-
+> 
 > ...
-
+> 
 > I ALWAYS WONDERED IF IT WAS ACTUALLY A SPELL OF THEFT. LIKE... SOMEONE SOMEWHERE WAS SITTING TO EAT THIS CHICKEN AND POOF --
-
+> 
 > THE CHICKEN JUST DISAPPEARS.
-
+> 
 > OFF THEIR TABLE AND APPEARS ON OURS.
 
-### PERKINS ###
+#### PERKINS 
 
 > BUT IT'S THE SAME THING EVERY TIME.
 
-### WEASLIE ###
+#### WEASLIE 
 
 > SURE IT'S THE SAME CHICKEN EVERY TIME.
-
+> 
 > BUT SOMETIMES IT'S PIZZA, SOMETIMES IT'S HOT DOGS.
-
+> 
 > YOU EVEN GET HOT 'N' GREASY MAC AND CHEESE SOMETIMES.
-
+> 
 > ANY NUMBER OF EDIBLE FOODS.
 
-### PERKINS ###
+#### PERKINS 
 
 > YOU EVER HEARD REPORTS OF STOLEN FOOD?
 
-### WEASLIE ###
+#### WEASLIE 
 
 > EH. PEOPLE WOULD THINK THEY'RE CRAZY.
 
-<I>PERKINS clears her mouth of food.</i>
+<br><I>PERKINS clears her mouth of food.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > AND FOR EVERY GROUP OF CRAZIES WHO DON'T BELIEVE IN MAGIC, THERE'S ONE MORE CRAZY WHO'D REPORT HIS STOLEN CHICKEN TO THE COPS.
 
-### WEASLIE ###
+#### WEASLIE 
 
 > MAYBE YOU'RE ACTUALLY STEALING THE CHICKEN FROM AN ALIEN TIMELINE.
-
+> 
 > ANOTHER UNIVERSE. 
-
+> 
 > SO WE'D NEVER HEAR ABOUT IT ON THE NEWS.
 
-### PERKINS ###
+#### PERKINS 
 
 > YOU EVER HAD A CHICKEN STOLEN FROM YOU?
 
-### WEASLIE ###
+#### WEASLIE 
 
 > NO BUT MY DRYER IS ALWAYS EATING MY SOCKS.
 
-<I>Even PERKINS cannot stifle her amusement. It's a small chuckle, but not unnoticed.</i>
+<br><I>Even PERKINS cannot stifle her amusement. It's a small chuckle, but not unnoticed.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > BRON... 
-
+> 
 > ...
-
+> 
 > NO WONDER YOU'VE MASTERED SO FEW SPELLS.
 
-### WEASLIE ###
+#### WEASLIE 
 
 > HEY! THAT'S NOT NICE!
 
-### PERKINS ###
+#### PERKINS 
 
 > I'M JUST SAYING. 
-
+> 
 > YOU THINK TOO MUCH ABOUT THIS STUFF.
 
-### WEASLIE ###
+#### WEASLIE 
 
 > DIDN'T YOUR MOTHER EVER TEACH YOU THAT STEALING IS WRONG?
 
-<I>She casts an angry stare his way. Her eyes were... well, always red, but they seemed to glow with an exceptionally red glare.</i>
+<br><I>She casts an angry stare his way. Her eyes were... well, always red, but they seemed to glow with an exceptionally red glare.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > SOME WAY TO SHOW THANKS TO THE WOMAN WHO CONJURED YOUR BREAKFAST. 
-
+> 
 > I'LL CONCENTRATE MY FOCUS NEXT TIME AND MAKE SURE I ONLY STEAL FROM THE RICH.
 
-### WEASLIE ###
+#### WEASLIE 
 
 > SO YOU ARE STEALING.
 
-### PERKINS ###
+#### PERKINS 
 
 > NO PROOF ONE WAY OR THE OTHER. BUT FOR YOU, SURE. I'LL TRY HARDER.
 
-<I>They take a few more bites of the chicken. DEXX continues to masticate noticably.</i>
+<br><I>They take a few more bites of the chicken. DEXX continues to masticate noticably.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > DID YOUR MOTHER COOK?
 
-### WEASLIE ###
+#### WEASLIE 
 
 > MY MOTHER WAS A GREAT COOK. I THINK SHE FOUND IT...
-
+> 
 > THERAPEUTIC.
 
-### PERKINS ###
+#### PERKINS 
 
 > I KNOW A FEW BAD JOKES ABOUT WOMEN IN THE KITCHEN.
 
-### WEASLIE ###
+#### WEASLIE 
 
 > I'M SURE YOU DO.
-
+> 
 > ...
-
+> 
 > I THINK MY MOTHER BELIEVED THAT THE BETTER YOU COULD COOK, THE BETTER YOUR CONJURATIONS WOULD BE.
-
+> 
 > THE MORE REFINED YOUR SENSE OF TASTE, THE BETTER YOUR CREATED FOOD WOULD BE.
 
-### PERKINS ###
+#### PERKINS 
 
 > HOW DOES THAT JIBE WITH YOUR THIEVERY HYPOTHESIS?
 
-### WEASLIE ###
+#### WEASLIE 
 
 > IT DOESN'T.
 
-<I>Silverware clink and clank.</i>
+<br><I>Silverware clink and clank.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > SO, ARE YOU GOING TO TRY?
 
-### WEASLIE ###
+#### WEASLIE 
 
 > WHAT?
 
-### PERKINS ###
+#### PERKINS 
 
 > TO CONJURE A SIDE.
 
-### WEASLIE ### 
+#### WEASLIE 
 
 > MUST I?
 
-### PERKINS ###
+#### PERKINS 
 
 > YOU KNOW WHAT THEY SAY ABOUT PRACTICE.
 
-### WEASLIE ###
+#### WEASLIE 
 
 > CAN I USE YOUR WAND?
 
-### PERKINS ###
+#### PERKINS 
 
 > NO YOU MOST CERTAINLY CANNOT.
-
+> 
 > BESIDES. YOU DON'T NEED IT.
-
+> 
 > I DO.
 
-### WEASLIE ### 
+#### WEASLIE 
 
 > OKAY.
-
+> 
 > FORGIVE ME.
 
-<i>WEASLIE frees himself from the tyranny of his utensils. He focuses and sparks emit harmlessly from his florishes.</i>
+<br><i>WEASLIE frees himself from the tyranny of his utensils. He focuses and sparks emit harmlessly from his florishes.</i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > DELICIOSO!
 
-<I>In his hands appears a crumpled, already-open bag of flavored corn chips.</i>
+<br><I>In his hands appears a crumpled, already-open bag of flavored corn chips.</i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > SEE...! BURGLED.
 
-<I>He examines the bag.</i>
+<br><I>He examines the bag.</i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > AND IT'S NACHO CHEESE, TOO. NOT MY PREFERENCE.
 
-<I>He offers them toward PERKINS.</I>
+<br><I>He offers them toward PERKINS.</I>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > YOU?
 
-<I>She produces a face of utter disgust and gestures refusal with open palms.</i>
+<br><I>She produces a face of utter disgust and gestures refusal with open palms.</i>
 
 <i>He rises from the table and goes to throw the bag away in the kitchen.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > ANYWAY, I'VE BEEN LOOKING FOR WORK.
 
-### WEASLIE ###
+#### WEASLIE 
 
 > YEAH? HOW'S IT COMING?
-
+> 
 > YOU STILL IN FOR ROBOTICS?
 
-<i>Re-entering the dining room, he eyes the dog, dutifully chewing.</i>
+<br><i>Re-entering the dining room, he eyes the dog, dutifully chewing.</i>
+
+#### WEASLIE
 
 > (thinking) I should walk that dog before I go to work...
-
+> 
 > SEEMS A WASTE, A TALENTED MAGUS TEACHING SERVOS TO WALK AND TALK.
 
-### PERKINS ###
+#### PERKINS 
 
 > WELL, WE'LL SEE, THE JOBS ARE FEW AND FAR BETWEEN.
-
+> 
 > BESIDES, I COULD SAY THE SAME FOR YOU.
-
+> 
 > JUST A CONVENIENT EXCUSE TO SPY PEOPLE'S METERS.
 
-<I>WEASLIE throws his hands up in a mock gesture of surrender and flashes a showy smile.</i>
+<BR><I>WEASLIE throws his hands up in a mock gesture of surrender and flashes a showy smile.</i>
+<BR><BR>
 
 *****
+
