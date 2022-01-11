@@ -7,19 +7,17 @@ date: 2020-09-27 10:20
 description: "waffles"
 tags: [skit, fpmcmain-weaslie, act-i]
 published: true
-lastmod: 2021-11-03 15:03
+lastmod: 2022-01-11 09:19
 ---
 [//]: # (  9/26/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
 [//]: # ( 11/03/21  -title added)
+[//]: # (  1/11/22  -formatting review)
 
 *****
-
-## // OPEN VISUAL // ##
-
 ### WEASLIE MOTORCYCLE, I-70W ###
 
-<I>The mood of the two cyclists has chilled since their last encounter in Forgotten Hallow. The snow here is less, admittedly, but only the weather has warmed up.</i>
+<br><I>The mood of the two cyclists has chilled since their last encounter in Forgotten Hallow. The snow here is less, admittedly, but only the weather has warmed up.</i>
 
 <i>The pair have driven all night, making only the shortest of stops to stretch their legs and chug potions. The young BRONALD WEASLIE, of the famous wizarding family, had made a secret alliance with FRIDAY PERKINS, who decided to betray her former friendship with MANDARC & STRAUD. </i>
 
@@ -31,155 +29,155 @@ lastmod: 2021-11-03 15:03
 
 <i>WEASLIE pulls into the right lane and exits at the next opportunity. PERKINS points to the bright yellow sign and they pull into the parking lot. WEASLIE locks his cycle and PERKINS checks out the arcane cigarette machine standing guard outside the entrance.</i>
 
-### PERKINS ###
+#### PERKINS
 
 > YOU THINK THIS THING WORKS?
 
-<i>The machine has a strange mix, some rows old and dusty, another with more modern packages.</i>
+<br><i>The machine has a strange mix, some rows old and dusty, another with more modern packages.</i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > COULDN'T TELL YA. BUT I'LL SHARE WITH YOU.
 
-<I>WEASLIE fishes a wallet from inside his coat.</i>
+<br><I>WEASLIE fishes a wallet from inside his coat.</i>
 
-### STRANGER ###
+#### STRANGER 
 
 > (walking up) THING AIN'T WORKED IN MONTHS. THINK THEY'RE GONNA ABANDON IT. TRY THE GAS STATION OVER THERE. (pointing)
 
-<i>The STRANGER walks past them and walks into the Waffle House.</i>
+<br><i>The STRANGER walks past them and walks into the Waffle House.</i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > YOU GET A TABLE, I'LL BE RIGHT BACK. 
 
-### PERKINS ###
+#### PERKINS 
 
 > OK.
 
-<i>PERKINS walks into the restaurant. </i>
+<br><i>PERKINS walks into the restaurant. </i>
 
-### WAITRESS ###
+#### WAITRESS 
 
 > WELCOME. SIT ANYWHERE. SORRY ABOUT THE MACHINE.
 
-### PERKINS ###
+#### PERKINS 
 
 > IT'S OKAY.
 
-<I>PERKINS sits awkwardly by herself in an overstuffed leather booth. The WAITRESS brings a thick ceramic mug and pours dark coffee.</i>
+<br><I>PERKINS sits awkwardly by herself in an overstuffed leather booth. The WAITRESS brings a thick ceramic mug and pours dark coffee.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > I'VE GOT A FRIEND JOINING ME.
 
-### WAITRESS ###
+#### WAITRESS 
 
 > ONE MORE?
 
-### PERKINS ###
+#### PERKINS 
 
 > ONE MORE.
 
-<I>In a moment, a second cup of coffee is wafting warm scent over the table. Two laminated menus sit across from each other. PERKINS looks longingly at the empty seat when she hears the dinging of the door's bell. It's WEASLIE returning. He sits down opposite from her and pushes the coffee into a convenient position. </i>
+<br><I>In a moment, a second cup of coffee is wafting warm scent over the table. Two laminated menus sit across from each other. PERKINS looks longingly at the empty seat when she hears the dinging of the door's bell. It's WEASLIE returning. He sits down opposite from her and pushes the coffee into a convenient position. </i>
 
-### WEASLIE ###
+#### WEASLIE 
 
 > WOULD YOU LIKE THAT CIGARETTE?
 
-### PERKINS ###
+#### PERKINS 
 
 > SURE.
 
-<I>Cold air blasts them as they step outside again. WEASLIE is protected in his leather riding jacket but PERKINS is a little less protected; she is wearing a cheap plastic coat they picked up at a department store on the way out of town. Potions can protect a sorceress from many things but not the road's flying detritus.</i>
+<br><I>Cold air blasts them as they step outside again. WEASLIE is protected in his leather riding jacket but PERKINS is a little less protected; she is wearing a cheap plastic coat they picked up at a department store on the way out of town. Potions can protect a sorceress from many things but not the road's flying detritus.</i>
 
 <i>'FSSS...' A new lighter flashes to life and the pair are sharing a moment. </i>
 
 <i>They both consider making light conversation but they're just so exhausted all they can do is focus on their cigarettes in silence. </i>
 
-### PERKINS ###
+#### PERKINS 
 
 > I GUESS ALL THE GRANDFATHERING IS OVER? SURE WOULD LIKE TO SMOKE THIS INSIDE.
 
-### WEASLIE ###
+#### WEASLIE 
 
 > YEARS AGO, I SUPPOSE.
 
-<I>The barest of crinkles as the papers burn. Soon they're out of cigarette and they go back inside.</i>
+<br><I>The barest of crinkles as the papers burn. Soon they're out of cigarette and they go back inside.</i>
 
 <i>PERKINS plops undelicately on the right side of the booth; WEASLIE has his back to the entrance.</i>
 
-### WAITRESS ###
+#### WAITRESS 
 
 > (gruff) DO Y'ALL KNOW WHAT YOU WANT?
 
-### WEASLIE ###
+#### WEASLIE 
 
 > (quickly) WAFFLE, SIDE OF HASH.
 
-### PERKINS ###
+#### PERKINS 
 
 > AND, UH -- I'LL HAVE THE SAME.
 
-<I>The WAITRESS picks up the menus and takes them away. PERKINS looks out the window at idled cars for a moment before trying to get WEASLIE's eye-contact. A pair behind them is talking loudly in a foreign language, distracting her. </i>
+<br><I>The WAITRESS picks up the menus and takes them away. PERKINS looks out the window at idled cars for a moment before trying to get WEASLIE's eye-contact. A pair behind them is talking loudly in a foreign language, distracting her. </i>
 
-### PERKINS ###
+#### PERKINS 
 
 > SO. I WAS EXPECTING YOU TO BE A LOT OLDER. 
-
+> 
 > (pause) AND I THOUGHT YOU HAD A CHEVY. SOME OLD --
 
-### WEASLIE ###
+#### WEASLIE 
 
 > CADILLAC, BUT IT DOESN'T MATTER. 
 
-### WEASLIE ###
+#### WEASLIE 
 
 > THAT'S MY GREAT-UNCLE. SAME NAME; 'THANKS MA'.
 
-<I>The conversation hangs as a pink elephant enters the table. </i>
+<br><I>The conversation hangs as a pink elephant enters the table. </i>
 
-### PERKINS ###
+#### PERKINS 
 
 > SO.... VOUS ÊTES... ?
 
-### WEASLIE ###
+#### WEASLIE 
 
 > (with reluctant force) NO, I AM NOT -- AND STOP IT -- I DON'T WANT TO HEAR IT AGAIN. I AM LIKE YOU, ONLY LESS ADVANCED ALONG THE PATH. I AM LIKE MY MOTHER, I AM LIKE MY FATHER.
-
+> 
 > (pause) MY PARENTS SAW HIM AS SOME KIND OF WAR HERO. BUT I'M NOT HIM. SORRY IF I'M NOT WHAT YOU WERE EXPECTING.
 
-### PERKINS ###
+#### PERKINS 
 
 > NO IT'S FINE. I'M JUST SURPRISED, IS ALL. SO YOU'RE NOT SOME ANCIENT OLD MAN, OH NO.
 
-<I>The WAITRESS comes by to fill up their mugs.</i>
+<br><I>The WAITRESS comes by to fill up their mugs.</i>
 
-### PERKINS ###
+#### PERKINS 
 
 > SO WHERE'S YOUR FAMILY HOME?
 
-### WEASLIE ###
+#### WEASLIE 
 
 > SINCE MOM PASSED IT'S BECOME MY HOME. (pause) IT'S JUST OUTSIDE OF SAINT LOUIE.
 
-### PERKINS ###
+#### PERKINS 
 
 > AH.
 
-### WEASLIE ###
+#### WEASLIE 
 
 > SO YOU'VE NEVER SEEN THE GATEWAY?
 
-### PERKINS ###
+#### PERKINS 
 
 > NOT IN PERSON, NO. MYRTLE TOOK ME MY FIRST TIME.
 
-### WEASLIE ###
+#### WEASLIE 
 
 > WELL YOU'RE IN FOR A TREAT.
 
+<br>
 
-## // CLOSE VISUAL // ##
-
+*****
 
