@@ -67,7 +67,11 @@ permalink: /femputermanchine/act-0/
 
 <hr>
 
-<h2><a href="{{ '/femputermanchine/' | prepend: site.url }}">ACT II (current)</a></h2>
+<h2><a href="{{ '/femputermanchine/act-ii/' | prepend: site.url }}">ACT II</a></h2>
+
+<hr>
+
+<h2><a href="{{ '/femputermanchine/' | prepend: site.url }}">ACT III (current)</a></h2>
 
 
 <hr>
