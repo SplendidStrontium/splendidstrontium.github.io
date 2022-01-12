@@ -1,8 +1,7 @@
 ---
 layout: femputermanchine
-title: "FP & MC"
-menu: main
-permalink: /femputermanchine/ 
+title: "FP & MC: ACT II"
+permalink: /femputermanchine/act-ii/
 ---
 
 <html>
@@ -14,10 +13,11 @@ permalink: /femputermanchine/
 <body>
 
 <div id="fpmc-intro">
-<p>FemputerManchine is a webnovel inspired by my adventures in The Sims 4.</p>
-<p>For ten thousand years the people of planet Earth have been awakening to create civilization and colonize their world. Underneath the mundane runs a secret: that some people are capable of curving reality to their own desires by more than just their force of personality. </p>
-<p>In the modern age, people are still hiding their Talent; the memory of witch hunts and mass exterminations fresh in the minds of the hunted. Those who have awakened as mages are scattered across the globe and largely keep to the safety of their own families.</p>
-<p>A mysterious Vampire VLADISLAUS STRAUD has sworn himself to his duty to protect the planet in the wake of the Revolution. </p>
+<p>Act II was begun by the breakup of Friday Perkins and Mandarc Soo. Angered at his refusal to convert her to vampirism, Friday joined forces with the young Bronald Weaslie and left NYC for his home in Saint Louie.</p>
+<p>Lilith Vatore sought the leadership of Quarq and left her childhood home. Mortimer Goth committed suicide in grief over the death of his wife. Kevin Marscapone continued his magical studies, progressing further from the weights of his former curse.</p>
+<p>Lenard McCoy continued to develop his forces with the NSR's help, sending the girl Wendy to taunt and distract his former pupil, Mandarc. Lucia Ekstrom fled her home country to seek shelter in the home of Cassandra Goth. Myrtle struggled with depression.</p>
+<p>The colder months saw a quiet in activity; Kevin continued to work on his enchanted guns and a number of individuals succumbed to passions they'd merely been sitting upon. McCoy began his courtship of the Arachnid and the Ruby while Trente focused on Caleb Vatore.</p>
+<p>As the summer began, friendships were strong and loyalty was the name of the game. The Journey to the West began, wherein Mandarc realized the strength of his friends as they accompanied him to regain his lost companion, the dog Dexx. Vladislaus Straud administered a memory charm to Perkins and Weaslie, leaving them without the memory of the battle, and indeed, of all they had learned about the Vampire.</p>
 <p>If you're interested in the adventures of a particular character, check out <a href="{{ '/femputermanchine/books/' | prepend: site.url }}">FPMC (by book)</a> as well as <a href="{{ '/fpmcnotes/' | prepend: site.url }}">notes</a> and <a href="{{ '/hexfiles/' | prepend: site.url }}">errata</a>.</p>
 <p>For background information (spoilers) on the setting and jargon, check out the <a href="https://github.com/SplendidStrontium/splendidstrontium.github.io/wiki">wiki</a> or for general discussion, check out our <a href="https://discord.gg/A5PyBpFvE8">Discord</a>.</p>
 </div>
@@ -32,18 +32,13 @@ permalink: /femputermanchine/
 
 <hr>
 
-<h2><a href="{{ '/femputermanchine/act-ii/' | prepend: site.url }}">ACT II</a></h2>
-
-<hr>
-
-<h2> ACT III (current)</h2>
-
+<h2>ACT II</h2>
 
 <ul>
 	{% for post in site.posts reversed %}
         {% if post.url %}
 			{% if post.category == "femputermanchine" %}
-				{% if post.tags contains "act-iii" %}
+				{% if post.tags contains "act-ii" %}
 
 				    <li class="fpmc-post">
 					<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
@@ -80,9 +75,11 @@ permalink: /femputermanchine/
 
 
 
+<hr>
 
-<br>
 
+
+<h2> <a href="{{ '/femputermanchine/' | prepend: site.url }}">ACT III (current)</a> </h2>
 
 <hr>
 

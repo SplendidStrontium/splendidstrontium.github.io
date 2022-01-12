@@ -13,11 +13,7 @@ permalink: /femputermanchine/act-i/
 <body>
 
 <div id="fpmc-intro">
-<p>Act I was begun by the breakup of Friday Perkins and Mandarc Soo. Angered at his refusal to convert her to vampirism, Friday joined forces with the young Bronald Weaslie and left NYC for his home in Saint Louie.</p>
-<p>Lilith Vatore sought the leadership of Quarq and left her childhood home. Mortimer Goth committed suicide in grief over the death of his wife. Kevin Marscapone continued his magical studies, progressing further from the weights of his former curse.</p>
-<p>Lenard McCoy continued to develop his forces with the NSR's help, sending the girl Wendy to taunt and distract his former pupil, Mandarc. Lucia Ekstrom fled her home country to seek shelter in the home of Cassandra Goth. Myrtle struggled with depression.</p>
-<p>The colder months saw a quiet in activity; Kevin continued to work on his enchanted guns and a number of individuals succumbed to passions they'd merely been sitting upon. McCoy began his courtship of the Arachnid and the Ruby while Trente focused on Caleb Vatore.</p>
-<p>As the summer began, friendships were strong and loyalty was the name of the game. The Journey to the West began, wherein Mandarc realized the strength of his friends as they accompanied him to regain his lost companion, the dog Dexx. Vladislaus Straud administered a memory charm to Perkins and Weaslie, leaving them without the memory of the battle, and indeed, of all they had learned about the Vampire.</p>
+<p>Act I was begun by the skit Consent, the first piece I wrote, where I began my adventures in what would become Femputer&Manchine. The young man Cedric was converted to Vampirism and was forced to leave whatever semblance of a life he had behind him.</p>
 <p>If you're interested in the adventures of a particular character, check out <a href="{{ '/femputermanchine/books/' | prepend: site.url }}">FPMC (by book)</a> as well as <a href="{{ '/fpmcnotes/' | prepend: site.url }}">notes</a> and <a href="{{ '/hexfiles/' | prepend: site.url }}">errata</a>.</p>
 <p>For background information (spoilers) on the setting and jargon, check out the <a href="https://github.com/SplendidStrontium/splendidstrontium.github.io/wiki">wiki</a> or for general discussion, check out our <a href="https://discord.gg/A5PyBpFvE8">Discord</a>.</p>
 </div>
@@ -73,9 +69,11 @@ permalink: /femputermanchine/act-i/
 
 <hr>
 
+<h2><a href="{{ '/femputermanchine/act-ii/' | prepend: site.url }}">ACT II</a></h2>
 
+<hr>
 
-<h2> <a href="{{ '/femputermanchine/' | prepend: site.url }}">ACT II (current)</a> </h2>
+<h2> <a href="{{ '/femputermanchine/' | prepend: site.url }}">ACT III (current)</a> </h2>
 
 <hr>
 
