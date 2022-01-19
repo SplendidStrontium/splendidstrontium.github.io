@@ -16,7 +16,7 @@ lastmod: 2021-11-04 15:56
 
 ## // CHARM MANSION // ##
 
-<I>Spring is emerging across Amerrka. A vivid green hue dares to make its return, spreading like an ocean across the landscape.</i>
+<br><I>Spring is emerging across Amerrka. A vivid green hue dares to make its return, spreading like an ocean across the landscape.</i>
 
 <i>In a central region of the country lies the CHARM MANSION. The house is young; just some seventy years ago this plot of land lay fallow as an untamed meadow.</i>
 
@@ -48,302 +48,313 @@ lastmod: 2021-11-04 15:56
 
 <i>MINERVA tries to turn the woman away, but she insists that her family was in danger of being Discovered. MINERVA's teenaged daughter, GEMMA, had been caught on her school's surveillance camera using an incantation to mend trampled weeds. </i>
 
-### TRENTE ###
+#### TRENTE 
 
 > TO ADD TO THE SITUATION, A NEIGHBORHOOD ONLINE FORUM HAD AN OPEN THREAD OF COMPLAINTS ABOUT FOUL SMELL AND SMOKE RISING FROM YOUR PROPERTY.
-
+> 
 > THEY SUSPECT YOU'RE NOT SIMPLY INCINERATING LEAVES.
-
+> 
 > WE'VE ERASED THE THREAD AND CAMERA EVIDENCE BUT YOUR FAMILY IS BEING PLACED UNDER PROTECTIVE SERVICES.
 
-<I>MINERVA was insulted at the insinuation that she was not enough to defend her own family.</i>
+<br><I>MINERVA was insulted at the insinuation that she was not enough to defend her own family.</i>
 
-### MINERVA ###
+#### MINERVA 
 
 > BY WHAT AUTHORITY?
 
-<I>TRENTE responds firmly.</i>
+<br><I>TRENTE responds firmly.</i>
 
-### TRENTE ###
+#### TRENTE 
 
 > BY THE AUTHORITY OF THE MOON COURT, THE GUARDIANS OF THIS PLANET SINCE TIME IMMEMORIAL.
 
-<I>MINERVA furls her brow.</i>
+<br><I>MINERVA furls her brow.</i>
 
-### MINERVA ###
+#### MINERVA 
 
 > THE MOON COURT? ISN'T THAT A CHILDREN'S FAIRY TALE?
 
-<I>TRENTE tries to hold back a smile.</i>
+<br><I>TRENTE tries to hold back a smile.</i>
 
-### TRENTE ###
+#### TRENTE 
 
 > THERE ARE MANY SECRETS IN THIS WORLD, AREN'T THERE?
 
-<I>MINERVA was embarrassed, stunned into silence. It wasn't often that the magic-users of the world encountered a mystery beyond that to which they were already privy.</i>
+<br><I>MINERVA was embarrassed, stunned into silence. It wasn't often that the magic-users of the world encountered a mystery beyond that to which they were already privy.</i>
+
+#### TRENTE
 
 > THE WORLD IS BECOMING A DANGEROUS PLACE. THE PEACE FOLLOWING THE GREAT WAR THREATENS TO DRAW TO A CLOSE.
-
+> 
 > WE CANNOT LOSE OUR MOST PRECIOUS RESOURCE: OUR PEOPLE.
 
-### MINERVA ###
+#### MINERVA 
 
 > ... MY DAUGHTER WAS USING MAGIC AT HER SCHOOL?
 
-<I>GEMMA was a student at a local school for girls; a non-magical academy. She had been instructed never to use her Ability outside the homestead.</i>
+<BR><I>GEMMA was a student at a local school for girls; a non-magical academy. She had been instructed never to use her Ability outside the homestead.</i>
 
-### TRENTE ###
+#### TRENTE 
 
 > WE CAPTURED THE FOOTAGE BEFORE IT SPREAD TOO FAR.
-
+> 
 > THE INSTRUCTORS THOUGHT IT HAD BEEN DOCTORED, ALTHOUGH COULD DISCERN NO MOTIVE.
-
+> 
 > THE NON-MAGICAL TRUST THEIR SCIENCES AND ARE SLOW TO ADOPT NEW RULES FOR REALITY.
-
+> 
 > WE REMOVED THE DATA FROM THEIR RECORDS. 
 
-### MINERVA ###
+#### MINERVA 
 
 > THEN THE PROBLEM IS FIXED.
 
-<I>TRENTE purses her lips, frowning.</i>
+<BR><I>TRENTE purses her lips, frowning.</i>
 
-### TRENTE ###
+#### TRENTE 
 
 > NO, MRS. CHARM. THE PROBLEM IS NOT 'FIXED'.
-
+> 
 > YOUR DAUGHTER NEEDS TO BE IMPRESSED UPON THAT THIS BEHAVIOR IS UNACCEPTABLE AND ENDANGERS THE SAFETY OF ALL OF US.
 
-### MINERVA ###
+#### MINERVA 
 
 > YES... I'M VERY SORRY ABOUT THIS WHOLE THING.
-
+> 
 > IT WAS I WHO TAUGHT THE GIRL HOW TO MEND PLANTS.
-
+> 
 > BUT I HAVE ALWAYS TOLD MY CHILDREN THAT THEY SHOULD NEVER WORK MAGIC OUTSIDE THE HOME.
 
-### TRENTE ###
+#### TRENTE 
 
 > I WOULD LIKE TO SPEAK WITH YOUR DAUGHTER WHEN SHE RETURNS FROM SCHOOL.
-
+> 
 > PERHAPS HEARING IT FROM ANOTHER WILL STRIKE SOME REVERENCE INTO HER. SHE NEEDS TO RECOGNIZE THE SEVERITY OF THIS INFRACTION.
 
-<I>MINERVA's face threatens to flush; she immediately laments the attention her daughter has brought upon the family.</i>
+<BR><I>MINERVA's face threatens to flush; she immediately laments the attention her daughter has brought upon the family.</i>
 
-### MINERVA ###
+#### MINERVA 
 
 > GEMMA IS USUALLY HOME AROUND FOUR.
 
-<I>MINERVA takes a small step backward, shamed, and without her usual confidence.</i>
+<BR><I>MINERVA takes a small step backward, shamed, and without her usual confidence.</i>
+
+#### MINERVA
 
 > WON'T YOU COME IN AND HAVE A CUP OF TEA?
 
-<I>What STRAUD's followers would later dub "the Occupation" had begun.</i>
+<BR><I>What STRAUD's followers would later dub "the Occupation" had begun.</i>
+<BR><BR>
 
 *****
-
-<i>Today, like has become custom, TRENTE GAGARIN prepares breakfast. But no one descended from the CHARM line is there to enjoy it.</i>
+<BR><i>Today, like has become custom, TRENTE GAGARIN prepares breakfast. But no one descended from the CHARM line is there to enjoy it.</i>
 
 <i>The smell of eggs and toast permiate the house. A piece of cheese is laid on top of the warm fried egg.</i>
 
 <i>A young boy with raven hair has followed the scent's trail and enters the kitchen.</i>
 
-### EMMITT ###
+#### EMMITT
 
 > GOOD MORNING.
 
-<I>TRENTE is sure to disarm fears with the gentlest eye contact she can muster.</i>
+<BR><I>TRENTE is sure to disarm fears with the gentlest eye contact she can muster.</i>
 
-### TRENTE ###
+#### TRENTE 
 
 > GOOD MORNING, EMMITT.
-
+> 
 > HOW DID YOU SLEEP?
 
-<I>EMMITT clamours awkwardly into a dining chair.</i>
+<BR><I>EMMITT clamours awkwardly into a dining chair.</i>
 
-### EMMITT ###
+#### EMMITT 
 
 > I SLEPT OKAY.
 
-### TRENTE ###
+#### TRENTE 
 
 > ARE YOU STILL HAVING TROUBLE WITH WAKING IN THE MIDDLE OF THE NIGHT?
-
+> 
 > I'M SORRY FOR PRYING, BUT YOUR AUNTIE WANTED ME TO BE AWARE.
 
-<I>EMMITT doesn't want to talk about his nightmares.</i>
+<BR><I>EMMITT doesn't want to talk about his nightmares.</i>
 
-### EMMITT ###
+#### EMMITT 
 
 > WHEN IS GEMMA COMING BACK?
 
-<I>GEMMA had left the house for spring break, but had not yet returned.</i>
+<BR><I>GEMMA had left the house for spring break, but had not yet returned.</i>
 
-### TRENTE ###
+#### TRENTE 
 
 > WELL, SHE'S AT THE LANDGRAAB'S, PROTECTING THEM.
-
+> 
 > WE WOULDN'T WANT OUR FRIENDS TO BE IN DANGER.
 
-### EMMITT ###
+#### EMMITT 
 
 > IS MALCOLM HER BOYFRIEND?
 
-<I>EMMITT has no shame about asking bold questions, in the manner customary of children.</i>
+<BR><I>EMMITT has no shame about asking bold questions, in the manner customary of children.</i>
 
-### TRENTE ###
+#### TRENTE 
 
 > I SUPPOSE, IN A MANNER OF SPEAKING.
 
-### EMMITT ###
+#### EMMITT 
 
 > IS SHE GOING TO SCHOOL TODAY?
 
-<I>TRENTE approaches the table and sits down across from the boy.</i>
+<BR><I>TRENTE approaches the table and sits down across from the boy.</i>
 
-### TRENTE ###
+#### TRENTE 
 
 > I CERTAINLY HOPE SO.
 
-### EMMITT ###
+#### EMMITT 
 
 > WHEN IS AUNTIE COMING BACK?
 
-<I>TRENTE tries to soothe the worries.</i>
+<BR><I>TRENTE tries to soothe the worries.</i>
 
-### TRENTE ###
+#### TRENTE 
 
 > SOON, I'M SURE. SHE HAS A LOT OF WORK TO DO.
-
+> 
 > DID YOU FINISH YOUR HOMEWORK?
 
-### EMMITT ###
+#### EMMITT 
 
 > I FINISHED IT AT SCHOOL YESTERDAY.
 
-### TRENTE ###
+#### TRENTE 
 
 > WELL THEN MAYBE I SHOULD CALL YOUR TEACHERS AND TELL THEM TO GIVE YOU MORE.
 
-<I>But the joke is ill-received.</i>
+<BR><I>But the joke is ill-received.</i>
 
 <i>The conversation lulls for a moment.</i>
 
-### EMMITT ###
+#### EMMITT 
 
 > CAN I ASK YOU A QUESTION?
 
-### TRENTE ###
+#### TRENTE 
 
 > SURE. SHOOT.
 
-<I>EMMITT looks down, trying to conjure the courage to speak.</i>
+<BR><I>EMMITT looks down, trying to conjure the courage to speak.</i>
 
 <I>He looks again toward TRENTE.</I>
 
-### EMMITT ###
+#### EMMITT 
 
 > HOW COME YOU HAVE POINTY EARS? I THOUGHT ONLY AUNTIE AND MY DAD DID.
 
-<I>TRENTE smiles disarmingly. She loves to speak about herself.</i>
+<BR><I>TRENTE smiles disarmingly. She loves to speak about herself.</i>
 
-### TRENTE ###
+#### TRENTE 
 
 > WELL, MOST PEOPLE YOU'LL EVER MEET OUT THERE WILL HAVE ROUND EARS.
-
+> 
 > THAT'S BECAUSE THEY'RE EARTH-NATIVE HOMO SAPIENS. HUMANS, IF YOU WANT TO CALL THEM THAT.
 
-### EMMITT ###
+#### EMMITT 
 
 > YOU AND AUNTIE AREN'T HUMAN? ...AND MY DAD?
 
-### TRENTE ###
+#### TRENTE 
 
 > I THINK YOU SHOULD ASK HER YOURSELF. IT'S NOT POLITE TO TALK ABOUT OTHERS WHEN THEY AREN'T AROUND.
 
-<I>She pauses, trying to craft her words carefully.</i>
+<BR><I>She pauses, trying to craft her words carefully.</i>
+
+#### TRENTE
 
 > AS FOR ME, I'M NOT HUMAN, NO. 
-
+> 
 > I'M NOT FROM HERE.
-
+> 
 > ...
-
+> 
 > BUT YOU CAN'T TELL ANYONE, NOT A SOUL. 
-
+> 
 > IT'LL BE OUR LITTLE SECRET.
 
-<I>EMMITT tries to believe her claim.</i>
+<BR><I>EMMITT tries to believe her claim.</i>
 
-### EMMITT ###
+#### EMMITT 
 
 > THEN WHERE ARE YOU FROM?
 
-<I>TRENTE is proud of her heritage.</i>
+<BR><I>TRENTE is proud of her heritage.</i>
 
-### TRENTE ###
+#### TRENTE 
 
 > IT MIGHT SOUND IMPOSSIBLE... BUT --
-
+> 
 > I'M FROM THE MOON.
 
-### EMMITT ###
+#### EMMITT 
 
 > ... THAT'S IMPOSSIBLE.
 
-<I>He tries to talk from authority.</i>
+<BR><I>He tries to talk from authority.</i>
+
+#### EMMITT
 
 > THERE'S NO AIR ON THE MOON.
 
-### TRENTE ###
+#### TRENTE 
 
 > MY PEOPLE DIDN'T NEED AIR LIKE THE PEOPLE OF EARTH NEED THEIR ATMOSPHERE.
-
+> 
 > THE CREATURES OF EARTH NEED AIR FOR TRANSMISSION OF OXYGEN, PRIMARILY.
-
+> 
 > BUT THEY ALSO EXPUNGE WASTE CHEMICALS BY EXHALING. IT'S A FILTHY PROCESS, BUT NECESSARY FOR THEIR LIFECYCLE.
 
-### EMMITT ###
+#### EMMITT 
 
 > YOU MEAN, YOU DON'T BREATHE?
 
-<I>Children, unlike adults, consider each new piece of information and weigh it against their worldview. They do not trust their senses so blindly -- the world is still mysterious.</i>
+<BR><I>Children, unlike adults, consider each new piece of information and weigh it against their worldview. They do not trust their senses so blindly -- the world is still mysterious.</i>
 
-### TRENTE ###
+#### TRENTE 
 
 > NOT I.
-
+> 
 > I'M CAPABLE OF IT SINCE COMING HERE --
-
+> 
 > YOU'D BE SURPRISED HOW MUCH WATER YOU CAN EXPEL THROUGH THE BREATH.
 
-<I>Why would the woman lie about something like that?</i>
+<BR><I>Why would the woman lie about something like that?</i>
 
-### EMMITT ###
+#### EMMITT 
 
 > IF THERE ARE PEOPLE FROM THE MOON, ARE THERE PEOPLE FROM MARS?
 
-### TRENTE ###
+#### TRENTE 
 
 > MARTIANS? 
-
+> 
 > I CAN'T SAY THAT I KNOW.
 
-<I>He is disappointed.</i>
+<BR><I>He is disappointed.</i>
 
 <i>His gaze wanders toward the prepared breakfast, ambivalent.</i>
 
-### EMMITT ###
+#### EMMITT 
 
 > WELL, I GOTTA GET READY FOR SCHOOL.
-
+> 
 > MY BACKPACK IS UPSTAIRS.
 
-<I>He leaves, making only the faintest of noise treading up the stairs.</i>
+<BR><I>He leaves, making only the faintest of noise treading up the stairs.</i>
 
 <i>When the room is empty, TRENTE retreives a cellphone from a pocket of her dress. She needs to check in with her associate.</i>
+<BR><BR>
 
+*****
+<BR>
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/trente-uncomf.jpg" class="chat-portrait" />
 <p class="ppl-sez">TRENTE//</p>
@@ -398,5 +409,7 @@ lastmod: 2021-11-04 15:56
 <p class="ppl-sez">TRENTE//</p>
 <p class="ppl-sez">The trees will be good enough for what they are.</p>
 </div>
+<BR>
 
+*****
 

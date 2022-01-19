@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "STRAUD 010: Followers"
+title: "STRAUD 011: Followers"
 permalink: /femputermanchine/straud/followers/
 category: femputermanchine
 date: 2021-11-22 10:09

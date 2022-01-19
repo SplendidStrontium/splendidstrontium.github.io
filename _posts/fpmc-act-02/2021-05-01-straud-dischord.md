@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "STRAUD 005: Dischord"
+title: "STRAUD 006: Dischord"
 permalink: /femputermanchine/straud/dischord/
 category: femputermanchine
 date: 2021-05-01 20:00
