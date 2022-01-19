@@ -487,8 +487,8 @@ lastmod: 2021-12-07 09:46
 *****
 
 <br/><center>( IF ALL OF THE KINGS -- )</center>
-<center>( HAD THEIR QUEENS ON THE THRONE )</center>
-<center>( WE WOULD POP CHAMPAGNE AND -- )</center>
+<br><center>( HAD THEIR QUEENS ON THE THRONE )</center>
+<br><center>( WE WOULD POP CHAMPAGNE AND -- )</center>
 <br/>
 
 *****

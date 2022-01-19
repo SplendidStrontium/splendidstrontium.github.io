@@ -7,14 +7,15 @@ date: 2022-01-11 09:51
 description: "in which Friday Perkins laments the loss of her spellbooks"
 tags: [skit, fpmcmain-perkins, act-iii]
 published: true
-lastmod: 2022-01-11 12:12
+lastmod: 2022-01-19 11:34
 ---
 [//]: # (  1/11/22  -added)
+[//]: # (  1/19/22  -mccoy and gagarin discussed straud tho not by name)
 
 *****
 ### // WEASLIE HOUSE //
 
-<br><i>Friday Perkins has been quietly fighting depression since the revelation that they were likely the victims of a memory erasing charm. Lenard McCoy and his associate Trente Gagarin had been curiously tight-lipped about who they thought might have been the perpetrator; though it had seemed as though they knew.</i>
+<br><i>Friday Perkins has been quietly fighting depression since the revelation that they were likely the victims of a memory erasing charm. Lenard McCoy and his associate Trente Gagarin had been curiously tight-lipped about who they thought might have been the perpetrator; though it had seemed as though they knew. They certainly had their suspicions. They'd mused about a friend of Myrtle Marscapone.</i>
 
 <i>But the mysterious pair were not yet friendly enough for Weaslie and Perkins to simply ask.</i>
 

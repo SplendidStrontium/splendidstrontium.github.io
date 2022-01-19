@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "STRAUD 013: Offering"
+title: "STRAUD 014: Offering"
 permalink: /femputermanchine/straud/offering/
 category: femputermanchine
 date: 2022-01-18 09:47
@@ -100,7 +100,7 @@ But your loyalties lie with whoever and whomever you please. You are a free agen
 
 <br>Your friend McKenna Bernstein came by the Toast & Caramel. I think she was looking for you but wouldn't say.
 
-Why don't you just run away with her instead; she'd appreciate your joke about "Astromy". I know I found it rather funny.
+She'd appreciate your joke about "Astromy". I know I found it rather funny.
 
 *****
 *****
