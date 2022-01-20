@@ -63,7 +63,7 @@ lastmod: 2022-01-05 09:03
 <img src="{{ site.url }}/assets/tb/cedric1.jpg" class="chat-portrait" />
 <p class="ppl-sez">CEDRIC//</p>
 <p class="ppl-sez">Yeah.</p>
-<p class="ppl-sez">Wonder Boy's little girlfriend is moving in today.</p>
+<p class="ppl-sez">His little girlfriend is moving in today.</p>
 </div>
 <br>
 

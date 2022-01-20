@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "PERKINS 007: Destitute"
+title: "PERKINS 008: Destitute"
 permalink: /femputermanchine/perkins/destitute/
 category: femputermanchine
 date: 2022-01-11 09:51

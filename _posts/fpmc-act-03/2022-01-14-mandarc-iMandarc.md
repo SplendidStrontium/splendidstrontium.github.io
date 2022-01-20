@@ -7,9 +7,10 @@ date: 2022-01-14 11:17
 description: "in which Mandarc picks Emmitt up from the Spice Festival"
 tags: [skit, fpmcmain-mandarc, act-iii]
 published: true
-lastmod: 2022-01-14 09:57
+lastmod: 2022-01-20 09:24
 ---
 [//]: # (  1/14/22  -added)
+[//]: # (  1/20/22  -charm mansion is in uhaigha)
 
 *****
 <br>
@@ -43,7 +44,7 @@ lastmod: 2022-01-14 09:57
 <img src="{{ site.url }}/assets/tb/mandarc-inc.jpg" class="chat-portrait" />
 <p class="ppl-sez">MANDARC//</p>
 <p class="ppl-sez">He wants me to go pick up some alien spellcaster kid</p>
-<p class="ppl-sez">from some spicy food eating contest in joisey</p>
+<p class="ppl-sez">from some spicy food eating contest in uhaigha</p>
 <p class="ppl-sez">and bring him back to widowshild.</p>
 <p class="ppl-sez">TO STAY</p>
 </div>

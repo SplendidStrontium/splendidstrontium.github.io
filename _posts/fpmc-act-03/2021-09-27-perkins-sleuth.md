@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "PERKINS 006: Sleuth"
+title: "PERKINS 007: Sleuth"
 permalink: /femputermanchine/perkins/sleuth/
 category: femputermanchine
 date: 2021-09-27 12:36

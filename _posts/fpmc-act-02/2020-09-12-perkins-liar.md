@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "PERKINS 002: Liar"
+title: "PERKINS 003: Liar"
 permalink: /femputermanchine/perkins/liar/
 date: 2020-09-12 06:36
 category: femputermanchine
