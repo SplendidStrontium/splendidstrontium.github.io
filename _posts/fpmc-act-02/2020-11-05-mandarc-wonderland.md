@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "MANDARC 010: Wonderland"
+title: "MANDARC 011: Wonderland"
 permalink: /femputermanchine/mandarc/wonderland/
 category: femputermanchine
 date: 2020-11-05 11:09
