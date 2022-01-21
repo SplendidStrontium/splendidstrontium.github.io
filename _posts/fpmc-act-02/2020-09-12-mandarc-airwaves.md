@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "MANDARC 006: Airwaves"
+title: "MANDARC 007: Airwaves"
 permalink: /femputermanchine/mandarc/airwaves/
 category: femputermanchine
 date: 2020-09-12 14:16

@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "MANDARC 011: Golem"
+title: "MANDARC 012: Golem"
 permalink: /femputermanchine/mandarc/golem/
 category: femputermanchine
 date: 2020-11-08 10:08

@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "MANDARC 017: I MANDARC"
+title: "MANDARC 018: I MANDARC"
 permalink: /femputermanchine/mandarc/i-mandarc/
 category: femputermanchine
 date: 2022-01-14 11:17

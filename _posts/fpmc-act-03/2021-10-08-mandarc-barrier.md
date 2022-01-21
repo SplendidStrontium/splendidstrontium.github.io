@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "MANDARC 015: Barrier"
+title: "MANDARC 016: Barrier"
 permalink: /femputermanchine/mandarc/barrier/
 category: femputermanchine
 date: 2021-10-08 09:42
