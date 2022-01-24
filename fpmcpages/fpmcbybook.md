@@ -217,7 +217,7 @@ permalink: /femputermanchine/books/
 <p>MAKOA KEALOHA is a young man trying to cut through resentment of forced isolation and claim a family of his own.</p>
 
 <ul>
-	{% assign maxPost = 1 %}
+	{% assign maxPost = 2 %}
 	{% assign counter = 0 %}
 	{% for post in site.posts %}
         {% if post.url %}
