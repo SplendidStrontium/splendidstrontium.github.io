@@ -7,10 +7,11 @@ date: 2021-10-13 10:36
 description: "in which Straud reads the palm of a one Avaelle Easton"
 tags: [skit, fpmcmain-straud, act-iii]
 published: true
-lastmod: 2021-11-04 16:54
+lastmod: 2022-01-28 13:31
 ---
 [//]: # ( 10/13/21  -added)
 [//]: # ( 11/04/21  -title added)
+[//]: # (  1/28/22  -Toonces is female)
 
 *****
 <br/><i>It is a quiet day in Jamaica Estates. Birds are singing song, trying to enjoy the waning season. They are mournful of days weaving themselves into the past. I can tell fall threatens again; the leaves touch each other and create waves of sound not unlike the ocean's froth.</i>
@@ -564,7 +565,7 @@ lastmod: 2021-11-04 16:54
 
 > THAT ONE IS NAMED TOONCES.
 
-> DIDN'T GIVE 'IM THE NAME, HE JUST SORT OF CAME WITH IT.
+> DIDN'T GIVE 'ER THE NAME, SHE JUST SORT OF CAME WITH IT.
 
 ### AVAELLE ###
 

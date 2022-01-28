@@ -7,10 +7,11 @@ date: 2021-10-28 09:26
 description: "in which Tzu talks to Myrtle over the wIntraNet"
 tags: [skit, fpmcmain-kevin, act-iii]
 published: true
-lastmod: 2021-11-04 17:02
+lastmod: 2022-01-28 13:56
 ---
 [//]: # ( 10/28/21  -added)
 [//]: # ( 11/04/21  -title added)
+[//]: # (  1/28/22  -typo corrected)
 
 *****
 <br/><i>It was just a few weeks ago that KEVIN MARSCAPONE received [a call]({% post_url /fpmc-act-03/2021-10-11-kevin-personalEffects %}) from TZU PRANO, a young woman educated at his mother's school. He regards the young woman as a sort of foster-sister; as one of the last orphans brought into the fold, TZU had become close with the old CRONE and maintained a steady head on her shoulders even through the chaotic last decade of the twentieth century.</i>
@@ -238,7 +239,7 @@ lastmod: 2021-11-04 17:02
 
 > WILL YOU OR SHALL I?
 
-<BR><I>GEORGE HENRY had been taking it upon himself to stand as the home's caretaker since his return. No one had asked this of him, but it was, perhaps, an familiar pattern for the man.</i>
+<BR><I>GEORGE HENRY had been taking it upon himself to stand as the home's caretaker since his return. No one had asked this of him, but it was, perhaps, a familiar pattern for the man.</i>
 
 #### KEVIN
 
@@ -300,7 +301,7 @@ lastmod: 2021-11-04 17:02
 
 > I COULDN'T BELIEVE IT EITHER.
 > 
-> IT WAS, BY ALL SHOWS, AN INTENSIVE BATTLE.
+> IT WAS, BY ALL SHOWS, AN INTENSE BATTLE.
 > 
 > I CAN'T IMAGINE WHAT THE OLD WOMEN WERE FIGHTING ABOUT.
 
