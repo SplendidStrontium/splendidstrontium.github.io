@@ -7,11 +7,12 @@ date: 2021-09-27 12:36
 description: "in which Friday Perkins has a rough morning"
 tags: [skit, fpmcmain-perkins, act-iii]
 published: true
-lastmod: 2021-12-10 10:37
+lastmod: 2022-01-28 12:41
 ---
 [//]: # ( 09/27/21  -added)
 [//]: # ( 11/04/21  -title added)
 [//]: # ( 12/10/21  -formatting update)
+[//]: # (  1/28/22  -typo correction)
 
 *****
 
@@ -370,7 +371,7 @@ lastmod: 2021-12-10 10:37
 
 <i>She had been looking for work. For months after leaving New York City, she'd sat on her ass, twiddled her thumbs, enjoying the sound of silence. But nothing lasted forever.</i>
 
-<i>The monitor's glow reflects off her face, the computer taking its sweet time to load up. Impatience overwhelms her and she picks up her phone ad flips through its notifications.</i>
+<i>The monitor's glow reflects off her face, the computer taking its sweet time to load up. Impatience overwhelms her and she picks up her phone and flips through its notifications.</i>
 
 <i>She has a sizeable number of emails from unwelcome senders but one name seems a little less than random.</i>
 
