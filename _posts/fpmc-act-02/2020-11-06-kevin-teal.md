@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "KEVIN 006: Teal"
+title: "KEVIN 007: Teal"
 permalink: /femputermanchine/kevin/teal/
 category: femputermanchine
 date: 2020-11-06 09:31
