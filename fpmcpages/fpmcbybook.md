@@ -790,6 +790,54 @@ permalink: /femputermanchine/books/
 
 <hr>
 
+<h2><a href="{{ '/femputermanchine/vincent/' | prepend: site.url }}">VINCENT</a></h2>
+
+<p>VINCENT MARSCAPONE is an aged and well-traveled Vampire claimed by some to be the Prince of Elysion.</p>
+
+<ul>
+	{% assign maxPost = 1 %}
+	{% assign counter = 0 %}
+	{% for post in site.posts %}
+        {% if post.url %}
+			{% if post.tags contains "fpmcmain-vincent" %}
+				{% assign counter = counter | plus: 1 %}
+
+		        <li class="fpmc-post">
+				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+
+				<div class="fpmc-desc">
+					{{post.description}}
+				</div>
+
+		
+				<span class="fpmc-date">
+				<span id="dayname-cn">
+				{% assign day = post.date | date: "%w" %}
+				{% case day %}
+				{% when '0' %}周日
+				{% when '1' %}周一
+				{% when '2' %}周二
+				{% when '3' %}周三
+				{% when '4' %}周四
+				{% when '5' %}周五
+				{% else %}周六
+				{% endcase %}</span>
+
+				{{post.date | date: "%d %b, %Y"}}</span></li>
+
+				{% if counter == maxPost %}
+					{% break %}
+				{% endif %}
+
+			{% else %}	
+			{% endif %}
+		{% else %}
+        {% endif %}
+    {% endfor %}
+</ul>
+
+<hr>
+
 <h2><a href="{{ '/femputermanchine/weaslie/' | prepend: site.url }}">WEASLIE</a></h2>
 
 <p>BRONALD WEASLIE is a middling mage hoping to discover a grander destiny.</p>
