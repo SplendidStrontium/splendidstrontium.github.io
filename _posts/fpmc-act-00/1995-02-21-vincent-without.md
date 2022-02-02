@@ -14,12 +14,12 @@ lastmod: 2022-02-01 11:56
 *****
 ### // THE MARSCAPONE SCHOOL OF MAGIC //
 
-<br><i>In those days, I was sleeping more than I care to admit. I tried not to but it was not easily something I could help. The rest filled me, the rest sustained me. I could not bear the living world for much more than small portions of time.</i>
+<br><i>In those days, I was sleeping more than I had in ages past. It was not easily something I could help. The rest filled me, the rest sustained me. I could not bear the living world for much more than small portions of time.</i>
 
 <i>I was sleeping when my son was abducted.</i>
 
 *****
-<br><i>Every night, sometimes for days at a time, I laid in rest in the basement of the school. Lonely, I wandered Elysion looking for answers to my many questions. Each day I came back with more questions than answers. My kingdom had fallen into despair. But who was responsible? And how? How had the destruction spread so quickly and without recourse?</i>
+<br><i>Every night, sometimes for days at a time, I laid in rest in the basement of the school. Lonely, I wandered Elysion looking for answers to my many questions. Each day I came back with more questions than answers. My kingdom had fallen into despair and ruin. But who was responsible? And how? How had the destruction spread so quickly and without recourse?</i>
 
 #### MYRTLE
 
@@ -71,7 +71,7 @@ lastmod: 2022-02-01 11:56
 
 <BR><I>Myrtle so rarely took the children away from the homestead that it was an opportunity I encouraged her to indulge in from time to time. She did so love her role as Matron. And I wanted to give that to her.</i>
 
-<i>But I never expected her to shirk the most obvious of responsibilities.</i>
+<i>But I never expected her to shirk the most obvious of responsibilities. She cowers in embarrassment.</i>
 
 #### MYRTLE
 
@@ -119,7 +119,7 @@ lastmod: 2022-02-01 11:56
 
 <BR><I>The two of us scramble upstairs to the child's bedroom. </i>
 
-<i>Though I could hardly call him a child anymore. The boy was twelve, just two months shy of his thirteenth birthday. He was small for his age, but what was age to the son of a vampire and a sorceress?</i>
+<i>Though I could hardly call him a child anymore. The boy was twelve, just two months shy of his thirteenth birthday. He was small for his age, but what was age to the son of a sorceress?</i>
 
 <i>Each day I managed to stir from my coffin, I marvelled at his growth both physical and mental. He was a wise boy, obedient and reverent. So very unlike me when I was young. He was a bright point in a very dark time of my existence.</i>
 
@@ -174,3 +174,16 @@ lastmod: 2022-02-01 11:56
 > WHO?
 
 <BR><I>But she had no answer for me.</i>
+
+#### MYRTLE
+
+> HE'S TRYING TO SLEEP, BUT SLEEP IS EVADING HIM. 
+> 
+> IT'S A SMALL BEDROOM.
+> 
+> A CELL.
+
+<BR>
+
+*****
+

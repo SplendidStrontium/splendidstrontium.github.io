@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "STRAUD 002: This is Halloween"
+title: "STRAUD 003: This is Halloween"
 permalink: /femputermanchine/straud/this-is-halloween/
 category: femputermanchine
 date: 2018-10-31 14:13
