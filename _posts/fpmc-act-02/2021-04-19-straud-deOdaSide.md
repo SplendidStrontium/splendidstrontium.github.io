@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "STRAUD 006: De O'da Side"
+title: "STRAUD 007: De O'da Side"
 permalink: /femputermanchine/straud/de-oda-side/
 category: femputermanchine
 date: 2021-04-19 19:59

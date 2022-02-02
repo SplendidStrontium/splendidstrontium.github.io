@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "STRAUD 004: No Dinner Eaters Gang"
+title: "STRAUD 005: No Dinner Eaters Gang"
 permalink: /femputermanchine/straud/no-dinner-eaters-gang/
 category: femputermanchine
 date: 2019-09-19 19:19
