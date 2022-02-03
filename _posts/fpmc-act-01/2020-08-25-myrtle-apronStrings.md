@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "MYRTLE 005: Apron Strings"
+title: "MYRTLE 006: Apron Strings"
 permalink: /femputermanchine/myrtle/apron-strings/
 category: femputermanchine
 date: 2020-08-25 08:42
