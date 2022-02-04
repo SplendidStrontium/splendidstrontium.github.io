@@ -19,7 +19,7 @@ lastmod: 2021-12-07 09:46
 
 <i>TRENTE GAGARIN is the daughter of the CHAIRPERSON: the head of the NSR, cloaked in more than a modicum of mystery. This castle, with its futuristic fittings, is entirely reverent to this individual. Little is known of her outside her role as the figurehead of the New Socialist Republic. And yet she's been soaked in fame as the NSR has reached across the globe with its capital improvements.</i>
 
-<i>The woman who wakes is the thirti-first of the CHAIRPERSON's daughters. She is a stranger to Earth, descending to join the NSR's operations prior to the events of [McCOY: ASHTRAY]({% post_url /fpmc-act-02/2020-12-01-mccoy-ashtray %}). Here, TRENTE showed us that she's capable of shapeshifting by employing a bat-form to travel with the NSR-aligned DR LENARD McCOY. They travelled a great distance with the aim of spying on the retirement home of MYRTLE MARSCAPONE. They refer to the TRAITOR and the HAG, their monikers for MANDARC SOO and MYRTLE MARSCAPONE. TRENTE & LENARD discover the gravestone of a young man converted to vampirism by the VAMPIRE VLADISLAUS STRAUD. They puzzle over a glimmerstone buried with the body; TRENTE appears to have sensitivity to the crystals.</i>
+<i>The woman who wakes is the thirti-first of the CHAIRPERSON's daughters. She is a stranger to Earth, descending to join the NSR's operations prior to the events of [TRELAINE: ASHTRAY]({% post_url /fpmc-act-02/2020-12-01-trelaine-ashtray %}). Here, TRENTE showed us that she's capable of shapeshifting by employing a bat-form to travel with the NSR-aligned DR LENARD TRELAINE. They travelled a great distance with the aim of spying on the retirement home of MYRTLE MARSCAPONE. They refer to the TRAITOR and the HAG, their monikers for MANDARC SOO and MYRTLE MARSCAPONE. TRENTE & LENARD discover the gravestone of a young man converted to vampirism by the VAMPIRE VLADISLAUS STRAUD. They puzzle over a glimmerstone buried with the body; TRENTE appears to have sensitivity to the crystals.</i>
 
 <i>The pair scatters and TRENTE flees to the Charm Mansion, where TRENTE has taken up the role of Mother following the death of MINERVA CHARM. The summer passes without war. MINERVA's daughter, GEMMA, has graduated high school and spends large swaths of time away from the house. In her absense, the pitter-patter of young feet re-emerges with the welcoming of a young elfin boy and a woman he calls "Auntie".</i>
 <br/><br/>
@@ -28,8 +28,8 @@ lastmod: 2021-12-07 09:46
 <br/>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/mccoy-thedoctor.jpg" class="chat-portrait" />
-<p class="ppl-sez">DR LENARD McCOY//</p>
+<img src="{{ site.url }}/assets/tb/trelaine-thedoctor.jpg" class="chat-portrait" />
+<p class="ppl-sez">DR LENARD TRELAINE//</p>
 <p class="ppl-sez">Can you make a trip today?</p>
 </div>
 
@@ -40,8 +40,8 @@ lastmod: 2021-12-07 09:46
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/mccoy-thedoctor.jpg" class="chat-portrait" />
-<p class="ppl-sez">DR LENARD McCOY//</p>
+<img src="{{ site.url }}/assets/tb/trelaine-thedoctor.jpg" class="chat-portrait" />
+<p class="ppl-sez">DR LENARD TRELAINE//</p>
 <p class="ppl-sez">I've been courting one of the crown jewels.</p>
 </div>
 
@@ -52,8 +52,8 @@ lastmod: 2021-12-07 09:46
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/mccoy-thedoctor.jpg" class="chat-portrait" />
-<p class="ppl-sez">DR LENARD McCOY//</p>
+<img src="{{ site.url }}/assets/tb/trelaine-thedoctor.jpg" class="chat-portrait" />
+<p class="ppl-sez">DR LENARD TRELAINE//</p>
 <p class="ppl-sez">The spider's been drawn from her web.</p>
 </div>
 
@@ -64,8 +64,8 @@ lastmod: 2021-12-07 09:46
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/mccoy-thedoctor.jpg" class="chat-portrait" />
-<p class="ppl-sez">DR LENARD McCOY//</p>
+<img src="{{ site.url }}/assets/tb/trelaine-thedoctor.jpg" class="chat-portrait" />
+<p class="ppl-sez">DR LENARD TRELAINE//</p>
 <p class="ppl-sez">Come and see.</p>
 </div>
 <br/>
@@ -74,13 +74,13 @@ lastmod: 2021-12-07 09:46
 
 <br/><i>The WEASLIE HOUSE is far from the mansion TRENTE GAGARIN now calls home. But it is of no matter. She's able to fly long distances by willing herself to ignore the pain. All that remains is the boredom.</i>
 
-<i>When LENARD McCOY arrives at the CHARM MANSION, the house is vacant except for the pink-haired woman.</i>
+<i>When LENARD TRELAINE arrives at the CHARM MANSION, the house is vacant except for the pink-haired woman.</i>
 
 <i>He knocks on the door out of overwrought formality.</i>
 
 <i>TRENTE GAGARIN hates answering the door herself, but she has been forced to suffice without servants during her exodus to Earth.</i>
 
-#### McCOY 
+#### TRELAINE 
 
 > [bowing] HELLO, MY LADY.
 
@@ -90,11 +90,11 @@ lastmod: 2021-12-07 09:46
 > 
 > YOUR DOLL FIX YOU BREAKFAST IN BED?
 
-<br><I>McCOY pauses, standing straight up, and refuses to respond to the hostile comment. He motions to enter the house.</i>
+<br><I>TRELAINE pauses, standing straight up, and refuses to respond to the hostile comment. He motions to enter the house.</i>
 
 <i>TRENTE raises an eyebrow and allows him entrance.</i>
 
-#### McCOY 
+#### TRELAINE 
 
 > I'VE BEEN THROWING MYSELF INTO MY WORK.
 > 
@@ -108,7 +108,7 @@ lastmod: 2021-12-07 09:46
 
 <br><i>The Charm Mansion is immaculate; no evidence of children.</i>
 
-#### McCOY 
+#### TRELAINE 
 
 > THE DEATH OF THE HAG SEEMS TO HAVE BEEN A POINT IN OUR FAVOR. THE ARACHNID HAS NOWHERE ELSE TO GO.
 
@@ -116,7 +116,7 @@ lastmod: 2021-12-07 09:46
 
 > I THOUGHT YOU SAID SHE WASN'T BONDED VERY CLOSELY TO MRS MARSCAPONE.
 
-#### McCOY 
+#### TRELAINE 
 
 > SHE WASN'T, BUT YOU MUST UNDERSTAND THAT THE DEATH OF FAMILIAR FACES IS A TRANSFORMATIVE EXPERIENCE FOR EARTHERS.
 > 
@@ -132,7 +132,7 @@ lastmod: 2021-12-07 09:46
 > 
 > A LIFE, WASTED.
 
-#### McCOY 
+#### TRELAINE 
 
 > IT IS UNLIKELY ANY WILL RISE TO FILL HER PLACE AS STEWARDESS OF UNWANTED URCHINS.
 > 
@@ -144,7 +144,7 @@ lastmod: 2021-12-07 09:46
 > 
 > DID ANY PERFORM THE RITES?
 
-#### McCOY 
+#### TRELAINE 
 
 > I'VE BEEN UNABLE TO APPROACH THE SITE OF DEATH.
 > 
@@ -154,7 +154,7 @@ lastmod: 2021-12-07 09:46
 
 > NO MATTER. KEEP AN EYE OUT.
 
-#### McCOY 
+#### TRELAINE 
 
 > TWO, YOUR MAJESTY.
 
@@ -174,7 +174,7 @@ lastmod: 2021-12-07 09:46
 
 > WE'RE GOING TO THE YOUNG MAN'S HOUSE?
 
-#### McCOY 
+#### TRELAINE 
 
 > SAINT LOUIE.
 
@@ -184,7 +184,7 @@ lastmod: 2021-12-07 09:46
 
 <I>LENARD waves his hand as if to imply his station.</i>
 
-#### McCOY 
+#### TRELAINE 
 
 > AFTER YOU.
 
@@ -193,7 +193,7 @@ lastmod: 2021-12-07 09:46
 
 *****
 
-<br/><i>When TRENTE GAGARIN & LENARD McCOY arrive at the WEASLIE HOUSE, the sky is just beginning to darken.</i>
+<br/><i>When TRENTE GAGARIN & LENARD TRELAINE arrive at the WEASLIE HOUSE, the sky is just beginning to darken.</i>
 
 <i>The weather has been amenable for their entire trip; temperate. TRENTE had a distaste for the intensity of Earth's weather patterns, especially the harsh sunlight that made travel by daylight an inconvenient, even dangerous, proposition. But today the clouds have been helpful. Just the tips of their hair tickle the crisp, cool air.</i>
 
@@ -205,7 +205,7 @@ lastmod: 2021-12-07 09:46
 
 <br><I>LENARD is too engrossed in a process to reply immediately. He inhales the evening air a few times over, staring at nothing in particular.</i>
 
-#### McCOY 
+#### TRELAINE 
 
 > IT'S...
 > 
@@ -215,13 +215,13 @@ lastmod: 2021-12-07 09:46
 > 
 > HE'S NOT HERE.
 
-<br><i>LENARD McCOY had an excellent sense of smell. TRENTE, hailing from an artificial environment, possessed no such strength.</i>
+<br><i>LENARD TRELAINE had an excellent sense of smell. TRENTE, hailing from an artificial environment, possessed no such strength.</i>
 
 #### TRENTE 
 
 > WHAT DO YOU MEAN 'THE DOG'S GONE'?!
 
-#### McCOY 
+#### TRELAINE 
 
 > WHEN FRIDAY PERKINS LEFT NEW YORK CITY, SHE TOOK THE TRAITOR'S DOG WITH HER.
 
@@ -229,7 +229,7 @@ lastmod: 2021-12-07 09:46
 
 > THE TRAITOR? YOU MEAN...
 
-#### McCOY 
+#### TRELAINE 
 
 > THE TWO COHABITATED.
 
@@ -237,7 +237,7 @@ lastmod: 2021-12-07 09:46
 
 > DISGUSTING. I HAD NO IDEA THE WORLD WAS SO SMALL.
 
-#### McCOY 
+#### TRELAINE 
 
 > SHE TOOK THE DOG WITH HER AS A CRUEL BARB. SHE LIKELY HAD NO IDEA OF ITS VALUE.
 
@@ -245,7 +245,7 @@ lastmod: 2021-12-07 09:46
 
 > YOU CREATED THE THING?
 
-#### McCOY 
+#### TRELAINE 
 
 > A COMFORT OBJECT.
 
@@ -253,7 +253,7 @@ lastmod: 2021-12-07 09:46
 
 > AND NOW...
 
-#### McCOY 
+#### TRELAINE 
 
 > IT'S AT LEAST REFRAINED FROM PISSING IN THE YARD.
 > 
@@ -271,11 +271,11 @@ lastmod: 2021-12-07 09:46
 > 
 > SHALL WE ASK THE GIRL IF SHE'S GIVEN IT UP FOR ADOPTION?
 
-#### McCOY 
+#### TRELAINE 
 
 > LOST A WEDDING RING DOWN THE TRASH COMPACTOR.
 
-<br><I>TRENTE smooths her dress over her thin frame. They approach the house's door. McCOY rings the doorbell. It's an old style, connected to a physical bell inside the house.</i>
+<br><I>TRENTE smooths her dress over her thin frame. They approach the house's door. TRELAINE rings the doorbell. It's an old style, connected to a physical bell inside the house.</i>
 
 <i>A woman with bright red eyes opens the door. Her hair is resisting restraint behind her head; thin wisps of brown hair fluff about her skull.</i>
 
@@ -283,7 +283,7 @@ lastmod: 2021-12-07 09:46
 
 #### PERKINS 
 
-> WELCOME, DOCTOR McCOY -- AND --
+> WELCOME, DOCTOR TRELAINE -- AND --
 
 <br><I>She seems somewhat surprised to see the DOCTOR's companion. The pink-haired woman doesn't reflect her surprise and returns in a rather droll voice:</i>
 
@@ -365,7 +365,7 @@ lastmod: 2021-12-07 09:46
 
 <i>The young WEASLIE walked above them, house squeaking slightly under his weight. But it faded as the kitchen was located over the other side of the house...</i>
 
-#### McCOY 
+#### TRELAINE 
 
 > FRIDAY. I HAVE TO ASK:
 > 
@@ -379,7 +379,7 @@ lastmod: 2021-12-07 09:46
 
 <BR><I>The aged DOCTOR carefully crafts his reply.
 
-#### McCOY 
+#### TRELAINE 
 
 > YOU TOLD ME THAT WHEN YOU LEFT NYC --
 
@@ -387,7 +387,7 @@ lastmod: 2021-12-07 09:46
 
 > [interrupting] <U>WHEN</U> DID I TELL YOU THAT I HAD A DOG?
 
-#### McCOY 
+#### TRELAINE 
 
 > ONE NIGHT I WAS SPEAKING WITH BRONALD AND HE SAID HE NEEDED TO TAKE THE DOG --
 
@@ -409,7 +409,7 @@ lastmod: 2021-12-07 09:46
 > 
 > I NEVER TOLD ANYONE WE HAD A DOG.
 
-#### McCOY 
+#### TRELAINE 
 
 > I MUST BE MISTAKEN... I'M TERRIBLY SORRY --
 
@@ -421,7 +421,7 @@ lastmod: 2021-12-07 09:46
 > 
 > SOMEONE PERFORMED A MEMORY CHARM ON OUR NEW FRIENDS.
 
-#### McCOY 
+#### TRELAINE 
 
 > [quietly] THAT WOULD BE AN UNWELCOME TRUTH.
 
@@ -431,7 +431,7 @@ lastmod: 2021-12-07 09:46
 
 > THERE'S ONLY ONE PERSON I KNOW OF CAPABLE OF SUCH A CRIME AND POSSESSING A VALID MOTIVE.
 
-#### McCOY 
+#### TRELAINE 
 
 > HE HASN'T WORKED SUCH FEATS SINCE --
 
@@ -481,7 +481,7 @@ lastmod: 2021-12-07 09:46
 
 <BR><I>The upstairs of the WEASLIE HOUSE is open and welcoming; WEASLIE motions to a set of couches set against a corner.</i>
 
-<i>A familiar pop song is playing down the hallway. The words interrupt TRENTE GAGARIN's train of thought. But McCOY starts speaking to their hosts.</i>
+<i>A familiar pop song is playing down the hallway. The words interrupt TRENTE GAGARIN's train of thought. But TRELAINE starts speaking to their hosts.</i>
 <BR/><br/>
 
 *****
@@ -495,7 +495,7 @@ lastmod: 2021-12-07 09:46
 
 <br/>
 
-#### McCOY 
+#### TRELAINE 
 
 > I DON'T KNOW HOW HE WOULD HAVE GOT HERE, HE'S NOT KNOWN TO TRAVEL SUCH LONG DISTANCES --
 
@@ -510,7 +510,7 @@ lastmod: 2021-12-07 09:46
 *****
 <br/>
 
-#### McCOY
+#### TRELAINE
 
 > WE WERE FRIENDS WHEN WE WERE YOUNGER AND LIVED IN THE OLD COUNTRY --
 
@@ -531,7 +531,7 @@ lastmod: 2021-12-07 09:46
 
 > THIS MAN WAS FRIENDS WITH MYRTLE MARSCAPONE?
 
-#### McCOY 
+#### TRELAINE 
 
 > MORE SPECIFICALLY, HE WAS FRIENDS WITH MYRTLE'S DECEASED HUSBAND, VINCENT MARSCAPONE.
 > 

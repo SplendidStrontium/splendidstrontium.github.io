@@ -186,15 +186,15 @@ lastmod: 2021-12-10 10:10
 
 #### WEASLIE
 
-> MISTER: LENARD McCOY.
+> MISTER: LENARD TRELAINE.
 
 <BR><i>The name means nothing to him, but it clearly means something to PERKINS, whose eyes widen and mouth opens to gasp at breath.</i>
 
 #### PERKINS 
 
-> McCOY?!
+> TRELAINE?!
 > 
-> McCOY SENT YOU A LETTER ASKING YOU TO BID ELECTRICAL WORK?
+> TRELAINE SENT YOU A LETTER ASKING YOU TO BID ELECTRICAL WORK?
 
 #### WEASLIE 
 

@@ -4,7 +4,7 @@ title: "AVAEL 014: Retrospective"
 permalink: /femputermanchine/avael/retrospective/
 category: femputermanchine
 date: 2021-10-19 14:58
-description: "in which AVAEL reluctantly begins to speak on her first meeting with the Doctor McCoy"
+description: "in which AVAEL reluctantly begins to speak on her first meeting with the Doctor Trelaine"
 tags: [chat, fpmcmain-avael, act-iii]
 published: true
 lastmod: 2021-10-19 15:44

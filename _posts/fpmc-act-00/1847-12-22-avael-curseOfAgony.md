@@ -22,7 +22,7 @@ lastmod: 2021-12-22 14:34
 
 <i>When the woman moves, he stops and looks up at her, pausing his speech but leaving his hands joined.</i>
 
-#### McCOY
+#### TRELAINE
 
 > AVAELLE...
 
@@ -38,7 +38,7 @@ lastmod: 2021-12-22 14:34
 
 <BR><I>His voice is gentle and quiet. He unclasps his hands.</i>
 
-#### McCOY
+#### TRELAINE
 
 > IT'S 'LENARD'.
 > 
@@ -52,7 +52,7 @@ lastmod: 2021-12-22 14:34
 
 <BR><I>He remains kneeling on the floor, looking toward the back of her head, her hair hidden underneath a nightcap.</i>
 
-#### McCOY
+#### TRELAINE
 
 > THIS IS MY HOME.
 > 
@@ -72,7 +72,7 @@ lastmod: 2021-12-22 14:34
 
 > YOU...
 
-#### McCOY
+#### TRELAINE
 
 > I HEALED YOU.
 > 
@@ -92,7 +92,7 @@ lastmod: 2021-12-22 14:34
 
 <BR><i>The room is dark except for a few candles. Thick curtains cover the windows, but she has the overwhelming suspicion that the daytime has passed.</I>
 
-#### McCOY
+#### TRELAINE
 
 > THE BETTER PART OF TWO DAYS.
 
@@ -100,7 +100,7 @@ lastmod: 2021-12-22 14:34
 
 > TWO DAYS?!
 
-#### McCOY
+#### TRELAINE
 
 > YOU'VE BEEN THROUGH SERIOUS TRAUMA.
 > 
@@ -116,7 +116,7 @@ lastmod: 2021-12-22 14:34
 
 <BR><I>He was used to being the outsider, but being reminded of it by her...</I>
 
-#### McCOY
+#### TRELAINE
 
 > I'M A MONSTER FROM THE OLD WORLD.
 > 
@@ -128,7 +128,7 @@ lastmod: 2021-12-22 14:34
 
 > THE WORD MEANS NOTHING TO ME.
 
-#### McCOY
+#### TRELAINE
 
 > IT WOULDN'T.
 > 
@@ -140,7 +140,7 @@ lastmod: 2021-12-22 14:34
 
 > YOU ARE CURSED?
 
-#### McCOY
+#### TRELAINE
 
 > THE PRICE OF MY ABILITY THAT I WILL NEVER KNOW TRUE SLEEP. NEVER WALK THE DREAM. NEVER KNOW A MORTAL'S THOUGHTLESS JOY.
 > 
@@ -156,7 +156,7 @@ lastmod: 2021-12-22 14:34
 
 > A DEMON.
 
-#### McCOY
+#### TRELAINE
 
 > ...
 > 
@@ -164,7 +164,7 @@ lastmod: 2021-12-22 14:34
 
 <br><i>She looks around the room, eager to locate a path to escape. But her action is transparent.</i>
 
-#### McCOY
+#### TRELAINE
 
 > DON'T BOTHER.
 > 
@@ -180,7 +180,7 @@ lastmod: 2021-12-22 14:34
 
 > I'LL NEVER ALLY MYSELF WITH A DEMON.
 
-#### McCOY
+#### TRELAINE
 
 > YOU WILL SOON SEE THAT THERE IS NO CHOICE.
 > 
@@ -194,7 +194,7 @@ lastmod: 2021-12-22 14:34
 
 > IF I REPENT, THEN GOD WILL CLAIM MY SOUL.
 
-#### McCOY
+#### TRELAINE
 
 > TO REPENT IS TO SUFFER. IT LIES BEFORE YOU.
 > 
@@ -214,7 +214,7 @@ lastmod: 2021-12-22 14:34
 
 > I WILL REPENT!!
 
-#### McCOY
+#### TRELAINE
 
 > YOU DON'T HAVE THE STRENGTH AS YOU ARE.
 > 
@@ -232,7 +232,7 @@ lastmod: 2021-12-22 14:34
 
 > I'LL NEVER JOIN A DEMON.
 
-#### McCOY
+#### TRELAINE
 
 > BUT YOU KNOW THAT THE DEMONS WERE ONCE GOD'S SERVANTS, IN THE BEFORE-TIMES.
 > 
@@ -248,7 +248,7 @@ lastmod: 2021-12-22 14:34
 
 <BR><I>LENARD remains calm, unaffected by her screaming.</i>
 
-#### McCOY
+#### TRELAINE
 
 > WHERE DO YOU WANT TO GO, AVAELLE?
 
@@ -260,7 +260,7 @@ lastmod: 2021-12-22 14:34
 
 <BR><I>He sighs.</i>
 
-#### McCOY
+#### TRELAINE
 
 > WHAT YOU ASK CANNOT BE DONE.
 > 
@@ -272,7 +272,7 @@ lastmod: 2021-12-22 14:34
 
 <BR><I>A vision of hellfire dances in her mind.</i>
 
-#### McCOY
+#### TRELAINE
 
 > YOU WANT TO GO TO HEAVEN.
 > 
@@ -290,7 +290,7 @@ lastmod: 2021-12-22 14:34
 > 
 > WE WERE MEANT TO SUFFER.
 
-#### McCOY
+#### TRELAINE
 
 > HAH!
 > 
@@ -306,7 +306,7 @@ lastmod: 2021-12-22 14:34
 
 > WHY HAS GOD FORSAKEN ME?
 
-#### McCOY
+#### TRELAINE
 
 > YOU ARE AS CLOSE TO THE END AS YOU HAVE EVER, AND WILL EVER, BE.
 > 
@@ -318,7 +318,7 @@ lastmod: 2021-12-22 14:34
 
 <BR><I>AVAELLE hangs her head, her face buried in her hands. But no tears rise.</i>
 
-#### McCOY
+#### TRELAINE
 
 > I'LL CURSE YOU AS I'VE BEEN CURSED.
 > 
@@ -332,7 +332,7 @@ lastmod: 2021-12-22 14:34
 
 > GOD DID NOT MEAN US TO HAVE FUN.
 
-#### McCOY
+#### TRELAINE
 
 > WHO ARE YOU TO SPEAK OF WHAT GOD HAS INTENDED FOR HIS PEOPLE?
 > 
@@ -352,7 +352,7 @@ lastmod: 2021-12-22 14:34
 > 
 > I NEVER SAW YOU ONCE SHIVER FROM THE COLD.
 
-#### McCOY
+#### TRELAINE
 
 > AND YET YOU LIED WHEN YOU SAID YOU FEARED ME.
 > 
@@ -362,7 +362,7 @@ lastmod: 2021-12-22 14:34
 
 <BR><I>She sits in still shame.</i>
 
-#### McCOY
+#### TRELAINE
 
 > SAY WHAT YOU WANT TO SAY.
 > 
@@ -382,7 +382,7 @@ lastmod: 2021-12-22 14:34
 
 <i>He pulls off her neck and whispers to her.</i>
 
-#### McCOY
+#### TRELAINE
 
 > TAKE THIS AND MAKE ME YOUR VICTIM.
 
@@ -390,7 +390,7 @@ lastmod: 2021-12-22 14:34
 
 <i>He takes her hand in his and raises the blade to his neck, where he makes a small incision. His hold of her shifts and he places his hand on the back of her head, pushing her limp form against him.</i>
 
-#### McCOY
+#### TRELAINE
 
 > DRINK.
 

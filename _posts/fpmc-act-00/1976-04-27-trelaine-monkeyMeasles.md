@@ -14,7 +14,7 @@ lastmod: 2021-11-03 14:21
 
 *****
 
-<img src="{{ site.url }}/assets/img/mccoy-ii.jpg" />
+<img src="{{ site.url }}/assets/img/trelaine-ii.jpg" />
 
 *****
 

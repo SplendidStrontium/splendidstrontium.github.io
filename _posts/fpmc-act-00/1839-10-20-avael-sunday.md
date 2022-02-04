@@ -33,7 +33,7 @@ lastmod: 2021-11-03 14:16
 >
 > HAPPY SUNDAY.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > AND A HAPPY SUNDAY TO YOU, TOO, MISS EASTON.
 
@@ -43,7 +43,7 @@ lastmod: 2021-11-03 14:16
 
 <br/><I>He raises his hands in a surrendering refusal.</i>
 
-#### McCOY ####
+#### TRELAINE ####
 
 > OH, NO, I THANK YOU VERY MUCH FOR THE GESTURE, BUT...
 >
@@ -55,7 +55,7 @@ lastmod: 2021-11-03 14:16
 
 > OH, DEAR.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > YES, IT'S A TERRIBLE INCONVENIENCE, REALLY.
 >
@@ -75,7 +75,7 @@ lastmod: 2021-11-03 14:16
 >
 > I... I GET BY.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > YOU ARE TAKING THESE PLATES UPSTAIRS?
 
@@ -83,7 +83,7 @@ lastmod: 2021-11-03 14:16
 
 > ARE THEY AWAKE? THEY WERE STILL SLEEPING WHEN I ROSE.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > I DIDN'T HEAR ANYTHING FROM THE ROOMS WHEN I ROSE SO IT'S HARD TO SAY.
 >
@@ -99,7 +99,7 @@ lastmod: 2021-11-03 14:16
 >
 > PERHAPS YOU WOULD JOIN ME?
 
-#### McCOY ####
+#### TRELAINE ####
 
 > I WOULD INDEED.
 
@@ -109,7 +109,7 @@ lastmod: 2021-11-03 14:16
 >
 > DO YOU THINK THEY'LL EAT?
 
-#### McCOY ####
+#### TRELAINE ####
 
 > I THINK LATER TODAY THEY WILL FIND THE STRENGTH TO EAT.
 >
@@ -192,7 +192,7 @@ lastmod: 2021-11-03 14:16
 
 <i>He waits until under the roof of the stable to speak, though still seeming agitated.</i>
 
-#### McCOY ####
+#### TRELAINE ####
 
 > IT MUST BE SEVERAL YEARS AT THIS POINT.
 >
@@ -204,7 +204,7 @@ lastmod: 2021-11-03 14:16
 
 > WHERE ARE YOU FROM?
 
-#### McCOY ####
+#### TRELAINE ####
 
 > 'WHERE AM I FROM', MISS?
 
@@ -214,7 +214,7 @@ lastmod: 2021-11-03 14:16
 
 > WHERE DID YOU PRACTICE BEFORE YOU CAME HERE?
 
-#### McCOY ####
+#### TRELAINE ####
 
 > I SPENT MY EARLY YEARS PRACTICING IN NEW YORK CITY.
 >
@@ -224,7 +224,7 @@ lastmod: 2021-11-03 14:16
 
 > I'VE NEVER BEEN.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > NEVER? I'M SURE YOU'LL MAKE THE VOYAGE SOMEDAY.
 
@@ -234,7 +234,7 @@ lastmod: 2021-11-03 14:16
 >
 > HE'S NOT AS WELL AS HE USED TO BE.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > I HAD GLEANED AS MUCH WHEN I SPOKE WITH HIM.
 >
@@ -250,7 +250,7 @@ lastmod: 2021-11-03 14:16
 
 > HE PREFERS TO STAY INSIDE AND WORK.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > AND YOU STAY TO HELP HIM.
 
@@ -262,11 +262,11 @@ lastmod: 2021-11-03 14:16
 >
 > FATHER...
 
-#### McCOY ####
+#### TRELAINE ####
 
 > YOUR FATHER LOSES HIMSELF IN THE BOTTLE.
 
-<br/><I>McCOY stands, motionless, while AVAELLE backs the horse out of the stall.</i>
+<br/><I>TRELAINE stands, motionless, while AVAELLE backs the horse out of the stall.</i>
 
 <i>She sighs, despondent.</i>
 
@@ -274,7 +274,7 @@ lastmod: 2021-11-03 14:16
 
 > HE WASN'T LIKE THAT WHEN I WAS A LITTLE GIRL.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > IT IS DIFFICULT FOR A MAN TO LIVE WITHOUT A WIFE.
 
@@ -286,7 +286,7 @@ lastmod: 2021-11-03 14:16
 >
 > FATHER DOESN'T SPEAK OF HER.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > IT DOESN'T MEAN HE DOESN'T THINK OF HER.
 
@@ -298,7 +298,7 @@ lastmod: 2021-11-03 14:16
 >
 > I'M SORRY.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > I'M SURE IT'S NOTHING LIKE THAT.
 >
@@ -310,7 +310,7 @@ lastmod: 2021-11-03 14:16
 
 > WHAT'S THE CITY LIKE?
 
-#### McCOY ####
+#### TRELAINE ####
 
 > IT'S LITTLE DIFFERENT FROM THE VILLAGE.
 >
@@ -328,7 +328,7 @@ lastmod: 2021-11-03 14:16
 >
 > AND I'M STILL LEARNING.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > IT COULD BE A CRUEL PLACE FOR A YOUNG WOMAN SUCH AS YOURSELF.
 >
@@ -348,7 +348,7 @@ lastmod: 2021-11-03 14:16
 
 > MAURICE...
 
-#### McCOY ####
+#### TRELAINE ####
 
 > YOUR FATHER MAY FALL INTO DESPAIR WITHOUT HIS ONLY DAUGHTER.
 
@@ -358,7 +358,7 @@ lastmod: 2021-11-03 14:16
 
 <br/><I>THE DOCTOR pauses, carefully penning his reply.</i>
 
-#### McCOY #### 
+#### TRELAINE #### 
 
 > I DO NOT THINK SO, BUT...
 >
@@ -370,7 +370,7 @@ lastmod: 2021-11-03 14:16
 >
 > YOU GO WHERE YOU WANT WHEN YOU WANT AND YOUR MOTHERS AND WIVES SIMPLY WAVE THEIR HANDKERCHIEFS.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > IT IS NOT SO EASY.
 >
@@ -388,7 +388,7 @@ lastmod: 2021-11-03 14:16
 >
 > I KNOW MY FATHER NEEDS MY HELP.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > I AM NOT TRYING TO ENDORSE EITHER OF YOUR IDEAS, MISS.
 >
@@ -408,7 +408,7 @@ lastmod: 2021-11-03 14:16
 >
 > NOT WHEN I'VE SEEN SO LITTLE OF THE WORLD.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > A HUSBAND MAY HELP YOU SEE YOUR DREAMS REALIZED.
 
@@ -424,7 +424,7 @@ lastmod: 2021-11-03 14:16
 >
 > I'M SURE HE WOULD PREFER I STAY HERE WITH HIM.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > HOW LONG HAS YOUR FAMILY RESIDED IN THE HOUSE?
 
@@ -432,7 +432,7 @@ lastmod: 2021-11-03 14:16
 
 > IT WAS MY GRANDFATHER'S ESTATE.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > PERHAPS YOU MAY PERSUADE YOUR FATHER TO LEAVE THE HOME. 
 >
@@ -450,7 +450,7 @@ lastmod: 2021-11-03 14:16
 *****
 <br/><i>In the kitchen, AVAELLE has laid her Bible over the central table. She is flipping through it when THE DOCTOR reenters the kitchen, having come from checking on the men upstairs. She abandons her flipping, instead tending to the stew brewing in the hearth's pot. A number of partially cut vegetables lay beside the tome.</i>
 
-#### McCOY ####
+#### TRELAINE ####
 
 > YOUR FATHER IS DOING MUCH BETTER. 
 >
@@ -462,7 +462,7 @@ lastmod: 2021-11-03 14:16
 >
 > HE SHOULD FOCUS ON GETTING BETTER.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > PERHAPS HE IS.
 >
@@ -478,7 +478,7 @@ lastmod: 2021-11-03 14:16
 
 > YOU'RE STILL WILLING TO ACCEPT A PAINTING IN PAYMENT?
 
-#### McCOY ####
+#### TRELAINE ####
 
 > I WOULD PREFER IT.
 >
@@ -490,7 +490,7 @@ lastmod: 2021-11-03 14:16
 >
 > TO...
 
-#### McCOY ####
+#### TRELAINE ####
 
 > TO DRAW UP THE PAINTING?
 
@@ -498,7 +498,7 @@ lastmod: 2021-11-03 14:16
 
 > IF YOU'D LIKE, I'M SURE THERE'S SOMETHING WE'VE ALREADY BEGUN THAT MIGHT INTEREST YOU...
 
-#### McCOY ####
+#### TRELAINE ####
 
 > NO, I'M SURE I'D LIKE A PORTRAIT.
 
@@ -514,7 +514,7 @@ lastmod: 2021-11-03 14:16
 
 <br/><I>THE DOCTOR interjects.</i>
 
-#### McCOY ####
+#### TRELAINE ####
 
 > I'M SURE YOU ARE BEING MODEST.
 
@@ -522,7 +522,7 @@ lastmod: 2021-11-03 14:16
 
 > I'M SURE THAT I'M NOT.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > ARE YOU --
 
@@ -534,7 +534,7 @@ lastmod: 2021-11-03 14:16
 >
 > I JUST HAVEN'T DONE ONE ON MY OWN.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > I'M SURE YOUR FATHER WILL BE WELL ENOUGH TO ASSIST VERY SOON.
 
@@ -544,7 +544,7 @@ lastmod: 2021-11-03 14:16
 >
 > I'M NOT SO SURE I TRUST HIM TO PAINT A PORTRAIT, EITHER.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > WHAT KIND OF PAINTERS ARE YOU TWO, THEN?
 
@@ -556,7 +556,7 @@ lastmod: 2021-11-03 14:16
 >
 > THIS IS JUST THE LATEST AND WORST OF HIS FITS.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > I WILL COME BACK TO SIT FOR THE PAINTING AND CHECK ON YOUR FATHER'S HEALTH.
 >

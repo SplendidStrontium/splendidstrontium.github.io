@@ -20,11 +20,11 @@ lastmod: 2022-01-28 13:31
 
 <i>I tire of hearing this name.</i>
 
-<i>It has been nearly [two hundred years]({% post_url /fpmc-act-00/1831-06-23-avael-eleven %}) since I first met a young woman going by this name. My sleep since this chance meeting has been troubled; it was soon after this parting that I realized that my old friend McCOY was here in the country I'd taken as my own. The humans have a saying: "Ain't No Rest For the Wicked".</i>
+<i>It has been nearly [two hundred years]({% post_url /fpmc-act-00/1831-06-23-avael-eleven %}) since I first met a young woman going by this name. My sleep since this chance meeting has been troubled; it was soon after this parting that I realized that my old friend TRELAINE was here in the country I'd taken as my own. The humans have a saying: "Ain't No Rest For the Wicked".</i>
 
-<i>I knew McCOY, long ago. I knew he was tireless in his loyalty to the old crown. I knew that I would get little peace until I could see him dead.</i>
+<i>I knew TRELAINE, long ago. I knew he was tireless in his loyalty to the old crown. I knew that I would get little peace until I could see him dead.</i>
 
-<i>I contacted old friends. I made new friends. Seasons grew and subsided, cycling over and over again, lost to memory. We tried to burn McCOY alive for his crimes. He escaped. We kept fighting.</i>
+<i>I contacted old friends. I made new friends. Seasons grew and subsided, cycling over and over again, lost to memory. We tried to burn TRELAINE alive for his crimes. He escaped. We kept fighting.</i>
 
 <i>Today, I have only recently risen from meditation. The bird-song navigates the morning; My butler will be descending to hide in the catacomb. His canine will keep me company.</i>
 <br/><br/>
@@ -230,13 +230,13 @@ lastmod: 2022-01-28 13:31
 <br/>
 
 *****
-<br/><i>In the car, I explain to him my intention to return the young foundling to McCOY. I instruct him to drive to the MARSCAPONE APARTMENT in which sit CEDRIC and the bionic vampress AVAEL.</i>
+<br/><i>In the car, I explain to him my intention to return the young foundling to TRELAINE. I instruct him to drive to the MARSCAPONE APARTMENT in which sit CEDRIC and the bionic vampress AVAEL.</i>
 
 <i>His response to my commentary is stilted; his attention split between our conversation and the road.</i>
 
 ### MANDARC ###
 
-> YOU REALLY WANT TO RETURN AVAELLE TO McCOY?
+> YOU REALLY WANT TO RETURN AVAELLE TO TRELAINE?
 
 ### STRAUD ###
 
@@ -366,7 +366,7 @@ lastmod: 2022-01-28 13:31
 
 > YOU SAW WHAT THE MASTER WROTE ON THE BOARDS.
 
-> HE INTENDS TO RETURN THE GIRL TO McCOY.
+> HE INTENDS TO RETURN THE GIRL TO TRELAINE.
 
 ### AVAEL ###
 
@@ -797,7 +797,7 @@ lastmod: 2022-01-28 13:31
 <img src="{{ site.url }}/assets/tb/straud-tb-fine.jpg" class="chat-portrait" />
 <p class="ppl-sez">STRAUD//</p>
 <p class="ppl-sez">She didn't have the memories I thought she would have had.</p>
-<p class="ppl-sez">Your memories of your time with McCoy. I thought he would have kept them, but no. I think he was intending to start afresh with her.</p>
+<p class="ppl-sez">Your memories of your time with TRELAINE. I thought he would have kept them, but no. I think he was intending to start afresh with her.</p>
 <p class="ppl-sez">Lazy. Cruel.</p>
 <p class="ppl-sez">I gave her the scaffolding for uncovering them. The time... I didn't look into them, I tried not to invade your privacy, but I can't help but sense their crucial role in making you who you are.</p>
 <p class="ppl-sez">If my old friend dares call her by your name, should he not have to interface with what that means?</p>

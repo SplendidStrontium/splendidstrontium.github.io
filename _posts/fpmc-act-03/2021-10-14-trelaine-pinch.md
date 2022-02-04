@@ -81,7 +81,7 @@ lastmod: 2021-11-04 16:55
 
 <i>I walk out upon a secluded porch. The other physicians use this area for smoking cigarettes. I fill my lungs with the scent.</i>
 
-<i>'You're obsessed', GAGARIN [had said to me]({% post_url /fpmc-act-02/2020-12-01-mccoy-ashtray %}). She wasn't wrong. The smell disappoints, it's not the variety to which she was accustomed.</i>
+<i>'You're obsessed', GAGARIN [had said to me]({% post_url /fpmc-act-02/2020-12-01-trelaine-ashtray %}). She wasn't wrong. The smell disappoints, it's not the variety to which she was accustomed.</i>
 
 <i>I look around, seeing no eyes upon my person. The NSR's patronage had seen the security camera removed from this location. It was a boon having friends in high places.</i>
 
@@ -96,7 +96,7 @@ lastmod: 2021-11-04 16:55
 
 <i>I enter the domicile using a crack in a basement window. I rematerialize into a unlit room, slightly damp from autumn's chill. I push open a heavy door, the creaking of which is intended to alert the woman to my presence.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > VANESSA? YOU HERE?
 
@@ -116,7 +116,7 @@ lastmod: 2021-11-04 16:55
 
 <i>VANESSA drapes her form around the kitchen's doorway, begging me to pay her attention in exchange for passage.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > I CAME AS QUICKLY AS I COULD.
 
@@ -134,7 +134,7 @@ lastmod: 2021-11-04 16:55
 
 <I>Presumably listening to VANESSA's announcement, she turns around and looks at me, face relaxed as if trying to contain a shame.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > AVAELLE?
 
@@ -142,7 +142,7 @@ lastmod: 2021-11-04 16:55
 
 > SEE, I TOLD YA SHE'D COME BACK.
 
-### McCOY ###
+### TRELAINE ###
 
 > AVAELLE...
 
@@ -158,7 +158,7 @@ lastmod: 2021-11-04 16:55
 
 > IT'S... NICE TO SEE YOU.
 
-### McCOY ###
+### TRELAINE ###
 
 > AVAELLE... IT'S SO GOOD TO HAVE YOU BACK.
 
@@ -178,7 +178,7 @@ lastmod: 2021-11-04 16:55
 
 <I>AVAELLE EASTON kept a Russian Blue she called XIB. It was presently nowhere to be seen.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > WHAT... WHAT HAPPENED?
 
@@ -202,7 +202,7 @@ lastmod: 2021-11-04 16:55
 
 > IT DOESN'T MATTER.
 
-### McCOY ###
+### TRELAINE ###
 
 > HAVE YOU HAD ANYTHING TO EAT? ARE YOU HUNGRY?
 
@@ -218,7 +218,7 @@ lastmod: 2021-11-04 16:55
 
 > FIGURED I'D SORT THE REST OUT LATER.
 
-### McCOY ###
+### TRELAINE ###
 
 > OH...
 
@@ -240,7 +240,7 @@ lastmod: 2021-11-04 16:55
 
 > I'M SORRY TO PULL YOU AWAY FROM WORK.
 
-### McCOY ###
+### TRELAINE ###
 
 > AW, TOOTS, IT MEANS NOTHING.
 
@@ -260,7 +260,7 @@ lastmod: 2021-11-04 16:55
 
 > I LOST MINE.
 
-### McCOY ###
+### TRELAINE ###
 
 > NO PROBLEM. I'LL LET GAGARIN KNOW YOU NEED ANOTHER DEVICE.
 
@@ -282,7 +282,7 @@ lastmod: 2021-11-04 16:55
 
 > THIS HAS SHOWN ME THAT.
 
-### McCOY ###
+### TRELAINE ###
 
 > I CAN HELP BUT...
 
@@ -302,7 +302,7 @@ lastmod: 2021-11-04 16:55
 
 > OH, I... UH... PROBABLY DID.
 
-### McCOY ###
+### TRELAINE ###
 
 > SHE WAS UNABLE TO CONTROL HERSELF.
 
@@ -320,7 +320,7 @@ lastmod: 2021-11-04 16:55
 
 <I>She seems so eager to free VANESSA from guilt. It's... diplomatic, to say the least, but why?</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > I CAN RUN AN ANALYSIS.
 
@@ -334,7 +334,7 @@ lastmod: 2021-11-04 16:55
 
 > THE FACT OF THE MATTER IS THAT I CAN'T TRAIN YOU IF I CAN'T REMEMBER WHO I WAS.
 
-### McCOY ###
+### TRELAINE ###
 
 > WELL, THAT WAS PART OF THE PROBLEM.
 

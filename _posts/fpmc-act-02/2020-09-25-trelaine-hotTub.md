@@ -19,7 +19,7 @@ lastmod: 2021-11-03 15:02
 
 *****
 <br>
-<P style="text-decoration: underline;">| McCoy's Pro-tips </p>
+<P style="text-decoration: underline;">| Trelaine's Pro-tips </p>
 
 * don't take hissing trait if you intend to be doctoring
 * for that matter, any of the go-to-work professions

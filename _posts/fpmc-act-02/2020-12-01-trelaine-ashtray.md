@@ -16,11 +16,11 @@ lastmod: 2021-11-03 15:24
 
 ## // MARSCAPONE SR. RANCH // ##
 
-<i>The home of MYRTLE MARSCAPONE stands darkened in the night. Two bats perch on the underside of the porch. In a puff of smoke, the pair materialize. TRENTE GAGARIN, the daughter of the CHAIRPERSON, stands next to LENARD McCOY.</i>
+<i>The home of MYRTLE MARSCAPONE stands darkened in the night. Two bats perch on the underside of the porch. In a puff of smoke, the pair materialize. TRENTE GAGARIN, the daughter of the CHAIRPERSON, stands next to LENARD TRELAINE.</i>
 
-<i>McCOY sniffs the air. A nearby ashtray is cluttered with butts.</i>
+<i>TRELAINE sniffs the air. A nearby ashtray is cluttered with butts.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > SMELL THAT? 
 
@@ -32,7 +32,7 @@ lastmod: 2021-11-03 15:24
 
 > YOU'RE OBSESSED.
 
-### McCOY ###
+### TRELAINE ###
 
 > AND YOU CAN'T SMELL FOR SHIT.
 
@@ -40,7 +40,7 @@ lastmod: 2021-11-03 15:24
 
 <I>He continues to smell the air, walking toward the door.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > SO HAS THE TRAITOR AND THE HAG.
 
@@ -48,7 +48,7 @@ lastmod: 2021-11-03 15:24
 
 > WELL SHE LIVES HERE, SO...
 
-### McCOY ###
+### TRELAINE ###
 
 > (wincing) YOU REALLY CAN'T SMELL THAT?
 
@@ -64,7 +64,7 @@ lastmod: 2021-11-03 15:24
 
 <I>Irreverence seeps thick through her use of the diminuitive.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > NOT THIS KIND OF TRASH.
 
@@ -78,7 +78,7 @@ lastmod: 2021-11-03 15:24
 
 <i>He continues to sniff, trying to trail.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > BESIDES. I'M WORKING ON THAT.
 
@@ -86,9 +86,9 @@ lastmod: 2021-11-03 15:24
 
 > OH, BUBBLES, HUH? BECAUSE THAT'S SO MUCH BETTER.
 
-<I>At this point, McCOY has stepped off the porch and into the side yard.</i>
+<I>At this point, TRELAINE has stepped off the porch and into the side yard.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > THE HAG HAS PROCURED A NEW CAULDRON. LOOK.
 
@@ -96,9 +96,9 @@ lastmod: 2021-11-03 15:24
 
 > MUST I?
 
-<I>McCOY continues to smell the air.</i>
+<I>TRELAINE continues to smell the air.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > FRESHLY TURNED DIRT. THEY'VE TRIED TO COVER IT UP WITH FRESH SOD, BUT I CAN SMELL IT.
 
@@ -106,17 +106,17 @@ lastmod: 2021-11-03 15:24
 
 <center>D.C. - A friend.</center>
 
-### McCOY ###
+### TRELAINE ###
 
 > HERE HE IS.
 
-<I>TRENTE cautiously weaves through the bushes, giving the cauldron a large berth. She stands next to McCOY and stares down at the black tombstone.</i>
+<I>TRENTE cautiously weaves through the bushes, giving the cauldron a large berth. She stands next to TRELAINE and stares down at the black tombstone.</i>
 
 ### TRENTE ###
 
 > 'A FRIEND'?
 
-### McCOY ###
+### TRELAINE ###
 
 > CORONADO WAS ONE OF ...STRAUD'S. TWO TRAITORS HAVE A LOT IN COMMON.
 
@@ -126,13 +126,13 @@ lastmod: 2021-11-03 15:24
 
 > THEY'RE GETTING FEARFUL THEN, KILLING OFF THEIR OWN.
 
-<I>McCOY is silent.</i>
+<I>TRELAINE is silent.</i>
 
 ### TRENTE ###
 
 > LET THEM BE AFRAID. IT'S A WISDOM.
 
-### McCOY ###
+### TRELAINE ###
 
 > I HAD HOPES FOR DUSTIN.
 
@@ -140,7 +140,7 @@ lastmod: 2021-11-03 15:24
 
 > DIG FOR THE GLIMMERSTONE.
 
-### McCOY ###
+### TRELAINE ###
 
 > WHAT?
 
@@ -148,7 +148,7 @@ lastmod: 2021-11-03 15:24
 
 > THERE'S A SHATTERED GLIMMERSTONE HERE. 
 
-### McCOY ###
+### TRELAINE ###
 
 > THERE'S NOT ENOUGH TIME. 
 

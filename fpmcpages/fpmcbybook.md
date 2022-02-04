@@ -598,7 +598,7 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2><a href="{{ '/femputermanchine/trelaine/' | prepend: site.url }}">McCOY</a></h2>
+<h2><a href="{{ '/femputermanchine/trelaine/' | prepend: site.url }}">TRELAINE</a></h2>
 
 <p>LENARD TRELAINE is a foreign doctor who takes his job very seriously.</p>
 

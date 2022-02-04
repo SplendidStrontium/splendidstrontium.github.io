@@ -16,11 +16,11 @@ lastmod: 2021-12-10 09:57
 *****
 ### // WEASLIE HOUSE // 
 
-<br><I>One week ago, BRONALD WEASLIE received a strange letter addressed to him at his home in Saint Louie. The letter was penned in a fine script and was signed from LENARD McCOY. The name escaped the knowledge of the addressee, but his friend FRIDAY PERKINS was aware of the name as a mysterious rival to the Vampire VLADISLAUS STRAUD.</i>
+<br><I>One week ago, BRONALD WEASLIE received a strange letter addressed to him at his home in Saint Louie. The letter was penned in a fine script and was signed from LENARD TRELAINE. The name escaped the knowledge of the addressee, but his friend FRIDAY PERKINS was aware of the name as a mysterious rival to the Vampire VLADISLAUS STRAUD.</i>
 
-<i>McCOY had a strange request; He notified WEASLIE of an open bid for a job with the quasi-governmental organization known as the NSR. The job concerned electrical work, primarily laying wire promising to bring Internet access to previously unserved rural communities.</i>
+<i>TRELAINE had a strange request; He notified WEASLIE of an open bid for a job with the quasi-governmental organization known as the NSR. The job concerned electrical work, primarily laying wire promising to bring Internet access to previously unserved rural communities.</i>
 
-<i>WEASLIE felt somewhat... embarrassed. Presumably McCOY was aware of his family as one of the oldest wizarding families in mid-Amerrka. Presumably he was also aware that it had dwindled in representation to solely himself.</i>
+<i>WEASLIE felt somewhat... embarrassed. Presumably TRELAINE was aware of his family as one of the oldest wizarding families in mid-Amerrka. Presumably he was also aware that it had dwindled in representation to solely himself.</i>
 
 <i>Today is Saturday and WEASLIE has no need to leave the house for work.</i>
 
@@ -208,7 +208,7 @@ lastmod: 2021-12-10 09:57
 
 #### PERKINS 
 
-> SOUNDS LIKE A WORTHWHILE CAUSE. CAN'T IMAGINE WHY IT GOT THE ATTENTION OF SOMEONE LIKE McCOY.
+> SOUNDS LIKE A WORTHWHILE CAUSE. CAN'T IMAGINE WHY IT GOT THE ATTENTION OF SOMEONE LIKE TRELAINE.
 
 #### WEASLIE 
 

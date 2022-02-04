@@ -55,7 +55,7 @@ lastmod: 2021-11-04 16:56
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/avael-tb.jpg" class="chat-portrait" />
 <p class="ppl-sez">AVAEL//</p>
-<p class="ppl-sez">I AM ONLY PARTIALLY AWARE OF YOUR BACKGROUND KNOWLEDGE REGARDING MY FORMER ASSOCIATION WITH THE VAMPIRE McCOY.</p>
+<p class="ppl-sez">I AM ONLY PARTIALLY AWARE OF YOUR BACKGROUND KNOWLEDGE REGARDING MY FORMER ASSOCIATION WITH THE VAMPIRE TRELAINE.</p>
 </div>
 
 <div class="chat-box">
@@ -82,7 +82,7 @@ lastmod: 2021-11-04 16:56
 <p class="ppl-sez">AVAEL//</p>
 <p class="ppl-sez">THE YOUNG WOMAN IS NEITHER MY BROTHER NOR MY SISTER.</p>
 <p class="ppl-sez">CERTAINLY NOT MY CHILD.</p>
-<p class="ppl-sez">I BORE NO CHILD TO McCOY NOR TO ANYONE ELSE, SIR.</p>
+<p class="ppl-sez">I BORE NO CHILD TO TRELAINE NOR TO ANYONE ELSE, SIR.</p>
 </div>
 
 <div class="chat-box">
@@ -97,7 +97,7 @@ lastmod: 2021-11-04 16:56
 <p class="ppl-sez">BEING THAT THERE IS NO SUCH THING AS FREE WILL.</p>
 <p class="ppl-sez">SHE LOOKS LIKE I DID AS A YOUNG MORTAL.</p>
 <p class="ppl-sez">SHE IS EASILY DISTRACTABLE AND PRONE TO FLIGHTS OF FANCY.</p>
-<p class="ppl-sez">I AM SURE THAT THE DOCTOR McCOY ENJOYS HAVING A YOUNG WOMAN AROUND TO DISTRACT HIMSELF FROM HIS DAY-TO-DAY CONCERNS.</p>
+<p class="ppl-sez">I AM SURE THAT THE DOCTOR TRELAINE ENJOYS HAVING A YOUNG WOMAN AROUND TO DISTRACT HIMSELF FROM HIS DAY-TO-DAY CONCERNS.</p>
 <p class="ppl-sez">WHY WE DO NOT SIMPLY MURDER THE MAN IS BEYOND MY COMPUTATIONS, SIR.</p>
 </div>
 
@@ -199,13 +199,13 @@ lastmod: 2021-11-04 16:56
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/avael-tb.jpg" class="chat-portrait" />
 <p class="ppl-sez">AVAEL//</p>
-<p class="ppl-sez">I WAS NEVER MARRIED TO THE VAMPIRE McCOY.</p>
+<p class="ppl-sez">I WAS NEVER MARRIED TO THE VAMPIRE TRELAINE.</p>
 </div>
 
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/cedric1.jpg" class="chat-portrait" />
 <p class="ppl-sez">CEDRIC//</p>
-<p class="ppl-sez">Or the non-vampire McCoy.</p>
+<p class="ppl-sez">Or the non-vampire TRELAINE.</p>
 </div>
 
 <div class="chat-box">

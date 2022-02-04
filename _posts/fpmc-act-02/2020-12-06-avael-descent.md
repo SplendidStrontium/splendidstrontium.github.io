@@ -44,7 +44,7 @@ lastmod: 2021-11-03 15:37
 <p class="ppl-sez">AVAEL//</p>
 <p class="ppl-sez">Well, first off, I had to ask for help.</p>
 <p class="ppl-sez">I hope that's okay.</p>
-<p class="ppl-sez">Cedric broke into McCoy's tower and got into his mainframe</p>
+<p class="ppl-sez">Cedric broke into Trelaine's tower and got into his mainframe</p>
 </div>
 
 <div class="chat-box">
@@ -148,7 +148,7 @@ lastmod: 2021-11-03 15:37
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/avael-sidehair.jpg" class="chat-portrait" />
 <p class="ppl-sez">AVAEL//</p>
-<p class="ppl-sez">Maybe McCoy himself fed on Einstein, maybe he fed on Newton, or knew someone who did.</p>
+<p class="ppl-sez">Maybe Trelaine himself fed on Einstein, maybe he fed on Newton, or knew someone who did.</p>
 <p class="ppl-sez">I didn't think he was that old, but I can't be certain.</p>
 <p class="ppl-sez">We do know, or at least suspect strongly, that Newton was an alchemist, a dabbler.</p>
 <p class="ppl-sez">the common man takes it as humor but I doubt it's untrue</p>

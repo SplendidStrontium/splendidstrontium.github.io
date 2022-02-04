@@ -14,7 +14,7 @@ lastmod: 2021-11-03 14:17
 [//]: # ( 11/03/21  -title added)
 
 *****
-<br/><i>Yesterday evening had been a strange evening. The late morning had seen AVAELLE EASTON, DOCTOR LENARD McCOY go out of doors to groom their horses. Soon after they went inside to [prepare for lunch]({% post_url /fpmc-act-00/1839-10-20-avael-sunday %}), THE DOCTOR cited a need for an afternoon nap and retreated to the guest room. AVAELLE spent the rest of the day by herself, spending some time in front of her Bible during a quiet time in the afternoon.</i>
+<br/><i>Yesterday evening had been a strange evening. The late morning had seen AVAELLE EASTON, DOCTOR LENARD TRELAINE go out of doors to groom their horses. Soon after they went inside to [prepare for lunch]({% post_url /fpmc-act-00/1839-10-20-avael-sunday %}), THE DOCTOR cited a need for an afternoon nap and retreated to the guest room. AVAELLE spent the rest of the day by herself, spending some time in front of her Bible during a quiet time in the afternoon.</i>
 
 <i>The sun begins to wane and AVAELLE sees MAURICE for a small supper. Her father is still abed. AVAELLE is about to retire to her bedroom for the evening when she encounters THE DOCTOR in the upstairs hallway. She has a candle in hand, intending to light the hallway.</i>
 
@@ -24,7 +24,7 @@ lastmod: 2021-11-03 14:17
 
 <br/><I>AVAELLE's tone is lightly caustic. She had found herself desirous of his company after he'd spent the afternoon in seclusion.</i>
 
-#### McCOY ####
+#### TRELAINE ####
 
 > DID YOU TRY TO COME FETCH ME FOR SUPPER?
 >
@@ -36,7 +36,7 @@ lastmod: 2021-11-03 14:17
 
 > I'M SURE THERE WASN'T MUCH TO SEE.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > IT IS A LOVELY HOME. 
 
@@ -44,7 +44,7 @@ lastmod: 2021-11-03 14:17
 
 > WE MISSED YOU AT SUPPER.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > DID MAURICE MAKE IT DOWN?
 
@@ -54,13 +54,13 @@ lastmod: 2021-11-03 14:17
 >
 > I'M GLAD TO SEE HE'S IMPROVING.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > YES, I AM TOO.
 
 <br/><i>A pause hangs in the air for a moment. AVAELLE refuses eye contact with THE DOCTOR as she walks down the hallway sharing her flame with the candles.</i>
 
-#### McCOY ####
+#### TRELAINE ####
 
 > WOULD YOU LET ME SIT FOR MY PORTRAIT THIS EVENING?
 
@@ -70,7 +70,7 @@ lastmod: 2021-11-03 14:17
 
 > IT'S A LITTLE LATE, DON'T YOU THINK?
 
-#### McCOY ####
+#### TRELAINE ####
 
 > WERE YOU GOING TO RETIRE?
 
@@ -78,7 +78,7 @@ lastmod: 2021-11-03 14:17
 
 > I WAS GOING TO.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > I DON'T INTEND TO KEEP YOU LONG.
 
@@ -86,7 +86,7 @@ lastmod: 2021-11-03 14:17
 
 > THE LIGHTING IS POOR.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > PERHAPS THAT IS SOMETHING WE CAN USE TO OUR ADVANTAGE.
 >
@@ -171,7 +171,7 @@ lastmod: 2021-11-03 14:17
 
 > CAN I GET YOU SOMETHING?
 
-#### McCOY ####
+#### TRELAINE ####
 
 > WHISKY? OH NO, THAT'S QUITE ALRIGHT.
 >
@@ -196,7 +196,7 @@ lastmod: 2021-11-03 14:17
 
 > YOU WANT TO SEND THIS TO YOUR MOTHER?
 
-#### McCOY ####
+#### TRELAINE ####
 
 > PERHAPS. SHE WAS ALWAYS ONE FOR GIFTS.
 
@@ -204,7 +204,7 @@ lastmod: 2021-11-03 14:17
 
 > WHAT IS SHE LIKE?
 
-#### McCOY ####
+#### TRELAINE ####
 
 > MY MOTHER?
 >
@@ -224,7 +224,7 @@ lastmod: 2021-11-03 14:17
 >
 > JUST...
 
-#### McCOY ####
+#### TRELAINE ####
 
 > AH, WELL. IT'S TRUE THAT I'VE SEEN BETTER DAYS.
 >
@@ -242,7 +242,7 @@ lastmod: 2021-11-03 14:17
 >
 > I AM OFTEN TASKED WITH MINCING.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > I HAVE SAMPLED YOUR OFFERINGS BY SCENT.
 >
@@ -254,7 +254,7 @@ lastmod: 2021-11-03 14:17
 >
 > I APPRECIATE THAT.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > MY MOTHER RARELY APPLIES HERSELF TO THE KITCHEN.
 >
@@ -266,7 +266,7 @@ lastmod: 2021-11-03 14:17
 
 > WHEN DO YOU PLAN ON LEAVING?
 
-#### McCOY ####
+#### TRELAINE ####
 
 > I HAVE SENT FOR ANOTHER DOCTOR TO COME TO THE TOWN.
 >
@@ -278,7 +278,7 @@ lastmod: 2021-11-03 14:17
 
 > YOU'RE LEAVING THE VILLAGE?
 
-#### McCOY ####
+#### TRELAINE ####
 
 > NOT FOR SOME TIME, YET.
 
@@ -286,7 +286,7 @@ lastmod: 2021-11-03 14:17
 
 > YOU'LL NEED TO COME BACK TO SIT FOR YOUR PORTRAIT.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > I'M SURE THAT MY REPLACEMENT WILL NOT BE HERE THIS WEEK OR THE NEXT.
 >
@@ -306,7 +306,7 @@ lastmod: 2021-11-03 14:17
 
 > FATHER WOULD BE DISAPPOINTED.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > YOU'VE BEEN BUSY KEEPING THE HOUSE INTACT.
 >
@@ -316,7 +316,7 @@ lastmod: 2021-11-03 14:17
 
 > MAURICE SHOULD BE WELL TOMORROW.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > AND YOUR FATHER, TOO.
 >
@@ -330,7 +330,7 @@ lastmod: 2021-11-03 14:17
 >
 > WHERE WILL YOU GO?
 
-#### McCOY ####
+#### TRELAINE ####
 
 > I WILL GO WEST.
 >

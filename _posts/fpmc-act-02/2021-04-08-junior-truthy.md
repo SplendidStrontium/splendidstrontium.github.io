@@ -362,8 +362,8 @@ lastmod: 2021-11-04 15:56
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/mccoy-conftb.jpg" class="chat-portrait" />
-<p class="ppl-sez">McCOY//</p>
+<img src="{{ site.url }}/assets/tb/trelaine-conftb.jpg" class="chat-portrait" />
+<p class="ppl-sez">LENARD//</p>
 <p class="ppl-sez">Yes I did. Everything seems to be in order.</p>
 </div>
 
@@ -374,8 +374,8 @@ lastmod: 2021-11-04 15:56
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/mccoy-conftb.jpg" class="chat-portrait" />
-<p class="ppl-sez">McCOY//</p>
+<img src="{{ site.url }}/assets/tb/trelaine-conftb.jpg" class="chat-portrait" />
+<p class="ppl-sez">LENARD//</p>
 <p class="ppl-sez">Evidence? Well by the time I arrived, everything was taken care of. I spoke to Sierra. Caleb was rather distraught and tried to hide the doing from her. But there was one piece of wood missing.</p>
 </div>
 
@@ -387,8 +387,8 @@ lastmod: 2021-11-04 15:56
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/mccoy-conftb.jpg" class="chat-portrait" />
-<p class="ppl-sez">McCOY//</p>
+<img src="{{ site.url }}/assets/tb/trelaine-conftb.jpg" class="chat-portrait" />
+<p class="ppl-sez">LENARD//</p>
 <p class="ppl-sez">If you want your pet to know anything, you'll have to teach him.</p>
 </div>
 
@@ -399,8 +399,8 @@ lastmod: 2021-11-04 15:56
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/mccoy-conftb.jpg" class="chat-portrait" />
-<p class="ppl-sez">McCOY//</p>
+<img src="{{ site.url }}/assets/tb/trelaine-conftb.jpg" class="chat-portrait" />
+<p class="ppl-sez">LENARD//</p>
 <p class="ppl-sez">His father near-ruined the trees.</p>
 </div>
 
