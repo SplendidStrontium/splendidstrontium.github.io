@@ -436,7 +436,7 @@ yearned to leave.</i>
 
 > I'M NOT SO SURE I EVER INTRODUCED MYSELF.
 > 
-> I'M THE DOCTOR LENARD H. McCOY.
+> I'M THE DOCTOR LENARD H. TRELAINE.
 
 <BR><I>I did not care what his name was, I wanted to return home.</i>
 <br><br>

@@ -68,7 +68,7 @@ lastmod: 2021-12-21 14:37
 
 <BR><I>She is left in stunned stillness when a voice she recognizes breaks the mystery.</i>
 
-#### McCOY
+#### TRELAINE
 
 > YOU LOOK AWFUL.
 
@@ -84,13 +84,13 @@ lastmod: 2021-12-21 14:37
 
 > DOCTOR, I...
 
-#### McCOY
+#### TRELAINE
 
 > YOU NEVER WROTE.
 
 <BR><I>She'd always meant to...</i>
 
-#### McCOY
+#### TRELAINE
 
 > I ASSUME YOU RECEIVED WHAT I SENT?
 
@@ -100,7 +100,7 @@ lastmod: 2021-12-21 14:37
 
 > THAT SPRING...
 
-#### McCOY
+#### TRELAINE
 
 > THAT SPRING YOU RECEIVED CORRESPONDENCE FROM ME.
 > 
@@ -112,13 +112,13 @@ lastmod: 2021-12-21 14:37
 
 <BR><I>It was true.</i>
 
-#### McCOY 
+#### TRELAINE 
 
 > WHY?
 
 <BR><I>His reproachful tone hurts her. Her bandages make her feel a prisoner.</i>
 
-#### McCOY
+#### TRELAINE
 
 > WHY DIDN'T YOU COME TO ME?
 > 
@@ -132,7 +132,7 @@ lastmod: 2021-12-21 14:37
 
 <i>She is stuck, motionless, helpless.</i>
 
-#### McCOY
+#### TRELAINE
 
 > WHY?
 
@@ -142,7 +142,7 @@ lastmod: 2021-12-21 14:37
 
 > BECAUSE I WAS AFRAID!
 
-#### McCOY
+#### TRELAINE
 
 > ...
 > 
@@ -162,7 +162,7 @@ lastmod: 2021-12-21 14:37
 
 <i>She feels very small, very childish. But for even a moment, she's forgotten her dire condition; as if she's bedridden out of shame rather than necessity.</i>
 
-#### McCOY
+#### TRELAINE
 
 > MY NAME IS LENARD.
 
@@ -172,13 +172,13 @@ lastmod: 2021-12-21 14:37
 
 <BR><I>He walks around the edge of the bed and approaches the side where her head is laid. He kneels down and they finally catch each other's eyes in the moonglow.</i>
 
-#### McCOY
+#### TRELAINE
 
 > WHAT HAVE THEY DONE TO YOU?
 
 <BR><I>Her eyes are still brimming with salt water. It stings as it wets the bandages. Even her cheeks were damaged from the flames.</i>
 
-#### McCOY
+#### TRELAINE
 
 > YOU CAN'T GO TO THE BALL LOOKING LIKE THAT.
 
@@ -190,7 +190,7 @@ lastmod: 2021-12-21 14:37
 
 <i>LENARD presses his hand against her mouth, silencing her.</i>
 
-#### McCOY
+#### TRELAINE
 
 > QUIET! DO YOU WANT THEM TO HEAR US?
 > 
@@ -198,7 +198,7 @@ lastmod: 2021-12-21 14:37
 
 <BR><I>His hand is buried in her mouth, pushing her teeth apart. The white-hot burning in her skin hurts, but she tries to obey, now biting down on his hand to focus her endurance.</i>
 
-#### McCOY
+#### TRELAINE
 
 > VERY CUTE, LITTLE ONE.
 > 
@@ -212,7 +212,7 @@ lastmod: 2021-12-21 14:37
 
 <i>He continues to wave his hand over her body.</i>
 
-#### McCOY
+#### TRELAINE
 
 > I WAS SENT HERE TO HELP YOU.
 > 
@@ -224,7 +224,7 @@ lastmod: 2021-12-21 14:37
 
 <i>He shushes her, an attempt at being soothing.</i>
 
-#### McCOY
+#### TRELAINE
 
 > SHH...
 > 
@@ -238,7 +238,7 @@ lastmod: 2021-12-21 14:37
 
 <i>He brings his hand back and examines it. She stares off into the distance, mind blank, and closes her eyes.</i>
 
-#### McCOY
+#### TRELAINE
 
 > DON'T YOU WORRY.
 > 
@@ -246,7 +246,7 @@ lastmod: 2021-12-21 14:37
 
 <BR><I>He chuckles lightly.</i>
 
-#### McCOY
+#### TRELAINE
 
 > IT EVEN... FELT GOOD.
 
@@ -254,7 +254,7 @@ lastmod: 2021-12-21 14:37
 
 <i>'Magician'?</i>
 
-#### McCOY
+#### TRELAINE
 
 > REST, A MOMENT.
 > 
@@ -268,7 +268,7 @@ lastmod: 2021-12-21 14:37
 
 <BR><I>He raises a finger to silence her questioning.</i>
 
-#### McCOY
+#### TRELAINE
 
 > SHH. ALL WILL BE KNOWN IN TIME.
 > 
@@ -276,7 +276,7 @@ lastmod: 2021-12-21 14:37
 
 <BR><I>LENARD retrieves a white dressing gown from a hook on the wall.</i>
 
-#### McCOY
+#### TRELAINE
 
 > I'M SORRY I HAVEN'T ANYTHING PRETTIER.
 > 
@@ -286,25 +286,25 @@ lastmod: 2021-12-21 14:37
 
 <i>She struggles and attempts to sit.</i>
 
-#### McCOY
+#### TRELAINE
 
 > IT'LL HAVE TO DO.
 
 <BR><I>He bends over and supports her with one hand, then propping the pillows up behind her back. He pulls the gown over her and it falls about her lap.</i>
 
-#### McCOY
+#### TRELAINE
 
 > GOOD ENOUGH.
 
 <BR><I>AVAELLE flops uselessly against the pillows when LENARD withdraws his supporting arm. He walks over to the window and pushes it up with one hand. A cold breeze seeps into the room.</i>
 
-#### McCOY
+#### TRELAINE
 
 > ARE YOU READY?
 
 <BR><I>AVAELLE nods her head.</i>
 
-#### McCOY 
+#### TRELAINE 
 
 > SPEAK, IF YOU ARE ABLE.
 
@@ -324,7 +324,7 @@ lastmod: 2021-12-21 14:37
 
 <i>They land, suddenly, on the grass with a firm THUMP.</I>
 
-#### McCOY
+#### TRELAINE
 
 > YOU OKAY?
 
@@ -338,7 +338,7 @@ lastmod: 2021-12-21 14:37
 
 <BR><I>He begins to walk.</i>
 
-#### McCOY
+#### TRELAINE
 
 > WORDS, GIRL. WORDS.
 > 

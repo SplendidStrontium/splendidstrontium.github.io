@@ -16,15 +16,15 @@ lastmod: 2021-11-04 15:45
 
 ## // THE CRIMSON TOWER // ##
 
-<I>Two weeks have passed since LENARD McCOY gifted the young woman MEIFENG TANG with the curse of his ancestors.</i>
+<I>Two weeks have passed since LENARD TRELAINE gifted the young woman MEIFENG TANG with the curse of his ancestors.</i>
 
-<i>It had been a quiet ceremony. McCOY had become a man of words in the modern era, but he had not been raised that way. Under matters of importance, he tended to revert back to his old ways. The ways that were comfortable to him and reminded him of ...Home.</i>
+<i>It had been a quiet ceremony. TRELAINE had become a man of words in the modern era, but he had not been raised that way. Under matters of importance, he tended to revert back to his old ways. The ways that were comfortable to him and reminded him of ...Home.</i>
 
 <i>After she'd drank from him, she'd felt an unknown surge sweep through her person, as if poison. Before collapsing from exhaustion, she had time only to answer his final question.</i>
 
 *****
 
-### McCOY ###
+### TRELAINE ###
 
 > WHAT IS YOUR NAME?! HOW WILL WE CALL YOU?
 
@@ -44,7 +44,7 @@ lastmod: 2021-11-04 15:45
 
 > SHE'LL BE FINE.
 
-### McCOY ###
+### TRELAINE ###
 
 > ... I KNOW.
 
@@ -52,11 +52,11 @@ lastmod: 2021-11-04 15:45
 
 ## // THE LOCAL CLINIC // ##
 
-<I>McCOY has been checking his phone anxiously over the past two weeks, desperate for news.</i>
+<I>TRELAINE has been checking his phone anxiously over the past two weeks, desperate for news.</i>
 
 <i>VANESSA was not the first he'd given the curse, nor would she be the last. But this time seemed... different.</i>
 
-<i>These days, McCOY worked as a doctor. A seemingly ordinary doctor, or so his patients believed. Ugly, but not without his charisma, charm, and certainly not without the air of competence. With the secret support of the NSR, neither his bad temper nor his occasional misunderstanding of human physiology were enough for him to lose a job.</i>
+<i>These days, TRELAINE worked as a doctor. A seemingly ordinary doctor, or so his patients believed. Ugly, but not without his charisma, charm, and certainly not without the air of competence. With the secret support of the NSR, neither his bad temper nor his occasional misunderstanding of human physiology were enough for him to lose a job.</i>
 
 <i>Worst case scenario, they just moved him somewhere else.</i>
 
@@ -64,7 +64,7 @@ lastmod: 2021-11-04 15:45
 
 <i>It is a cloudy afternoon when he finally gets the news he's been waiting for. He's attending to a young girl, MARIAM ... MARIAM ... HUBERT? The family name seems unimportant.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > I'M SO SORRY MARIAM, I'M ON CALL THIS WEEK AND I HAVE TO TAKE THIS.
 
@@ -84,11 +84,11 @@ lastmod: 2021-11-04 15:45
 <p class="ppl-sez">Are you there?</p>
 </div>
 
-<i>McCOY fumbles out a reply.</i>
+<i>TRELAINE fumbles out a reply.</i>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/mccoy-thedoctor.jpg" class="chat-portrait" />
-<p class="ppl-sez">McCOY//</p>
+<img src="{{ site.url }}/assets/tb/trelaine-thedoctor.jpg" class="chat-portrait" />
+<p class="ppl-sez">TRELAINE//</p>
 <p class="ppl-sez">Avaelle. I'm here.</p>
 <p class="ppl-sez">Are you okay?</p>
 <p class="ppl-sez">Please say you're okay.</p>
@@ -103,8 +103,8 @@ lastmod: 2021-11-04 15:45
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/mccoy-thedoctor.jpg" class="chat-portrait" />
-<p class="ppl-sez">McCOY//</p>
+<img src="{{ site.url }}/assets/tb/trelaine-thedoctor.jpg" class="chat-portrait" />
+<p class="ppl-sez">TRELAINE//</p>
 <p class="ppl-sez">Two.</p>
 </div>
 
@@ -122,8 +122,8 @@ lastmod: 2021-11-04 15:45
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/mccoy-thedoctor.jpg" class="chat-portrait" />
-<p class="ppl-sez">McCOY//</p>
+<img src="{{ site.url }}/assets/tb/trelaine-thedoctor.jpg" class="chat-portrait" />
+<p class="ppl-sez">TRELAINE//</p>
 <p class="ppl-sez">Think nothing of it.</p>
 </div>
 
@@ -141,8 +141,8 @@ lastmod: 2021-11-04 15:45
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/mccoy-thedoctor.jpg" class="chat-portrait" />
-<p class="ppl-sez">McCOY//</p>
+<img src="{{ site.url }}/assets/tb/trelaine-thedoctor.jpg" class="chat-portrait" />
+<p class="ppl-sez">TRELAINE//</p>
 <p class="ppl-sez">Say no more.</p>
 <p class="ppl-sez">I'm coming over.</p>
 </div>
@@ -165,13 +165,13 @@ lastmod: 2021-11-04 15:45
 
 > SHE'S DOWNSTAIRS ON THE COMPUTER. WHEN SHE'S AWARE, I'M BARELY ABLE TO TEAR HER FROM THE THING.
 
-<I>McCOY leads -- the two walk toward the stairs to the basement.</i>
+<I>TRELAINE leads -- the two walk toward the stairs to the basement.</i>
 
 <i>The darkened brick interior is murky yet dry; salt hangs in the air.</i>
 
 <i>When he is about halfway down, he stops and calls out.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > VANESSA, ARE YOU DOWN HERE?
 
@@ -187,7 +187,7 @@ lastmod: 2021-11-04 15:45
 
 <I>She seems bright, even overly energized.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > I'M DOING WELL, THANK YOU FOR ASKING.
 
@@ -201,7 +201,7 @@ lastmod: 2021-11-04 15:45
 
 > NEVER BETTER.
 
-### McCOY ###
+### TRELAINE ###
 
 > ARE YOU DREAMING?
 
@@ -215,7 +215,7 @@ lastmod: 2021-11-04 15:45
 
 <I>A quiet falls over the trio.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > AVAELLE TELLS ME --
 
@@ -225,7 +225,7 @@ lastmod: 2021-11-04 15:45
 
 > DID YOU GET IT?
 
-### McCOY ###
+### TRELAINE ###
 
 > A ... MESSAGE...?
 
@@ -235,11 +235,11 @@ lastmod: 2021-11-04 15:45
 
 <I>VANESSA is over-active and antsy, even childish in her enthusiasm.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > ... I'LL CHECK IT NOW.
 
-<I>McCOY removes the phone from his doctor's coat. The message is dated within the last few minutes.</i>
+<I>TRELAINE removes the phone from his doctor's coat. The message is dated within the last few minutes.</i>
 
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/vanessa.jpg" class="chat-portrait" />
@@ -248,9 +248,9 @@ lastmod: 2021-11-04 15:45
 <p class="ppl-sez">I got another one.</p>
 </div>
 
-<i>McCOY says nothing, but manages to look toward AVAELLE to gauge her status. The young woman at the bottom of the stairs eagerly awaits his reply.</i>
+<i>TRELAINE says nothing, but manages to look toward AVAELLE to gauge her status. The young woman at the bottom of the stairs eagerly awaits his reply.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > I'M SO SORRY I DIDN'T GET A CHANCE TO RESPOND.
 
@@ -262,7 +262,7 @@ lastmod: 2021-11-04 15:45
 
 > I THOUGHT THEY HAD WI-FI IN THE TRAIN STATIONS NOW.
 
-### McCOY ###
+### TRELAINE ###
 
 > WELL, THEY DO, BUT...
 
@@ -280,9 +280,9 @@ lastmod: 2021-11-04 15:45
 
 <I>AVAELLE shifts on the stairs, sending a loud creak echoing through the cavernous underground.</i>
 
-<i>He can't stay on the stairs forever. McCOY walks down the stairs, slowly, steadily, cautiously.</i>
+<i>He can't stay on the stairs forever. TRELAINE walks down the stairs, slowly, steadily, cautiously.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > VANESSA. I WANTED TO TALK TO YOU ABOUT SOMETHING.
 
@@ -296,7 +296,7 @@ lastmod: 2021-11-04 15:45
 
 > OH YES PLEASE! I'VE MISSED YOU!
 
-### McCOY ###
+### TRELAINE ###
 
 > VANESSA. 
 
@@ -304,7 +304,7 @@ lastmod: 2021-11-04 15:45
 
 > HOW HAS IT TAKEN YOU?
 
-<I>While McCOY speaks, AVAELLE follows slowly down the stairs, each creaking under her weight.</i>
+<I>While TRELAINE speaks, AVAELLE follows slowly down the stairs, each creaking under her weight.</i>
 
 ### VANESSA ###
 
@@ -314,7 +314,7 @@ lastmod: 2021-11-04 15:45
 
 > I DON'T KNOW WHY YOU CALL THIS A CURSE.
 
-### McCOY ###
+### TRELAINE ###
 
 > YOU'VE BEEN... DRINKING -- ?
 
@@ -336,7 +336,7 @@ lastmod: 2021-11-04 15:45
 
 > IT'S EASY TO JUST --
 
-### McCOY ###
+### TRELAINE ###
 
 > VANESSA. THERE'S MORE THAN JUST...
 
@@ -352,13 +352,13 @@ lastmod: 2021-11-04 15:45
 
 > YES. A VEGETARIAN.
 
-### McCOY ###
+### TRELAINE ###
 
 > YOU SWORE TO DO NO HARM.
 
 > RIGHT?
 
-<I>McCOY feels a gentle poke on his upper back.</i>
+<I>TRELAINE feels a gentle poke on his upper back.</i>
 
 ### AVAELLE ###
 
@@ -366,7 +366,7 @@ lastmod: 2021-11-04 15:45
 
 <I>But he continues to lecture toward the young vampress.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > YOU TOOK A VOW NOT TO SLAY ANOTHER TO SATISFY YOUR OWN SUSTENANCE.
 
@@ -376,7 +376,7 @@ lastmod: 2021-11-04 15:45
 
 > I... I DID.
 
-### McCOY ###
+### TRELAINE ###
 
 > IT IS UNLAWFUL --
 
@@ -386,13 +386,13 @@ lastmod: 2021-11-04 15:45
 
 > I DID TAKE THAT VOW.
 
-### McCOY ###
+### TRELAINE ###
 
 > YOU DID.
 
 <I>VANESSA pauses for a moment to contemplate what the Elder has spoken.</i>
 
-<i>McCOY turns over his shoulder to address the red-haired woman.</i>
+<i>TRELAINE turns over his shoulder to address the red-haired woman.</i>
 
 <i>His voice is sheltered, whispered, as if in secrecy.</i>
 
@@ -404,7 +404,7 @@ lastmod: 2021-11-04 15:45
 
 <I>The words cause surprise in the Doctor.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > THE ... ROSES?!
 
@@ -412,7 +412,7 @@ lastmod: 2021-11-04 15:45
 
 > BETTER THEY SCATTER TO THE WIND THAN KEPT CAPTIVE IN MY SANCTUARY!
 
-### McCOY ###
+### TRELAINE ###
 
 > BUT THE SMELL...
 
@@ -422,9 +422,9 @@ lastmod: 2021-11-04 15:45
 
 <I>VANESSA looks up toward the pair, suddenly aware that she's being spoken about.</i>
 
-<i>McCOY suddenly loses his cool and shouts at the young VANESSA.</I>
+<i>TRELAINE suddenly loses his cool and shouts at the young VANESSA.</I>
 
-### McCOY ###
+### TRELAINE ###
 
 > WE'RE SUPPOSED TO KEEP THEM ALIVE, YOU DUMB FUCK!
 

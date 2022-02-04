@@ -26,7 +26,7 @@ lastmod: 2022-01-27 14:53
 
 > SO TELL ME HOW THIS THING WORK, DOC.
 
-#### McCOY
+#### TRELAINE
 
 > YOUNGLING, GREETINGS.
 
@@ -34,7 +34,7 @@ lastmod: 2022-01-27 14:53
 
 > (thinking) I could really use a piece of chewing gum.
 
-#### McCOY
+#### TRELAINE
 
 > YOUNGLING, GREETINGS.
 
@@ -62,7 +62,7 @@ lastmod: 2022-01-27 14:53
 
 > IF YOU WANT TO LEARN MAGIC THEN YOU SHOULD START WITH POTIONS; THAT'S WHAT MAMA ALWAYS SAID.
 
-#### McCOY
+#### TRELAINE
 
 > IT'S NOT ABOUT LEARNING MAGIC, IT'S ABOUT DOING MAGIC.
 > 

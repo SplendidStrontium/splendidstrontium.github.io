@@ -24,7 +24,7 @@ lastmod: 2021-11-04 12:51
 
 <i>Unnoticed by her, a figure stands in the hallway, obscured by the refrigerator door.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > SOON, YOU WON'T NEED ANY OF THAT ANYMORE.
 
@@ -36,9 +36,9 @@ lastmod: 2021-11-04 12:51
 
 <I>She closes the refrigerator door.</i>
 
-<i>McCOY takes a few steps into the kitchen but retains a sizeable distance from MEIFENG.</I>
+<i>TRELAINE takes a few steps into the kitchen but retains a sizeable distance from MEIFENG.</I>
 
-### McCOY ###
+### TRELAINE ###
 
 > YOUR REACTION INSTINCT IS HEIGHTENED. A NEW HOME, AND MANY CHANGES FOR YOU ALREADY AND TO COME. IT WILL GET EASIER. PEACE WILL COME TO YOU AND THE FEAR WILL FADE.
 
@@ -48,7 +48,7 @@ lastmod: 2021-11-04 12:51
 
 > I FILED MY PAPERWORK AND WITHDREW FROM SCHOOL.
 
-### McCOY ###
+### TRELAINE ###
 
 > SO WE DIDN'T DECIDE TO GO WITH THE MISSING PERSON ANGLE.
 
@@ -66,9 +66,9 @@ lastmod: 2021-11-04 12:51
 
 <i>Two slices of pepperoni pizza.</i>
 
-<i>MEIFENG grimaces at the food, unable or unwilling to contain her judgement. Her sneering face does not escape McCOY's notice.</i>
+<i>MEIFENG grimaces at the food, unable or unwilling to contain her judgement. Her sneering face does not escape TRELAINE's notice.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > ARE YOU SURE YOU WANT TO GO THIS ROUTE? IT MAY ALL SEEM REPULSIVE TO YOU NOW, BUT AFTER YOU ACCEPT THE CURSE OF MY ANCESTORS, THERE IS NO GOING BACK.
 
@@ -76,7 +76,7 @@ lastmod: 2021-11-04 12:51
 
 <I>A silence hangs in the air.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > AVAELLE TOLD ME YOU'RE A VEGETARIAN.
 
@@ -86,7 +86,7 @@ lastmod: 2021-11-04 12:51
 
 > SIX YEARS. DROVE MY MOTHER CRAZY. SHE COULDN'T UNDERSTAND IT.
 
-### McCOY ###
+### TRELAINE ###
 
 > I COMMEND YOU ON YOUR CONVICTION. SOMETIMES, NO MATTER HOW HARD WE TRY, OTHERS WON'T UNDERSTAND WHY WE DO THE THINGS THAT WE DO. WE MUST SEARCH OURSELVES BUT IF OUR CAUSE IS JUST WE MUST NOT ALLOW THE UNENLIGHTENED TO DRAW US FROM OUR GOALS.
 
@@ -94,7 +94,7 @@ lastmod: 2021-11-04 12:51
 
 <I>AVAELLE, now sitting atop a barstool, looks up with a shine in her eyes.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > THE VISITORS COME SOON TO THIS PLANET. FIRST, THEY WILL VISIT THE COURT OF THE MOON AS THEY ARE THE MOST RECENT RULING FAMILY THEY ARE FAMILIAR WITH. SOON AFTER THEY WILL COME TO EARTH AND TRY TO SORT THROUGH ITS SQUABBLING MASSES. 
 
@@ -112,7 +112,7 @@ lastmod: 2021-11-04 12:51
 
 > MYRTLE MARSCAPONE? MY MOTHER WOULD HAVE HER OVER WEEKLY AS PART OF HER GAME CLUB.
 
-### McCOY ###
+### TRELAINE ###
 
 > THE WITCH IS A REBEL. SHE REJECTS THE RIGHTFUL RULE OF THE MOON COURT. SHE IS SOMETHING OF A SECESSIONIST.
 
@@ -122,9 +122,9 @@ lastmod: 2021-11-04 12:51
 
 > THE TANG FAMILY HAS A PLACE IN THE GLORIOUS FUTURE, AND IT ISN'T AS A VASSAL TO A HALF-BRED HAG.
 
-<I>The passion with which McCOY delivers his speech begs a moment of reverence.</i>
+<I>The passion with which TRELAINE delivers his speech begs a moment of reverence.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > I WANT YOU TO TAKE A NEW NAME. KEEP YOUR FAMILY NAME TO FORETELL YOUR GRAND DESTINY BUT SHED YOUR CHILD'S NAME AND JOIN US AS AN EQUAL.
 
@@ -136,9 +136,9 @@ lastmod: 2021-11-04 12:51
 
 > 'MEIFENG'... IT MUST MEAN 'BEAUTIFUL' ... SOMETHING.
 
-<I>McCOY does a double take, looking at her strangely, stricken.</i>
+<I>TRELAINE does a double take, looking at her strangely, stricken.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > (thinking) She couldn't be studying the Eastern tongue now, could she?
 
@@ -152,9 +152,9 @@ lastmod: 2021-11-04 12:51
 
 > WILL IT FEEL LIKE?
 
-<I>McCOY's expression softens.</i>
+<I>TRELAINE's expression softens.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > IT WAS SO LONG AGO FOR ME THAT I CAN'T ANSWER YOUR QUESTION IN ANY MEANINGFUL WAY. BUT PERHAPS AVAELLE CAN.
 
@@ -164,7 +164,7 @@ lastmod: 2021-11-04 12:51
 
 <I>AVAELLE sits stiffly.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > AVAELLE EASTON WAS A VAMPRESS I TRAVELED WITH FOR NEAR TWO HUNDRED YEARS.
 
@@ -172,7 +172,7 @@ lastmod: 2021-11-04 12:51
 
 <I>AVAELLE draws into herself, blushing, embarrassed.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > I RESCUED HER FROM POVERTY AND DESTITUTION AND WE TOURED AROUND THIS COUNTRY WHEN IT WAS BEAUTIFUL AND YOUNG.
 
@@ -190,7 +190,7 @@ lastmod: 2021-11-04 12:51
 
 > WHO? MARSCAPONE?
 
-### McCOY ###
+### TRELAINE ###
 
 > STRAUD. MY FORMER FRIEND TURNED TRAITOR. HE LURED AVAELLE TO HIS LAIR AND THEN PUT HER TO SLEEP FOR SOME FIFTY YEARS.
 
@@ -200,9 +200,9 @@ lastmod: 2021-11-04 12:51
 
 > YOU MEAN VLADISLAUS STRAUD. THE ANCIENT ONE.
 
-<I>Insulted, McCOY rises to anger.</i>
+<I>Insulted, TRELAINE rises to anger.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > THE THIEF! THE PRIME THIEF!
 
@@ -212,7 +212,7 @@ lastmod: 2021-11-04 12:51
 
 > BUT ENOUGH OF THIS. THERE WILL BE PLENTY OF TIME FOR HISTORY LESSONS WHEN YOU ARE ONE OF THE SLEEPLESS UNDEAD.
 
-<I>While McCOY attempts to cool his temper, AVAELLE, pizza now in hand, speaks calmly.</i>
+<I>While TRELAINE attempts to cool his temper, AVAELLE, pizza now in hand, speaks calmly.</i>
 
 ### AVAELLE ###
 
@@ -224,7 +224,7 @@ lastmod: 2021-11-04 12:51
 
 > YOU'LL NEVER AGAIN HAVE ANYTHING TO HIDE FROM THE OTHER.
 
-### McCOY ###
+### TRELAINE ###
 
 > IT WOULD BE UNFAIR OF ME TO ASK YOU WHETHER YOU ARE READY FOR THIS AS YOU KNOW NOT FULLY WHAT YOU CONSENT TO. BUT I ASK AVAELLE, IMPRISONED TO THE SHELL OF MORTALITY, ON YOUR BEHALF.
 
@@ -236,9 +236,9 @@ lastmod: 2021-11-04 12:51
 
 > YES... I FEEL SHE IS READY.
 
-<I>If McCOY can do something such as smile, it seems he does.</i>
+<I>If TRELAINE can do something such as smile, it seems he does.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > THEN WE WILL RECONVENE AT SUNDOWN TOMORROW. THE MOON IS IN A FAVORABLE PHASE SO LET US NOT TARRY TOO LONG.
 

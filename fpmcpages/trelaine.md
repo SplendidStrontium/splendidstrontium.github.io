@@ -15,7 +15,7 @@ permalink: /femputermanchine/trelaine/
 <div id="fpmc-intro">
 <table class="inline-imgtbl-l">
 <tr>
-<td><img class="inline-img" src="{{ site.url }}/assets/tb/mccoy-thedoctor.jpg"></td>
+<td><img class="inline-img" src="{{ site.url }}/assets/tb/trelaine-thedoctor.jpg"></td>
 </tr>
 </table>
 <p>DR LENARD TRELAINE is a blood mage capable of modifying the body systems to suit his own curiosities. He was trained by a foreign power and migrated to the United States in the early days of the country's formation.</p>

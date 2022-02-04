@@ -26,6 +26,6 @@ Another BRUTAL slaying of owr own. Bobbie Cummings will no longer grace the nigh
 
 (perpetuitatem)
 
-MCCOY
+TRELAINE
 
 *****

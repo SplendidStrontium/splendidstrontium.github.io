@@ -16,7 +16,7 @@ lastmod: 2022-01-06 14:50
 
 <br><i>It's a cold night in Brooklyn. Avaelle Easton, the supposed coven mother, has come down with a cold and is laid up in bed.</i>
 
-<i>The doctor Lenard McCoy has temporarily shirked his duties and has devoted himself to overseeing the day-to-day dispatching of the vampires under their control.</i>
+<i>The doctor Lenard Trelaine has temporarily shirked his duties and has devoted himself to overseeing the day-to-day dispatching of the vampires under their control.</i>
 
 <i>Vanessa Tang, newly devoted to Trente Gagarin, has been dealing with her new lifestyle, albeit begrudgingly.</i>
 
@@ -36,7 +36,7 @@ lastmod: 2022-01-06 14:50
 
 <i>Vanessa is lost in her thoughts, reclining on a couch, when the Elder approaches her.</i>
 
-#### McCOY
+#### TRELAINE
 
 > VANESSA, WHAT DO YOU KNOW OF ALVARO HALCOM?
 
@@ -52,7 +52,7 @@ lastmod: 2022-01-06 14:50
 > 
 > NEVER DOES HE TALK TO ME LIKE I'M ANYTHING BUT A PIECE OF MEAT.
 
-#### McCOY
+#### TRELAINE
 
 > HE'S PARTIAL TO OLD WAYS OF THINKING.
 > 
@@ -64,7 +64,7 @@ lastmod: 2022-01-06 14:50
 > 
 > HE HAS TO KNOW NOTHING WILL COME OF HIS COME-ONS.
 
-#### McCOY
+#### TRELAINE
 
 > OF COURSE HE DOES, BUT HE'S OF A GENERATION THAT BELIEVES HE'S... WELL --
 > 
@@ -78,7 +78,7 @@ lastmod: 2022-01-06 14:50
 
 > HE'S OLD AND I'M NOT.
 
-#### McCOY
+#### TRELAINE
 
 > NONE OF THAT SHOULD MATTER ANYMORE.
 
@@ -86,7 +86,7 @@ lastmod: 2022-01-06 14:50
 
 > IT DOESN'T DISAPPEAR OVERNIGHT.
 
-#### McCOY
+#### TRELAINE
 
 > YOUR IMPENDING DEATH HAS.
 
@@ -96,7 +96,7 @@ lastmod: 2022-01-06 14:50
 > 
 > WHAT ABOUT HIM?
 
-#### McCOY
+#### TRELAINE
 
 > AVAELLE SAID HE HASN'T REPORTED IN FOR A WEEK.
 
@@ -106,7 +106,7 @@ lastmod: 2022-01-06 14:50
 
 > GOOD RIDDANCE.
 
-#### McCOY
+#### TRELAINE
 
 > YOU KNOW IT'S NOT THAT SIMPLE.
 
@@ -114,7 +114,7 @@ lastmod: 2022-01-06 14:50
 
 > AVAELLE TOLD THEM TO STEER CLEAR OF QUEENS.
 
-#### McCOY
+#### TRELAINE
 
 > DO YOU HAVE ANY REASON TO THINK THAT'S NOT TRUE?
 
@@ -126,7 +126,7 @@ lastmod: 2022-01-06 14:50
 > 
 > I THINK HE HAD SOME RACKET WITH IN-HOME MUSIC LESSONS OR SOME SHIT.
 
-#### McCOY
+#### TRELAINE
 
 > HE DIDN'T SAY ANYTHING ABOUT GOING TO QUEENS.
 
@@ -136,7 +136,7 @@ lastmod: 2022-01-06 14:50
 
 <BR><I>Lenard replies, but quieter, as if to himself.</i>
 
-#### McCOY
+#### TRELAINE
 
 > THEY SHOULD HAVE HAD NO REASON TO SUSPECT US BUT IF THEY DID, I COULD SEE THEM RETALIATING.
 
@@ -150,7 +150,7 @@ lastmod: 2022-01-06 14:50
 > 
 > AND ONES THAT AREN'T PERVERTS.
 
-#### McCOY
+#### TRELAINE
 
 > YOU ARE MORE THAN CAPABLE OF RESISTING HIS ADVANCES.
 > 
@@ -168,7 +168,7 @@ lastmod: 2022-01-06 14:50
 > 
 > IT'S CLEAR WOMEN ARE JUST PETS TO HIM, THE WAY HE SPEAKS TO ME.
 
-#### McCOY
+#### TRELAINE
 
 > "PETS", I DON'T KNOW ABOUT.
 
@@ -176,7 +176,7 @@ lastmod: 2022-01-06 14:50
 
 > THEN WHAT TERM WOULD YOU CHOOSE?
 
-#### McCOY
+#### TRELAINE
 
 > I DON'T KNOW EXACTLY. 
 > 

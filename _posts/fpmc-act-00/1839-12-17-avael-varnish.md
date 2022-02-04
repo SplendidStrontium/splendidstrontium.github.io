@@ -4,7 +4,7 @@ title: "AVAEL 005: Varnish"
 permalink: /femputermanchine/avael/varnish/
 category: femputermanchine
 date: 1839-12-17 17:22
-description: "in which Dr. McCoy brings unfortunate news to the family"
+description: "in which Dr. TRELAINE brings unfortunate news to the family"
 tags: [skit, fpmcmain-avael, act-0]
 published: true
 lastmod: 2021-12-17 09:23
@@ -14,7 +14,7 @@ lastmod: 2021-12-17 09:23
 *****
 ### // EASTON HOUSE //
 
-<br><I>For weeks since the recovery of the men of EASTON HOUSE, DOCTOR LENARD McCOY has come to sit for his painting. He has made a habit of arriving soon after sunset as THE DOCTOR had requested his portrait be done by candlelight.</i>
+<br><I>For weeks since the recovery of the men of EASTON HOUSE, DOCTOR LENARD TRELAINE has come to sit for his painting. He has made a habit of arriving soon after sunset as THE DOCTOR had requested his portrait be done by candlelight.</i>
 
 <i>Each Friday, AVAELLE EASTON takes her evening meal early and sets up the living room for his arrival. Candles tall and small are strewn about the area to acheive the minimum required lighting for her work. She's taken to enjoying a tiny cup of whisky sipped throughout the evening as the two sit in conversation and pleasantries.</i>
 
@@ -36,7 +36,7 @@ lastmod: 2021-12-17 09:23
 
 <BR><I>THE DOCTOR brushes his shoes on a rug underneath the door.</i>
 
-#### McCOY
+#### TRELAINE
 
 > MISS EASTON.
 > 
@@ -54,7 +54,7 @@ lastmod: 2021-12-17 09:23
 
 <BR><I>THE DOCTOR had taken to helping himself to the stable and walking up unencumbered to the residence. He was kind to the family, and though he accepted some of their hospitalities, he was also comfortable refusing that which he preferred to do himself.</i>
 
-#### McCOY
+#### TRELAINE
 
 > I HOPE IT'S BEEN A GOOD REPAST.
 
@@ -80,7 +80,7 @@ lastmod: 2021-12-17 09:23
 > 
 > CARE TO JOIN ME IN THE SITTING ROOM?
 
-#### McCOY
+#### TRELAINE
 
 > OF COURSE.
 
@@ -92,7 +92,7 @@ lastmod: 2021-12-17 09:23
 > 
 > I DO SO LOOK FORWARD TO IT.
 
-#### McCOY
+#### TRELAINE
 
 > I HAVE BEEN ENJOYING MYSELF AS WELL.
 
@@ -100,7 +100,7 @@ lastmod: 2021-12-17 09:23
 
 <i>AVAELLE is seated on a wooden stool. It helped encourage her to sit upward and maintain a proper posture.</i>
 
-#### McCOY
+#### TRELAINE
 
 > UNFORTUNATELY, I HAVE SOME SAD NEWS.
 
@@ -108,7 +108,7 @@ lastmod: 2021-12-17 09:23
 
 <i>Her painting is nearly complete; a stationary model of THE DOCTOR looks out with a placid expression.</i>
 
-#### McCOY
+#### TRELAINE
 
 > I WON'T BE ABLE TO SIT FOR ANY MORE SESSIONS.
 
@@ -122,7 +122,7 @@ lastmod: 2021-12-17 09:23
 > 
 > WHAT'S HAPPENED?
 
-#### McCOY
+#### TRELAINE
 
 > I'VE BEEN CALLED BACK TO NEW YORK CITY.
 
@@ -134,7 +134,7 @@ lastmod: 2021-12-17 09:23
 > 
 > BUT YOU WANTED TO GO WEST...
 
-#### McCOY
+#### TRELAINE
 
 > I DID. BUT I WILL GO WHERE I AM NEEDED.
 
@@ -146,7 +146,7 @@ lastmod: 2021-12-17 09:23
 > 
 > YOU MUST BE SO DISAPPOINTED.
 
-#### McCOY
+#### TRELAINE
 
 > I AM, BUT I CANNOT LET MY PERSONAL DESIRES CLOUD MY JUDGEMENT.
 > 
@@ -156,7 +156,7 @@ lastmod: 2021-12-17 09:23
 
 <BR><I>THE DOCTOR leans forward in his chair and takes her hand in his. A red flush rises to her cheeks.</i>
 
-#### McCOY
+#### TRELAINE
 
 > I WANT YOU TO KEEP THE PORTRAIT.
 
@@ -164,7 +164,7 @@ lastmod: 2021-12-17 09:23
 
 > BUT... YOU SAID YOU WANTED TO SEND IT TO --
 
-#### McCOY
+#### TRELAINE
 
 > I KNOW WHAT I SAID, BUT.
 > 
@@ -180,9 +180,9 @@ lastmod: 2021-12-17 09:23
 
 > I'LL NEVER FORGET.
 
-<BR><I>McCOY smiles at her, and then releases her hand.</i>
+<BR><I>TRELAINE smiles at her, and then releases her hand.</i>
 
-#### McCOY
+#### TRELAINE
 
 > I HOPE YOU ARE RIGHT.
 > 
@@ -198,7 +198,7 @@ lastmod: 2021-12-17 09:23
 > 
 > BUT WON'T YOU NEED HIM?
 
-#### McCOY
+#### TRELAINE
 
 > THEY'RE SENDING A CARRIAGE FOR ME NEXT WEEK.
 > 
@@ -210,7 +210,7 @@ lastmod: 2021-12-17 09:23
 
 > BUT WE CAN'T TAKE YOUR HORSE...
 
-#### McCOY
+#### TRELAINE
 
 > YOU HAVE MORE NEED OF HIM THAN I.
 > 
@@ -226,7 +226,7 @@ lastmod: 2021-12-17 09:23
 > 
 > I WAS SO LOOKING FORWARD TO RIDING IN THE SPRING...
 
-#### McCOY
+#### TRELAINE
 
 > AS WAS I.
 > 

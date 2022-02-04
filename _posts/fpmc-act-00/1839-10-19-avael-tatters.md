@@ -321,7 +321,7 @@ lastmod: 2021-11-03 14:15
 
 <i>The houses are small, with only small alleys between, so she soon passes the post office and reaches a small shack. There is a small placard next to the door that she hadn't noticed upon first passthrough. It's hand-carved and the paint thinning; likely not applied well in the first place.</i>
 
-<center>"DOCTOR LENARD McCOY"</center><br/>
+<center>"DOCTOR LENARD TRELAINE"</center><br/>
 <i>AVAELLE cautiously opens the door and yells into the entrance. She hears no noise emanate from the inside.</i>
 
 #### AVAELLE ####
@@ -334,7 +334,7 @@ lastmod: 2021-11-03 14:15
 
 <i>The lobby is quiet for a moment until the rear door squeaks open. Out comes a man with grey hair, seeming to have prematurely lost its color. His face is ruddy, his eyes just creasing at the corners. He wears a white coat with large pockets.</i>
 
-#### McCOY ####
+#### TRELAINE ####
 
 > WELCOME, MISS. HOW CAN I HELP YOU?
 
@@ -344,9 +344,9 @@ lastmod: 2021-11-03 14:15
 
 <br/><I>He comes out from behind the counter.</i>
 
-#### McCOY ####
+#### TRELAINE ####
 
-> DOCTOR LENARD McCOY.
+> DOCTOR LENARD TRELAINE.
 
 #### AVAELLE ####
 
@@ -356,7 +356,7 @@ lastmod: 2021-11-03 14:15
 >
 > THEY'RE VERY ILL. HAVE BEEN FOR OVER A WEEK.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > WHERE DO YOU HAIL FROM, MISS?
 
@@ -368,7 +368,7 @@ lastmod: 2021-11-03 14:15
 >
 > I'M AVAELLE EASTON.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > EASTON HOUSE.
 >
@@ -382,20 +382,20 @@ lastmod: 2021-11-03 14:15
 >
 > ARE YOU ABLE TO MAKE A HOUSE CALL?
 
-#### McCOY ####
+#### TRELAINE ####
 
 > OF COURSE. 
 
 <br/>
 
 *****
-<br/><i>AVAELLE leaves the house while McCOY packs up his things. He's promised to meet her out front of the house so she walks over toward the saloon to retreive CINNAMON. The warmth of the whisky now fading from her person, she wishes she could reenter the saloon and get another drink. She's not looking forward to the ride back to EASTON HOUSE.</I>
+<br/><i>AVAELLE leaves the house while TRELAINE packs up his things. He's promised to meet her out front of the house so she walks over toward the saloon to retreive CINNAMON. The warmth of the whisky now fading from her person, she wishes she could reenter the saloon and get another drink. She's not looking forward to the ride back to EASTON HOUSE.</I>
 
 <I>She takes the lead from around the saddle's horn and unties her horse. The village is quiet and deserted, though the day's severe chill makes it all seem sensible.</i>
 
 <i>The doctor approaches, his saddlebags clinking with glass and metal instruments.</i>
 
-#### McCOY ####
+#### TRELAINE ####
 
 > I'M GLAD TO HAVE NEVER MADE IT OUT TO EASTON HOUSE.
 >
@@ -409,7 +409,7 @@ lastmod: 2021-11-03 14:15
 >
 > IT'S TOO BAD YOU WON'T BE SEEING IT UNDER BETTER CIRCUMSTANCES.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > THE MAN 'MAURICE WEATHERSPOON' IS ONE OF YOURS, IS HE NOT?
 
@@ -419,7 +419,7 @@ lastmod: 2021-11-03 14:15
 >
 > A FREEDMAN.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > I'VE NEVER SPOKEN TO HIM MYSELF BUT I'VE SEEN HIM COLLECTING POST.
 
@@ -429,7 +429,7 @@ lastmod: 2021-11-03 14:15
 
 <br/><I>They were, at this point, walking their horses down the lane. AVAELLE has become unsettled; she's embarrassed at the memory of their manor home, paint now peeling from its walls. She doesn't want to lead him back but she has no choice.</i>
 
-#### McCOY ####
+#### TRELAINE ####
 
 > IT WAS VERY BRAVE OF YOU TO COME OUT HERE FOR YOUR FAMILY.
 
@@ -448,7 +448,7 @@ lastmod: 2021-11-03 14:15
 
 <i>THE DOCTOR detaches the bags from the back of his saddle, placing them gently on the ground. They clink but land safely.</i>
 
-#### McCOY ####
+#### TRELAINE ####
 
 > COULD YOU TAKE THESE INSIDE THE HOUSE?
 
@@ -456,7 +456,7 @@ lastmod: 2021-11-03 14:15
 
 > YOUR MEDICINE?
 
-#### McCOY ####
+#### TRELAINE ####
 
 > YES. 
 
@@ -474,7 +474,7 @@ lastmod: 2021-11-03 14:15
 
 > SO WHAT'S YOUR HORSE'S NAME?
 
-#### McCOY ####
+#### TRELAINE ####
 
 > MY HORSE'S NAME...?
 >
@@ -494,7 +494,7 @@ lastmod: 2021-11-03 14:15
 
 <i>The cat's been dead for years.</i>
 
-#### McCOY ####
+#### TRELAINE ####
 
 > YOUR FATHER AND MAURICE ARE UPSTAIRS?
 
@@ -504,7 +504,7 @@ lastmod: 2021-11-03 14:15
 
 <br/><I>The master suite is located just up the stairs; MAURICE slumbers off to the right.</i>
 
-#### McCOY ####
+#### TRELAINE ####
 
 > YOU SAID YOUR FATHER WAS THE FIRST ONE ILL?
 
@@ -512,7 +512,7 @@ lastmod: 2021-11-03 14:15
 
 > YES, HE FELL ILL LAST WEEK. EARLY LAST WEEK.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > I WILL SEE MAURICE FIRST.
 
@@ -523,7 +523,7 @@ lastmod: 2021-11-03 14:15
 
 <i>Soon, THE DOCTOR emerges, having now seen both men.</i>
 
-#### McCOY ####
+#### TRELAINE ####
 
 > YOUR FATHER AND MAURICE APPEAR TO BE SUFFERING A RATHER SEVERE FLU.
 >
@@ -537,7 +537,7 @@ lastmod: 2021-11-03 14:15
 >
 > MAURICE WOULD NORMALLY LOOK AFTER OUR PATRONS.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > I WON'T BE ANY TROUBLE AT ALL. 
 >
@@ -547,7 +547,7 @@ lastmod: 2021-11-03 14:15
 
 > I DON'T...
 
-#### McCOY ####
+#### TRELAINE ####
 
 > YOUR FATHER TOLD ME THAT YOUR FAMILY HAS COME UPON SOME ROUGH TIMES.
 >
@@ -561,7 +561,7 @@ lastmod: 2021-11-03 14:15
 
 > YES, YES, IF YOU COULD. IF YOU WOULD.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > IT IS BECOMING EVENING AND IT'S RATHER A TRIFLE LATE FOR ME TO RIDE BACK TO TOWN.
 
@@ -569,7 +569,7 @@ lastmod: 2021-11-03 14:15
 
 > YES, OF COURSE.
 
-#### McCOY ####
+#### TRELAINE ####
 
 > LET ME FETCH MY BAG.
 

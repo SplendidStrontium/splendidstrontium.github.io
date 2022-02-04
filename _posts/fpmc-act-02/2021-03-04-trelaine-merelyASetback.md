@@ -32,13 +32,13 @@ lastmod: 2021-11-04 12:45
 
 <i>She pauses, listening to the ambiance. The clatter of cars creeps into her consciousness. Her windows, set awkwardly amidst the brick walls, groan against their aging fittings.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > (yelling) EY, SLIM! 
 
 > YOU IN HERE?
 
-<I>The voice is LENARD McCOY, a weathered man with greying hair. AVAELLE can hear the whispers of a coat removed.</i>
+<I>The voice is LENARD TRELAINE, a weathered man with greying hair. AVAELLE can hear the whispers of a coat removed.</i>
 
 <i>AVAELLE knows she must respond, but words evade her as she hastily tries to suspend her work. </i>
 
@@ -46,13 +46,13 @@ lastmod: 2021-11-04 12:45
 
 > (thinking) The paint will dry.
 
-### McCOY ###
+### TRELAINE ###
 
 > (yelling) SLIM??
 
 <I>AVAELLE bumps her foot against an ill-set table, speckled with mis-flung paint.</i>
 
-<i>Hanging over the edge of the balcony, she gleans McCOY. The opening here is overly-tall, beckoning back to the time when the building sat as the confluence of train and passenger. They have to yell to be heard amidst the empty air.</i>
+<i>Hanging over the edge of the balcony, she gleans TRELAINE. The opening here is overly-tall, beckoning back to the time when the building sat as the confluence of train and passenger. They have to yell to be heard amidst the empty air.</i>
 
 ### AVAELLE ###
 
@@ -60,13 +60,13 @@ lastmod: 2021-11-04 12:45
 
 <I>When she turns her back, the cold realization hits her that she's going to have to deliver the bad news.</i>
 
-<i>From downstairs comes a shuffle of grocery bags. McCOY typically came bearing gifts.</i>
+<i>From downstairs comes a shuffle of grocery bags. TRELAINE typically came bearing gifts.</i>
 
 <i>AVAELLE dunks her paintbrushes into cloudy glasses of murky water, promising to return to them posthaste.</i>
 
-<i>She walks downstairs as slowly as she can muster. McCOY speaks from the kitchen, the soft patter of items being removed from plastic grocery bags offering the promise of domesticity.</i>
+<i>She walks downstairs as slowly as she can muster. TRELAINE speaks from the kitchen, the soft patter of items being removed from plastic grocery bags offering the promise of domesticity.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > (loudly) THEY WERE OUTTA THE YELLOWS SO I GOT YOU BLUES INSTEAD.
 
@@ -74,15 +74,15 @@ lastmod: 2021-11-04 12:45
 
 <i>He turns around to greet her. He wears a messily crocheted sweater; dark Dockers.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > HEY BUTTERCUP. I MISSED YOU.
 
-<I>The pair embrace; McCOY chastely kisses her cheek, his hands holding her arms' edge just below the shoulder. AVAELLE is sullen, silent. She looks down, staring absently at the yarn.</i>
+<I>The pair embrace; TRELAINE chastely kisses her cheek, his hands holding her arms' edge just below the shoulder. AVAELLE is sullen, silent. She looks down, staring absently at the yarn.</i>
 
 <i>Her despondent attitude is anything but mysterious.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > WHAT'S UP?
 
@@ -94,13 +94,13 @@ lastmod: 2021-11-04 12:45
 
 > DIDN'T SEND WORD THIS MORNING.
 
-<I>McCOY's arms free her from the embrace. He looks to the side.</i>
+<I>TRELAINE's arms free her from the embrace. He looks to the side.</i>
 
 > NOTHING. NO WORD. NOTHING.
 
 <I>He backs away.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > LET'S GET SOME LIGHT IN HERE, SHALL WE?
 
@@ -118,7 +118,7 @@ lastmod: 2021-11-04 12:45
 
 > I... I THOUGHT --
 
-### McCOY ###
+### TRELAINE ###
 
 > (interrupting) TRY NOT TO WORRY ABOUT IT.
 
@@ -126,7 +126,7 @@ lastmod: 2021-11-04 12:45
 
 > BUT I AM WORRIED ABOUT IT!
 
-### McCOY ###
+### TRELAINE ###
 
 > IT DOES YOU NO GOOD.
 
@@ -136,9 +136,9 @@ lastmod: 2021-11-04 12:45
 
 > I FEEL SO POWERLESS, JUST SITTING HERE WAITING FOR NEWS.
 
-<I>McCOY tries to soothe her.</i>
+<I>TRELAINE tries to soothe her.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > YOUR DAY COMES SOON. PLEASE BE PATIENT.
 
@@ -150,7 +150,7 @@ lastmod: 2021-11-04 12:45
 
 > AREN'T YOU AT ALL CONCERNED ABOUT THEM?
 
-### McCOY ###
+### TRELAINE ###
 
 > OF COURSE I AM. BUT I KNOW WE MUST BIDE OUR TIME, WAIT FOR THEM TO TAKE A STEP OUT-OF-LINE.
 
@@ -162,7 +162,7 @@ lastmod: 2021-11-04 12:45
 
 > I DON'T KNOW WHAT THE FUCK I'M DOING.
 
-### McCOY ###
+### TRELAINE ###
 
 > YES, YOU DO. PLEASE DON'T BE SO HARD ON YOURSELF. YOUR MEMORIES WILL COME BACK IN TIME.
 
@@ -170,9 +170,9 @@ lastmod: 2021-11-04 12:45
 
 > WHAT IF THEY NEVER COME BACK?
 
-<I>McCOY reaches forward, using the side of his knuckle to raise her chin, their gazes now connected.</i>
+<I>TRELAINE reaches forward, using the side of his knuckle to raise her chin, their gazes now connected.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > THEN WE'LL MAKE NEW ONES.
 
@@ -182,7 +182,7 @@ lastmod: 2021-11-04 12:45
 
 > I THOUGHT BAGLEY WAS... STRONGER.
 
-### McCOY ### 
+### TRELAINE ### 
 
 > THEN HE WASN'T GOOD ENOUGH.
 
@@ -194,7 +194,7 @@ lastmod: 2021-11-04 12:45
 
 > I WANTED TO HAVE FAITH.
 
-### McCOY ###
+### TRELAINE ###
 
 > ILL-PLACED.
 
@@ -206,7 +206,7 @@ lastmod: 2021-11-04 12:45
 
 > SO WHERE DO WE GO FROM HERE?
 
-### McCOY ###
+### TRELAINE ###
 
 > THE ORANGES AREN'T ENOUGH, EH?
 
@@ -216,7 +216,7 @@ lastmod: 2021-11-04 12:45
 
 > VITAMIN C AIN'T ENOUGH TO COMBAT THE KINDA ENEMIES WE FACE.
 
-### McCOY ###
+### TRELAINE ###
 
 > TRUER WORDS NE'ER SPOKE.
 
@@ -232,7 +232,7 @@ lastmod: 2021-11-04 12:45
 
 > I...
 
-### McCOY ###
+### TRELAINE ###
 
 > WE GOTTA TRAIN THE GIRL. SHE DON'T KNOW NOTHIN'.
 
@@ -240,7 +240,7 @@ lastmod: 2021-11-04 12:45
 
 > I...
 
-### McCOY ###
+### TRELAINE ###
 
 > I THINK YOU'RE READY. I'LL HELP YOU.
 
@@ -248,7 +248,7 @@ lastmod: 2021-11-04 12:45
 
 > I THOUGHT WE WERE GOING TO WAIT A FEW YEARS ON HER. UNTIL SHE WAS FULLY GROWN.
 
-### McCOY ###
+### TRELAINE ###
 
 > DO YOU WANT TO?
 
@@ -256,7 +256,7 @@ lastmod: 2021-11-04 12:45
 
 > DO 'I' WANT TO?
 
-### McCOY ###
+### TRELAINE ###
 
 > 'T'S WHAT I SAID, TOOTS.
 
@@ -266,7 +266,7 @@ lastmod: 2021-11-04 12:45
 
 > NO I DON'T 'WANT' TO WAIT.
 
-### McCOY ###
+### TRELAINE ###
 
 > SHE ISN'T GOING TO CRACK THE DREAMERS' NET WHILE WORRYING ABOUT HER CALCULUS FINAL.
 

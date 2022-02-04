@@ -18,7 +18,7 @@ lastmod: 2022-01-28 12:41
 
 <br/><i>In The Sims 4, Sims may duel each other for loot and bragging rights. But losing a duel is not without its possible repercussions. The Hex of the Duelist is a curse that can be acquired by spellcaster Sims who lose a number of duels in quick succession. The hex makes it easy to challenge people to duels but more difficult to win. One may infer that the individual in question is overcome with inexplicable rage over their recent string of bad fortune.</i>
 
-<i>It's been since March 2021 that we've seen [PERKINS: MISTER]({% post_url /fpmc-act-02/2021-03-23-perkins-mister %}), during which she advised BRONALD WEASLIE regarding a handwritten letter he received from the strange LENARD McCOY, a name with which she was passingly familiar with due to her time with the associates of the VAMPIRE VLADISLAUS STRAUD. THE DOCTOR, styling himself as a MISTER, implored the WEASLIE's business to enter a contract with the NSR.</i>
+<i>It's been since March 2021 that we've seen [PERKINS: MISTER]({% post_url /fpmc-act-02/2021-03-23-perkins-mister %}), during which she advised BRONALD WEASLIE regarding a handwritten letter he received from the strange LENARD TRELAINE, a name with which she was passingly familiar with due to her time with the associates of the VAMPIRE VLADISLAUS STRAUD. THE DOCTOR, styling himself as a MISTER, implored the WEASLIE's business to enter a contract with the NSR.</i>
 
 <i>Soon afterward, the dognapped DEXX was recovered by his master, MANDARC, during the events of [MANDARC: WARRIOR]({% post_url /fpmc-act-02/2021-04-25-mandarc-warrior %}). FRIDAY PERKINS & BRONALD WEASLIE, enjoying a leisurely evening of television and Internet browsing, are interrupted by MANDARC, STRAUD, KEVIN, & CEDRIC. FRIDAY was vicious toward her former boyfriend, holding nothing back in an attempt to guard her pride, while MANDARC focused his energy on avoiding her attacks. During the duel, STRAUD tries to reason with WEASLIE, whom he regards as a former friend and ally, but the young man seems unable to muster the comprehension STRAUD expected. </i>
 
@@ -377,7 +377,7 @@ lastmod: 2022-01-28 12:41
 
 #### PERKINS 
 
-> LENARD McCOY.
+> LENARD TRELAINE.
 
 <BR/>
 
@@ -417,7 +417,7 @@ I CAN DO BETTER. IT IS NOT TOO LATE FOR YOU TO LEARN.
 
 THE HEADMISTRESS OF YOUR SCHOOL HAS DIED. YOU CAN LEARN NO MORE FROM HER. BUT YOUR AMBITION REMAINS, DOES IT NOT? THE WOMAN TAUGHT CHILDREN BECAUSE THAT IS ALL WHOM SHE WAS FIT TO TEACH. SHE TURNED YOU OUT AS IF YOUR TRAINING WERE DONE BUT THAT IS FAR FROM THE CASE. YOU HAVE ONLY JUST BEGUN.
 
-SIGNED, DR LENARD McCOY.
+SIGNED, DR LENARD TRELAINE.
 <BR/><BR/>
 
 *****
@@ -443,7 +443,7 @@ SIGNED, DR LENARD McCOY.
 
 <i>She flips back to the email, opening up her idled phone.</i>
 
-<i>Her eyes gloss over LENARD McCOY's strange email.</i>
+<i>Her eyes gloss over LENARD TRELAINE's strange email.</i>
 
 <i>Whatever had happened to the CRONE's son?</i>
 <BR><BR>

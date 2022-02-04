@@ -14,8 +14,8 @@ lastmod: 2021-12-07 14:55
 *****
 <br>
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/mccoy-thedoctor.jpg" class="chat-portrait" />
-<p class="ppl-sez">DR LENARD McCOY//</p>
+<img src="{{ site.url }}/assets/tb/trelaine-thedoctor.jpg" class="chat-portrait" />
+<p class="ppl-sez">DR LENARD TRELAINE//</p>
 <p class="ppl-sez">I need your favor.</p>
 </div>
 
@@ -26,8 +26,8 @@ lastmod: 2021-12-07 14:55
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/mccoy-thedoctor.jpg" class="chat-portrait" />
-<p class="ppl-sez">DR LENARD McCOY//</p>
+<img src="{{ site.url }}/assets/tb/trelaine-thedoctor.jpg" class="chat-portrait" />
+<p class="ppl-sez">DR LENARD TRELAINE//</p>
 <p class="ppl-sez">My protégé needs your assistance tracking down a victim.</p>
 </div>
 
@@ -39,8 +39,8 @@ lastmod: 2021-12-07 14:55
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/mccoy-thedoctor.jpg" class="chat-portrait" />
-<p class="ppl-sez">DR LENARD McCOY//</p>
+<img src="{{ site.url }}/assets/tb/trelaine-thedoctor.jpg" class="chat-portrait" />
+<p class="ppl-sez">DR LENARD TRELAINE//</p>
 <p class="ppl-sez">I'm not willing to admit defeat as of yet.</p>
 <p class="ppl-sez">She's offered a truce and for once, I believe her.</p>
 <p class="ppl-sez">She wants her mother, and claimed she'd stop creating the husks.</p>
@@ -55,8 +55,8 @@ lastmod: 2021-12-07 14:55
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/mccoy-thedoctor.jpg" class="chat-portrait" />
-<p class="ppl-sez">DR LENARD McCOY//</p>
+<img src="{{ site.url }}/assets/tb/trelaine-thedoctor.jpg" class="chat-portrait" />
+<p class="ppl-sez">DR LENARD TRELAINE//</p>
 <p class="ppl-sez">It would look bad in front of my followers.</p>
 <p class="ppl-sez">Incite chaos.</p>
 <p class="ppl-sez">I don't give up on my soldiers. That is the tactic of the enemy.</p>
@@ -71,8 +71,8 @@ lastmod: 2021-12-07 14:55
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/mccoy-thedoctor.jpg" class="chat-portrait" />
-<p class="ppl-sez">DR LENARD McCOY//</p>
+<img src="{{ site.url }}/assets/tb/trelaine-thedoctor.jpg" class="chat-portrait" />
+<p class="ppl-sez">DR LENARD TRELAINE//</p>
 <p class="ppl-sez">I intend to start her on a proper education but I thought you would be able to help her in the way she desires.</p>
 <p class="ppl-sez">We can use the event as a bargaining chip.</p>
 <p class="ppl-sez">Show her the value of remaining allied with us.</p>
@@ -85,8 +85,8 @@ lastmod: 2021-12-07 14:55
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/mccoy-thedoctor.jpg" class="chat-portrait" />
-<p class="ppl-sez">DR LENARD McCOY//</p>
+<img src="{{ site.url }}/assets/tb/trelaine-thedoctor.jpg" class="chat-portrait" />
+<p class="ppl-sez">DR LENARD TRELAINE//</p>
 <p class="ppl-sez">I'll work on it.</p>
 </div>
 
@@ -120,7 +120,7 @@ lastmod: 2021-12-07 14:55
 > 
 > PLEASE COME IN.
 
-<br><i>TRENTE did not like the woman she referred to disparagingly as McCOY's "doll", but she could not dispute her loyalty.</i>
+<br><i>TRENTE did not like the woman she referred to disparagingly as TRELAINE's "doll", but she could not dispute her loyalty.</i>
 
 <i>The inside was warm, albeit dry. The entryway was two stories tall; AVAELLE had a taste for painting and had covered much of the left wall in large canvases.</i>
 
@@ -196,7 +196,7 @@ lastmod: 2021-12-07 14:55
 
 > I DON'T WANT HER ALIVE. I DON'T WANT HER STANDING BESIDE ME WHEN THE VISITORS COME.
 
-<BR><I>TRENTE is unsure whether she likes the terminology McCOY has chosen, but English was so imprecise.</i>
+<BR><I>TRENTE is unsure whether she likes the terminology TRELAINE has chosen, but English was so imprecise.</i>
 
 #### TRENTE
 

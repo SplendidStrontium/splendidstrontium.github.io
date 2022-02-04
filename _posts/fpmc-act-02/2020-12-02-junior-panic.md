@@ -16,7 +16,7 @@ lastmod: 2021-11-03 15:25
 
 ## // CHARM MANSION // ##
 
-<i>TRENTE GAGARIN returns to the CHARM residence. She and McCOY had fled in a panic after hearing the barking of a dog while scouting the MARSCAPONE house.</i>
+<i>TRENTE GAGARIN returns to the CHARM residence. She and TRELAINE had fled in a panic after hearing the barking of a dog while scouting the MARSCAPONE house.</i>
 
 <i>It is just as well; the sun threatens to rise. TRENTE shapeshifts in a puff of smoke and reappears in her human form. She is thin and tall, although her most impressive feature is a thick head of bright pink hair.</i>
 
