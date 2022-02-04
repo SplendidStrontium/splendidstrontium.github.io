@@ -795,7 +795,7 @@ permalink: /femputermanchine/books/
 <p>VINCENT MARSCAPONE is an aged and well-traveled Vampire claimed by some to be the Prince of Elysion.</p>
 
 <ul>
-	{% assign maxPost = 1 %}
+	{% assign maxPost = 2 %}
 	{% assign counter = 0 %}
 	{% for post in site.posts %}
         {% if post.url %}
