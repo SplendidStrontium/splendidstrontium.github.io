@@ -102,7 +102,7 @@ lastmod: 2022-02-04 13:59
 
 > THESE CRYSTALS. HE WAS SORTING THROUGH THEM.
 
-<i>All attention goes to Straud as a supernatural chasm seems to ripple through our consciousnesses.</i>
+<br><i>All attention goes to Straud as a supernatural chasm seems to ripple through our consciousnesses.</i>
 
 <i>It is the sound of a silver bell.</i>
 
