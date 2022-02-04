@@ -1,11 +1,11 @@
 ---
 layout: fpmcpost
-title: "McCOY VI: Ashtray"
-permalink: /femputermanchine/mccoy/ashtray/
+title: "TRELAINE 005: Ashtray"
+permalink: /femputermanchine/trelaine/ashtray/
 category: femputermanchine
 date: 2020-12-01 17:20
-description: "in which McCoy and Trente discover Coronado's flight"
-tags: [skit, fpmcmain-mccoy, act-ii]
+description: "in which Lenard and Trente discover Coronado's flight"
+tags: [skit, fpmcmain-trelaine, act-ii]
 published: true
 lastmod: 2021-11-03 15:24
 ---

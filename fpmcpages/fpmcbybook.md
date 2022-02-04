@@ -357,54 +357,6 @@ permalink: /femputermanchine/books/
 
 <hr>
 
-<h2><a href="{{ '/femputermanchine/mccoy/' | prepend: site.url }}">McCOY</a></h2>
-
-<p>LENARD McCOY is a foreign doctor who takes his job very seriously.</p>
-
-<ul>
-	{% assign maxPost = 2 %}
-	{% assign counter = 0 %}
-	{% for post in site.posts %}
-        {% if post.url %}
-			{% if post.tags contains "fpmcmain-mccoy" %}
-				{% assign counter = counter | plus: 1 %}
-
-		        <li class="fpmc-post">
-				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
-
-				<div class="fpmc-desc">
-					{{post.description}}
-				</div>
-
-		
-				<span class="fpmc-date">
-				<span id="dayname-cn">
-				{% assign day = post.date | date: "%w" %}
-				{% case day %}
-				{% when '0' %}周日
-				{% when '1' %}周一
-				{% when '2' %}周二
-				{% when '3' %}周三
-				{% when '4' %}周四
-				{% when '5' %}周五
-				{% else %}周六
-				{% endcase %}</span>
-
-				{{post.date | date: "%d %b, %Y"}}</span></li>
-
-				{% if counter == maxPost %}
-					{% break %}
-				{% endif %}
-
-			{% else %}	
-			{% endif %}
-		{% else %}
-        {% endif %}
-    {% endfor %}
-</ul>
-
-<hr>
-
 <h2><a href="{{ '/femputermanchine/myrtle/' | prepend: site.url }}">MYRTLE</a></h2>
 
 <p>MYRTLE MARSCAPONE is the Magicademy's ex-headmistress atoning for sins against Elysion.</p>
@@ -608,6 +560,54 @@ permalink: /femputermanchine/books/
 	{% for post in site.posts %}
         {% if post.url %}
 			{% if post.tags contains "fpmcmain-tang" %}
+				{% assign counter = counter | plus: 1 %}
+
+		        <li class="fpmc-post">
+				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+
+				<div class="fpmc-desc">
+					{{post.description}}
+				</div>
+
+		
+				<span class="fpmc-date">
+				<span id="dayname-cn">
+				{% assign day = post.date | date: "%w" %}
+				{% case day %}
+				{% when '0' %}周日
+				{% when '1' %}周一
+				{% when '2' %}周二
+				{% when '3' %}周三
+				{% when '4' %}周四
+				{% when '5' %}周五
+				{% else %}周六
+				{% endcase %}</span>
+
+				{{post.date | date: "%d %b, %Y"}}</span></li>
+
+				{% if counter == maxPost %}
+					{% break %}
+				{% endif %}
+
+			{% else %}	
+			{% endif %}
+		{% else %}
+        {% endif %}
+    {% endfor %}
+</ul>
+
+<hr>
+
+<h2><a href="{{ '/femputermanchine/trelaine/' | prepend: site.url }}">McCOY</a></h2>
+
+<p>LENARD TRELAINE is a foreign doctor who takes his job very seriously.</p>
+
+<ul>
+	{% assign maxPost = 2 %}
+	{% assign counter = 0 %}
+	{% for post in site.posts %}
+        {% if post.url %}
+			{% if post.tags contains "fpmcmain-trelaine" %}
 				{% assign counter = counter | plus: 1 %}
 
 		        <li class="fpmc-post">

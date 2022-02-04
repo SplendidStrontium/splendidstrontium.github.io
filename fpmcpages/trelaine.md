@@ -1,7 +1,7 @@
 ---
 layout: femputermanchine
-title: "McCOY"
-permalink: /femputermanchine/mccoy/
+title: "TRELAINE"
+permalink: /femputermanchine/trelaine/
 ---
 
 <html>
@@ -18,7 +18,7 @@ permalink: /femputermanchine/mccoy/
 <td><img class="inline-img" src="{{ site.url }}/assets/tb/mccoy-thedoctor.jpg"></td>
 </tr>
 </table>
-<p>DR LENARD McCOY is a blood mage capable of modifying the body systems to suit his own curiosities. He was trained by a foreign power and migrated to the United States in the early days of the country's formation.</p>
+<p>DR LENARD TRELAINE is a blood mage capable of modifying the body systems to suit his own curiosities. He was trained by a foreign power and migrated to the United States in the early days of the country's formation.</p>
 <p>Long ago, he and Vladislaus Straud were friends, but their differing ideologies have forced them to become bitter rivals.</p>
 <p>The Doctor is aligned tightly with the NSR, finding a close association with Trente Gagarin, both of them having little pity for the inhabitants of Earth.</p>
 <p>If you're interested in the reading the book chronologically, check out <a href="{{ '/femputermanchine/' | prepend: site.url }}">FPMC</a>. The entire collection of books may be found at <a href="{{ '/femputermanchine/books/' | prepend: site.url }}">FPMC (by book)</a>.</p>
@@ -30,7 +30,7 @@ permalink: /femputermanchine/mccoy/
 <ul>
 	{% for post in site.posts %}
         {% if post.url %}
-			{% if post.tags contains "fpmcmain-mccoy" %}
+			{% if post.tags contains "fpmcmain-trelaine" %}
 
 		        <li class="fpmc-post">
 				<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>

@@ -1,11 +1,11 @@
 ---
 layout: fpmcpost
-title: "McCOY V: Hot Tub"
-permalink: /femputermanchine/mccoy/hot-tub/
+title: "TRELAINE 004: Hot Tub"
+permalink: /femputermanchine/trelaine/hot-tub/
 category: femputermanchine
 date: 2020-09-25 11:07
 description: "notes from his desk"
-tags: [etc, fpmcmain-mccoy, act-ii]
+tags: [etc, fpmcmain-trelaine, act-ii]
 published: true
 lastmod: 2021-11-03 15:02
 ---

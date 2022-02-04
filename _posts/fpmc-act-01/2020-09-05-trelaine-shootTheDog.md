@@ -1,11 +1,11 @@
 ---
 layout: fpmcpost
-title: "McCOY IV: Shoot the Dog"
-permalink: /femputermanchine/mccoy/shoot-the-dog/
+title: "TRELAINE 003: Shoot the Dog"
+permalink: /femputermanchine/trelaine/shoot-the-dog/
 category: femputermanchine
 date: 2020-09-05 11:07
 description: "a letter of sorts, an announcement, an obit(uary)"
-tags: [etc, fpmcmain-mccoy, act-i]
+tags: [etc, fpmcmain-trelaine, act-i]
 published: true
 lastmod: 2021-11-03 14:39
 ---

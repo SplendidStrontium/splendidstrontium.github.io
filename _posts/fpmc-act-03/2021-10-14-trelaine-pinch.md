@@ -1,11 +1,11 @@
 ---
 layout: fpmcpost
-title: "McCOY XI: Pinch"
-permalink: /femputermanchine/mccoy/pinch/
+title: "TRELAINE 009: Pinch"
+permalink: /femputermanchine/trelaine/pinch/
 category: femputermanchine
 date: 2021-10-14 09:41
-description: "in which McCoy is happy to have back his comrade in arms"
-tags: [skit, fpmcmain-mccoy, act-iii]
+description: "in which Lenard is happy to have back his comrade in arms"
+tags: [skit, fpmcmain-trelaine, act-iii]
 published: true
 lastmod: 2021-11-04 16:55
 ---
@@ -15,11 +15,11 @@ lastmod: 2021-11-04 16:55
 *****
 <br/><i>The spring. The spring. My mind is awash in the memories of Spring.</i>
 
-<i>It was then I had my [beloved friend]({% post_url /fpmc-act-02/2021-03-04-mccoy-merelyASetback %}) by my side. I used to visit her and happily take a break from my responsibilities as tutor to the CHAIRPERSON's daughter. She understood me, she supported me. In her face I saw the good-old-times and forgot for a moment the exacting, unforgiving nature of the present. It wasn't long ago that she and I had lived out of a travelling wagon and sold snake oil to any who'd listen. Times were good then: the peoples trusting and docile.</i>
+<i>It was then I had my [beloved friend]({% post_url /fpmc-act-02/2021-03-04-trelaine-merelyASetback %}) by my side. I used to visit her and happily take a break from my responsibilities as tutor to the CHAIRPERSON's daughter. She understood me, she supported me. In her face I saw the good-old-times and forgot for a moment the exacting, unforgiving nature of the present. It wasn't long ago that she and I had lived out of a travelling wagon and sold snake oil to any who'd listen. Times were good then: the peoples trusting and docile.</i>
 
-<i>She listened to [my sermons]({% post_url /fpmc-act-02/2021-03-12-mccoy-transition %}) and tried to instill upon the fledgling the wider vision. We had a clutch of vampires loyal to us, each with their own helpful position in the food chain.</i>
+<i>She listened to [my sermons]({% post_url /fpmc-act-02/2021-03-12-trelaine-transition %}) and tried to instill upon the fledgling the wider vision. We had a clutch of vampires loyal to us, each with their own helpful position in the food chain.</i>
 
-<i>But I was busy, I was angry. The new vampire, VANESSA, wasn't [adapting well]({% post_url /fpmc-act-02/2021-03-26-mccoy-hunger %}). She would drain the bodies completely dry, leaving the husks for the police to find and threaten our mission. There was only so much the NSR could keep from the eyes of the ordinaries. AVAELLE tried to correct this behavior but I asked her to do too much. I should have been there; I should have been the one to teach her this lesson.</i>
+<i>But I was busy, I was angry. The new vampire, VANESSA, wasn't [adapting well]({% post_url /fpmc-act-02/2021-03-26-trelaine-hunger %}). She would drain the bodies completely dry, leaving the husks for the police to find and threaten our mission. There was only so much the NSR could keep from the eyes of the ordinaries. AVAELLE tried to correct this behavior but I asked her to do too much. I should have been there; I should have been the one to teach her this lesson.</i>
 
 <i>I pushed them too hard. AVAELLE went missing.</i>
 <br/><br/>

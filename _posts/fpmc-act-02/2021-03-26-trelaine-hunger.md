@@ -1,11 +1,11 @@
 ---
 layout: fpmcpost
-title: "McCOY IX: Hunger"
-permalink: /femputermanchine/mccoy/hunger/
+title: "TRELAINE 008: Hunger"
+permalink: /femputermanchine/trelaine/hunger/
 category: femputermanchine
 date: 2021-03-26 20:18
 description: "in which Avaelle expresses her concerns about the young vampress"
-tags: [skit, fpmcmain-mccoy, act-ii]
+tags: [skit, fpmcmain-trelaine, act-ii]
 published: true
 lastmod: 2021-11-04 15:45
 ---
