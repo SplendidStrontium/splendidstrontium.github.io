@@ -1,11 +1,11 @@
 ---
 layout: fpmcpost
-title: "McCOY VIII: Transition"
-permalink: /femputermanchine/mccoy/transition/
+title: "TRELAINE 007: Transition"
+permalink: /femputermanchine/trelaine/transition/
 category: femputermanchine
 date: 2021-03-12 09:07
 description: "in which Meifeng sheds her old name"
-tags: [skit, fpmcmain-mccoy, act-ii]
+tags: [skit, fpmcmain-trelaine, act-ii]
 published: true
 lastmod: 2021-11-04 12:51
 ---

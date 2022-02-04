@@ -1,11 +1,11 @@
 ---
 layout: fpmcpost
-title: "McCOY XII: Retribution"
-permalink: /femputermanchine/mccoy/retribution/
+title: "TRELAINE 010: Retribution"
+permalink: /femputermanchine/trelaine/retribution/
 category: femputermanchine
 date: 2021-12-06 15:00
 description: "in which Vanessa expresses her desire"
-tags: [skit, fpmcmain-mccoy, act-iii]
+tags: [skit, fpmcmain-trelaine, act-iii]
 published: true
 lastmod: 2021-12-06 15:00
 ---
@@ -14,7 +14,7 @@ lastmod: 2021-12-06 15:00
 *****
 ### // THE CONVERTED TRAIN STATION //
 
-<BR><I>It's been a quiet fall. Just two months ago, my beloved [returned]({% post_url /fpmc-act-03/2021-10-14-mccoy-pinch %}) to me. I was thankful, I was grateful; leaving the young vampress VANESSA TANG alone was not only trying my patience, it was downright unsafe. Giving her the Curse of my ancestors was something I privately regretted but had tried to spend little time dwelling over.</i>
+<BR><I>It's been a quiet fall. Just two months ago, my beloved [returned]({% post_url /fpmc-act-03/2021-10-14-trelaine-pinch %}) to me. I was thankful, I was grateful; leaving the young vampress VANESSA TANG alone was not only trying my patience, it was downright unsafe. Giving her the Curse of my ancestors was something I privately regretted but had tried to spend little time dwelling over.</i>
 
 <i>In all of my time as a Vampire, I could not recall a convert who had reacted in such a way. The girl was unhinged, manic. She laughed when she inflicted suffering on others. Her eyes steely and unmoving while others quivered in pain. I suspect she's always been this way but the Curse has given her a new freedom.</i>
 

@@ -1,11 +1,11 @@
 ---
 layout: fpmcpost
-title: "McCOY VII: Merely a Setback"
-permalink: /femputermanchine/mccoy/merely-a-setback/
+title: "TRELAINE 006: Merely a Setback"
+permalink: /femputermanchine/trelaine/merely-a-setback/
 category: femputermanchine
 date: 2021-03-04 11:13
-description: "in which McCoy convinces Avaelle to have some gumption"
-tags: [skit, fpmcmain-mccoy, act-ii]
+description: "in which Lenard convinces Avaelle to have some gumption"
+tags: [skit, fpmcmain-trelaine, act-ii]
 published: true
 lastmod: 2021-11-04 12:45
 ---

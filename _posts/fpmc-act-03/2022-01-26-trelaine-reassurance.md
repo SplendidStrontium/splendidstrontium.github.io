@@ -1,11 +1,11 @@
 ---
 layout: fpmcpost
-title: "McCOY XIII: Reassurance"
-permalink: /femputermanchine/mccoy/reassurance/
+title: "TRELAINE 011: Reassurance"
+permalink: /femputermanchine/trelaine/reassurance/
 category: femputermanchine
 date: 2022-01-26 12:01
 description: "in which Lenard tries to convince Avaelle that today is the day"
-tags: [skit, fpmcmain-mccoy, act-iii]
+tags: [skit, fpmcmain-trelaine, act-iii]
 published: true
 lastmod: 2022-01-26 12:02
 ---

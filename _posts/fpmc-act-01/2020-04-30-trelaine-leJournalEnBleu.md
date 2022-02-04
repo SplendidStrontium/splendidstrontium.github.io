@@ -1,10 +1,10 @@
 ---
 layout: fpmcpost
-title: "McCOY III: le journal en bleu"
-permalink: /femputermanchine/mccoy/le-journal-en-bleu/
+title: "TRELAINE 002: le journal en bleu"
+permalink: /femputermanchine/trelaine/le-journal-en-bleu/
 date: 2020-04-30 14:08
 category: femputermanchine
-tags: [act-i, fpmcmain-mccoy]
+tags: [act-i, fpmcmain-trelaine]
 description: "today one of my operatives made a very ... promising discovery"
 published: true
 lastmod: 2021-11-03 14:26

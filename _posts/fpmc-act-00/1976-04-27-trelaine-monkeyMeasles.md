@@ -1,10 +1,10 @@
 ---
 layout: fpmcpost
-title: "McCOY II: Monkey Measles"
-permalink: /femputermanchine/mccoy/monkey-measles/
+title: "TRELAINE 001: Monkey Measles"
+permalink: /femputermanchine/trelaine/monkey-measles/
 date: 1976-04-27 14:05
 category: femputermanchine
-tags: [jim, fpmcmain-mccoy, act-0]
+tags: [jim, fpmcmain-trelaine, act-0]
 description: "damned either way"
 published: true
 lastmod: 2021-11-03 14:21
