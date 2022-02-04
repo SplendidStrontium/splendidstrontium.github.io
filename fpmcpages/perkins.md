@@ -20,7 +20,7 @@ permalink: /femputermanchine/perkins/
 </table>
 <p>FRIDAY PERKINS is a one of the last students of the Magicademy before the headmistress's retirement. She, like so many before her, came to the school as an orphan, abandoned by her grandmother for her apparent ambient miasma of ill-fortune.</p>
 <p>A talented student of magic, FRIDAY none-the-less developed little closeness to the Matron, always keeping everyone at arm's length. Through a unintentional meeting, she became acquainted with Vladislaus Straud and his vampiric allies and became envious of their powers.</p>
-<p>She developed a relationship with Mandarc Soo and helped him cure a low-ranking employee of Lenard McCoy. She continued to press Mandarc to convert her to vampirism, but when he refused to assist, she defected and threw in her lot with the magic-user Bronald Weaslie.</p>
+<p>She developed a relationship with Mandarc Soo and helped him cure a low-ranking employee of Lenard Trelaine. She continued to press Mandarc to convert her to vampirism, but when he refused to assist, she defected and threw in her lot with the magic-user Bronald Weaslie.</p>
 <p>If you're interested in the reading the book chronologically, check out <a href="{{ '/femputermanchine/' | prepend: site.url }}">FPMC</a>. The entire collection of books may be found at <a href="{{ '/femputermanchine/books/' | prepend: site.url }}">FPMC (by book)</a>.</p>
 </div>
 

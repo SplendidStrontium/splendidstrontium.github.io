@@ -18,7 +18,7 @@ permalink: /femputermanchine/tang/
 <td><img class="inline-img" src="{{ site.url }}/assets/tb/vanessa-conf.jpg"></td>
 </tr>
 </table>
-<p>VANESSA was born MEIFENG TANG, to the witch PEIYUN TANG, the only daughter of the ancient magical family. PEIYUN brought her family to Amerrka about a decade prior, and her young daughter has never fully forgiven her for abandoning the relations they had in Zhongguo. VANESSA is a young acolyte in McCOY's coven eager to rise in the ranks. Genius, Vegetarian, Kleptomaniac. Degree in Villany (with honors).</p>
+<p>VANESSA was born MEIFENG TANG, to the witch PEIYUN TANG, the only daughter of the ancient magical family. PEIYUN brought her family to Amerrka about a decade prior, and her young daughter has never fully forgiven her for abandoning the relations they had in Zhongguo. VANESSA is a young acolyte in Trelaine's coven eager to rise in the ranks. Genius, Vegetarian, Kleptomaniac. Degree in Villany (with honors).</p>
 <br/>
 <table class="inline-imgtbl-l">
 <tr>

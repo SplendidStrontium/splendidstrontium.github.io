@@ -228,13 +228,13 @@ lastmod: 2021-11-04 12:53
 
 <i>The pictures CEDRIC had shared with ALEXANDER of the boy KEVIN with a crooked mess of tooth and fang, the confused mess of both magic-user and vampiric ancestry... None of </i>that<i> had been faked.</i>
 
-<i>KEVIN, an oddity by no fault of his own, was abducted by McCOY, hoping to extract mysteries from DNA testing and vivisection. CEDRIC had censored the violence in his retelling, calling him a Dentist. Though McCOY had certainly thought dental work fell under his perview.</i>
+<i>KEVIN, an oddity by no fault of his own, was abducted by TRELAINE, hoping to extract mysteries from DNA testing and vivisection. CEDRIC had censored the violence in his retelling, calling him a Dentist. Though TRELAINE had certainly thought dental work fell under his perview.</i>
 
 <i>VINCENT had removed his tooth, sending a promise of revenge. </i>
 
 <i>He finally rescued his young son from the laboratory but had been unable to deliver the final blow to remove the blight on Earth that was the cruel Doctor. His hope for justice would have to rest with the next generation.</i>
 
-<i>The laboratory was destroyed and their captives set free, but McCOY had escaped.</i>
+<i>The laboratory was destroyed and their captives set free, but TRELAINE had escaped.</i>
 
 <i>MYRTLE pulls a strand of hair loose from its hairpins and lets it flutter in the wind.</i>
 
@@ -364,7 +364,7 @@ lastmod: 2021-11-04 12:53
 
 > I HAVE A JOB TO DO.
 
-> I WON'T REST UNTIL McCOY IS BURNT AT THE STAKE FOR HIS CRIMES.
+> I WON'T REST UNTIL TRELAINE IS BURNT AT THE STAKE FOR HIS CRIMES.
 
 > I WON'T REST UNTIL THE MOON IS A SMOLDERING CLUSTER OF RUBBLE BURNING RED IN THE NIGHT SKY.
 

@@ -32,7 +32,7 @@ lastmod: 2021-11-04 16:21
 
 <i>Figuratively, of course.</i>
 
-<i>Shortly after leaving McCOY's service, MANDARC had been swiped up by the prestigious VLADISLAUS STRAUD: a name with which all vampires, young and old, were well-aware.</i>
+<i>Shortly after leaving TRELAINE's service, MANDARC had been swiped up by the prestigious VLADISLAUS STRAUD: a name with which all vampires, young and old, were well-aware.</i>
 
 <i>The Elder had taken him under his wing without hesitation, providing him with most every need.</i>
 

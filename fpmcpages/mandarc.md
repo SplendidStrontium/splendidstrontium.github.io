@@ -19,7 +19,7 @@ permalink: /femputermanchine/mandarc/
 </tr>
 </table>
 <p>MANDARC swears he was created, not born. His earliest memories are those of the safety and solace he enjoyed in the company of his canine companion, Dexx.</p>
-<p>Once an employee of Doctor Lenard McCoy, he left, looking for leadership in a figure he could trust to provide protection as well as admirable strength.</p>
+<p>Once an employee of Doctor Lenard Trelaine, he left, looking for leadership in a figure he could trust to provide protection as well as admirable strength.</p>
 <p>He sees Cedric as a rival for the affections of his new Master, the vampire Vladislaus Straud, but is coming to see the young man as a brother and comrade-in-arms.</p>
 <p>If you're interested in the reading the book chronologically, check out <a href="{{ '/femputermanchine/' | prepend: site.url }}">FPMC</a>. The entire collection of books may be found at <a href="{{ '/femputermanchine/books/' | prepend: site.url }}">FPMC (by book)</a>.</p>
 </div>

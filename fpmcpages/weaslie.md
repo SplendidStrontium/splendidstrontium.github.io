@@ -20,7 +20,7 @@ permalink: /femputermanchine/weaslie/
 </table>
 <p>BRONALD WEASLIE is a magic-user of mediocre-at-best skills. He never attended a magical school and laments the lonely childhood he had as his mother's only child. His great-uncle was a friend of Vladislaus Straud, but the younger resists the association, hoping to make his own way in the world.</p>
 <p>He lives in Saint Louie and has offered his home and hospitality to Friday Perkins. He hopes to progress as a wizard with the talented woman's tutulage.</p>
-<p>His daytime job involves the stewardship of a small crew of quasi-lawful contractors who ask no questions. This attracted the attention of Doctor Lenard McCoy, who provided a reccommendation for him to connect with the NSR.</p>
+<p>His daytime job involves the stewardship of a small crew of quasi-lawful contractors who ask no questions. This attracted the attention of Doctor Lenard Trelaine, who provided a reccommendation for him to connect with the NSR.</p>
 <p>If you're interested in the reading the book chronologically, check out <a href="{{ '/femputermanchine/' | prepend: site.url }}">FPMC</a>. The entire collection of books may be found at <a href="{{ '/femputermanchine/books/' | prepend: site.url }}">FPMC (by book)</a>.</p>
 </div>
 

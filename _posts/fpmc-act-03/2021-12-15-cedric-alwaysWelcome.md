@@ -376,7 +376,7 @@ lastmod: 2021-12-15 15:17
 
 > WHAT IS YOUR NAME?
 
-<BR><i>CEDRIC pauses and looks him over, considering him. STRAUD was right, there was something overly friendly, naive, about him. He'd simply let him walk in. What if he'd been one of McCOY's? What if he'd had stake in hand ready to secure them to the roof to await the sunrise? He seemed to have no regard for the gravitas of their existence. </i>
+<BR><i>CEDRIC pauses and looks him over, considering him. STRAUD was right, there was something overly friendly, naive, about him. He'd simply let him walk in. What if he'd been one of TRELAINE's? What if he'd had stake in hand ready to secure them to the roof to await the sunrise? He seemed to have no regard for the gravitas of their existence. </i>
 
 #### CEDRIC
 

@@ -175,13 +175,13 @@ lastmod: 2021-11-17 15:08
 
 #### STRAUD ####
 
-> YES, A PLANT. IF YOU ALL WOULD SHUT UP. I LEFT HIM TO SPY ON McCOY'S FOOLS.
+> YES, A PLANT. IF YOU ALL WOULD SHUT UP. I LEFT HIM TO SPY ON TRELAINE'S FOOLS.
 
 <br><I>At this, the entire group does a double-take.</i>
 
 #### MANDARC ####
 
-> McCOY...?
+> TRELAINE...?
 
 #### CEDRIC ####
 

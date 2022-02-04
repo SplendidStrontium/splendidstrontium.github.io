@@ -19,7 +19,7 @@ permalink: /femputermanchine/avael/
 </tr>
 </table>
 <p>AVAEL is a 'former' vampress who employs an extensive life-support system to maintain her continued consciousness. She has welcomed the changeover and is acclimating to life as part-human, part-server. She currently resides with Cedric and provides him with physical backup; her abilities are constantly being upgraded to extend her capabilities as fighter-bot and network-switch.</p>
-<p>Before AVAEL was aligned with Vladislaus Straud and his allies, she was a companion to Doctor Lenard McCoy. They travelled throughout the United States extensively before she became disenchanted with the Doctor's lack of compassion toward humanity. She defected not once, but twice, and is now dedicated to her job assisting the forces of good protecting her home planet.</p>
+<p>Before AVAEL was aligned with Vladislaus Straud and his allies, she was a companion to Doctor Lenard Trelaine. They travelled throughout the United States extensively before she became disenchanted with the Doctor's lack of compassion toward humanity. She defected not once, but twice, and is now dedicated to her job assisting the forces of good protecting her home planet.</p>
 <p>In life, AVAEL chafed at being treated as inferior because of her sex. She regarded herself as equal in potential to any other human she encountered. She is happy having transcended a number of binary distinctions and considers herself owing a great deal to her benefactors.</p>
 <p>If you're interested in the reading the book chronologically, check out <a href="{{ '/femputermanchine/' | prepend: site.url }}">FPMC</a>. The entire collection of books may be found at <a href="{{ '/femputermanchine/books/' | prepend: site.url }}">FPMC (by book)</a>.</p>
 </div>

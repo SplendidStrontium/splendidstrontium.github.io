@@ -134,7 +134,7 @@ lastmod: 2021-11-04 16:10
 
 <i>STRAUD is strapped in a hospital bed. Lights are blaring intense in his eyes but he cannot raise his hands to block the photonic assault.</i>
 
-<i>Above him walks LENARD McCOY. He wears a head of grey hair, but STRAUD sees the tight-lipped grimace characteristic of the DOCTOR. But this façade is different. That full head of grey hair, given artificial volume, gelled up over his skull.</i>
+<i>Above him walks LENARD TRELAINE. He wears a head of grey hair, but STRAUD sees the tight-lipped grimace characteristic of the DOCTOR. But this façade is different. That full head of grey hair, given artificial volume, gelled up over his skull.</i>
 
 ### STRAUD ###
 
@@ -146,7 +146,7 @@ lastmod: 2021-11-04 16:10
 
 <i>The DOCTOR reaches into his pocket and his hand emerges into STRAUD's vision with a scalpel in hand. He smooths over VLAD's hair and a familiar voice speaks.</i>
 
-### McCOY ###
+### TRELAINE ###
 
 > THERE, THERE, THIS WON'T HURT.
 

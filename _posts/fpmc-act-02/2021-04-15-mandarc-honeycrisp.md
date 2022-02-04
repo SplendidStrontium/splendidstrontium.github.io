@@ -34,7 +34,7 @@ lastmod: 2021-11-04 16:01
 
 <i>He finds STRAUD, listening to the noisebox on the first floor.</i>
 
-<i>Before speaking, he stands in silence, remembering a tale the Old Man wove of his origin -- an orphan found by monks in the early medieval period. That makes him far older than any Vampire he knows, even older than the Vampire he once claimed as his Sire: the elder McCOY.</i>
+<i>Before speaking, he stands in silence, remembering a tale the Old Man wove of his origin -- an orphan found by monks in the early medieval period. That makes him far older than any Vampire he knows, even older than the Vampire he once claimed as his Sire: the elder TRELAINE.</i>
 
 <i>But he can't escape the suspicion that the Old Man knows more than he lets on.</i>
 

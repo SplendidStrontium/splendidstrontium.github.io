@@ -383,7 +383,7 @@ lastmod: 2021-11-04 16:27
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/avael-tb.jpg" class="chat-portrait" />
 <p class="ppl-sez">AVAEL//</p>
-<p class="ppl-sez">Indeed. The Master has the aim to reform the former follower of Doctor McCoy.</p>
+<p class="ppl-sez">Indeed. The Master has the aim to reform the former follower of Doctor Trelaine.</p>
 </div>
 
 ### CEDRIC ###

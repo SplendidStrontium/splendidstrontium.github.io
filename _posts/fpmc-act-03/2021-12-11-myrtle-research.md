@@ -125,7 +125,7 @@ lastmod: 2022-01-11 13:55
 <img src="{{ site.url }}/assets/tb/vincent2.jpg" class="chat-portrait" />
 <p class="ppl-sez">VINCENT//</p>
 <p class="ppl-sez">We don't have enough information with which to retaliate.</p>
-<p class="ppl-sez">It could be McCoy but it seems different than his usual style.</p>
+<p class="ppl-sez">It could be Trelaine but it seems different than his usual style.</p>
 <p class="ppl-sez">We just don't know.</p>
 <p class="ppl-sez">I'm sorry.</p>
 </div>
