@@ -218,7 +218,7 @@ yearned to leave.</i>
 
 <i>I am looking through black and white photographs of distant stars when the door sounds and a grey-haired man enters.</i>
 
-#### LENARD
+#### TRELAINE
 
 > I SEE YOU'RE ENJOYING THE BOOKS. GLAD TO SEE IT.
 > 
@@ -226,7 +226,7 @@ yearned to leave.</i>
 
 <BR><I>I pause my browsing and look up at him, wordlessly. He has a tired set of blue-ish eyes and a large nose.</i>
 
-#### LENARD
+#### TRELAINE
 
 > WELCOME TO MY HOME.
 > 
@@ -238,7 +238,7 @@ yearned to leave.</i>
 
 > KEVIN MARSCAPONE.
 
-#### LENARD
+#### TRELAINE
 
 > YES, YES, YES, YOUR FATHER'S NAME.
 > 
@@ -248,13 +248,13 @@ yearned to leave.</i>
 
 > MY MOTHER'S NAME IS MARSCAPONE AS WELL.
 
-#### LENARD
+#### TRELAINE
 
 > BUT HER MAIDEN NAME, HER MAIDEN NAME.
 
 <BR><I>What was Mother's maiden name?</i>
 
-#### LENARD
+#### TRELAINE
 
 > IT IS OF NO MATTER.
 > 
@@ -268,7 +268,7 @@ yearned to leave.</i>
 
 > THESE ARE YOUR BOOKS?
 
-#### LENARD
+#### TRELAINE
 
 > THESE ARE MY BOOKS, ALTHOUGH I HAVE LESS TIME TO PERUSE THEM THAN I'D LIKE.
 > 
@@ -278,7 +278,7 @@ yearned to leave.</i>
 
 <BR><I>He wanted me to ask about it, I am sure, but I felt perfectly cognizant of what the new project entailed.</i>
 
-#### LENARD
+#### TRELAINE
 
 > WE'RE SEQUENCING THE GENOME. 
 > 
@@ -286,7 +286,7 @@ yearned to leave.</i>
 
 <BR><I>I did not.</i>
 
-#### LENARD
+#### TRELAINE
 
 > JUST AS YOUR FAMILIAR BOOKS ARE TRANSLATED USING YOUR FAVORITE TWENTY-SIX LETTERS, WE'RE CREATING A DETAILED MAP OF MANKIND'S BLUEPRINT.
 > 
@@ -294,7 +294,7 @@ yearned to leave.</i>
 
 <BR><I>I did not.</i>
 
-#### LENARD
+#### TRELAINE
 
 > IT ALL COMES DOWN TO A VERY LONG SEQUENCE OF KEYS. BITS OF KEYS CREATE INTELLIGIBLE PATTERNS AND INSTRUCTIONS.
 > 
@@ -302,7 +302,7 @@ yearned to leave.</i>
 
 <BR><I>My silence stated that I was unfamiliar with his chosen terminology.</i>
 
-#### LENARD
+#### TRELAINE
 
 > AND THIS IS PRECISELY THE PROBLEM.
 > 
@@ -314,7 +314,7 @@ yearned to leave.</i>
 
 <BR><I>But I did not have anything to say.</i>
 
-#### LENARD
+#### TRELAINE
 
 > I APOLOGIZE FOR LAUNCHING INTO SUCH DISCUSSION SO EARLY ON IN OUR MEETING.
 > 
@@ -330,7 +330,7 @@ yearned to leave.</i>
 > 
 > THE BED IS LUMPY.
 
-#### LENARD
+#### TRELAINE
 
 > WELL, I HOPE WE'LL FIND WAYS TO WORK AROUND THAT.
 > 
@@ -342,7 +342,7 @@ yearned to leave.</i>
 
 <i>I wanted to go home.</i>
 
-#### LENARD
+#### TRELAINE
 
 > HAVE YOU EVER STUDIED THE STARS, KEVIN?
 > 
@@ -350,7 +350,7 @@ yearned to leave.</i>
 
 <BR><I>I had thought about it, but the dusty view from my bedroom had trampled upon my imagination.</i>
 
-#### LENARD
+#### TRELAINE
 
 > DO YOU THINK EACH OF THOSE STARS IS A LIFELESS BALL OF PLASMA?
 > 
@@ -368,7 +368,7 @@ yearned to leave.</i>
 > 
 > FROM TIME TO TIME.
 
-#### LENARD
+#### TRELAINE
 
 > YOU DON'T HAVE TO BELIEVE IN LITTLE GREEN MEN TO KNOW THE IMPROBABILITY OF AN EMPTY UNIVERSE.
 > 
@@ -384,7 +384,7 @@ yearned to leave.</i>
 
 > OF COURSE.
 
-#### LENARD
+#### TRELAINE
 
 > I WANT YOU TO UNDERSTAND SOMETHING, KEVIN.
 > 
@@ -398,7 +398,7 @@ yearned to leave.</i>
 
 > YOU'RE KEEPING ME IN A CAGE.
 
-#### LENARD
+#### TRELAINE
 
 > UNTIL YOU'RE READY.
 > 
@@ -410,7 +410,7 @@ yearned to leave.</i>
 
 > HOW CAN I FLY AWAY WHEN YOU'VE IMPRISONED ME UNDERGROUND?
 
-#### LENARD
+#### TRELAINE
 
 > I LIKE IT UNDERGROUND. WE MUST HIDE WHAT WE DO FROM MORTAL EYES.
 > 
@@ -420,7 +420,7 @@ yearned to leave.</i>
 
 > YOU'RE HIDING <U>ME</U>.
 
-#### LENARD
+#### TRELAINE
 
 > WE'VE HID MORE THAN YOU AND LESS THAN YOU WITHIN THE SAFE CONFINES OF THIS FACILITY.
 > 
@@ -432,14 +432,127 @@ yearned to leave.</i>
 
 <BR><I>The old man takes this moment to break the conversation and change topics.</i>
 
-#### LENARD
+#### TRELAINE
 
 > I'M NOT SO SURE I EVER INTRODUCED MYSELF.
 > 
 > I'M THE DOCTOR LENARD H. TRELAINE.
 
 <BR><I>I did not care what his name was, I wanted to return home.</i>
+
+#### TRELAINE
+
+> YOUR MOTHER PRESCRIBES TO THE STRONG SEX THEORY.
+> 
+> PRECISELY AS MY PEOPLE DO.
+> 
+> TWO WOMEN TO EVERY MALE.
+
+#### KEVIN
+
+> WHAT ARE YOU TALKING ABOUT?
+
+<BR><I>I closed the book I'd been leafing through.</i>
+
+#### TRELAINE 
+
+> THEY WON'T TELL YOU THE TRUTH OF THE ANCIENT RELIGION THEY LIVE THEIR LIVES BY.
+
+<BR><I>It was all getting too much to bear to listen to the old man shout.</i>
+
+#### KEVIN 
+
+> WHAT DO YOU WANT FROM ME?
+> 
+> WHY DID YOU BRING ME HERE?
+
+#### TRELAINE 
+
+> I WANT YOU TO PARTICIPATE IN MY GENOME PROJECT.
+> 
+> LET US SEQUENCE YOUR DNA AND COMPARE IT TO THAT OF THE MORTALS'.
+> 
+> YOU'RE SPECIAL, KEVIN.
+> 
+> SURELY YOU'VE ALWAYS SUSPECTED IT.
+
+#### KEVIN
+
+> NO, I WON'T DO IT.
+
+#### TRELAINE 
+
+> IT'S FOR THE BEST OF EVERYONE, ELEVATED AND NOT.
+
+#### KEVIN 
+
+> YOU CAN'T MAKE ME. 
+
+#### TRELAINE 
+
+> I CAN MAKE YOU THINK ABOUT IT, AND I WISH YOU WILL.
+> 
+> YOUR PARENTS WOULD KEEP YOUR GIFTS TO THEMSELVES BUT I THINK YOU SHOULD HAVE A CHANCE TO SHARE THEM WITH OTHER PEOPLE.
+
+#### KEVIN
+
+> IF YOU TRULY WANTED TO SEE GOOD FOR MANKIND, THEN WHY DID YOU STEAL ME FROM MY HOME? 
+
+#### TRELAINE
+
+> WE HAD NO CHOICE IF WE WERE TO TALK TO YOU.
+> 
+> YOUR FAMILY HAS SHOWN TO BE UNCOOPERATIVE.
+
+#### KEVIN
+
+> I'LL MAKE NO SUCH DECISION UNLESS YOU BRING THEM TO ME HERE.
+
+#### TRELAINE 
+
+> I DON'T THINK THAT WILL BE POSSIBLE.
+> 
+> SURELY YOU UNDERSTAND PLANESMAGICK.
+
+#### KEVIN
+
+> I UNDERSTAND ENOUGH OF IT.
+
+#### TRELAINE 
+
+> YOUR PARENTS POSSESS A GRAND...GRAVITY HEAVY ON THEIR PLANES.
+> 
+> I DOUBT THEY'D BE ABLE TO ESCAPE EVEN IF THEY TRIED.
+> 
+> IF YOU'D LIKE, MAYBE WE CAN SCHEDULE A VISIT AT A NEUTRAL PLACE BUT --
+
+#### KEVIN 
+
+> SEND ME HOME.
+> 
+> I WISH TO GO HOME.
+
+#### TRELAINE 
+
+> I'M AFRAID THAT'S NOT POSSIBLE.
+> 
+> NOT YET.
+> 
+> YOU'RE MY GUEST AND I IMPLORE YOU TO THINK ABOUT THE OPTIONS AVAILABLE TO YOU.
+> 
+> THIS COULD BE A TRANSFORMATIVE POINT IN THE SAD LIFE YOU'VE LIVED THUS FAR.
+> 
+> YOU'RE A BRIGHT B--
+
+#### KEVIN
+
+> I'LL NOT SUFFER YOUR THEFT!
+
+#### TRELAINE
+
+> PLEASE THINK ABOUT IT.
+
+<BR><I>And he disappears in a cloud of smoke the color of pitch.</i>
 <br><br>
 
 *****
-
