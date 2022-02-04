@@ -72,7 +72,7 @@ lastmod: 2021-11-03 15:19
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/straud-tb-fine.jpg" class="chat-portrait" />
 <p class="ppl-sez">STRAUD//</p>
-<p class="ppl-sez">'Wendy McCoy'</p>
+<p class="ppl-sez">'Wendy Trelaine'</p>
 <p class="ppl-sez">I believe Mandarc has already alerted you to her presence</p>
 </div>
 

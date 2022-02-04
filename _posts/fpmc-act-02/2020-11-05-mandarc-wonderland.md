@@ -146,7 +146,7 @@ lastmod: 2021-11-03 15:16
 
 <i>MANDARC rematerializes on the front stoop of a house a few blocks over from MYRTLE. A larger house, but still one story, it is quiet and drab in the winter gloom.</i>
 
-<i>Some part of him had expected he might be seeing BOBBIE again, but not this soon. SERGEANT BOBBIE had formed herself as a sort of bully, showing up at his new home after his flight from MCCOY's laboratory. She'd been a nothing, a nobody who wanted to make herself appear greater than she was. Perhaps she'd wanted to cure MANDARC and was enacting psychological warfare to wear him down. Regardless, it was MANDARC, PERKINS who'd taken the first true act of aggression by curing her against her will, invoking some sort of keep-off-my-grass morality.</i>
+<i>Some part of him had expected he might be seeing BOBBIE again, but not this soon. SERGEANT BOBBIE had formed herself as a sort of bully, showing up at his new home after his flight from TRELAINE's laboratory. She'd been a nothing, a nobody who wanted to make herself appear greater than she was. Perhaps she'd wanted to cure MANDARC and was enacting psychological warfare to wear him down. Regardless, it was MANDARC, PERKINS who'd taken the first true act of aggression by curing her against her will, invoking some sort of keep-off-my-grass morality.</i>
 
 <i>MANDARC knew, rationally, as a vampire showing up on the doorstep of a non-vampire, he had all the right cards in his hand. But it still didn't stop him from feeling ill-at-ease, uncomfortable. He recalled force-feeding her the concoction of garlic, how his eyes burned from the fumes. And here he was, at the Master's command, making sure she hadn't decided to re-enter the realm of Eternal life.</i>
 
@@ -168,7 +168,7 @@ lastmod: 2021-11-03 15:16
 
 <I>WENDY is a short girl with shiny black hair cut with a severe line of bangs over her eyes. Her eyes are large and her cheeks are reddish, as if bee-stung. She is an attractive, if overly-youthful, young woman.</i>
 
-<i>MANDARC says nothing. He had believed this girl, originally presented years ago as MCCOY's daughter (if that were to be believed) dead in the feuds.</i>
+<i>MANDARC says nothing. He had believed this girl, originally presented years ago as TRELAINE's daughter (if that were to be believed) dead in the feuds.</i>
 
 <i>They look at each other for a few moments, awkwardly. It is clear to MANDARC that she doesn't recognize him, though in his shock he takes no action.</i>
 

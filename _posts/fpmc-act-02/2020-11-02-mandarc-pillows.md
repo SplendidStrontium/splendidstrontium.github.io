@@ -38,7 +38,7 @@ lastmod: 2021-11-22 09:46
 *****
 <br><i>VLADISLAUS STRAUD had adapted rapidly to using the cellphone to contact his younger associates. It was more unwieldy than a pager, of course, but seemed less... impetuous. Rude. But then again, who could say how a message would be read on the other side.</i>
 
-<i>MANDARC puts his cellphone on the table and walks upstairs. He'd now been living with STRAUD for some time; STRAUD had allowed him space in his basement apartment. It was private, quiet. After his flight from the clutches of McCoy, he would never be safe again. STRAUD had taken the young man under his wing as a butler of-sorts.</i>
+<i>MANDARC puts his cellphone on the table and walks upstairs. He'd now been living with STRAUD for some time; STRAUD had allowed him space in his basement apartment. It was private, quiet. After his flight from the clutches of Trelaine, he would never be safe again. STRAUD had taken the young man under his wing as a butler of-sorts.</i>
 
 <i>When MANDARC reaches the ground floor, he looks to the right. On the other side of the room is the COUNT, surrounded by the innards of a large wooden jukebox. He looks up.</i>
 

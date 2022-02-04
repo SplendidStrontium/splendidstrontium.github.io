@@ -314,13 +314,13 @@ lastmod: 2021-12-15 12:11
 
 ### AVAEL ###
 
-> THE NAME IS LENARD McCOY.
+> THE NAME IS LENARD TRELAINE.
 
 <I>PEGGY turns toward the woman's voice. In the dimly lit passage, she sees metal molded roughly into the shape of a person but the face is flat and dark.</i>
 
 ### PEGGY ###
 
-> L-L-LENARD... McCOY?
+> L-L-LENARD... TRELAINE?
 
 <I>She stammers stupidly, trying to concoct a lie.</i>
 

@@ -28,7 +28,7 @@ lastmod: 2022-01-12 11:12
 * one child has 'good' trait, the other has 'insider' trait. They are fraternal twins.
 * at least one child has elven ears (despite her parents not having them), the other may as well but her hair makes it difficult to see.
 * Trente earned Vampiric Speed, making her one of the only females in the save file to possess it (the first being Lilith Vatore).
-* Trente is working on Serial Romantic - Player aspiration. First two victims, er, lovers, err, associates are Caleb Vatore and Lenard McCoy.
+* Trente is working on Serial Romantic - Player aspiration. First two victims, er, lovers, err, associates are Caleb Vatore and Lenard Trelaine.
 * Lilith Pleasant made the honor of third first kiss (I kissed a girl and I liked it).
 * The children in this household have aged up unnaturally quickly; just a year ago the girls were in diapers as of a report given in [CEDRIC: THEFT]({% post_url /fpmc-act-02/2021-03-08-cedric-theft %}), and Emmitt was a young child in [JUNIOR: TRUTHY]({% post_url /fpmc-act-02/2021-04-08-junior-truthy %}).
 * How does the mind age up in a condensed growth cycle? How much of brain growth is acquiring knowledge and how much is physiological? Can the two processes be separated?

@@ -46,7 +46,7 @@ lastmod: 2021-11-03 15:18
 
 ### MANDARC ###
 
-> YES, SIR. "WENDY"; MCCOY'S DAUGHTER.
+> YES, SIR. "WENDY"; TRELAINE'S DAUGHTER.
 
 <I>At this STRAUD turns around entirely but remains seated at his organ.</i>
 

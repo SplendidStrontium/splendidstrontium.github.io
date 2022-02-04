@@ -118,7 +118,7 @@ lastmod: 2021-11-04 12:49
 <img src="{{ site.url }}/assets/tb/kev-painterconf.jpg" class="chat-portrait" />
 <p class="ppl-sez">KEVIN//</p>
 <p class="ppl-sez">A missing persons report would be troublesome enough --</p>
-<p class="ppl-sez">But we were able to get surveillance records from her high school that indicate she may have been contacted by McCoy's fools.</p>
+<p class="ppl-sez">But we were able to get surveillance records from her high school that indicate she may have been contacted by Trelaine's fools.</p>
 <p class="ppl-sez">Avaelle Easton's imposter made an appearance as a judge at an art exhibition held by the students.</p>
 <p class="ppl-sez">The two had a lengthy conversation, though the audio is inconclusive, cluttered by the din of the crowd.</p>
 </div>
@@ -209,7 +209,7 @@ lastmod: 2021-11-04 12:49
 <img src="{{ site.url }}/assets/tb/cedric-tense-snap.jpg" class="chat-portrait" />
 <p class="ppl-sez">CEDRIC//</p>
 <p class="ppl-sez">What value are the old Families if we can't convince them to join our cause?</p>
-<p class="ppl-sez">If the girl Meifeng had no contact with McCoy's coercion then she, too, went of her own free-will.</p>
+<p class="ppl-sez">If the girl Meifeng had no contact with Trelaine's coercion then she, too, went of her own free-will.</p>
 <p class="ppl-sez">We already know the Charm daughter has done everything short of adopting Gagarin as her mother.</p>
 <p class="ppl-sez">Darrell, slime-that-he-is, speaks in favor of the Moongazers to every ear that's lent his way.</p>
 <p class="ppl-sez">While we waste time worrying about traditions and bloodlines, who knows what they're researching.</p>

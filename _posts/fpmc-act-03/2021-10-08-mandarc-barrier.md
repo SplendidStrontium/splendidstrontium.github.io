@@ -15,7 +15,7 @@ lastmod: 2021-11-04 16:51
 *****
 <br/><i>Over the last year, MANDARC SOO has been trying to seek the truth regarding his mysterious past. He bears memories of being a child, but continues to insist that he was not born, but was instead created. He believes he had always been a vampire, and was human only in appearance.</i>
 
-<i>His former master, the blood mage termed DR McCOY, has demonstrated his faculty with such magics, but the crew has no way of knowing what exactly this process entails, the knowledge having been taboo since time immemorial. They know only what VLADISLAUS STRAUD has told them of his attempts to clone sorcereresses, a horrible project the DOCTOR began in Amerrka in the early nineteenth century.</i>
+<i>His former master, the blood mage termed DR TRELAINE, has demonstrated his faculty with such magics, but the crew has no way of knowing what exactly this process entails, the knowledge having been taboo since time immemorial. They know only what VLADISLAUS STRAUD has told them of his attempts to clone sorcereresses, a horrible project the DOCTOR began in Amerrka in the early nineteenth century.</i>
 
 <i>MANDARC has made fast friends with the bionic vampress AVAEL, a clone and former employee of the DOCTOR. AVAEL, seeing similarities between the two of them, has dedicated time toward MANDARC's interests, even using her knowledge to obtain information about his origin in [AVAEL: DESCENT]({% post_url /fpmc-act-02/2020-12-06-avael-descent %}).</i>
 

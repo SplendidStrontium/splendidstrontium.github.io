@@ -14,7 +14,7 @@ lastmod: 2021-12-10 13:17
 *****
 ### // WEASLIE HOUSE //
 
-<BR><I>It has been a couple months since the visit from TRENTE GAGARIN and her devoted DR LENARD McCOY. BRONALD WEASLIE has continued his work with the NSR without event. His employees complain about the work but the generous pay has enabled WEASLIE to take on several new workers.</i>
+<BR><I>It has been a couple months since the visit from TRENTE GAGARIN and her devoted DR LENARD TRELAINE. BRONALD WEASLIE has continued his work with the NSR without event. His employees complain about the work but the generous pay has enabled WEASLIE to take on several new workers.</i>
 
 <i>He's not bothered by the claim that they'd been the victim of a memory charm -- how could one mourn what they didn't know they'd lost? But FRIDAY PERKINS did not have the same blasé attitude. She'd become depressed and morose. She had stopped her job hunt and instead spent hours a day on the computer.</i>
 

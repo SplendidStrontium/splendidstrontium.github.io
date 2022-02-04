@@ -18,7 +18,7 @@ lastmod: 2021-11-03 15:34
 
 <i>When MANDARC gets back to the humble ranch, he reflects on his short-term occupancy.</i>
 
-<i>He relocated to the ranch about a month ago, in hopes of keeping an eye on WENDY, an old acquaintance from his imprisonment in the lab at the hands of McCOY.</i>
+<i>He relocated to the ranch about a month ago, in hopes of keeping an eye on WENDY, an old acquaintance from his imprisonment in the lab at the hands of TRELAINE.</i>
 
 <i>He's lost enthusiasm for the mission and has sunk himself into tweaking a DJ stand he lifted from a local basement. </i>
 
