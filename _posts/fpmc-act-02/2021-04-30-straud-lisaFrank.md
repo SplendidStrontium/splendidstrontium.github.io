@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "STRAUD 008: Lisa Frank"
+title: "STRAUD 009: Lisa Frank"
 permalink: /femputermanchine/straud/lisa-frank/
 category: femputermanchine
 date: 2021-04-30 20:33

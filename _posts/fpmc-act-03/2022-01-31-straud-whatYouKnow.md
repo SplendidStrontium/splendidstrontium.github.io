@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "STRAUD 019: What You Know"
+title: "STRAUD 020: What You Know"
 permalink: /femputermanchine/straud/what-you-know/
 category: femputermanchine
 date: 2022-01-31 12:53

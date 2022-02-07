@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "MYRTLE 007: Out of the Loop"
+title: "MYRTLE 008: Out of the Loop"
 permalink: /femputermanchine/myrtle/out-of-the-loop/
 category: femputermanchine
 date: 2020-09-27 10:33

@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "STRAUD 012: Third Person"
+title: "STRAUD 013: Third Person"
 permalink: /femputermanchine/straud/third-person/
 category: femputermanchine
 date: 2021-11-01 06:10

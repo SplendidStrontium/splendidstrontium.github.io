@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "STRAUD 013: Favor"
+title: "STRAUD 014: Favor"
 permalink: /femputermanchine/straud/favor/
 category: femputermanchine
 date: 2021-11-16 09:49
