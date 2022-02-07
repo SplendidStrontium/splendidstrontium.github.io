@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "KEVIN 006: Latinate"
+title: "KEVIN 008: Latinate"
 permalink: /femputermanchine/kevin/latinate/
 category: femputermanchine
 date: 2020-09-18 18:01

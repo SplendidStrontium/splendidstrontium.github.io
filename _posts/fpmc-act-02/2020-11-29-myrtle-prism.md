@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "MYRTLE 009: Prism"
+title: "MYRTLE 010: Prism"
 permalink: /femputermanchine/myrtle/prism/
 category: femputermanchine
 date: 2020-11-29 16:04

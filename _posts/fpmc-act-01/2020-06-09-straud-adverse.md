@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "STRAUD 006: Adverse"
+title: "STRAUD 007: Adverse"
 permalink: /femputermanchine/straud/adverse/
 category: femputermanchine
 date: 2020-06-09 09:45
