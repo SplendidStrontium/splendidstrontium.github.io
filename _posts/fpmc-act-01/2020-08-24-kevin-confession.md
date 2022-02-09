@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "KEVIN 006: Confession"
+title: "KEVIN 007: Confession"
 permalink: /femputermanchine/kevin/confession/
 date: 2020-08-24 22:31
 category: femputermanchine
