@@ -15,7 +15,7 @@ permalink: /femputermanchine/kevin/
 <div id="fpmc-intro">
 <table class="inline-imgtbl-l">
 <tr>
-<td><img class="inline-img" src="{{ site.url }}/assets/tb/kevin-comraderie.jpg"></td>
+<td><img class="inline-img" src="{{ site.url }}/assets/tb/kevin3.jpg"></td>
 </tr>
 </table>
 <p>KEVIN is the only son of the doomed union of the magic-user Myrtle and the vampire Vincent Marscapone. Sickly from birth, he was not permitted to leave his bedroom and spent his childhood listening through the walls to his mother teaching young mages how to navigate the magical world.</p>
