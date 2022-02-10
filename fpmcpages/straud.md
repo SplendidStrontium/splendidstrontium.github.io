@@ -15,7 +15,7 @@ permalink: /femputermanchine/straud/
 <div id="fpmc-intro">
 <table class="inline-imgtbl-l">
 <tr>
-<td><img class="inline-img" src="{{ site.url }}/assets/tb/straud-portrait.jpg"></td>
+<td><img class="inline-img" src="{{ site.url }}/assets/tb/straud3.jpg"></td>
 </tr>
 </table>
 <p>COUNT VLADISLAUS STRAUD IV is far older than he looks. His origins lie in a mysterious place he's only made passing reference to as 'Firsthome'.</p>

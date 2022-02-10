@@ -24,26 +24,13 @@ permalink: /femputermanchine/
 
 <hr>
 
-<h2><a href="{{ '/femputermanchine/act-0/' | prepend: site.url }}">ACT 0</a></h2>
-
-<hr>
-
-<h2><a href="{{ '/femputermanchine/act-i/' | prepend: site.url }}">ACT I</a></h2>
-
-<hr>
-
-<h2><a href="{{ '/femputermanchine/act-ii/' | prepend: site.url }}">ACT II</a></h2>
-
-<hr>
-
-<h2> ACT III (current)</h2>
-
+<h2> ACT 0 </h2>
 
 <ul>
 	{% for post in site.posts reversed %}
         {% if post.url %}
 			{% if post.category == "femputermanchine" %}
-				{% if post.tags contains "act-iii" %}
+				{% if post.tags contains "act-0" %}
 
 				    <li class="fpmc-post">
 					<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
@@ -78,15 +65,21 @@ permalink: /femputermanchine/
     {% endfor %}
 </ul>
 
-
-
-
 <br>
-
 
 <hr>
 
+<h2><a href="{{ '/femputermanchine/act-i/' | prepend: site.url }}">ACT I</a></h2>
 
+<hr>
+
+<h2><a href="{{ '/femputermanchine/act-ii/' | prepend: site.url }}">ACT II</a></h2>
+
+<hr>
+
+<h2><a href="{{ '/femputermanchine/act-iii/' | prepend: site.url }}">ACT III</a></h2>
+
+<hr>
 
 
 </body>

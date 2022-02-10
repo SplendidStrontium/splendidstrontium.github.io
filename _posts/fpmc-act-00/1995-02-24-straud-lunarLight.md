@@ -18,7 +18,7 @@ lastmod: 2022-02-07 09:38
 
 <i>I must give my lecture in what functioned as the living room of the orphanage. Just a few walls away is the bedroom of Kevin Marscapone, now laying empty.</i>
 
-<i>But the children do not know the boy is missing because the door is shut up tight like any other day at the Marscapone School of Magic.</i>
+<i>But the children do not know the boy is missing; the door is shut up tight like any other day at the Marscapone School of Magic.</i>
 
 <i>Were he here, Kevin would be sitting quietly, listening to the lecture with rapt attention, desperate to make no sound.</i>
 

@@ -15,7 +15,7 @@ permalink: /femputermanchine/vincent/
 <div id="fpmc-intro">
 <table class="inline-imgtbl-l">
 <tr>
-<td><img class="inline-img" src="{{ site.url }}/assets/tb/vincent.jpg"></td>
+<td><img class="inline-img" src="{{ site.url }}/assets/tb/vincent3.jpg"></td>
 </tr>
 </table>
 <p>VINCENT MARSCAPONE is an aged and well-traveled Vampire.</p>

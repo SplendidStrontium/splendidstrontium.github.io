@@ -38,7 +38,7 @@ lastmod: 2022-02-02 11:29
 
 <BR><I>And I believed her.</i>
 
-<i>Elsewise I was afforded ultimate freedom -- so long as it was within the written word bound between leather. I wandered wherever my heart wanted and I knew no schedule. I let the sun rise and set without contest, taking only the student's din to mark the hours. I was shielded from much but it allowed me to focus myself entirely upon my studies. </i>
+<i>Elsewise I was afforded ultimate freedom -- so long as it was within the written word bound between leather. I wandered wherever my heart wanted and I knew no schedule. I let the sun rise and set without contest, taking only the students' din to mark the hours. I was shielded from much but it allowed me to focus myself entirely upon my studies. </i>
 
 <i>And study, I did.</i>
 

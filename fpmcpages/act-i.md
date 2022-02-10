@@ -20,7 +20,7 @@ permalink: /femputermanchine/act-i/
 
 <hr>
 
-<h2><a href="{{ '/femputermanchine/act-0/' | prepend: site.url }}">ACT 0</a></h2>
+<h2><a href="{{ '/femputermanchine/' | prepend: site.url }}">ACT 0</a></h2>
 
 <hr>
 
@@ -73,7 +73,7 @@ permalink: /femputermanchine/act-i/
 
 <hr>
 
-<h2> <a href="{{ '/femputermanchine/' | prepend: site.url }}">ACT III (current)</a> </h2>
+<h2> <a href="{{ '/femputermanchine/act-iii/' | prepend: site.url }}">ACT III</a> </h2>
 
 <hr>
 

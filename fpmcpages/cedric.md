@@ -15,10 +15,10 @@ permalink: /femputermanchine/cedric/
 <div id="fpmc-intro">
 <table class="inline-imgtbl-l">
 <tr>
-<td><img class="inline-img" src="{{ site.url }}/assets/tb/cedric1.jpg"></td>
+<td><img class="inline-img" src="{{ site.url }}/assets/tb/cedric5.jpg"></td>
 </tr>
 </table>
-<p>CEDRIC is a vampire who, unlike many of his brethern, is able to walk unhindered by the wrath of sunlight. As a former magic-user, his powerset tends toward the ethereal; his powers include manipulating others through charisma and persuasion. He is well-spoken and Mortals stand in awe of his undead presence.</p>
+<p>CEDRIC is a vampire who, unlike many of his bretheren, is able to walk unhindered by the wrath of sunlight. As a former magic-user, his powerset tends toward the ethereal; his powers include manipulating others through charisma and persuasion. He is well-spoken and Mortals stand in awe of his undead presence.</p>
 <p>He is a native of Uhaigha and came to the East to learn magic at the Magicademy in the last years of the millenium. His life was cut short when he was struck by a car driven by a fellow student of magic, Hermione. He rose as a vampire when Hermione's attempt at resurrection went terribly wrong.</p>
 <p>When not embracing his title of DAYWALKER, CEDRIC walks the dream: he became a devout student of Vincent Marscapone when he was no longer able to continue his life using magic. He enjoys reading and working out.</p>
 <p>If you're interested in the reading the book chronologically, check out <a href="{{ '/femputermanchine/' | prepend: site.url }}">FPMC</a>. The entire collection of books may be found at <a href="{{ '/femputermanchine/books/' | prepend: site.url }}">FPMC (by book)</a>.</p>
