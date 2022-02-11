@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "KEVIN 021: Stuck Pixel"
+title: "KEVIN 022: Stuck Pixel"
 permalink: /femputermanchine/kevin/stuck-pixel/
 category: femputermanchine
 date: 2021-10-28 09:26
