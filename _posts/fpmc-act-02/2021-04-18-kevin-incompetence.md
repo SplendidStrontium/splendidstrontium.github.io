@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "KEVIN 017: Incompetence"
+title: "KEVIN 018: Incompetence"
 permalink: /femputermanchine/kevin/incompetence/
 category: femputermanchine
 date: 2021-04-18 22:54
