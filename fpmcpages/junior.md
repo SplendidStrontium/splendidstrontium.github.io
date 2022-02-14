@@ -15,7 +15,7 @@ permalink: /femputermanchine/jr/
 <div id="fpmc-intro">
 <table class="inline-imgtbl-l">
 <tr>
-<td><img class="inline-img" src="{{ site.url }}/assets/tb/trente-gratstb.jpg"></td>
+<td><img class="inline-img" src="{{ site.url }}/assets/tb/trente1.jpg"></td>
 </tr>
 </table>
 <p>TRENTE GAGARIN is known by many names but none of them strike directly at her heart so much as "Junior", a name that hearkens back to her deceased sister.</p>

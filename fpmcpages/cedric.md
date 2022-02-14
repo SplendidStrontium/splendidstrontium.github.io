@@ -15,7 +15,7 @@ permalink: /femputermanchine/cedric/
 <div id="fpmc-intro">
 <table class="inline-imgtbl-l">
 <tr>
-<td><img class="inline-img" src="{{ site.url }}/assets/tb/cedric5.jpg"></td>
+<td><img class="inline-img" src="{{ site.url }}/assets/tb/cedric6.jpg"></td>
 </tr>
 </table>
 <p>CEDRIC is a vampire who, unlike many of his bretheren, is able to walk unhindered by the wrath of sunlight. As a former magic-user, his powerset tends toward the ethereal; his powers include manipulating others through charisma and persuasion. He is well-spoken and Mortals stand in awe of his undead presence.</p>
