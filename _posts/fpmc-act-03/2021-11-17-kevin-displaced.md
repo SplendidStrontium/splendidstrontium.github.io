@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "KEVIN 023: Displaced"
+title: "KEVIN 024: Displaced"
 permalink: /femputermanchine/kevin/displaced/
 category: femputermanchine
 date: 2021-11-17 11:41
