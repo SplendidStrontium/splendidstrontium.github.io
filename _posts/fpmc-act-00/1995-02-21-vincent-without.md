@@ -7,9 +7,10 @@ date: 1995-02-21 19:00
 description: "in which Vincent is alerted to his son's disappearance"
 tags: [skit, fpmcmain-vincent, act-0]
 published: true
-lastmod: 2022-02-01 11:56
+lastmod: 2022-02-15 09:14
 ---
 [//]: # (  2/01/22  -added)
+[//]: # (  2/15/22  -coffin changed to casket)
 
 *****
 ### // THE MARSCAPONE SCHOOL OF MAGIC //
@@ -25,7 +26,7 @@ lastmod: 2022-02-01 11:56
 
 > VINCENT! WAKE UP!
 
-<BR><I>My wife bangs on the top of my coffin.</i>
+<BR><I>My wife bangs on the top of my casket.</i>
 
 #### MYRTLE 
 

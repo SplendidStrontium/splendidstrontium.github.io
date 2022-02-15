@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "KEVIN 022: Personal Effects"
+title: "KEVIN 023: Personal Effects"
 permalink: /femputermanchine/kevin/personal-effects/
 category: femputermanchine
 date: 2021-10-11 20:43
