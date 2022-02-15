@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "KEVIN 008: Human Cleric"
+title: "KEVIN 009: Human Cleric"
 permalink: /femputermanchine/kevin/human-cleric/
 category: femputermanchine
 date: 2006-01-01 23:59
