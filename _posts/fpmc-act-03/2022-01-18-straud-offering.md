@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "STRAUD 018: Offering"
+title: "STRAUD 019: Offering"
 permalink: /femputermanchine/straud/offering/
 category: femputermanchine
 date: 2022-01-18 09:47

@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "STRAUD 011: Wanderer"
+title: "STRAUD 012: Wanderer"
 permalink: /femputermanchine/straud/wanderer/
 category: femputermanchine
 date: 2021-06-04 17:44
