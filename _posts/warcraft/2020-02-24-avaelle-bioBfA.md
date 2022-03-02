@@ -3,6 +3,7 @@ layout: biograph
 title: "Avaelle"
 date: 2020-02-24 10:44
 category: warcraft
+permalink: /warcraft/avaelle/bio-bfa/
 tags: [bio]
 description: "location unknown"
 thumbnail_id: "w0-006.jpg"

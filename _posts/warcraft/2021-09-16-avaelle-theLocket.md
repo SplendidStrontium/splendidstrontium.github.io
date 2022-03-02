@@ -3,6 +3,7 @@ layout: post
 title: "Avaelle and the Locket"
 date: 2021-09-16 21:48
 category: warcraft
+permalink: /warcraft/avaelle/the-locket/
 tags: [tales]
 description: "Retake Windrunner Spire they said. It will show the Queen that we honor her memory. But I couldn't help but think - if she'd really wanted the spire rehabilitated, why wasn't she out here leading the charge herself?"
 thumbnail_id: "w0-014.jpg"

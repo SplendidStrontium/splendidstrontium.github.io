@@ -3,6 +3,7 @@ layout: biograph
 title: "Trrask"
 date: 2020-02-25 10:49
 category: warcraft
+permalink: /warcraft/trrask/bio-classic/
 tags: [bio]
 description: "Hero of the Weston Coup"
 thumbnail_id:	"w0-002.jpg"

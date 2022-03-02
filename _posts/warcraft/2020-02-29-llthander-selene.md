@@ -3,6 +3,7 @@ layout: post
 title: "L. Sunstrider, add'n"
 date: 2020-02-29 20:35
 category: warcraft
+permalink: /warcraft/llthander/selene/
 description: "he received 1"
 tags: [tales]
 published: true

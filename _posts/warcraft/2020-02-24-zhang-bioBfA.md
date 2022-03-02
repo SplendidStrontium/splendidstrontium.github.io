@@ -3,6 +3,7 @@ layout: biograph
 title: "张"
 date: 2020-02-24 13:23
 category: warcraft
+permalink: /warcraft/zhang/bio-bfa/
 tags: [bio]
 description: "Black Temple timewalking"
 thumbnail_id: "w0-005.jpg"

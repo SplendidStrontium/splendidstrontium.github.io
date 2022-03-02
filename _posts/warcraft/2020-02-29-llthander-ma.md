@@ -3,6 +3,7 @@ layout: post
 title: "L. Sunstrider"
 date: 2020-02-29 09:18
 category: warcraft
+permalink: /warcraft/llthander/ma/
 description: "requested copies"
 tags: [tales]
 published: true 

@@ -2,6 +2,7 @@
 layout: post
 title: "Fineus trashlog III"
 category: warcraft
+permalink: /warcraft/fineus/trash03/
 date: 2021-04-05 23:59
 description: "R.I.P. Robe of Power"
 tags: []
