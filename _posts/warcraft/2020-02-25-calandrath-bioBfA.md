@@ -3,6 +3,7 @@ layout: biograph
 title: "Calandrath, Mk II"
 date: 2020-02-25 10:27
 category: warcraft
+permalink: /warcraft/calandrath/bio-bfa/
 tags: [bio]
 description: "diplomat to the Mecha-Gnomes"
 thumbnail_id:	"w0-003.jpg"

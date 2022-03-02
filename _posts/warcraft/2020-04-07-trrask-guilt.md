@@ -3,6 +3,7 @@ layout: post
 title: 	"Guns 'r' Red"
 date:	2020-04-07 14:33
 category:	warcraft
+permalink: /warcraft/trrask/guilt/
 tags:		[] 
 description: 	""
 thumbnail_id:	"w0-013.jpg"

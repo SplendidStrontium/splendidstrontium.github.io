@@ -3,6 +3,7 @@ layout: post
 title: "Fineus trashlog"
 date: 2020-04-29 14:36
 category: warcraft
+permalink: /warcraft/fineus/trash01/
 tags: []
 description: "tonight, I'm cleanin' out my closet"
 published: true

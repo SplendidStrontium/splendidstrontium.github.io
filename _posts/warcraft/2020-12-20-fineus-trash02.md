@@ -2,6 +2,7 @@
 layout: post
 title: "Fineus trashlog II"
 category: warcraft
+permalink: /warcraft/fineus/trash02/
 date: 2020-12-20 13:14
 description: "finally I donated the Dram of Light"
 tags: []

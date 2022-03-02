@@ -3,6 +3,7 @@ layout: biograph
 title: "Fineus"
 date: 2020-02-24 09:51
 category: warcraft
+permalink: /warcraft/fineus/bio-bfa/
 tags: [bio]
 description: "currently researching out of Zandalar"
 thumbnail_id:	"w0-007.jpg"
