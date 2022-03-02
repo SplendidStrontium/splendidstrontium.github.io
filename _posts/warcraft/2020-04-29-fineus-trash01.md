@@ -4,10 +4,9 @@ title: "Fineus trashlog"
 date: 2020-04-29 14:36
 category: warcraft
 permalink: /warcraft/fineus/trash01/
-tags: []
+tags: [trash]
 description: "tonight, I'm cleanin' out my closet"
 published: true
-permalink: warcraft/fineus/1
 lastmod: 2020-04-29 14:37
 ---
 

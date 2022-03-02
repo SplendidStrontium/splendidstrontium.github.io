@@ -5,10 +5,9 @@ category: warcraft
 permalink: /warcraft/fineus/trash03/
 date: 2021-04-05 23:59
 description: "R.I.P. Robe of Power"
-tags: []
+tags: [trash]
 published: true
 lastmod: 2021-04-05 23:59
-permalink: warcraft/fineus/3
 ---
 [//]: # ( 04/05/21  -added)
 
