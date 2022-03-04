@@ -21,7 +21,7 @@
 		{
 			"rank":	"#3",
 			"name":	"Pippsee",
-			"lvl":	"60 Mage",
+			"lvl":	"46 Mage",
 			"d-played":	"15",
 			"h-played":	"1",
 			"m-played":	"50",
@@ -125,6 +125,105 @@
 			"h-played":	"14",
 			"m-played":	"52",
 			"p-played":	"<1%"
-		}
+		},
+		{
+			"rank":	"#15",
+			"name":	"Aïree",
+			"lvl":	"51 Warlock",
+			"d-played":	"2",
+			"h-played":	"12",
+			"m-played":	"50",
+			"p-played":	"<1%"
+		},
+		{
+			"rank":	"#16",
+			"name":	"Trrask",
+			"lvl":	"36 Paladin",
+			"d-played":	"2",
+			"h-played":	"7",
+			"m-played":	"4",
+			"p-played":	"<1%"
+		},
+		{
+			"rank":	"#17",
+			"name":	"Zhangtaitai",
+			"lvl":	"60 Shaman",
+			"d-played":	"1",
+			"h-played":	"11",
+			"m-played":	"39",
+			"p-played":	"<1%"
+		},
+		{
+			"rank":	"#18",
+			"name":	"Pitr",
+			"lvl":	"23 Priest",
+			"d-played":	"1",
+			"h-played":	"11",
+			"m-played":	"36",
+			"p-played":	"<1%"
+		},
+		{
+			"rank":	"#19",
+			"name":	"Annieorkley",
+			"lvl":	"30 Hunter",
+			"d-played":	"1",
+			"h-played":	"3",
+			"m-played":	"32",
+			"p-played":	"<1%"
+		},
+		{
+			"rank":	"#20",
+			"name":	"Xuesheng",
+			"lvl":	"17 Monk",
+			"d-played":	"--",
+			"h-played":	"21",
+			"m-played":	"24",
+			"p-played":	"<1%"
+		},
+		{
+			"rank":	"#21",
+			"name":	"Gretchell",
+			"lvl":	"55 Warlock",
+			"d-played":	"--",
+			"h-played":	"16",
+			"m-played":	"51",
+			"p-played":	"<1%"
+		},
+		{
+			"rank":	"#22",
+			"name":	"Arialanna",
+			"lvl":	"14 Priest",
+			"d-played":	"--",
+			"h-played":	"10",
+			"m-played":	"34",
+			"p-played":	"<1%"
+		},
+		{
+			"rank":	"#23",
+			"name":	"Hushpad",
+			"lvl":	"32 Death Knight",
+			"d-played":	"--",
+			"h-played":	"5",
+			"m-played":	"38",
+			"p-played":	"<1%"
+		},	
+		{
+			"rank":	"#24",
+			"name":	"Rhyzhel",
+			"lvl":	"11 Paladin",
+			"d-played":	"--",
+			"h-played":	"5",
+			"m-played":	"5",
+			"p-played":	"<1%"
+		},
+		{
+			"rank":	"#25",
+			"name":	"Chandrasekar",
+			"lvl":	"39 Demon Hunter",
+			"d-played":	"--",
+			"h-played":	"--",
+			"m-played":	"28",
+			"p-played":	"<1%"	
+		}	
 	]
 }
