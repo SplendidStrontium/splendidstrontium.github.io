@@ -133,3 +133,11 @@
   }
 
 }
+
+#chatbot-txta{
+    text-align:left;
+}
+
+.chatbot-choicebtns {
+	display:none;
+}
