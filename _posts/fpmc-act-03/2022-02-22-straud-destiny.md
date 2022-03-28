@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "STRAUD 022: Destiny"
+title: "STRAUD 023: Destiny"
 permalink: /femputermanchine/straud/destiny/
 category: femputermanchine
 date: 2022-02-22 00:00
