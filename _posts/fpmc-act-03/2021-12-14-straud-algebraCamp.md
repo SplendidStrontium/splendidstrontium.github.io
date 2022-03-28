@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "STRAUD 017: Algebra Camp"
+title: "STRAUD 018: Algebra Camp"
 permalink: /femputermanchine/straud/algebra-camp/
 category: femputermanchine
 date: 2021-12-14 09:21
