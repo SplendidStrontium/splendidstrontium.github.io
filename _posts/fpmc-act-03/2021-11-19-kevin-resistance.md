@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "KEVIN 028: Resistance"
+title: "KEVIN 029: Resistance"
 permalink: /femputermanchine/kevin/resistance/
 category: femputermanchine
 date: 2021-11-19 09:30
