@@ -1,0 +1,385 @@
+---
+layout: fpmcpost
+title: "KEVIN 011: Programming"
+permalink: /femputermanchine/kevin/programming/
+category: femputermanchine
+date: 1995-03-06 08:00
+description: ""
+tags: [skit, fpmcmain-kevin, act-0]
+published: true
+lastmod: 2022-04-21 21:50
+---
+[//]: # (  4/21/22  -added)
+
+*****
+<br><i>It's been a long weekend of television watching. I've run my tongue over my gum a hundred times wishing the return of my teeth but my prayers have been left unanswered.</i>
+
+<i>The television seems to be my only friend in this desolate place. It is a window into the world of the Mortals that I've never before known. I wondered, as I lost myself in my only solace, what it would be to walk among them.</i>
+
+<i>My thoughts are interrupted by the whirring of the automatic door.</i>
+
+<i>It is Autumn, my assigned nurse.</i>
+
+#### AUTUMN 
+
+> GOOD MORNING, KEVIN
+
+<BR><I>Her voice is slightly dampened, as if she's in a foul mood.</i>
+
+#### KEVIN
+
+> GOOD MORNING.
+
+<BR><I>She bears a tray of food. Another solemn feast of bland food. I had never imagined how much I could long for Mother's conjurations.</i>
+
+#### AUTUMN
+
+> YOU HAVE SCRAMBLED EGGS AND A BANANA AND TOAST.
+
+<BR><I>Someone had put in for my meals to be easily masticated. Not sure how easily toast fit into this requirement but with my current lack of freedom, I'd just have to give it my best shot.</i>
+
+#### KEVIN
+
+> YOU CAN PUT IT DOWN ON THE TABLE.
+
+<BR><I>Enclosed in the room was a small table and chair I took to imply a desk. But I had no paper nor pen so I used it only to eat. Of course, I took most of my meals on the modest bunk set opposite the television.</i>
+
+#### AUTUMN
+
+> HOW ARE YOU SLEEPING?
+
+#### KEVIN
+
+> WELL ENOUGH, THOUGH I FIND THE PLACE RATHER COLD.
+> 
+> ANOTHER BLANKET WOULD DO ME WELL.
+
+#### AUTUMN
+
+> I'LL SEE WHAT I CAN DO.
+> 
+> ANYTHING TO MAKE YOUR STAY COMFORTABLE.
+
+<BR><I>I expected that if I did not accept Trelaine's offer of allegiance that I would be here for a long time.</i>
+
+#### KEVIN
+
+> WHAT ABOUT SOME WRITING IMPLEMENTS?
+
+#### AUTUMN
+
+> I CAN LOOK INTO IT. 
+> 
+> BUT YOU WON'T BE ALLOWED PENS.
+
+#### KEVIN
+
+> NO PENS? WHY?
+
+#### AUTUMN
+
+> THE METALS. 
+> 
+> IT'S A SECURITY RISK.
+
+#### KEVIN
+
+> A METAL PEN NIB? 
+> 
+> WHAT AM I TO DO WITH THAT?
+
+#### AUTUMN
+
+> IT'S A PRECAUTION TO ENSURE THE SAFETY OF ALL OF OUR GUESTS.
+
+#### KEVIN
+
+> OTHER PEOPLE? 
+> 
+> YOU MEAN THERE ARE OTHERS HERE LIKE ME?
+
+<BR><I>I had neither seen nor heard of anyone but the employees of this prison.</i>
+
+#### AUTUMN
+
+> WE NEVER KNOW WHO WILL NEED TO TAKE SHELTER IN OUR FACILITY.
+
+#### KEVIN
+
+> I DON'T INTEND TO DO ANYONE ANY HARM.
+
+#### AUTUMN
+
+> IT IS NOT JUST YOU.
+> 
+> WE ALSO WANT TO ENSURE YOUR SAFETY.
+
+<BR><I>The memory of being assaulted with the chemical spray floods back to my mind. <u>They</u> were the only ones so far that had done me harm.</i>
+
+#### AUTUMN
+
+> SOME PEOPLE COME HERE OF THEIR OWN FREE WILL. 
+> 
+> WE PLEDGE TO HELP THEM BECOME THEIR BEST SELVES.
+
+#### KEVIN
+
+> I DON'T BELIEVE THERE IS SUCH A THING AS FREE WILL WHEN A VAMPIRE IS INVOLVED.
+
+#### AUTUMN
+
+> THE DOCTOR DOESN'T FORCE ANYONE TO DO ANYTHING THEY DON'T WANT TO DO.
+> 
+> HE SIMPLY MAKES THEIR DREAMS COME TRUE AND HELPS SHOO AWAY THEIR FEARS.
+> 
+> IT IS HIS HOPE TO CURE THEM OF THEIR MORTALITY.
+
+#### KEVIN
+
+> AT WHAT COST?
+
+#### AUTUMN
+
+> COST IS OF NO CONCERN TO THE DOCTOR.
+> 
+> HE IS ABLE TO GIVE WITHOUT A THOUGHT OF RENUMERATION.
+
+#### KEVIN
+
+> I WISH I COULD BELIEVE THAT HE TRULY WANTED TO HELP HUMANITY.
+
+#### AUTUMN
+
+> HE DOES, KEVIN. 
+> 
+> ALL YOU NEED DO IS OPEN YOUR HEART.
+
+<BR><I>Her words disgust me.</i>
+
+#### KEVIN
+
+> "OPEN MY HEART"?
+> 
+> MAYBE YOU SHOULD HAVE THOUGHT ABOUT MY HEART WHEN YOU ATTACKED ME UNDER HIS ORDER.
+
+<BR><I>But she doesn't respond to my complaint.</i>
+
+#### AUTUMN
+
+> THEN PERHAPS YOU SHOULD OPEN YOUR EYES.
+> 
+> YOUR FAMILY ISN'T COMING FOR YOU.
+> 
+> AND EVEN IF THEY WERE, THEY AREN'T ABLE TO GET HERE.
+> 
+> THIS IS YOUR NEW LIFE.
+> 
+> WE ARE YOUR FAMILY NOW.
+> 
+> WE, UNLIKE YOUR PARENTS, HAVE YOUR BEST INTERESTS AT HEART.
+
+#### KEVIN
+
+> SO MUCH FOR "GUESTS".
+
+#### AUTUMN
+
+> YOU ARE OUR GUEST SO LONG AS YOU REFUSE THE DOCTOR'S OFFER.
+
+#### KEVIN
+
+> SO YOU KNOW, THEN.
+
+#### AUTUMN
+
+> I KNOW THAT THE DOCTOR HAS MADE YOU AN OFFER YOU'D BE A FOOL TO REFUSE.
+
+#### KEVIN
+
+> WHY DON'T YOU TAKE HIM UP THEN?
+> 
+> IF IT'S A VAMPIRE THAT HE WANTS, WHY DOESN'T HE JUST CONVERT YOU?
+
+#### AUTUMN
+
+> YOU ARE A RARE BREED -- A NATURAL VAMPIRE. 
+> 
+> ONE THAT CONFORMS TO THE LAWS OF BIOLOGY.
+
+#### KEVIN
+
+> I'M NOT A VAMPIRE.
+
+#### AUTUMN
+
+> THAT'S NOT WHAT THE DOCTOR CLAIMS.
+> 
+> YOU DO NOT MANIFEST THE USUAL MARKERS BECAUSE YOU ARE YOUNG.
+> 
+> BUT GIVE IT TIME AND YOU TOO WILL JOIN THE RANKS OF THE IMMORTAL.
+
+#### KEVIN
+
+> I TRULY DOUBT IT.
+
+<BR><I>But something in the woman rebels.</i>
+
+#### AUTUMN
+
+> AND WITH WHAT EVIDENCE DO YOU REFUTE HIS CLAIM?
+
+#### KEVIN
+
+> THE UNDEAD ARE MADE, NOT BORN.
+
+#### AUTUMN
+
+> THAT IS WHERE YOU ARE MISTAKEN.
+> 
+> THE WHOLE CONCEPT OF UNDEATH IS A SUPERSTITION CREATED BY THE IMMORTALS TO TRY TO GRASP THAT WHICH THEY DON'T UNDERSTAND. 
+> 
+> YOU ARE NOT UNDEAD.
+
+#### KEVIN
+
+> I SURE HOPE NOT.
+
+#### AUTUMN
+
+> THE DOCTOR BELIEVES YOU'LL CHANGE AS PUBERTY SETS IN.
+
+#### KEVIN
+
+> PERHAPS MY MOTHER AND FATHER KNOW MY FATE.
+
+#### AUTUMN
+
+> WE BELIEVE THEY ARE JUST AS UNSURE AS WE ARE. 
+> 
+> REGARDLESS, WE WON'T BE CONSULTING THEM.
+
+#### KEVIN
+
+> PERHAPS YOU SHOULD ONCE THEY GET HERE.
+
+<BR><I>I've set her temper alight.</i>
+
+#### AUTUMN
+
+> HOW MANY TIMES DO I HAVE TO TELL YOU?
+> 
+> THEY ARE UNABLE TO ENTER THIS PLANE.
+
+#### KEVIN
+
+> WELL, THERE SEEMS TO BE PLENTY OF THINGS THAT YOU DON'T KNOW.
+> 
+> PERHAPS THIS IS ONE OF THEM.
+
+<BR><I>She seems to be taking extra precautions to steady her impatience.</i>
+
+#### AUTUMN
+
+> KEVIN, YOUR MOTHER IS NO EXCEPTIONAL MAGE. 
+> 
+> SHE PALES AGAINST THE FEATS WORKED BY THE DAUGHTERS OF THE EASTERN FAMILIES.
+> 
+> WHETHER BY POTENTIAL OR LACK OF TRAINING, HER SKILLS ARE LACKLUSTER
+> 
+> SHE CANNOT, OR WILL NOT, LEAVE HER PLANE.
+
+#### KEVIN
+
+> SHE'D DO ANYTHING TO HELP ME.
+
+#### AUTUMN
+
+> MAGIC OBEYS RULES.
+> 
+> JUST BECAUSE YOU DON'T UNDERSTAND THE RULES DOESN'T MEAN THEY AREN'T THERE.
+
+#### KEVIN
+
+> YOU'RE CLAIMING TO UNDERSTAND THOSE RULES?
+
+#### AUTUMN
+
+> I UNDERSTAND WHAT I'VE BEEN TAUGHT.
+
+#### KEVIN
+
+> WELL MAYBE YOUR CURRICULUM NEEDS A PRIMER ON THE ART OF DIPLOMACY. 
+> 
+> I CAN HARDLY UNDERSTAND HOW YOU CAN EXPECT ME TO GO ALONG WITH YOU WHEN YOU AND YOUR KIND HAVE DISPLAYED YOURSELVES AS OPENLY HOSTILE TO ME.
+
+#### AUTUMN
+
+> I'M SORRY THAT WE HAD TO INFLICT PAIN UPON YOU. 
+> 
+> BUT I HOPE YOU'LL FORGIVE US. 
+> 
+> WE DID WHAT WE DID FOR THE LARGER WORLD AROUND US. 
+
+#### KEVIN
+
+> I'LL BELIEVE IT WHEN I SEE IT.
+
+<BR><I>There is a break in the conversation as she tries to formulate a response.</i>
+
+#### KEVIN
+
+> BESIDES, IF MY FATHER IS TRULY AS POWERFUL AS THE DOCTOR CLAIMS, THEN IT WILL BE HIM WHO COMES TO MY AID.
+
+#### AUTUMN
+
+> YOUR FATHER HAS BEEN IMPRISONED IN THAT PLANE FOR CRIMES BEYOND OUR UNDERSTANDING.
+> 
+> HE HAS ANGERED THE GODS.
+> 
+> SUCH A SENTENCE IS NOT QUICKLY NOR EASILY LIFTED.
+
+#### KEVIN
+
+> HE'LL FIND A WAY.
+
+#### AUTUMN
+
+> YOUR DEDICATION IS ADMIRABLE BUT ULTIMATELY ILL-FOUNDED. 
+> 
+> THEY HAVE LOCKED YOU INSIDE A ROOM AND BANISHED YOU FROM THE SUNSHINE.
+> 
+> IT IS UNFATHOMABLE THAT YOU THINK THIS WAS DONE OUT OF LOVE.
+
+#### KEVIN
+
+> PERHAPS THEY THOUGHT I WAS A VAMPIRE.
+
+<BR><I>A vampire was a sort of monster, I supposed.</i>
+
+#### AUTUMN
+
+> AND WHAT OF YOUR ISOLATION FROM THE OTHER CHILDREN? 
+> 
+> FOR YOUR PROTECTION OR THEIRS?
+
+#### KEVIN
+
+> BOTH, PERHAPS.
+
+#### AUTUMN
+
+> YOU HAVE MORE FAITH IN THEM THAN I MIGHT IF I WERE IN YOUR SHOES.
+> 
+> WHAT YOU'VE BEEN SUBJECTED TO WOULD IN THE MORTAL WORLD BE CONSIDERED CHILD ABUSE.
+> 
+> IT'S CRUEL AND UNUSUAL WHAT THEY'VE DONE TO YOU.
+
+#### KEVIN
+
+> I'M SURE THEY HAD THEIR REASONS.
+
+#### AUTUMN
+
+> THERE IS NO EXCUSE FOR THEIR ACTIONS. 
+> 
+> WHY DIDN'T YOUR MOTHER BRING YOU UP AS A MAGE?
