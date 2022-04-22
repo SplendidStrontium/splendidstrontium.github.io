@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "MYRTLE 007: Beyond"
+title: "MYRTLE 008: Beyond"
 permalink: /femputermanchine/myrtle/beyond/
 category: femputermanchine
 date: 1998-04-23 23:59
