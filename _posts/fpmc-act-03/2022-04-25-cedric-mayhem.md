@@ -3,7 +3,7 @@ layout: fpmcpost
 title: "CEDRIC 032: Mayhem"
 permalink: /femputermanchine/cedric/mayhem/
 category: femputermanchine
-date: 2022-04-25 14:15
+date: 2022-04-25 20:15
 description: "in which Caleb and Cedric deliver plasma fruit to Charlotte"
 tags: [skit, fpmcmain-cedric, act-iii]
 published: true
