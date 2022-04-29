@@ -1,0 +1,176 @@
+---
+layout: fpmcpost
+title: "STRAUD 002: Within"
+permalink: /femputermanchine/straud/within/
+category: femputermanchine
+date: 1995-02-22 00:00
+description: "in which Straud enumerates his suspicions against an old rival"
+tags: [skit, fpmcmain-straud, act-i]
+published: true
+lastmod: 2022-02-02 11:42
+---
+[//]: # (  2/02/22  -added)
+
+*****
+### // STRAUD MANSION //
+
+<br><i>When Vincent Marscapone arrives at my home, he's already been driving for quite some time. He had that hassled exasperation that one might expect from one scaling a mountain.</i>
+
+<i>But this time, I know there's something different on his mind.</i>
+
+<i>He did not often make social visits and his mood is somber.</i>
+
+#### STRAUD
+
+> SALUTATIONS, OLD FRIEND.
+
+#### VINCENT
+
+> PLEASURE'S ALL MINE.
+
+<BR><I>I step away from the door to allow him entrance. He obliges, swiftly and efficiently, and waits until the door is closed before he begins to speak.</i>
+
+#### VINCENT
+
+> MY SON HAS GONE MISSING.
+> 
+> I HAVE COME LOOKING FOR ANY REASON IT MIGHT NOT BE YOUR OLD RIVAL.
+
+#### STRAUD
+
+> YOUR SON IS MISSING?
+> 
+> MY DEAR FRIEND. MY CONDOLENCES.
+
+#### VINCENT
+
+> I WILL SAVE YOUR CONDOLENCES, THOUGH I APPRECIATE THE CONCERN.
+> 
+> HE IS NOT DEAD YET.
+> 
+> HIS DOORS WERE LEFT OPEN AND HE'S NOT RETURNED FOR HOURS.
+> 
+> MY SON WOULD NOT BE SO CARELESS AS TO RUN AWAY.
+> 
+> I DON'T BELIEVE IT.
+
+#### STRAUD
+
+> HAS YOUR WIFE SCRIED FOR HIM?
+
+#### VINCENT
+
+> SHE BELIEVES HIM CAPTIVE BUT CANNOT SAY BY WHOM.
+> 
+> THERE ARE NO MARKS, NO WORDS, NO CLUES.
+> 
+> AND THEN I LEFT HER TO COME TO YOU.
+
+#### STRAUD
+
+> I APPRECIATE YOUR THOUGHT THAT I MAY BE ABLE TO HELP YOU.
+
+#### VINCENT
+
+> YOU'RE A GREAT DEAL MORE USEFUL THAN YOU SELF-REPRESENT.
+> 
+> I SUPPOSE TO KEEP THE ONLOOKERS AWAY FROM YOUR GRAND CASTLE.
+
+<BR><I>I say nothing, sensing the conversation straying from its original intent.</i>
+
+#### STRAUD
+
+> YOU SAY YOUR SON IS MISSING.
+> 
+> HAVE YOU DETECTED ANY RECENT CHANGE IN HIS BEHAVIOR?
+> 
+> CAGINESS? A RETICENCE TO ENGAGE? AN OVERINDULGENCE IN PRIVACY SEEKING --
+
+#### VINCENT
+
+> NO. NOTHING.
+> 
+> IT HAS BEEN SEVERAL DAYS SINCE I'VE SEEN THE CHILD BUT NOTHING HAS BEEN UNUSUAL.
+> 
+> I ADMIT THE THOUGHTS OF CHILDREN CAN BE FRENZIED, CAPRICIOUS, BUT...
+> 
+> HE IS A CALM, THINKING BOY. I DO NOT BELIEVE HE'S RUN AWAY, REGARDLESS OF MY PERSONAL FEELINGS REGARDING THE MATTER...
+> 
+> REGARDLESS OF HOW MANY TIMES I MIGHT HAVE RUN AWAY.
+
+#### STRAUD
+
+> YOUR BOY WOULD BE A PRIZE FOR SOMEONE LIKE MY RIVAL.
+> 
+> I SUSPECT HE'S CAUGHT UP IN THE GENOME PROJECT AND SOMEONE LIKE YOUR SON WOULD BE A FEATHER IN HIS CAP.
+
+#### VINCENT
+
+> AND WHAT CAUSE WOULD HE HAVE TO BRING SOMEONE OF OUR REALM TO HIS?
+> 
+> HE ONLY RISKS THE REVEAL.
+> 
+> AND FOR WHAT, SOME LONG LIST OF ENCODED BASE PAIRS?
+
+#### STRAUD
+
+> HE HAS MORE FRIENDS THAN WE CAN FATHOM. 
+> 
+> ALL HE NEED DO IS SEW TOGETHER HIS PATCHWORK QUILT AND ANY MORTAL WILL FORGET ANY QUESTIONS HE'D IMAGINED.
+
+#### VINCENT
+
+> IF HE THINKS HE'S GOING TO EXTRACT --
+
+<BR><I>Vincent stumbles on his words, getting indignant at the thought.</i>
+
+#### STRAUD
+
+> I DO NOT ENTIRELY UNDERSTAND THE PROJECT, BUT I SUSPECT HE'S TRYING TO GLEAN INFORMATION ABOUT THE MUNDANES.
+
+#### VINCENT
+
+> MY SON IS NOT A MUNDANE!!
+
+#### STRAUD
+
+> PRECISELY WHY EXTRACTING DATA FROM HIS GENES MAY HAVE BEEN TOO TEMPTING TO PASS UP.
+> 
+> PERHAPS HE AIMS TO SEPARATE OUT THE INCLINATION TOWARD MAGIC.
+
+#### VINCENT
+
+> HE SHOULD KNOW THAT THE WEAVE IS FAR MORE DISCRIMINATING THAN THAT.
+> 
+> HE THINKS HE CAN CREATE A SENSITIVITY AND STRENGTH THAT WERE GOD-GIVEN.
+
+#### STRAUD
+
+> I DO NOT KNOW WHAT EXACTLY HE WANTS.
+> 
+> BUT I DO NOT THINK HE IS AIMING TO CURE CANCER.
+
+<BR><I>Vincent's tone takes on a certain deviousness.</i>
+
+#### VINCENT
+
+> SO THEN WE GO IN WITHOUT PROBABLE CAUSE.
+
+#### STRAUD
+
+> IT SEEMS SO.
+
+#### VINCENT
+
+> ARE YOU FINE IN RISKING IT?
+> 
+> YOUR FRIENDSHIP WITH LENARD?
+
+#### STRAUD
+
+> WHAT FRIENDSHIP?
+
+<br>
+
+*****
+

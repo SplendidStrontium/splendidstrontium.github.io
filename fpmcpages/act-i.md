@@ -1,6 +1,6 @@
 ---
 layout: femputermanchine
-title: "FP & MC: ACT I"
+title: "ACT I: Retribution"
 permalink: /femputermanchine/act-i/
 ---
 
@@ -13,18 +13,16 @@ permalink: /femputermanchine/act-i/
 <body>
 
 <div id="fpmc-intro">
-<p>Act I was begun by the skit Consent, the first piece I wrote, where I began my adventures in what would become Femputer&Manchine. The young man Cedric was converted to Vampirism and was forced to leave whatever semblance of a life he had behind him.</p>
-<p>If you're interested in the adventures of a particular character, check out <a href="{{ '/femputermanchine/books/' | prepend: site.url }}">FPMC (by book)</a> as well as <a href="{{ '/fpmcnotes/' | prepend: site.url }}">notes</a> and <a href="{{ '/hexfiles/' | prepend: site.url }}">errata</a>.</p>
-<p>For background information (spoilers) on the setting and jargon, check out the <a href="https://github.com/SplendidStrontium/splendidstrontium.github.io/wiki">wiki</a> or for general discussion, check out our <a href="https://discord.gg/A5PyBpFvE8">Discord</a>.</p>
+<p>In a tucked-away corner of a New York City suburb exists a home for orphans headed by the witch Myrtle Marscapone. There is but one child in the house who is not an orphan: her son Kevin. Due to his strange set of teeth, he is thought to be supernatural despite exhibiting no facility with magic. One day, an unexpected doorbell sounds, luring him out of his childhood home.</p>
 </div>
 
 <hr>
 
-<h2><a href="{{ '/femputermanchine/' | prepend: site.url }}">ACT 0</a></h2>
+<h2><a href="{{ '/femputermanchine/' | prepend: site.url }}">ACT 0: Prologue</a></h2>
 
 <hr>
 
-<h2>ACT I</h2>
+<h2>ACT I: Retribution</h2>
 
 <ul>
 	{% for post in site.posts reversed %}
@@ -69,11 +67,23 @@ permalink: /femputermanchine/act-i/
 
 <hr>
 
-<h2><a href="{{ '/femputermanchine/act-ii/' | prepend: site.url }}">ACT II</a></h2>
+<h2><a href="{{ '/femputermanchine/act-ii/' | prepend: site.url }}">ACT II: Gathering Storm</a></h2>
 
 <hr>
 
-<h2> <a href="{{ '/femputermanchine/act-iii/' | prepend: site.url }}">ACT III</a> </h2>
+<h2> <a href="{{ '/femputermanchine/act-iii/' | prepend: site.url }}">ACT III: Long Division</a> </h2>
+
+<hr>
+
+<h2> <a href="{{ '/femputermanchine/act-iv/' | prepend: site.url }}">ACT IV: Felicity's End</a> </h2>
+
+<hr>
+
+<h2> <a href="{{ '/femputermanchine/act-v/' | prepend: site.url }}">ACT V: Distillation</a> </h2>
+
+<hr>
+
+<h2> <a href="{{ '/femputermanchine/act-vi/' | prepend: site.url }}">ACT VI: Purification</a> </h2>
 
 <hr>
 
