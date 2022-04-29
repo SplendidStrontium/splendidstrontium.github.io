@@ -14,7 +14,6 @@ permalink: /femputermanchine/
 <body>
 
 <div id="fpmc-intro">
-<p>FemputerManchine is a webnovel inspired by my adventures in The Sims 4.</p>
 <p>For ten thousand years the people of planet Earth have been awakening to create civilization and colonize their world. Underneath the mundane runs a secret: that some people are capable of curving reality to their own desires by more than just their force of personality. </p>
 <p>In the modern age, people are still hiding their Talent; the memory of witch hunts and mass exterminations fresh in the minds of the hunted. Those who have awakened as mages are scattered across the globe and largely keep to the safety of their own families.</p>
 <p>A mysterious Vampire VLADISLAUS STRAUD has sworn himself to his duty to protect the planet in the wake of the Revolution. </p>
@@ -24,7 +23,7 @@ permalink: /femputermanchine/
 
 <hr>
 
-<h2> ACT 0 </h2>
+<h2>ACT 0: Prologue </h2>
 
 <ul>
 	{% for post in site.posts reversed %}
@@ -69,15 +68,27 @@ permalink: /femputermanchine/
 
 <hr>
 
-<h2><a href="{{ '/femputermanchine/act-i/' | prepend: site.url }}">ACT I</a></h2>
+<h2><a href="{{ '/femputermanchine/act-i/' | prepend: site.url }}">ACT I: Retribution</a></h2>
 
 <hr>
 
-<h2><a href="{{ '/femputermanchine/act-ii/' | prepend: site.url }}">ACT II</a></h2>
+<h2><a href="{{ '/femputermanchine/act-ii/' | prepend: site.url }}">ACT II: Gathering Storm</a></h2>
 
 <hr>
 
-<h2><a href="{{ '/femputermanchine/act-iii/' | prepend: site.url }}">ACT III</a></h2>
+<h2><a href="{{ '/femputermanchine/act-iii/' | prepend: site.url }}">ACT III: Long Division</a></h2>
+
+<hr>
+
+<h2><a href="{{ '/femputermanchine/act-iv/' | prepend: site.url }}">ACT IV: Felicity's End</a></h2>
+
+<hr>
+
+<h2><a href="{{ '/femputermanchine/act-v/' | prepend: site.url }}">ACT V: Distillation</a></h2>
+
+<hr>
+
+<h2><a href="{{ '/femputermanchine/act-vi/' | prepend: site.url }}">ACT VI: Purification</a></h2>
 
 <hr>
 
