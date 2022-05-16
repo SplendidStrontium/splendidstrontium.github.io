@@ -1,7 +1,7 @@
 ---
 layout: femputermanchine
-title: "ACT II: Gathering Storm"
-permalink: /femputermanchine/act-ii/
+title: "ACT VII: Transfiguration"
+permalink: /femputermanchine/act-vii/
 ---
 
 <html>
@@ -13,7 +13,7 @@ permalink: /femputermanchine/act-ii/
 <body>
 
 <div id="fpmc-intro">
-<p>Act II was begun by the skit Consent, the first piece I wrote, where I began my adventures in what would become Femputer&Manchine. The young man Cedric was converted to Vampirism and was forced to leave whatever semblance of a life he had behind him.</p>
+<p>Act VII is the current act of FPMC.</p>
 </div>
 
 <hr>
@@ -26,13 +26,33 @@ permalink: /femputermanchine/act-ii/
 
 <hr>
 
-<h2>ACT II: Gathering Storm</h2>
+<h2><a href="{{ '/femputermanchine/act-ii/' | prepend: site.url }}">ACT II: Gathering Storm</a></h2>
+
+<hr>
+
+<h2><a href="{{ '/femputermanchine/act-iii/' | prepend: site.url }}">ACT III: Long Division</a></h2>
+
+<hr>
+
+<h2><a href="{{ '/femputermanchine/act-iv/' | prepend: site.url }}">ACT IV: Felicity's End</a></h2>
+
+<hr>
+
+<h2><a href="{{ '/femputermanchine/act-v/' | prepend: site.url }}">ACT V: Distillation</a></h2>
+
+<hr>
+
+<h2><a href="{{ '/femputermanchine/act-vi/' | prepend: site.url }}">ACT VI: Purification</a></h2>
+
+<hr>
+
+<h2>ACT VII: Transfiguration</h2>
 
 <ul>
 	{% for post in site.posts reversed %}
         {% if post.url %}
 			{% if post.category == "femputermanchine" %}
-				{% if post.tags contains "act-ii" %}
+				{% if post.tags contains "act-vii" %}
 
 				    <li class="fpmc-post">
 					<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
@@ -69,25 +89,6 @@ permalink: /femputermanchine/act-ii/
 
 <hr>
 
-<h2> <a href="{{ '/femputermanchine/act-iii/' | prepend: site.url }}">ACT III: Long Division</a> </h2>
-
-<hr>
-
-<h2> <a href="{{ '/femputermanchine/act-iv/' | prepend: site.url }}">ACT IV: Felicity's End</a> </h2>
-
-<hr>
-
-<h2> <a href="{{ '/femputermanchine/act-v/' | prepend: site.url }}">ACT V: Distillation</a> </h2>
-
-<hr>
-
-<h2> <a href="{{ '/femputermanchine/act-vi/' | prepend: site.url }}">ACT VI: Purification</a> </h2>
-
-<hr>
-
-<h2><a href="{{ '/femputermanchine/act-vii/' | prepend: site.url }}">ACT VII: Transfiguration</a></h2>
-
-<hr>
 
 
 
