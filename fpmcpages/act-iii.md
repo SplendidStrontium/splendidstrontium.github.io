@@ -86,6 +86,10 @@ permalink: /femputermanchine/act-iii/
 
 <hr>
 
+<h2><a href="{{ '/femputermanchine/act-vii/' | prepend: site.url }}">ACT VII: Transfiguration</a></h2>
+
+<hr>
+
 
 </body>
 </html>
