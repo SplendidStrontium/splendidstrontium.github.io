@@ -748,7 +748,7 @@ permalink: /femputermanchine/books/
 <p>ABRAHAM VAN HELSING is a magic-user determined to rid the world of monsters.</p>
 
 <ul>
-	{% assign maxPost = 1 %}
+	{% assign maxPost = 2 %}
 	{% assign counter = 0 %}
 	{% for post in site.posts %}
         {% if post.url %}
