@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "PIDGE 001: Instinct"
+title: "PIDGE 002: Instinct"
 permalink: /femputermanchine/pidge/instinct/
 category: femputermanchine
 date: 2022-04-25 21:57
