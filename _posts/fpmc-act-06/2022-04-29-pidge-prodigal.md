@@ -292,7 +292,7 @@ lastmod: 2022-08-05 10:38
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/chiasa.jpg" class="chat-portrait" />
 <p class="ppl-sez">CHIASA//</p>
-<p class="ppl-sez">Hearing the commotion upstairs, Chiasa is moved to investigate. <I>Dav said the party was't for another half-hour...</I></p>
+<p class="ppl-sez">Hearing the commotion upstairs, Chiasa is moved to investigate. <i>Dav said the party was't for another half-hour...</i></p>
 <p class="ppl-sez">I open the door from the basement and am slightly surprised to see the crowd forming. Recovering quickly, I analyze the guests before they have a chance to notice my arrival. <i>Hmm, two floozies, a thinblood, and...what kind of Kindred is he?</i></p>
 <p class="ppl-sez"><i>"I'm not sure Caleb realizes..."</i></p>
 <p class="ppl-sez">Shaking my head to make my hair shimmer, I grasp Davian's arm in a familiar gesture while turning to look at the two ladies:</p>
@@ -599,7 +599,7 @@ lastmod: 2022-08-05 10:38
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/pidge.jpg" class="chat-portrait" />
 <p class="ppl-sez">PIDGE//</p>
-<p class="ppl-sez">Veronica lights up at a familiar name. "Sebastian Eriksson? You have got to be kidding me. Did you see <I>Combustion</I>? It was fantastic."</p>
+<p class="ppl-sez">Veronica lights up at a familiar name. "Sebastian Eriksson? You have got to be kidding me. Did you see <i>Combustion</i>? It was fantastic."</p>
 <p class="ppl-sez">Caleb gently responds. "I saw it."</p>
 <p class="ppl-sez">"I didn't -- what's this one about?" Mandarc asks.</p>
 <p class="ppl-sez">Veronica gives a general description of the film -- a space thriller where Sebastian finds himself alone in space and must contend with a presumably killer alien who lurks in the shadows of an abandoned lab on the Moon.</p>
@@ -613,7 +613,7 @@ lastmod: 2022-08-05 10:38
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/00-050.jpg" class="chat-portrait" />
 <p class="ppl-sez">ADAM//</p>
-<p class="ppl-sez">Adam, who has been listening on the periphery, sends to Davian: <I>How do you think Cedric likes those sour grapes?</I></p>
+<p class="ppl-sez">Adam, who has been listening on the periphery, sends to Davian: <i>How do you think Cedric likes those sour grapes?</i></p>
 <p class="ppl-sez">Davian almost chokes on his drink and looks up to give Adam a scandalized grin. </p>
 </div>
 
@@ -678,7 +678,7 @@ lastmod: 2022-08-05 10:38
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/davian.jpg" class="chat-portrait" />
 <p class="ppl-sez">DAVIAN//</p>
-<p class="ppl-sez">"Kevin, glad you could make it. Good timing as well, I was about to open door #1."</p>
+<p class="ppl-sez">"Kevin, glad you could make it. Good timing as well, I was about to open door no.1."</p>
 <p class="ppl-sez">Addressing the group: "Beach by night sounds great, and if it happens to get too bright I can whip something up." He walks over to a nondescript door just a few feet down. </p>
 <p class="ppl-sez">"Stephanie and Veronica, would you do the honors?" I instruct the two women to grab the handle and open the door together. A tropical breeze wafts through the room, full of floral perfumes mingled with the tang of sea water. Through the doorway lies a crescent shaped white-sand beach, gentle waves lapping at the shore. The moon hangs high in the sky, bathing the scene in a gentle, silver light. A number of teak and canvas beach chairs lie haphazardly on the sand, along with a number of small tables and a bar with tiki torches. </p>
 <p class="ppl-sez">"Ladies and gentlemen, last in the water is a rotten egg".</p>
@@ -1337,7 +1337,7 @@ lastmod: 2022-08-05 10:38
 <p class="ppl-sez">Vincent mumbles a humorous obscenity and then makes to sit on the ground. "What have you all done?"</p>
 <p class="ppl-sez">"We've freed you, Dad. You're back with us, on Earth. Or, at least, soon."</p>
 <p class="ppl-sez">Vincent is wearing the same clothes he wore on the day he suffered Death -- a thinning grey sweater and dockers the color of tree bark. His shoes are a gently tapered dress shoe with a rounded toe, also brown.</p>
-<p class="ppl-sez">"The three of you did... <I>that...</I> for me?"</p>
+<p class="ppl-sez">"The three of you did... <i>that...</i> for me?"</p>
 <p class="ppl-sez">"Yeah, Dad. We did."</p>
 <p class="ppl-sez">"...Thank you." </p>
 <p class="ppl-sez">He pauses for a moment, then looks around, arms supported by his knees. He looks tired.</p>
