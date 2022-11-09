@@ -7,9 +7,10 @@ date: 2022-09-03 23:53
 description: "in which M.M. debuts"
 tags: [etc, fpmcmain-pidge, act-vii]
 published: true
-lastmod: 2022-10-23 20:44
+lastmod: 2022-11-08 21:37
 ---
 [//]: # ( 10/23/22  -added)
+[//]: # ( 11/08/22  -pt2)
 
 *****
 <BR>
@@ -312,3 +313,151 @@ lastmod: 2022-10-23 20:44
 <p class="ppl-sez">Her once beautiful face is twisted into a concentrated grimace, completed with a sadistic smile. She turns toward Cedric and begins to walk toward him, her dress flowing out behind her.</p>
 <p class="ppl-sez">Suddenly, from behind the cloud of fog, comes a gigantic monster of a man. He towers nearly eight foot tall, and between ripped edges of clothing are unnaturally bulging muscles. He lumbers into the scene and stumbles toward Lindsay.</p>
 </div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mm-tb.jpg" class="chat-portrait" />
+<p class="ppl-sez">MIKAEL//</p>
+<p class="ppl-sez"><i>I'm fine, she's faster than I thought.</i> I stretch against the tendrils of shadow <i>Going to try to break free in a second.</i></p>
+<p class="ppl-sez">As the musclebound hulk comes into view: <i>Holy shit, check out Dr. Mundo...do you know this guy?</i></p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/pidge.jpg" class="chat-portrait" />
+<p class="ppl-sez">PIDGE//</p>
+<p class="ppl-sez"><i>That's Whack Jack but I hate the name. Did some digging --</i>, at this, Cedric's line of thought halts as he is visibly enfeebled with pain, but it relents and he resumes: <i>Did some digging and I found out his name was Noah Cooper. I don't know what his people call him but it's probably not that.</i></p>
+<p class="ppl-sez"><i>But Dr. Mundo. I like that.</i></p>
+<p class="ppl-sez">The giant appears to be clutching at his head, stumbling around while he does so. His footfalls are dangerously close to the comparatively delicate woman. She dances around, trying to avoid his chaotic motion.</p>
+<p class="ppl-sez">"You oaf! Shake it off!" Lindsay chatters angrily.</p>
+<p class="ppl-sez">As if at her command, he immediately falls asleep and his body, now a huge lifeless mass, thumps toward the ground toward Lindsay. She uses her speed to withdraw from his trajectory and he falls to the ground.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mm-tb.jpg" class="chat-portrait" />
+<p class="ppl-sez">MIKAEL//</p>
+<p class="ppl-sez">Mikael is suddenly still, eyes closed, no longer fighting the tendrils; his face a mask of serene focus.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/pidge.jpg" class="chat-portrait" />
+<p class="ppl-sez">PIDGE//</p>
+<p class="ppl-sez">Cedric pulls at the tendrils but the shadow grasps tight -- he has no choice but to employ a shapeshift. It's a gamble at best, one he hates taking -- and yet...</p>
+<p class="ppl-sez">"Wake up, you idiot!" Lindsay kicks at Jack's shoulder, but does no appreciable damage. He's still asleep and Lindsay is distracted.</p>
+<p class="ppl-sez">He changes and instantly changes back into a human, seeming to blink out of the bind with a magical quality.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mm-tb.jpg" class="chat-portrait" />
+<p class="ppl-sez">MIKAEL//</p>
+<p class="ppl-sez">Mikael opens his eyes and thrusts his hands out simultaneously. The tendrils stretch and then disintegrate into nothing. A thin layer of prismatic white light surrounds his form, and his eyes are pits of silver fire.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/pidge.jpg" class="chat-portrait" />
+<p class="ppl-sez">PIDGE//</p>
+<p class="ppl-sez">"Fuck!" Lindsay yells out, seeing that her captors have escaped her hold.</p>
+<p class="ppl-sez">Jack groggily responds to the woman, trying to stumble to his feet. "So...tired..."</p>
+<p class="ppl-sez">"It's just make-believe!" she responds angrily.</p>
+<p class="ppl-sez">The huge man slowly begins to shrink, soon appearing about six feet tall and covered in tattered shreds of clothing.</p>
+<p class="ppl-sez">The two seem strikingly normal again, diminutive, defeated.</p>
+<p class="ppl-sez">A man's voice, artificially magnified, calls out over the now-fading fog.</p>
+<p class="ppl-sez">"Run."</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mm-tb.jpg" class="chat-portrait" />
+<p class="ppl-sez">MIKAEL//</p>
+<p class="ppl-sez">"I'll take out the trash." </p>
+<p class="ppl-sez">There is an explosion of sound and pressure; Mikael and the two interlopers and gone, presumably through the new hole in the southeast wall. Anyone with enhanced hearing is now aware of the distant cries of the two attackers as they soar into the air. After a moment, Mikael walks back into the club. Looking sheepish and stunned as he inspects the hole.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/pidge.jpg" class="chat-portrait" />
+<p class="ppl-sez">PIDGE//</p>
+<p class="ppl-sez">As the fog finally clears, you see a small crowd of people forming a loose circle. At the head of the gathering is a man standing on the side of the stage. He is thin and almost gaunt, but carries a personage beyond his apparent strength. His silver hair and alabaster skin lend an otherworldliness to his aura.</p>
+<p class="ppl-sez">"That is one way to eject an interloper. What is your name?"</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mm-tb.jpg" class="chat-portrait" />
+<p class="ppl-sez">MIKAEL//</p>
+<p class="ppl-sez">Noticing his pre-eminent position, I respond in my best 'talking to the professor about my grade' voice "Mikael. Sorry about the wall Sir, I will have a contractor come first thing tomorrow and start repairs."</p>
+<p class="ppl-sez">Mikael looks around the room then shakes his head, and stares at the blonde man with short hair who fought Lindsay with him. "You...spoke into my mind. I didn't notice it at first, but it wasn't sound. Who are you? And who were those...people?"</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/pidge.jpg" class="chat-portrait" />
+<p class="ppl-sez">PIDGE//</p>
+<p class="ppl-sez">"My name is Vladislaus Straud and you find yourself in my club of friends. We run a place of peace for all kinds. I hope you will come to see it as fortuitous that you found yourself here at this place, in this time. But I must be frank with you -- we are not like you. We each have our own special gifts, as you witnessed tonight, but we are vampires; predators, through and through. I hope this will not put us at odds."</p>
+<p class="ppl-sez">"Nevertheless, if tonight truly is the first time you've experienced your apparent full potential, may I welcome you to the outer realms of reality. Your world will never be the same. You met my associate, Cedric, but there are many of us. Do not worry about the wall, I will send for someone first thing."</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mm-tb.jpg" class="chat-portrait" />
+<p class="ppl-sez">MIKAEL//</p>
+<p class="ppl-sez">I am quiet for a moment, processing what Straud said, the tableau of vampires(?!) in front of me; part of me wants to be afraid, (Vampires!) but somehow I am calm, almost relaxed. I have no reason to trust, but they have shown me nothing but understanding and kindness this evening, and everything Straud said had the ring of truth.</p>
+<p class="ppl-sez">"Vampires? Which kind...Bela Lugosi or Robert Pattinson?"</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/pidge.jpg" class="chat-portrait" />
+<p class="ppl-sez">PIDGE//</p>
+<p class="ppl-sez">"We find Bela Lugosi dead and his closest successor allied against us. Our brand of Robert Pattinson you already met this evening." (at this, Cedric's smile turns into an expression of mock offense)</p>
+<p class="ppl-sez">"You'll find that there are as many kinds of vampires and other fantastical creatures out there as you can possibly imagine. From places far beyond what you once thought formed the edges of possibility. I have heard tale of people like yourself but time will tell what you will be able to do."</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mm-tb.jpg" class="chat-portrait" />
+<p class="ppl-sez">MIKAEL//</p>
+<p class="ppl-sez">I am stunned into silence again, the implications of his comment working their way through my consciousness. "People like me?"</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/pidge.jpg" class="chat-portrait" />
+<p class="ppl-sez">PIDGE//</p>
+<p class="ppl-sez">"You are more than can be explained by the science of Men. You seem to effortlessly wield a power that comes from within your cells; or else you are a servant of a greater power. I hope it will set your mind at ease to know you are not alone in your gifts, there are others like you able to work great feats and alter the world around them. I suggest, Mikael, that you take some time to seek them out."</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mm-tb.jpg" class="chat-portrait" />
+<p class="ppl-sez">MIKAEL//</p>
+<p class="ppl-sez">Straud's measured rhetoric helps me to stay calm despite my mind racing. "Of...of course, though up until today I had no idea that (he waves vaguely at the assemblage in front of him) this was real; I was looking forward to a very different surreal experience this evening."</p>
+<p class="ppl-sez">I am looking around the room as I speak, when suddenly a familiar face in the back of the crowd grabs my attention. "Izanami?"</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/chiasa.jpg" class="chat-portrait" />
+<p class="ppl-sez">CHIASA//</p>
+<p class="ppl-sez">Chiasa looks startled for a second, then gives Mikael an embarrassed smile and nods. </p>
+<p class="ppl-sez">"Didn't you find it odd I never played a daytime festival?"</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/pidge.jpg" class="chat-portrait" />
+<p class="ppl-sez">PIDGE//</p>
+<p class="ppl-sez">"But be careful in assuming it's a restriction upon all of us. Even the most doctrine-bound creature of the night, at extraordinary times, finds will and way to stretch what he is ordinarily capable of. But I must leave you to rest; the night draws thin. Can I offer you a ride home?"</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mm-tb.jpg" class="chat-portrait" />
+<p class="ppl-sez">MIKAEL//</p>
+<p class="ppl-sez">"Understood. Thank you for your candor, Mr. Straud, I think I am actually quite lucky whatever happened to me, happened here. As for the ride, I won't say no. Forest Hills is a decent walk."</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/pidge.jpg" class="chat-portrait" />
+<p class="ppl-sez">PIDGE//</p>
+<p class="ppl-sez">"Cedric, if you'll do the honors?" There is a pause in the conversation and those gathered in the circle fade away into the framework of the bar. Cedric, too, has disappeared into the darkness. All of a sudden you turn your head and there is Straud, standing still as if he'd instantly stepped across the room. He approaches you and seems to impress a moment of privacy between the two of you. He whispers to you, "Mikael. I have a friend, a one Davian Hughes, with whom I think you should become acquainted. He is a man of many talents, as I am sure you will quickly become aware upon your meeting."</p>
+<p class="ppl-sez">He's quickly escorted you to the door -- the actual door, not the one you created by ejecting Lindsay and Jack -- and after stepping into the cool night air, you are greeted by a hunter green Cadillac. The door opens, and you're not even sure how, and you take your seat in the back of the car. Cedric has put on a dark grey driving cap, camoflaging his platinum splash of hair.</p>
+<p class="ppl-sez">Straud leans into the car door to give his farewell. "Goodnight, and many safe returns."</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mm-tb.jpg" class="chat-portrait" />
+<p class="ppl-sez">MIKAEL//</p>
+<p class="ppl-sez">I close the door of the Caddy after bidding farewell to Cedric, the deep green paint now dappled in the rosy light of dawn.  Still in costume, I happen to catch my neighbor leaving for work: she gives one look at me and smiles "Enjoy these days." I give an sheepish shrug and a smile before entering the house.</p>
+</div>
+<BR>
+
+*****
+
+
