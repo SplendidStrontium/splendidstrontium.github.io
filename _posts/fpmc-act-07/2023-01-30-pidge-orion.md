@@ -422,7 +422,7 @@ lastmod: 2023-01-31 09:35
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/benjamin.png" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/benjamin.jpg" class="chat-portrait" />
 <p class="ppl-sez">BEN//</p>
 <p class="ppl-sez"><i>I can feel the mood on wind as I soar across the East River into Queens. The impression grows stronger as the house comes into view as a shimmer on the edge of my perception. The mage who contacted me...Davian, things are indeed dire if Vlad's Lieutenants reached out to him...many mysteries at risk.</i></p>
 <p class="ppl-sez"><i>I swoop up to the porch as the mighty Raven before shifting swiftly into man-shape. Davian stands ready, having clearly sensed my arrival, concern written in subtle clues across his face and body. Looking at Cedric and Mandarc, I see open Panic and Dismay. </i></p>
@@ -443,7 +443,7 @@ lastmod: 2023-01-31 09:35
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/benjamin.png" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/benjamin.jpg" class="chat-portrait" />
 <p class="ppl-sez">BEN//</p>
 <p class="ppl-sez">Davian shuts the door behind me and gestures to the sofa. A young woman with intricately braided red hair is absorbed in her work on a laptop; though she doesn't react, I sense her focus shift to me momentarily before being drawn back to what looks like a Matrix Screensaver.</p>
 <p class="ppl-sez">I sit on one end of the sofa with Davian taking the opposite end. </p>
@@ -458,7 +458,7 @@ lastmod: 2023-01-31 09:35
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/benjamin.png" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/benjamin.jpg" class="chat-portrait" />
 <p class="ppl-sez">BEN//</p>
 <p class="ppl-sez">"Yes. All Fera share a connection to the Spirit Realm."</p>
 <p class="ppl-sez">The mages eyes remain calm but implacable. </p>
@@ -472,7 +472,7 @@ lastmod: 2023-01-31 09:35
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/benjamin.png" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/benjamin.jpg" class="chat-portrait" />
 <p class="ppl-sez">BEN//</p>
 <p class="ppl-sez">"Nixkamich has earned by help. Let us discuss what can be done."</p>
 </div>
@@ -502,7 +502,7 @@ lastmod: 2023-01-31 09:35
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/miriam.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/miriam.png" class="chat-portrait" />
 <p class="ppl-sez">MIRIAM//</p>
 <p class="ppl-sez"><i>You'd know?</i></p>
 </div>
@@ -514,7 +514,7 @@ lastmod: 2023-01-31 09:35
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/miriam.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/miriam.png" class="chat-portrait" />
 <p class="ppl-sez">MIRIAM//</p>
 <p class="ppl-sez"><i>I thought mageblood made you immune to the Curse.</i></p>
 </div>
@@ -556,7 +556,7 @@ lastmod: 2023-01-31 09:35
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/miriam.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/miriam.png" class="chat-portrait" />
 <p class="ppl-sez">MIRIAM//</p>
 <p class="ppl-sez"><i>Cedric, I'm sorry.</i></p>
 </div>
