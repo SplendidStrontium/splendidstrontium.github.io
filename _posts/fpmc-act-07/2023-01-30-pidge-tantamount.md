@@ -970,3 +970,6 @@ lastmod: 2023-02-28 18:52
 <p class="ppl-sez">PIDGE//</p>
 <p class="ppl-sez">You arrive safely in the Straud Mansion's living room, where it is a little cramped now with everyone in it.</p>
 </div>
+<br>
+
+*****
