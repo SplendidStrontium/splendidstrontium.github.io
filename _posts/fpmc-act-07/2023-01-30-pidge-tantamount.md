@@ -14,7 +14,7 @@ lastmod: 2023-02-28 18:52
 *****
 <BR>
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/miriam.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/miriam.png" class="chat-portrait" />
 <p class="ppl-sez">MIRIAM//</p>
 <p class="ppl-sez">Miriam removes her phone from her pocket and notes the time. 9:22 PM, Jan 30, 2022. It is 45 outside, overcast, almost drizzly. The year has gone without snow.</p>
 <p class="ppl-sez">She had been looking over the tree encyclopedia given to her by one of the scurrying imps. But she closes it, her attention wavering. She sits in the chair, chilled in sorrow. </p>
@@ -833,7 +833,7 @@ lastmod: 2023-02-28 18:52
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/ainebaird.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/ainebaird.png" class="chat-portrait" />
 <p class="ppl-sez">ÁINE//</p>
 <p class="ppl-sez">Áine sees this unfold with an air of resignation, barely hesitating before spending a blood point and using her own celerity to flash down the hallway to aid Cedric. <i>What the fuck is he doing here?</i></p>
 </div>
@@ -847,7 +847,7 @@ lastmod: 2023-02-28 18:52
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/ainebaird.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/ainebaird.png" class="chat-portrait" />
 <p class="ppl-sez">ÁINE//</p>
 <p class="ppl-sez">Áine pushes her opponent flat on her back, holding her at arm's length as beams of liquid fire lance from her eyes, immolating her victim. When her target goes limp, she jumps up and readies herself for the next opponent (spends 3 blood for 3 extra held actions this round).</p>
 </div>
@@ -916,7 +916,7 @@ lastmod: 2023-02-28 18:52
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/ainebaird.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/ainebaird.png" class="chat-portrait" />
 <p class="ppl-sez">ÁINE//</p>
 <p class="ppl-sez"><i>What Cedric here means is the Count is quite well connected. Áine Baird, ronin vampire; pleasure to meat you Jia, and you Lila. Very impressive back there...Trelaine's ass will be smarting for some time.</i></p>
 </div>
@@ -934,7 +934,7 @@ lastmod: 2023-02-28 18:52
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/ainebaird.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/ainebaird.png" class="chat-portrait" />
 <p class="ppl-sez">ÁINE//</p>
 <p class="ppl-sez"><i>The Camarilla style themselves the rightful ruling body after the Treaty of Thorns, but each city struggles to maintain order. Here in NYC, the Sabbat control almost all of Brooklyn while the Anarchs hold the Bronx tightly. Hell, they only hold two of the five boroughs.</i></p>
 </div>
@@ -946,7 +946,7 @@ lastmod: 2023-02-28 18:52
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/ainebaird.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/ainebaird.png" class="chat-portrait" />
 <p class="ppl-sez">ÁINE//</p>
 <p class="ppl-sez"><i>I doubt very many Americans could tell you anything about China other than 'virus','Mao', and maybe, 'Xi Jinping'. But Kindred here are stuck in the middle ages. Princes have absolute power within their domains </i></p>
 </div>
