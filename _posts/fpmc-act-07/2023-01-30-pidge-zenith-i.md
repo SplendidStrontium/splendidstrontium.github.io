@@ -877,7 +877,7 @@ lastmod: 2023-03-02 20:47
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/tomasortega.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/tomasortega.png" class="chat-portrait" />
 <p class="ppl-sez">TOMAS//</p>
 <p class="ppl-sez">"Going somewhere?"</p>
 </div>
@@ -889,7 +889,7 @@ lastmod: 2023-03-02 20:47
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/tomasortega.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/tomasortega.png" class="chat-portrait" />
 <p class="ppl-sez">TOMAS//</p>
 <p class="ppl-sez">"So strange, your coterie dining in a group. Do you share?" Tomas smiles, coyly. "Before I turn you loose into the night, can I bother you to let me know where your Master the Count might be found? I was hoping to get a statement from him regarding the...er. Massacre that occurred tonight."</p>
 <p class="ppl-sez">"Particularly, you, Cedric." Tomas's eyes burrow into the young man. "Where is your Master?"</p>
@@ -902,7 +902,7 @@ lastmod: 2023-03-02 20:47
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/tomasortega.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/tomasortega.png" class="chat-portrait" />
 <p class="ppl-sez">TOMAS//</p>
 <p class="ppl-sez">"Oh really, yes, that's right. Recently returned from the dead. Again." Tomas flippantly gestures. "So then who is the Count to you? Really?"</p>
 </div>
@@ -914,7 +914,7 @@ lastmod: 2023-03-02 20:47
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/tomasortega.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/tomasortega.png" class="chat-portrait" />
 <p class="ppl-sez">TOMAS//</p>
 <p class="ppl-sez">There is a pause broken only by the cold night air flowing in through the doorway. "It's too bad I won't get to talk to you all tonight. Happy Hunting." and he ducks through the crowd and into the Blue Velvet.</p>
 </div>
