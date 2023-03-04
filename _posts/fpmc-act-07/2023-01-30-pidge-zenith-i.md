@@ -429,7 +429,7 @@ lastmod: 2023-03-02 20:47
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/gwydion1.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/gwydion1.png" class="chat-portrait" />
 <p class="ppl-sez">GWYDION//</p>
 <p class="ppl-sez">The young man at the end of the bar looks up sharply, long glossy black hair falling away from an angular, fine-featured face. He stands as Cedric approaches, extending a hand in greeting, but his expression is carefully neutral.</p>
 <p class="ppl-sez">"Hello Cedric, how have you been?"</p>
@@ -450,7 +450,7 @@ lastmod: 2023-03-02 20:47
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/gwydion1.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/gwydion1.png" class="chat-portrait" />
 <p class="ppl-sez">GWYDION//</p>
 <p class="ppl-sez">Violet eyes regard Cedric for a moment. "I suppose it's useless to refuse. What are we celebrating?" Gwydion takes a sip of his curious green drink before walking over to Áine and Mandarc with Cedric, the sable folds of his long greatcloak just brushing the floor.</p>
 </div>
@@ -475,7 +475,7 @@ lastmod: 2023-03-02 20:47
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/gwydion1.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/gwydion1.png" class="chat-portrait" />
 <p class="ppl-sez">GWYDION//</p>
 <p class="ppl-sez">Gwydion slides into the booth and nods easily at Áine and Mandarc, his aloof demeanor fading slightly at the news.</p>
 <p class="ppl-sez">"Áine? Gwydion Yanúla.You are as radiant as your namesake."</p>
@@ -572,7 +572,7 @@ lastmod: 2023-03-02 20:47
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/gwydion1.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/gwydion1.png" class="chat-portrait" />
 <p class="ppl-sez">GWYDION//</p>
 <p class="ppl-sez">Gwydion waits until Cedric leaves then fixes Áine with a steady gaze "You raise a toast to the three of them, presumably this Lila, Mandarc, and Cedric, as if you weren't there...but you were there?"</p>
 </div>
@@ -596,7 +596,7 @@ lastmod: 2023-03-02 20:47
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/gwydion1.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/gwydion1.png" class="chat-portrait" />
 <p class="ppl-sez">GWYDION//</p>
 <p class="ppl-sez">Gwydion traces some runes on the table with the condensation from his glass, letting the enchantment from the table reflect through, causing them to glow ever so slightly. </p>
 <p class="ppl-sez">"Thank you Cedric. And you as well, Áine, that seemed... more than coincidental."</p>
@@ -650,7 +650,7 @@ lastmod: 2023-03-02 20:47
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/gwydion1.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/gwydion1.png" class="chat-portrait" />
 <p class="ppl-sez">GWYDION//</p>
 <p class="ppl-sez">"I will accompany you Cedric. Davian's message hints at things of great interest to me, and I hold no ill-will towards Vampires. I wouldn't be so hypocritical."</p>
 </div>
@@ -669,7 +669,7 @@ lastmod: 2023-03-02 20:47
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/gwydion1.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/gwydion1.png" class="chat-portrait" />
 <p class="ppl-sez">GWYDION//</p>
 <p class="ppl-sez">"Really?" Gwydion stares at Áine deadpan.</p>
 </div>
@@ -681,7 +681,7 @@ lastmod: 2023-03-02 20:47
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/gwydion1.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/gwydion1.png" class="chat-portrait" />
 <p class="ppl-sez">GWYDION//</p>
 <p class="ppl-sez">It is Gwydion's turn to smirk before responding. "Dear Áine, I did say that, and so I will speak no more on your eating habits; I do hope you will extend me the same professional courtesy if the need should arise." Gwydion turns to Cedric afterwards and they share a meaningful look.</p>
 </div>
@@ -727,7 +727,7 @@ lastmod: 2023-03-02 20:47
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/gwydion1.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/gwydion1.png" class="chat-portrait" />
 <p class="ppl-sez">GWYDION//</p>
 <p class="ppl-sez">"After you, Cedric." Gwydion rises gracefully and holds his hand out for Áine.</p>
 </div>
@@ -804,7 +804,7 @@ lastmod: 2023-03-02 20:47
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/gwydion1.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/gwydion1.png" class="chat-portrait" />
 <p class="ppl-sez">GWYDION//</p>
 <p class="ppl-sez">"Why the hesitation Quarq? You appear to have the information we need, and we have someone who can learn and 'speak' that name..., Emmitt Skinner,  a young man known to Straud and the Coterie. There is little risk in your helping us, and much in prolonging 'The Captain's' torpor."</p>
 </div>
@@ -816,7 +816,7 @@ lastmod: 2023-03-02 20:47
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/gwydion1.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/gwydion1.png" class="chat-portrait" />
 <p class="ppl-sez">GWYDION//</p>
 <p class="ppl-sez">Gwydion takes quick breath before speaking "Quarq, everyone, including an Archmage of the Order of Hermes, is involved; the longer this continues, the more upset Straud will be when he does  wake up, right? IF he wakes up, and that's the real threat. Everyone here agrees to take the blame for this; I will even say I ripped it from your mind by force...if necessary." By the end, Gwydion's voice was full of quite convincing menace.</p>
 </div>
@@ -933,7 +933,7 @@ lastmod: 2023-03-02 20:47
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/gwydion1.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/gwydion1.png" class="chat-portrait" />
 <p class="ppl-sez">GWYDION//</p>
 <p class="ppl-sez">Gwydion Áine over surreptitiously, before opening one of the rear doors and motioning her inside. <i>I think I will travel with you this time; this way I'm on-hand.</i></p>
 </div>
