@@ -144,7 +144,7 @@ lastmod: 2023-03-23 20:20
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/alexandervongalen.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/alexandervongalen.png" class="chat-portrait" />
 <p class="ppl-sez">ALEXANDER//</p>
 <p class="ppl-sez">Alexander sits in a dim corner of the 'Blue Velvet', looking around the room with cold detachment. <i>Well appointed nightclub. So far little more.</i> He takes a sip of his drink every so often, to keep up appearances, which is the only movement he makes. He notes the bustle the arrival of the silver-haired man produces. <i>Interesting. The Boss.</i></p>
 </div>
@@ -405,7 +405,7 @@ lastmod: 2023-03-23 20:20
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/alexandervongalen.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/alexandervongalen.png" class="chat-portrait" />
 <p class="ppl-sez">ALEXANDER//</p>
 <p class="ppl-sez">Xander tenses as the two men rise from their seats, their eyes fixed on his location. His arcane senses identified the dark-haired man in the elegant suit as a Mage of awesome power, but the silver-haired gentlemen confused him. The BV was rumored to be owned by an ancient Vampire, but this man was seemed like no other vampire Xander had ever encountered...he smelled different, and he emanated a peculiar aura. Regardless, these two were power-players. <i>Remember: you don't really know what happened.</i></p>
 <p class="ppl-sez">Xander rises and follows the owner's (Strahd? Straud!) choice of greeting, making a small bow to each man:</p>
@@ -421,7 +421,7 @@ lastmod: 2023-03-23 20:20
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/alexandervongalen.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/alexandervongalen.png" class="chat-portrait" />
 <p class="ppl-sez">ALEXANDER//</p>
 <p class="ppl-sez">Alex hesitates for a moment, then gives a quick nod of assent. "I would be honored to join you; I find myself unexpectedly alone after my relationship went up in flames."</p>
 </div>
@@ -436,7 +436,7 @@ lastmod: 2023-03-23 20:20
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/alexandervongalen.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/alexandervongalen.png" class="chat-portrait" />
 <p class="ppl-sez">ALEXANDER//</p>
 <p class="ppl-sez">Alex looks around the booth with barely concealed amazement. The auras on display were...impressive. "Alexander von Galen. This is my first time at the Blue Velvet and Mr. Straud was kind enough to invite me over."</p>
 </div>
@@ -454,7 +454,7 @@ lastmod: 2023-03-23 20:20
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/alexandervongalen.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/alexandervongalen.png" class="chat-portrait" />
 <p class="ppl-sez">ALEXANDER//</p>
 <p class="ppl-sez">Alexander nods. "Nice to meet you. I would like a hemmingway daquiri please. Double."</p>
 </div>
@@ -472,7 +472,7 @@ lastmod: 2023-03-23 20:20
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/alexandervongalen.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/alexandervongalen.png" class="chat-portrait" />
 <p class="ppl-sez">ALEXANDER//</p>
 <p class="ppl-sez">"I would indeed. It is so rare to have insider access."</p>
 </div>
@@ -484,7 +484,7 @@ lastmod: 2023-03-23 20:20
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/alexandervongalen.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/alexandervongalen.png" class="chat-portrait" />
 <p class="ppl-sez">ALEXANDER//</p>
 <p class="ppl-sez">The strength of the young man's aura screams warning, but his gaze is honest, and his gesture had the intended effect. Despite himself, Alexander finds himself liking the young man. </p>
 <p class="ppl-sez">"Good to meet you Mikael. Are you in University?"</p>
@@ -497,7 +497,7 @@ lastmod: 2023-03-23 20:20
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/alexandervongalen.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/alexandervongalen.png" class="chat-portrait" />
 <p class="ppl-sez">ALEXANDER//</p>
 <p class="ppl-sez">"Several subjects? Oh. My occupation is a humble one: I am a mailman. I find it provides ample time for me to pursue my other hobbies."</p>
 </div>
@@ -509,7 +509,7 @@ lastmod: 2023-03-23 20:20
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/alexandervongalen.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/alexandervongalen.png" class="chat-portrait" />
 <p class="ppl-sez">ALEXANDER//</p>
 <p class="ppl-sez">The young man's guilelessness catches Alexander off-guard. "I don't know him directly, only by reputation. My ex-girlfriend mentioned this place a few times before she...disappeared. She always made it sound...unseemly, but I am not so sure anymore."</p>
 </div>
@@ -528,6 +528,8 @@ lastmod: 2023-03-23 20:20
 <p class="ppl-sez">"A mailman, huh? That would give you plenty of time to make the rounds. Where do you hail from?"</p>
 </div>
 
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/alexandervongalen.png" class="chat-portrait" />
 <p class="ppl-sez">ALEXANDER//</p>
 <p class="ppl-sez">"Nice to meet you. I grew up in College Point, then moved down south for a while. Transferred back up to the City when my parents died, about a year ago. What about you? Mikael has New York on his tongue, but you're harder to place."</p>
 </div>
@@ -538,6 +540,8 @@ lastmod: 2023-03-23 20:20
 <p class="ppl-sez">"I grew up in the Appalachians. Small town tucked inside of mountains and trees. I spent my childhood buried in books, so the accent never took root. I moved here after I graduated from high school. Quickly discovered the Magicademy and there I've stayed."</p>
 </div>
 
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/alexandervongalen.png" class="chat-portrait" />
 <p class="ppl-sez">ALEXANDER//</p>
 <p class="ppl-sez">"Magicademy? Is that the school for mages they set up on Randall's island?"</p>
 </div>
@@ -548,6 +552,8 @@ lastmod: 2023-03-23 20:20
 <p class="ppl-sez">"It's here in Astoria; North and a little west, probably technically Steinway but the mail all reads Astoria. It's a school for mages, run by Kevin's mother and father." He gestures to Kevin, who waves. "They mostly take in foundlings, and has been closed for a number of years. Time flies."</p>
 </div>
 
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/alexandervongalen.png" class="chat-portrait" />
 <p class="ppl-sez">ALEXANDER//</p>
 <p class="ppl-sez">"Ah. I had heard of the school for The Awakened while down in Florida, the details were bound to be scrambled." Alexander takes a deep drink of his daquiri before continuing "It was a noble endeavor; what happened, if you don't mind my asking."</p>
 </div>
@@ -558,6 +564,8 @@ lastmod: 2023-03-23 20:20
 <p class="ppl-sez">"The Matron was succumbing to age but mostly doubt. She doubted whether she could keep up with the new classes of children. Then, in 2001, her husband died. She took care of the children she had until they came of age, but took on no additional pupils."</p>
 </div>
 
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/alexandervongalen.png" class="chat-portrait" />
 <p class="ppl-sez">ALEXANDER//</p>
 <p class="ppl-sez">"I see. A shame, but as you say, tempus fugit." Alexander takes advantage of the pause to finish his drink. "And doubt is one of those byproducts of wisdom they never advertise."</p>
 </div>
