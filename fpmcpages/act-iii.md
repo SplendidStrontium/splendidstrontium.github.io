@@ -90,6 +90,10 @@ permalink: /femputermanchine/act-iii/
 
 <hr>
 
+<h2><a href="{{ '/femputermanchine/act-viii/' | prepend: site.url }}">ACT VIII: Thaumaturgy</a></h2>
+
+<hr>
+
 
 </body>
 </html>

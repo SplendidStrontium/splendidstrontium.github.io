@@ -1,7 +1,7 @@
 ---
 layout: femputermanchine
-title: "ACT VI: Purification"
-permalink: /femputermanchine/act-vi/
+title: "ACT VIII: Thaumaturgy"
+permalink: /femputermanchine/act-viii/
 ---
 
 <html>
@@ -13,7 +13,9 @@ permalink: /femputermanchine/act-vi/
 <body>
 
 <div id="fpmc-intro">
-<p>Act VI begins with Cedric's adoption of the Zhou family. Friends and enemies engage in spring cleaning to test the opposition. Vladislaus Straud tries to set old wrongs right.</p>
+<p>Act VIII is the current act of FPMC.</p>
+<p>If you're interested in the adventures of a particular character, check out <a href="{{ '/femputermanchine/books/' | prepend: site.url }}">FPMC (by book)</a> as well as <a href="{{ '/fpmcnotes/' | prepend: site.url }}">notes</a> and <a href="{{ '/hexfiles/' | prepend: site.url }}">errata</a>.</p>
+<p>For background information (spoilers) on the setting and jargon, check out the <a href="https://github.com/SplendidStrontium/splendidstrontium.github.io/wiki">wiki</a> or for general discussion, check out our <a href="https://discord.gg/A5PyBpFvE8">Discord</a>. You may also want to try talking to our <a href="{{ '/femputermanchine/chatbot/' | prepend: site.url }}">Chatbot</a>.</p>
 </div>
 
 <hr>
@@ -42,13 +44,21 @@ permalink: /femputermanchine/act-vi/
 
 <hr>
 
-<h2>ACT VI: Purification</h2>
+<h2><a href="{{ '/femputermanchine/act-vi/' | prepend: site.url }}">ACT VI: Purification</a></h2>
+
+<hr>
+
+<h2><a href="{{ '/femputermanchine/act-vii/' | prepend: site.url }}">ACT VII: Transfiguration</a></h2>
+
+<hr>
+
+<h2>ACT VIII: Thaumaturgy</h2>
 
 <ul>
 	{% for post in site.posts reversed %}
         {% if post.url %}
 			{% if post.category == "femputermanchine" %}
-				{% if post.tags contains "act-vi" %}
+				{% if post.tags contains "act-viii" %}
 
 				    <li class="fpmc-post">
 					<div class="fpmc-link-box"><a class="fpmc-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
@@ -85,13 +95,7 @@ permalink: /femputermanchine/act-vi/
 
 <hr>
 
-<h2><a href="{{ '/femputermanchine/act-vii/' | prepend: site.url }}">ACT VII: Transfiguration</a></h2>
 
-<hr>
-
-<h2><a href="{{ '/femputermanchine/act-viii/' | prepend: site.url }}">ACT VIII: Thaumaturgy</a></h2>
-
-<hr>
 
 
 </body>
