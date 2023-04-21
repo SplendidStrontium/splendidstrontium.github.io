@@ -124,7 +124,7 @@ lastmod: 2023-04-20 21:02
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/cedric2.jpg" class="chat-portrait" />
 <p class="ppl-sez">CEDRIC//</p>
-<p class="ppl-sez">It was then that things got bacd with my family. I was learning the lesson that if I didn't take care of myself, no one else would either.</p>
+<p class="ppl-sez">It was then that things got bad with my family. I was learning the lesson that if I didn't take care of myself, no one else would either.</p>
 </div>
 
 <div class="chat-box">
@@ -257,6 +257,7 @@ lastmod: 2023-04-20 21:02
 <img src="{{ site.url }}/assets/tb/cedric2.jpg" class="chat-portrait" />
 <p class="ppl-sez">CEDRIC//</p>
 <p class="ppl-sez">Regardless, maybe you should just go for radical honesty. I hear it's the best policy.</p>
+</div>
 
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/mandarc-coat.jpg" class="chat-portrait" />
@@ -312,7 +313,7 @@ lastmod: 2023-04-20 21:02
 
 <BR><i>I showed up fully prepared to drive the Master to the B.V. but something told me that we would not be going tonight.</i>
 
-<i>I unlocked the door with my personal set of keys. It still astounded me, each and every time I did this, the amount of trust the Master had placed in me. My old master, the Doctor Trelaine, had never given me such a gift. He had barely been comfortable with me placing my hand upon a doorknob, more content to havec me follow dutifully behind.</i>
+<i>I unlocked the door with my personal set of keys. It still astounded me, each and every time I did this, the amount of trust the Master had placed in me. My old master, the Doctor Trelaine, had never given me such a gift. He had barely been comfortable with me placing my hand upon a doorknob, more content to have me follow dutifully behind.</i>
 
 <i>But times had changed. Straud was my Master now.</i>
 
