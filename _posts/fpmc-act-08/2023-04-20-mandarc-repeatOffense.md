@@ -1,6 +1,6 @@
 ---
 layout: fpmcpost
-title: "STRAUD 022: Repeat Offense"
+title: "MANDARC 022: Repeat Offense"
 permalink: /femputermanchine/mandarc/repeat-offense/
 category: femputermanchine
 date: 2023-04-20 21:01
