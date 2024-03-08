@@ -4,7 +4,7 @@ title: "JUNIOR 010: A Fair Trade"
 permalink: /femputermanchine/jr/a-fair-trade/
 category: femputermanchine
 date: 2023-09-25 20:45
-description: ""
+description: "in which Trente rejects an analogy"
 tags: [skit, fpmcmain-jr, act-viii]
 published: true
 lastmod: 2024-03-07 20:45
