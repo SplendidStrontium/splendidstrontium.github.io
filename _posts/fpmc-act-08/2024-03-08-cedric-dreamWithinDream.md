@@ -650,9 +650,9 @@ lastmod: 2024-03-15 13:03
 
 #### HUA JIA 
 
-> 大師, please do not be upset about your playwright. 
+> 大師, PLEASE DO NOT BE UPSET ABOUT YOUR PLAYWRIGHT. 
 > 
-> Remember the old man at the border.
+> REMEMBER THE OLD MAN AT THE BORDER.
 
 #### STRAUD 
 
