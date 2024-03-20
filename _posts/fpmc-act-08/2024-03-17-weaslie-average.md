@@ -78,7 +78,7 @@ lastmod: 2024-03-20 12:21
 
 <br><i>She turned away, fetching her caged squirrels from the mudroom, and disappeared into the bedroom. Soon, he heard the indistinct mumbling of the woman's voice, just audible enough to make out a general, genial tone.</i>
 
-<i>He wondered, as he reclined on the sofa, if she would attempt some of her more advanced feats. One of the variants of Polymorph she had shown him involved turning the subjects into animals that would ordinarily be much larger or smaller than the usual target creature. Specifically, she had turned the prisoners into very small elephants. They had made quite the ruckus in this shape, toot-tooting their little trunks until finally being turned back into themselves. He wondered to what degree she was capable, if her cautious nature would not old her back. Could they have a pair of rodent-sized amoebae?</i>
+<i>He wondered, as he reclined on the sofa, if she would attempt some of her more advanced feats. One of the variants of Polymorph she had shown him involved turning the subjects into animals that would ordinarily be much larger or smaller than the usual target creature. Specifically, she had turned the prisoners into very small elephants. They had made quite the ruckus in this shape, toot-tooting their little trunks until finally being turned back into themselves. He wondered to what degree she was capable, if her cautious nature would not hold her back. Could they have a pair of rodent-sized amoebae?</i>
 
 <i>He was just about to end his idle curiosities when Friday emerged from the bedroom. Her face was dappled with uncertainty.</i>
 
