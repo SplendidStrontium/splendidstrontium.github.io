@@ -18,6 +18,7 @@ permalink: /darkshadows/
 <p>Starting today, I aim to review each of the 1225 episodes of the show "Dark Shadows". It will take some time, that goes without saying, but I hope that I will grow as a writer and return to FPMC fully ready to tackle the conclusion of the battle between Vladislaus Straud and the end of the world.</p>
 <p>For now, I hope you'll enjoy my foray into the world of Collinsport. There are more than a few things in common between the worlds, namely werewolves, witches, ghosts, and even a vampire or two.</p>
 <p>As I write this, I eagerly look forward to learning more about the Collins family and the whole cast of characters that made "Dark Shadows" a success. I hope you will take the ride along with me.</p>
+<p>♫♫ indicates that a post has open comments.</p>
 </div>
 
 <hr>
@@ -32,9 +33,15 @@ permalink: /darkshadows/
 
 				    <li class="ds-post">
 					<div class="ds-link-box"><a class="ds-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+					
+					{% if post.thumbnail_id %}
+					<div class="ds-tb">
+					<img src="{{ site.url }}/assets/tb/{{post.thumbnail_id}}" alt="" class="ds-tb-img">
+					</div>
+					{% endif %}
 
 					<div class="ds-desc">
-						{{post.description}}
+						{{post.description}}{% if post.comments_id %}<span class="arch-comments-notify">♫♫</span>{% endif %}
 					</div>
 
 			
