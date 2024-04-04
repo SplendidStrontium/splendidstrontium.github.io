@@ -1,6 +1,6 @@
 ---
 layout: femputermanchine
-title: "FP & MC"
+title: "Femputer Manchine"
 menu: main
 permalink: /femputermanchine/ 
 ---
