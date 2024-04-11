@@ -41,7 +41,7 @@ permalink: /darkshadows/
 
 					<div class="ds-desc">
 						{{post.description}}
-						{{post.rating}}
+						<span class="ds-rating">{{post.rating}}</span>
 					</div>
 
 			
