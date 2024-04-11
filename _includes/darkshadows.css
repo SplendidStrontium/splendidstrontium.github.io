@@ -55,7 +55,7 @@
 }
 
 ds-rating{
-	font-style: normal;
+	font-style: normal !important;
 	font-size: 1em;
 }
 
