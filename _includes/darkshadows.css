@@ -43,10 +43,8 @@
 	max-width: 100px;
 }
 
-.ds-desc{
-	font-style: italic;
-	font-size: 0.9em;
-    background-color: #bbb;
+ds-desc-box{
+	background-color: #bbb;
 	width: 60%;
 	margin-top: 0.2em;
 	margin-bottom: 1.3em;
@@ -54,9 +52,14 @@
 	padding-right: 0.4em;
 }
 
+.ds-desc{
+	font-style: italic;
+	font-size: 0.9em;
+}
+
 ds-rating{
-	font-style: normal !important;
-	font-size: 1em;
+	font-style: normal;
+	font-size: 1.3em;
 }
 
 .ds-cata{

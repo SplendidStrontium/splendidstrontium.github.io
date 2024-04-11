@@ -39,8 +39,8 @@ permalink: /darkshadows/
 					</div>
 					{% endif %}
 
-					<div class="ds-desc">
-						{{post.description}}
+					<div class="ds-desc-box">
+						<span class="ds-desc">{{post.description}}</span>
 						<br><span class="ds-rating">{{post.rating}}</span>
 					</div>
 
