@@ -54,8 +54,9 @@
 	padding-right: 0.4em;
 }
 
-ds.rating{
+ds-rating{
 	font-style: normal;
+	font-size: 1em;
 }
 
 .ds-cata{
