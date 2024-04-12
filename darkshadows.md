@@ -22,13 +22,13 @@ permalink: /darkshadows/
 
 <hr>
 
-<h2>PART 1: Victoria Winters </h2>
+<h2>PART I: Victoria's Arrival </h2>
 
 <ul>
 	{% for post in site.posts reversed %}
         {% if post.url %}
 			{% if post.category == "darkshadows" %}
-				{% if post.tags contains "pt-1" %}
+				{% if post.tags contains "pt-i" %}
 
 				    <li class="ds-post">
 					<div class="ds-link-box"><a class="ds-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
@@ -44,7 +44,6 @@ permalink: /darkshadows/
 						<br><span class="ds-rating">{{post.rating}}</span>
 					</div>
 
-			
 					<span class="ds-date">
 					<span id="dayname-cn">
 					{% assign day = post.date | date: "%w" %}
@@ -74,6 +73,9 @@ permalink: /darkshadows/
 
 <hr>
 
+<h2><a href="{{ '/darkshadows/part-ii/' | prepend: site.url }}">PART II: The Revenge of Burke Devlin</a></h2>
+
+<hr>
 
 </body>
 </html>
