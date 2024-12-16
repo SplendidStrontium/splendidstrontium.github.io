@@ -142,7 +142,7 @@ lastmod: 2024-12-15 21:25
 
 <i>As far as converting his daughter was concerned, it did seem somewhat perverse to me. Cedric greeted him with the genteel civility he was due as the Master's Childe, but my feelings regarding the Prohibition became ever more cemented as Makoa and his daughter Nani made their way into the throngs of mortals at the Blue Velvet. She did not belong here. Oh, she was cute enough, and perhaps if I were to linger in one frame of mind I could see the appeal. But my feelings, my <u>gut</u>, would not permit it. She was small, standing half the height of those she divided. The manner in which she clung to her father's hand felt wholly out-of-place in this realm. To be a vampire was to stand alone against the world, to endure in spite of the eras, it was a place where self-reliance was a necessity rather than a luxury.</i>
 
-<i>And perhaps it was also true that children simply made me uncomfortable. It wasn't that I hated them, resented them, or envied their youth, I just simply did not like them. They were small, delicate, even more easily broken than the Mortals from whom they sprang. They were chaotic and unpredictable, slave to emotion rather than Logic. And if to betray all this, they even looked strange, and I could not help but regard them as incomplete, very partial versions of their future selves. A star, I had learned, only ignited once it reached a critical mass. Below this threshold, it could not maintain the processes necessary to produce photons.</i>
+<i>And perhaps it was also true that children simply made me uncomfortable. It wasn't that I hated them, resented them, or envied their youth, I just simply did not like them. They were small, delicate, even more easily broken than the Mortals from whom they sprang. They were chaotic and unpredictable, slave to emotion rather than Logic. And as if to betray all this, they even looked strange, and I could not help but regard them as incomplete, very partial versions of their future selves. A star, I had learned, only ignited once it reached a critical mass. Below this threshold, it could not maintain the processes necessary to produce photons.</i>
 
 <i>The Master wore a stern frown as Makoa weaved through the crowd. I did not like to see him this way. But soon, very soon, I would be the cause of this same grimace.</i>
 
@@ -505,7 +505,7 @@ lastmod: 2024-12-15 21:25
 
 > MY MOTHER IS A TRAITOR TO OUR FAMILY!
 > 
-> SHE BROUGHT IN AN OUTSIDER AND ALLOWED HIM PRIVLEDGE HE HAD NOT EARNED!
+> SHE BROUGHT IN AN OUTSIDER AND ALLOWED HIM PRIVILEGE HE HAD NOT EARNED!
 
 #### CEDRIC 
 
@@ -1124,6 +1124,8 @@ lastmod: 2024-12-15 21:25
 
 > NO.
 > 
+> ...
+> 
 > IT COULDN'T.
 
 <br><i>Finally, she was quiet. Her rage and frustration, however, yielded to an even more dangerous emotion.</i>
@@ -1417,7 +1419,7 @@ lastmod: 2024-12-15 21:25
 > 
 > AS FOR ME, I THOUGHT HER NOT BEYOND THE HOPE OF REDEMPTION BUT I WAS NOT SURE THE PATH WE SHOULD TAKE.
 > 
-> I ONCE THOUGHT THAT LAY WITH YOU, BUT I KNOW BELIEVE I WAS MISTAKEN.
+> I ONCE THOUGHT THAT LAY WITH YOU, BUT I NOW BELIEVE I WAS MISTAKEN.
 
 #### MANDARC 
 
