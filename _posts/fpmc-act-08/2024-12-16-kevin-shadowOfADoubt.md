@@ -1001,11 +1001,13 @@ lastmod: 2024-12-21 10:51
 >
 > NO.
 >
-> HE SHUNTED ME OFF ON ONE OF HIS DUTIFUL CULTISTS IN A SHAMEFUL SHOW OF NEPOTISM AND PENNED A BLUEPRINT TO IMPRISON ME BEHIND STEEL AND SUTURE.
+> HE SHUNTED ME OFF ON ONE OF HIS DUTIFUL CULTISTS, FAVORING HIS LITTLE CRONIES, AND PENNED A BLUEPRINT TO IMPRISON ME BEHIND STEEL AND SUTURE.
 > 
 > MEDICATE THE SYMPTOMS BUT DO NOT CURE THE DISEASE.
 > 
 > "ASK STRAUD"--
+>
+> "ASK STRAUD"...
 > 
 > TO HELL WITH STRAUD!
 
@@ -1140,9 +1142,9 @@ lastmod: 2024-12-21 10:51
 </div>
 
 *****
-<br><i>Cedric did not linger too long at the Magicademy. I did not expect him to return to his post as the auxiliary apartments, no, not tonight. I knew exactly where he was going. Underneath the cover of night, he would slip effortlessly between shadows. He would wait just outside the reaches of the streetlamps, linger in the unknowable silence. He would then seize his prey precisely at the moment they thought to fear. Yes, he reveled in that arousal, just when the skeletal hand of terror choked the heart and sped the blood into the veins. I knew him.</i>
+<br><i>Cedric did not linger too long at the Magicademy. I did not expect him to return to his post at the auxiliary apartments, no, not tonight. I knew exactly where he was going. Underneath the cover of night, he would slip effortlessly between shadows. He would wait just outside the reaches of the streetlamps, linger in the unknowable silence. He would then seize his prey precisely at the moment they thought to fear. Yes, he reveled in that arousal, just when the skeletal hand of terror choked the heart and sped the blood into the veins. I knew him. I knew where he was.</i>
 
-<i>But tonight, I sheltered inside the same four walls I had taken refuge in since my birth. I could not follow Cedric into darkness, not here, not now, not like this. I had to guard myself. I was needed, I was necessary. I could not trust that the others would be there when I needed them, not with so many pulling away. If the pillars were crumbling, I would see myself remain as the last one. For me to endure, I had to play conservatively. I would watch, wait, and when I finally got my hand, I would be ready to play.</i>
+<i>But tonight, I sheltered inside the same four walls I had taken refuge in since my birth. I could not follow Cedric into darkness, not here, not now, not like this. I had to guard myself. I was needed, I was necessary. I could not trust that the others would be there when I needed them, not with so many pulling away. If the pillars were crumbling, I would see myself remain to the last. For me to endure, I had to play conservatively. I would watch, wait, and when I finally got my hand, I would be ready to play.</i>
 
 *****
 <br><i>The only one that remains in the old house is Father. I can sense him even as he tries to minimize his presence, taking a moment of reflection in his study. Though he has a sprawling complex and chapel underground, he seemed to prefer a more mundane existence. But it was all a grand masquerade - there was absolutely <u>nothing</u> Mundane about my Father.</i>
