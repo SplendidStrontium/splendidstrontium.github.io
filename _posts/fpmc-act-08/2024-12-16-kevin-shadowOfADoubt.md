@@ -18,9 +18,9 @@ lastmod: 2024-12-20 21:42
 
 <i>So when I gave all that up, I suppose she was disgusted with me. She resented trying to teach me elementary charms, spells ordinarily taught alongside fractions and cursive script. I was then nearing my fortieth year, at least by Mortal reckoning, and I might as well have regressed back into diapers and velcro shoes.</i>
 
-<i>But I did not allow her attitude to poison me against her. I had proof of her greatnes and dedication all around me and I simply accepted that she could not show it to me personally. When she bickered with my father, I tried to stay out of it, recognizing that I could do nothing to change what had happened long before my birth. They seemed as business partners first and foremost. And like so many Mortal children, that suited me just fine. </i>
+<i>But I did not allow her attitude to poison me against her. I had proof of her greatness and dedication all around me and I simply accepted that she could not show it to me personally. When she bickered with my father, I tried to stay out of it, recognizing that I could do nothing to change what had happened long before my birth. They seemed as business partners first and foremost. And like so many Mortal children, that suited me just fine. </i>
 
-<i>But though my mother had placed few kisses upon my forehead, when she died at the hands of her friend Agnes Sepal, I mourned. Though I had not certainty beforehand that it could be done, I made a leap of faith. I bound her spirit to our antiquated computer system. It was not too difficult, really, as I found Mother's spirit had clung to this old house as oil to wood. My father, too, had lost his corporeal form at the hands of our family nemesis, but his soul had found refuge in my psyche. It was stranger than fiction, but I endured and even thrived.</i>
+<i>Although my mother had placed few kisses upon my forehead, when she died at the hands of her friend Agnes Sepal, I mourned. Though I had no certainty beforehand that it could be done, I made a leap of faith. I bound her spirit to our antiquated computer system. It was not too difficult, really, as I found Mother's spirit had clung to this old house as oil to wood. My father, too, had lost his corporeal form at the hands of our family nemesis, but his soul had found refuge in my psyche. It was stranger than fiction, but I endured and even thrived.</i>
 
 <i>I was never alone with this burden. I had what remained of my father's acolytes and Straud had pledged his coterie to support what remained of the foundling home. Of all of them, Cedric was the one who never wavered. He called my father Master and we were as brothers. He and Straud were the only ones who did not question my decision to forsake vampirism.</i>
 
@@ -63,7 +63,7 @@ lastmod: 2024-12-20 21:42
 
 #### KEVIN 
 
-> SOMETHING CAFFIENE-FREE. 
+> SOMETHING CAFFEINE-FREE. 
 >
 > IT'S LATE.
 
@@ -127,13 +127,13 @@ lastmod: 2024-12-20 21:42
 > 
 > EVEN THE ORDER...
 
+<br><i>She slams her fist upon the counter.</i>
+
 #### MYRTLE 
 
 > DAMN THE ORDER!
 
-<br><i>She slams her fist upon the counter.</i>
-
-<i>I tried to be cautious.</i>
+<br><i>I tried to be cautious.</i>
 
 #### KEVIN 
 
@@ -251,7 +251,7 @@ lastmod: 2024-12-20 21:42
 
 > I'M NOT BRINGING MORE CHILDREN INTO THIS.
 
-<br><i>She spoke quietly, but firmlyk, with a resigned finality that indicated she'd already made up her mind.</i>
+<br><i>She spoke quietly, but firmly, with a resigned finality that indicated she'd already made up her mind.</i>
 
 #### KEVIN 
 
@@ -283,7 +283,7 @@ lastmod: 2024-12-20 21:42
 
 > THAT IS INCREDIBLY SHORT-SIGHTED!
 > 
-> IT COULD BE LIFETIMES BEFORE WE ACHEIVE PEACE!
+> IT COULD BE LIFETIMES BEFORE WE ACHIEVE PEACE!
 
 #### MYRTLE 
 
@@ -311,7 +311,7 @@ lastmod: 2024-12-20 21:42
 
 #### KEVIN 
 
-> I STRUGGLE TO DO HALF, A QUARTER, OF WHAT COMES SO EASILY TO YOU!
+> I STRUGGLE TO DO HALF - A QUARTER - OF WHAT COMES SO EASILY TO YOU!
 
 #### MYRTLE 
 
