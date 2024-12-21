@@ -7,9 +7,10 @@ date: 2024-12-16 21:42
 description: "in which AVAEL airs her grievances"
 tags: [skit, fpmcmain-kevin, act-viii]
 published: true
-lastmod: 2024-12-20 21:42
+lastmod: 2024-12-21 10:51
 ---
 [//]: # ( 12/20/24  -added)
+[//]: # ( 12/21/24  -finished typing)
 
 *****
 <br><i>I could not leave this place. Of course, I had left. I had been forced to leave, first by the Doctor Trelaine, and then later when my father taught me the unfortunate truth of the vampiric affliction. Skittish at first, I learned more about myself and derived confidence from the things I could not leave behind. I learned how to be my own home. But even so, the Magicademy was a part of me as I was a part of it. Though I would eventually renounce much of what I thought I was, I found certain things could not be changed and would remain even as everything else gave way and crumbled before me. Straud freed me from seeking the Mortals as foodstuff, but with that liberation came chains I had long forgotten when invigorated by Blood. I remembered what it was to feel tired, ill, incapable, frail, dependent. My body became very heavy and I dragged it around with me as a ball and chain. I sank back into the habits of childhood, barely scraping through life, bound to this house, beholden to my mother, who once again found herself bringing meals to my bedside.</i>
@@ -503,5 +504,905 @@ lastmod: 2024-12-20 21:42
 <p class="ppl-sez">CEDRIC//</p>
 <p class="ppl-sez">Yeah. She wasn't just forgetting shit like that.</p>
 </div>
+
+*****
+<br><i>It was over ten years ago, yes, longer than that, back when I was still a vampire, that Straud introduced us to Avaelle Easton.</i>
+
+<i>She was in rough shape. Physically, superficially, she had wounds like none I'd ever seen on a vampire. Her skin was dark, blackened as if from a fire. One eye was swollen shut, stubbornly refusing to heal. And her hair, once a vibrant auburn hue, was haphazardly cut short against her scalp. Clothes hung off her body, barely hiding her bones and paradoxically making her seem even more naked. And yet, sustained by the mystery of the Curse, she stood straight, never-the-less too weak to kneel and beg clemency.</i>
+
+<i>Straud asked me to help her. I had earlier taken up a half-hearted interest in robotics and cybernetics, but not with any particular goal in mind. It was a flight of fancy intended to stave off the pain of idle hands. But the Count seized upon it, insisting that I was the only one who could do this for her.</i>
+
+<i>And he promised that he would help.</i>
+
+*****
+#### KEVIN 
+
+> HI, CEDRIC.
+> 
+> NICE NIGHT WE'RE HAVING.
+
+<br><i>I had not even needed to knock on the door. He had known of my arrival. Yes, I had a key, but I had no reason to be so rude.</i>
+
+#### CEDRIC 
+
+> GUESS I COULDA JUST LEFT THE DOOR OPEN.
+> 
+> I MEAN, WHO KNOWS; SHE COULD JUST WANDER BACK INSIDE.
+
+#### KEVIN 
+
+> MAYBE WE'LL GET A CAT DOOR.
+
+#### CEDRIC 
+
+> UGH, DON'T BOTHER.
+> 
+> IT'LL JUST MAKE A DRAFT.
+
+#### KEVIN 
+
+> YOU CAN GET ONES THAT SECURE SHUT.
+
+#### CEDRIC 
+
+> THAT KINDA DEFEATS THE PURPOSE.
+
+<br><i>I could hear AVAEL plinking away at the piano on the second floor. There was no hiding it: this was an intervention.</i>
+
+<i>Cedric and I gingerly ascended the stairs.</i>
+
+#### KEVIN 
+
+> AVAEL? 
+> 
+> HEYA. 
+> 
+> HOW'S IT GOING?
+
+<br><i>She stopped playing.</i>
+
+#### AVAEL 
+
+> NOT WELL, KEVIN.
+> 
+> ...
+> 
+> NOT WELL.
+
+#### KEVIN 
+
+> HOW ARE YOUR AUGMENTS?
+> 
+> IT'S BEEN A WHILE SINCE YOU'VE HAD A TUNE-UP.
+
+#### AVAEL 
+
+> A BAD WIRE HERE AND THERE BUT NOTHING I CAN'T FIX MYSELF.
+> 
+> THERE ARE USUALLY A FEW DEAD GIVEAWAYS THAT SOMETHING IS GOING TO MALFUNCTION BEFORE IT ACTUALLY HAPPENS.
+
+#### KEVIN 
+
+> IF YOU EVER NEEDED HELP AND I WASN'T AROUND, YOU KNOW CEDRIC COULD ASSIST YOU.
+
+<br><i>She paused.</i>
+
+#### AVAEL 
+
+> ...
+> 
+> YES, I AM AWARE.
+
+<br><i>She tilts her head just slightly.</i>
+
+#### AVAEL
+
+> ALTHOUGH CEDRIC DID NOT ASSEMBLE MY COMPONENTS.
+
+#### KEVIN 
+
+> STRAUD, THEN.
+> 
+> HE HELPED ME A LOT.
+> 
+> HE HAS A GREAT KNOWLEDGE BASE.
+> 
+> I DON'T KNOW THAT I COULD HAVE DONE IT WITHOUT HIM.
+
+#### AVAEL 
+
+> ...
+> 
+> I SUPPOSE NOT.
+
+<br><i>The room is filled with an awkward silence.</i>
+
+#### KEVIN 
+
+> I'M SURE I'M NOT TELLING YOU ANYTHING YOU DON'T ALREADY KNOW, BUT WE HAVE TO BE CAREFUL IN THE WINTER MONTHS. 
+> 
+> THE AIR IS DRY AND EXCESS STATIC--
+
+#### AVAEL
+
+> I TAKE ALL THE NECESSARY PRECAUTIONS.
+
+#### KEVIN 
+
+> I BELIEVE YOU.
+> 
+> I JUST WORRY; I DON'T WANT SOMETHING TO HAPPEN TO YOU.
+
+#### AVAEL
+
+> I APPRECIATE AND VALUE YOUR CONCERN.
+
+<br><i>Cedric and I look at each other. AVAEL was our Elder by a considerable amount. Over a century, nearly two, in fact.</i>
+
+#### CEDRIC 
+
+> IT'S NOT JUST ELECTRICITY WE'RE CONCERNED ABOUT, AVAEL.
+> 
+> ...
+> 
+> IT'S YOU.
+
+#### AVAEL 
+
+> ME, SIR?
+
+#### CEDRIC 
+
+> YES, YOU!
+> 
+> YOU'RE AN IMPORTANT PART OF THE TEAM!
+
+<br><i>She did not move a muscle.</i>
+
+#### AVAEL 
+
+> ME, SIR?
+> 
+> I AM ALL BUT HOUSEBOUND. 
+> 
+> I RUST IN THE RAIN.
+> 
+> I OVERHEAT IN THE SUN. 
+> 
+> I CAN'T CHANGE MY SHAPE, I CAN'T FALL INTO MIST. 
+> 
+> MY FANGS ARE HIDDEN BEHIND AN LCD AND I RELY ON CHARITY SUCKED THROUGH A STRAW TO SUSTAIN MY EXISTENCE. 
+> 
+> "AN IMPORTANT PART OF THE TEAM"?
+> 
+> PLEASE DO NOT INSULT ME WITH YOUR PLATITUDES AND FLATTERY.
+
+#### CEDRIC 
+
+> BUT AS TECHNOLOGY IMPROVES--
+
+#### AVAEL 
+
+> MY BODY WILL CONTINUE TO WITHER.
+
+#### KEVIN 
+
+> SO WE'LL KEEP TRYING.
+
+#### AVAEL 
+
+> THERE IS ONLY ONE WAY TO HEAL THESE WOUNDS.
+
+#### CEDRIC
+
+> ...
+>
+> THE OLD MAN WOULD NEVER ALLOW IT.
+
+#### KEVIN 
+
+> HE HAS HIS REASONS FOR ENFORCING THE LAW. 
+> 
+> DIABLERIE IS FORBIDDEN BECAUSE--
+
+#### AVAEL
+
+> BECAUSE THE SOUL IS CONSUMED AS WELL. 
+> 
+> BECAUSE WE ARE IRREVOKABLY TAINTED BY THE CRIME.
+> 
+> YES, I AM AWARE.
+> 
+> EVEN THE DOCTOR ONCE DENOUNCED THE PRACTICE.
+
+#### CEDRIC 
+
+> HE DOESN'T ANYMORE.
+
+#### AVAEL
+
+> NO, HE DOES NOT.
+
+#### KEVIN 
+
+> I KNOW IT FEELS AS IF THERE IS ONLY ONE WAY OUT.
+> 
+> I KNOW IT FEELS HOPELESS.
+
+#### AVAEL
+
+> OH, KEVIN.
+> 
+> EVER THE OPTIMIST.
+
+#### CEDRIC 
+
+> WE HAVE SO PRECIOUS LITTLE LEFT OF WHAT WAS.
+> 
+> ARE YOU READY TO BREAK THAT BEYOND REPAIR?
+
+<br><i>She does not like what he says.</i>
+
+#### AVAEL 
+
+> ...
+>
+> I HAVE ALREADY BEEN THERE.
+
+#### CEDRIC 
+
+> BUT THIS IS WORSE, AVAEL!
+
+#### AVAEL
+
+> YOU YOUNGBLOOD HAVE LITTLE BASIS ON WHICH TO MAKE A JUDGEMENT. 
+> 
+> YOU ARE POSSESSED WITH VIGOR AND YOUTH AND DON'T UNDERSTAND WHAT IT IS TO BE RAVAGED BY DISEASE.
+>
+> YOU STILL HAVE YOUR FAMILIES. 
+> 
+> YOU HAVEN'T LOST...
+> 
+> ...
+> 
+> EVERYTHING.
+
+<br><i>I had to there admit defeat. But I wasn't ready to surrender.</i>
+
+#### KEVIN 
+
+> THE ACT OF DIABLERIE REMOVES THE VICTIM FROM THE CYCLE.
+>
+> THEY CAN NEVER REJOIN THEIR LOVED ONES IN THE UMBRA.
+> 
+> THEY...
+> 
+> CAN NEVER MAKE THE JOURNEY TO ELYSION.
+> 
+> THEIR STORY JUST...
+> 
+> ENDS.
+> 
+> ARE YOU PREPARED TO BE JUDGE, JURY, AND EXECUTIONER?
+
+<br><i>But my plea for the greater good falls flat.</i>
+
+#### AVAEL
+
+> ...
+> 
+> I DON'T CARE ANYMORE.
+
+<br><i>None of us know what to say.</i>
+
+#### AVAEL 
+
+> AND MAYBE, ANYWAY, THAT'S A MERCY I BELIEVE IN.
+
+<br><i>For the second time today I was arguing for joy and perseverance in the face of despair. For the second time today I doubted the source of my conviction. Maybe they were right. Maybe I <u>was</u> the fool.</i>
+
+#### CEDRIC 
+
+> THERE ARE NO GUARANTEES THAT CONSUMING THE VITAE OF IMMORTALS WILL HEAL YOU.
+> 
+> THAT BLOOD...
+> 
+> IS NOT FOR US TO TAKE.
+> 
+> YOU RISK--
+
+#### AVAEL 
+
+> I RISK WHAT?
+> 
+> MY SALVATION?
+> 
+> MY TICKET TO HEAVEN?
+> 
+> THAT WAS TAKEN FROM ME LONG AGO.
+> 
+> AND DON'T YOU DARE INSIST THAT I MIGHT BE SAVED THROUGH GOOD WORKS.
+> 
+> WE ARE ALL SINNERS AND WE ARE ALL DESTINED FOR HELLFIRE.
+> 
+> I KNOW WHAT AWAITS ME IN THE END.
+> 
+> OR WORSE YET--
+>
+> I'M ALREADY THERE. 
+
+#### CEDRIC 
+
+> WHAT DO YOU EXPECT TO HAPPEN?
+> 
+> TRELAINE WILL CALL A TOAST AND YOU'LL BE TOGETHER AGAIN?
+> 
+> DO YOU HONESTLY THINK HE'S GOING TO PRESENT YOU A FEW SACRIFICES AS A BELATED WEDDING GIFT?
+> 
+> DIDN'T YOU LEAVE HIM FOR A REASON?
+
+<br><i>Cedric has thrown out the caltrops.</i>
+
+#### AVAEL 
+
+> ...
+> 
+> I DON'T APPRECIATE THE CRUELTY.
+
+#### CEDRIC 
+
+> WELL I DON'T APPRECIATE YOU TAKING A DUMP ON EVERYTHING I THOUGHT WE STOOD FOR.
+> 
+> EVERYTHING WE WORKED SO HARD TO CREATE.
+> 
+> ...
+> 
+> I THOUGHT WE WERE FRIENDS.
+
+#### AVAEL
+
+> ...
+> 
+> WE WERE FRIENDS.
+> 
+> BUT FRIENDS DON'T MAKE FRIENDS SUFFER.
+
+#### CEDRIC 
+
+> ...
+> 
+> WE TRIED TO RELIEVE YOUR SUFFERING.
+> 
+> THE SUIT, THE HOUSE.
+> 
+> TRIED TO HELP YOU BE THE BEST YOU COULD BE.
+>
+> NEVER ONCE TALLIED YOUR CRIMES OR QUESTIONED YOUR LOYALTY.
+
+#### AVAEL
+
+> WELL, IT DIDN'T WORK.
+
+#### CEDRIC 
+
+> DAMMIT, AVAEL!
+>
+> I'M NOT DONE WITH YOU!
+> 
+> I'M NOT GIVING UP ON YOU!
+
+#### AVAEL 
+
+> I DON'T LOVE YOU, CEDRIC.
+> 
+> ...
+> 
+> YOU ARE A CHILD. 
+> 
+> YOU MAY WALK UNPHASED BY THE SUN AS THE ANCIENTS DO--
+> 
+> YOU MAY STAND AMONG THE MORTALS WITH A PRIDE BEYOND YOUR YEARS--
+> 
+> BUT THE PLAIN AND SIMPLE FACT IS THAT YOU ARE A FLEDGLING.
+> 
+> A YOUNGLING.
+> 
+> A BOY OUTGROWN HIS ROMPER.
+
+#### CEDRIC 
+
+> AFTER ALL I'VE DONE FOR YOU, THIS IS WHAT IT COMES DOWN TO?
+> 
+> YOU CAN'T HURT ME.
+> 
+> I KNOW WHAT I AM AND I WILL CONTINUE TO GROW STRONGER.
+> 
+> BUT YOU?
+> 
+> YOU MAY HAVE MANY A YEAR ON ME BUT YOU HAVEN'T USED ANY OF THAT TIME TO LEARN A DAMN THING.
+> 
+> YOU'RE STILL THE SAME LOVESICK TEENAGER YOU WERE BACK THEN.
+> 
+> AND IF ANY OF US HAVE CLAIM TO DESPISE HIM, YOU SHOULD.
+> 
+> YOU THINK HE WILL SAVE YOU BUT IT IS HE WHO DAMNED YOU IN THE FIRST PLACE!
+> 
+> AND YOU REPAY THAT WITH YOUR LOVE AND DEVOTION?
+
+#### AVAEL 
+
+> AS THE YEARS PASS, YOU WILL COME TO REALIZE THAT THERE ARE SOME THINGS ABOUT US THAT WILL NEVER CHANGE.
+
+#### CEDRIC 
+
+> AND SO YOU JUST GIVE UP?
+> 
+> CALL ME NAIVE WHILE BLIND TO THE FACT THAT TO TRELAINE YOU WILL ALWAYS BE A NEONATE?
+> 
+> HOPEFULLY YOU ARE NOT SO DELUDED TAHT YOU BELIEVE HE SEES YOU AS ANYTHING BUT A CUTE PET.
+
+#### AVAEL 
+
+> I BELIEVE HE LOVES ME.
+> 
+> EVEN NOW.
+
+#### KEVIN 
+
+> HE REPLACED YOU, AVAEL.
+> 
+> YOU SAW HER, YOU MET HER.
+> 
+> TRELAINE DIDN'T COME TO RESCUE YOU, HE SOUGHT COMFORT IN A FIGMENT OF HIS OWN IMAGINATION.
+>
+> HE LOVED THAT GHOST OF YOU.
+> 
+> NOT YOU, YOURSELF.
+
+#### AVAEL
+
+> I DON'T CARE ANYMORE.
+
+#### CEDRIC 
+
+> REALLY?
+>
+> YOU SAY YOU DON'T GIVE A FUCK?
+> 
+> BULLSHIT.
+
+#### KEVIN 
+
+> TRELAINE DIDN'T TAKE CARE OF YOU. 
+> 
+> WHEN YOU CAME TO US, YOU WERE BATTERED AND BRUISED.
+> 
+> BARELY CLINGING TO REALITY.
+> 
+> JUST ASK STRAUD--
+
+#### AVAEL
+
+> "ASK STRAUD"?
+>
+> "ASK STRAUD"?!
+> 
+> HE WHO REFUSED TO HEAL ME?
+> 
+> MISTER HE OF GREAT AND TERRIBLE POWER, BEING FROM ANOTHER WORLD, BIG BOSS OF ALL THE NIGHTFOLK?
+> 
+> "JUST ASK STRAUD".
+> 
+> HE WHO PUT ME IN TORPOR?
+> 
+> WHERE WAS STRAUD WHEN I NEEDED HELP?
+> 
+> DID HE TEACH ME BLOOD MAGIC OR CURE ME OF VAMPIRISM?
+>
+> NO.
+>
+> HE SHUNTED ME OFF ON ONE OF HIS DUTIFUL CULTISTS AND PENNED A BLUEPRINT TO IMPRISON ME BEHIND STEEL AND SUTURE.
+> 
+> MEDICATE THE SYMPTOMS BUT DO NOT CURE THE DISEASE.
+> 
+> "ASK STRAUD"--
+> 
+> TO HELL WITH STRAUD!
+
+*****
+<br><i>We left the apartment. I did not like to do it but what else was there for us to do? She had made up her mind and we could not impinge upon her freedom. </i>
+
+<i>Mandarc, however, had other ideas.</i>
+
+<br>
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mandarc3.jpg" class="chat-portrait" />
+<p class="ppl-sez">MANDARC//</p>
+<p class="ppl-sez">You just let her go?</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/cedric8.jpg" class="chat-portrait" />
+<p class="ppl-sez">CEDRIC//</p>
+<p class="ppl-sez">We left the house. Whether we find her there when we return is anyone's guess.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mandarc3.jpg" class="chat-portrait" />
+<p class="ppl-sez">MANDARC//</p>
+<p class="ppl-sez">She wasn't in her right mind! The AVAEL I know wouldn't do this!</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/cedric8.jpg" class="chat-portrait" />
+<p class="ppl-sez">CEDRIC//</p>
+<p class="ppl-sez">She is lonely. The drive for companionship is enough to drive even the most resilient to insanity.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mandarc3.jpg" class="chat-portrait" />
+<p class="ppl-sez">MANDARC//</p>
+<p class="ppl-sez">She had us! All of us!</p>
+<p class="ppl-sez">...</p>
+<p class="ppl-sez">Did she even say goodbye?</p>
+<p class="ppl-sez">To... me?</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/kevin-armchair.jpg" class="chat-portrait" />
+<p class="ppl-sez">KEVIN//</p>
+<p class="ppl-sez">...</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/cedric8.jpg" class="chat-portrait" />
+<p class="ppl-sez">CEDRIC//</p>
+<p class="ppl-sez">She didn't say goodbye to any of us. She's got other things on her mind.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mandarc3.jpg" class="chat-portrait" />
+<p class="ppl-sez">MANDARC//</p>
+<p class="ppl-sez">She thinks her old master will take her back? He's got a new girlfriend now.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/cedric8.jpg" class="chat-portrait" />
+<p class="ppl-sez">CEDRIC//</p>
+<p class="ppl-sez">We tried to tell her that.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mandarc3.jpg" class="chat-portrait" />
+<p class="ppl-sez">MANDARC//</p>
+<p class="ppl-sez">Yeah, well maybe you didn't try hard enough.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/kevin-armchair.jpg" class="chat-portrait" />
+<p class="ppl-sez">KEVIN//</p>
+<p class="ppl-sez">I think she had already made up her mind. I think she's been carrying this burden for a long time.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mandarc3.jpg" class="chat-portrait" />
+<p class="ppl-sez">MANDARC//</p>
+<p class="ppl-sez">We could have helped her.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/kevin-armchair.jpg" class="chat-portrait" />
+<p class="ppl-sez">KEVIN//</p>
+<p class="ppl-sez">I don't think we could have helped her with this. She still loves Trelaine.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mandarc3.jpg" class="chat-portrait" />
+<p class="ppl-sez">MANDARC//</p>
+<p class="ppl-sez">...</p>
+<p class="ppl-sez">How could she love him after everything he's done?</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/cedric8.jpg" class="chat-portrait" />
+<p class="ppl-sez">CEDRIC//</p>
+<p class="ppl-sez">She's in love with the past.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mandarc3.jpg" class="chat-portrait" />
+<p class="ppl-sez">MANDARC//</p>
+<p class="ppl-sez">I'm pretty sure he was an asshole back then too!</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/cedric8.jpg" class="chat-portrait" />
+<p class="ppl-sez">CEDRIC//</p>
+<p class="ppl-sez">Yeah, well. She doesn't see it that way.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mandarc3.jpg" class="chat-portrait" />
+<p class="ppl-sez">MANDARC//</p>
+<p class="ppl-sez">... I can't believe she didn't even say goodbye.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/kevin-armchair.jpg" class="chat-portrait" />
+<p class="ppl-sez">KEVIN//</p>
+<p class="ppl-sez">We don't know that she's left yet.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mandarc3.jpg" class="chat-portrait" />
+<p class="ppl-sez">MANDARC//</p>
+<p class="ppl-sez">Then I've still got a shot.</p>
+</div>
+
+*****
+<br><i>Cedric did not linger too long at the Magicademy. I did not expect him to return to his post as the auxiliary apartments, no, not tonight. I knew exactly where he was going. Underneath the cover of night, he would slip effortlessly between shadows. He would wait just outside the reaches of the streetlamps, linger in the unknowable silence. He would then seize his prey precisely at the moment they thought to fear. Yes, he reveled in that arousal, just when the skeletal hand of terror choked the heart and sped the blood into the veins. I knew him.</i>
+
+<i>But tonight, I sheltered inside the same four walls I had taken refuge in since my birth. I could not follow Cedric into darkness, not here, not now, not like this. I had to guard myself. I was needed, I was necessary. I could not trust that the others would be there when I needed them, not with so many pulling away. If the pillars were crumbling, I would see myself remain as the last one. For me to endure, I had to play conservatively. I would watch, wait, and when I finally got my hand, I would be ready to play.</i>
+
+*****
+<br><i>The only one that remains in the old house is Father. I can sense him even as he tries to minimize his presence, taking a moment of reflection in his study. Though he has a sprawling complex and chapel underground, he seemed to prefer a more mundane existence. But it was all a grand masquerade - there was absolutely <u>nothing</u> Mundane about my Father.</i>
+
+<i>I knew he was in there. I knew he knew I was here. And yet, I knocked.</i>
+
+#### KEVIN 
+
+> FATHER?
+> 
+> CAN I COME IN?
+
+#### VINCENT 
+
+> COME IN, KEVIN.
+
+<br><i>He is surrounded here by books, but every single one of them is closed. There is no computer in this room, although a cellphone lays face down on the corner of the desk. Staying connected to the wintranet for him now required conventional methods.</i>
+
+<i>I suppose, despite it all, when I was here I again felt small. Maybe that was a comfort, that even as the coterie dissolved at the edges, I was still the son of the fabled Prince of Elysion.</i>
+
+#### VINCENT 
+
+> HOW WAS YOUR DAY?
+
+<br><i>I couldn't be sure if he asked out of courtesy or honestly needed to extract information out of me. We had long since ceased to share a singular body.</i>
+
+#### KEVIN 
+
+> COULDA BEEN BETTER.
+> 
+> MOM IS DEPRESSED AND AVAEL IS PROBABLY GOING TO DEFECT BACK WHERE SHE CAME.
+
+#### VINCENT 
+
+> THERE IS A POWERFUL STRING DRAWING HER TO TRELAINE.
+
+#### KEVIN 
+
+> IT JUST ANGERS ME, THAT SOMETIMES LOVE IS SO DESTRUCTIVE.
+
+#### VINCENT 
+
+> I THINK STRAUD UNDERSTOOD THAT HER RESIDENCE HERE WAS ONLY TEMPORARY.
+
+#### KEVIN 
+
+> THEN WHY DID WE INVEST SO MUCH INTO HER LIVELIHOOD?
+> 
+> JUST TO HAVE HER GO BACK TO THE ABUSIVE HOME SHE FLED?
+
+#### VINCENT 
+
+> THERE ARE FEW THINGS MORE IMMOVABLE THAN THE HUMAN HEART.
+
+#### KEVIN
+
+> AND IS NOT THE GIFT A WAY TO TRANSCEND THOSE TRAPPINGS?
+
+#### VINCENT
+
+> WE ARE THE INHERITORS OF HUMANITY. 
+> 
+> WE ARE FORMED IN THEIR IMAGE.
+> 
+> YOU CANNOT FREE A MAN FROM A PRISON OF HIS OWN MAKING.
+
+#### KEVIN
+
+> I JUST WANTED TO BELIEVE THAT AFTER TEN YEARS--
+>
+> MORE--
+> 
+> WITH US--
+
+#### VINCENT
+
+> THAT SHE'D CHANGED?
+>
+> MY SON.
+> 
+> I DO SO VALUE YOUR EYE FOR THE LIGHT, BUT THAT IS NOT THE WAY OF MAN.
+>
+> WE ARE MADE, BUT MAN?
+>
+> MAN IS BORN.
+
+#### KEVIN
+
+> I DON'T WANT TO BELIEVE THAT.
+
+#### VINCENT
+
+> I KNOW YOU DON'T.
+>
+> BUT A SCIENTIST CANNOT IGNORE THE FACTS THE UNIVERSE PLACES BEFORE HIM.
+
+#### KEVIN
+
+> I AM NO SCIENTIST.
+
+#### VINCENT 
+
+> A MAGE, THEN? 
+> 
+> A WIZARD?
+
+#### KEVIN
+
+> NOT YET.
+
+#### VINCENT
+
+> A VAMPIRE, THEN?
+> 
+> YOU ARE MY PROGENY, AFTER ALL.
+
+#### KEVIN
+
+> ...
+>
+> NO, NOT ANYMORE.
+
+#### VINCENT 
+
+> YOU MAY REFUSE EVERY TITLE THRUST UPON YOU AND STILL YOU WILL BE FORCED TO RESPOND.
+
+#### KEVIN
+
+> THEN LET THEM CHOOSE WHAT TO CALL ME.
+
+#### VINCENT 
+
+> AVAEL SEES YOU AS HER CAPTOR.
+
+#### KEVIN
+
+> I THINK SO.
+
+#### VINCENT
+
+> DO NOT TAKE IT PERSONALLY.
+> 
+> WHAT YOU WERE ABLE TO DO FOR HER IS INCREDIBLE.
+> 
+> CERTAINLY BEYOND THE UNDERSTANDING OF MORTAL SCIENCE.
+>
+> MORE THAN I COULD HAVE DONE.
+
+#### KEVIN
+
+> I HAD STRAUD'S HELP.
+
+#### VINCENT
+
+> HE IS CERTAINLY AN ENIGMA.
+
+#### KEVIN
+
+> IT DOESN'T EVEN MATTER THOUGH, BECAUSE I'M SURE THE FIRST THING TRELAINE WILL DO--
+
+#### VINCENT
+
+> YOU CANNOT TROUBLE YOURSELF WITH THE MOTIVATIONS OF THE ENEMY.
+> 
+> THERE IS A FINE LINE BETWEEN TRYING TO PREDICT THEIR ACTIONS AND LOSING YOURSELF IN THEIR RHETORIC.
+
+#### KEVIN
+
+> I JUST RESENT THE FACT THAT SHE'S WILLING TO FORSAKE YEARS--
+> 
+> YEARS! OF FRIENDSHIP FOR THE VAIN HOPE THAT HER ESTRANGED, ABUSIVE, DERANGED LOVER WILL TAKE HER BACK.
+> 
+> IS THIS ALL BECAUSE WE DO NOT PERMIT DIABLERIE?
+
+#### VINCENT
+
+> PERHAPS YES, PERHAPS NOT QUITE. 
+> 
+> THE DOMAIN OF EROS IS FAR-REACHING, HIS INFLUENCE EXTENDS UNPARALLELED THROUGH MORTAL AND IMMORTAL REALMS ALIKE.
+> 
+> FEW, PERHAPS NONE, HAVE SUCH A TAXABLE BASE AS HE.
+> 
+> WITHOUT HIS INFLUENCE, MANY DO NOT SEE THE VALUE OF TRYING TO PERPETUATE AGAINST THE RAVAGES OF TIME.
+
+#### KEVIN 
+
+> I THOUGHT WE HAD TRANSCENDED ABOVE LUST.
+
+#### VINCENT 
+
+> EROS HAS DOMINION OVER MORE THAN JUST UNBRIDLED PASSION. 
+>
+> THEREIN LIES ONE OF THE REASONS WE HAVE A PROHIBITION AGAINST CONSUMING SOULS.
+> 
+> CONNECTIONS ARE FORMED DURING THE TRAVERSAL OVER THE ETHER, THROUGH THE UMBRA, THAT ARE NEVER ERASED, NEVER FORGOTTEN.
+> 
+> SOULS ONCE PARTED ARE EVER AGAIN DRIVEN INEXPLICABLY TOWARD EACH OTHER THROUGH ETERNITY.
+> 
+> THESE...
+> 
+> LINES OF FORCE... WELLS OF POTENTIAL, INTERACTING PARTICLES, GIVE COLOR AND MEANING TO THE COSMOS. 
+> 
+> SOULS SEVERED FROM THE CYCLE ARE NEVER AGAIN BLESSED WITH THESE INTERACTIONS.
+
+#### KEVIN 
+
+> AND WHAT IF THE REST OF CREATION IS DESTROYED?
+> 
+> STAR SYSTEMS OBLITERATED ALL IN THE NAME OF ANTIMATTER ANNIHILATION?
+> 
+> IS THAT JUST THE WAY OF THINGS?
+> 
+> WE'LL GO ALONG WITH IT BECAUSE THAT IS WHAT EROS WILLS?
+
+<br><i>I was inclined to defer to my father's wisdom on some things, many things, most things even, but something here did not seem right.</i>
+
+#### KEVIN
+
+> IT SEEMS TO ME THAT ONCE EROS HAS TAKEN GRASP UPON A HEART, HE NEVER LETS GO. 
+>
+> WHY?
+>
+> DOES ANYONE, ANYWHERE FIGHT HIM?
+>
+> WE MAY WAR AGAINST EVERY OTHER GOD WITH SELFISH PLANS FOR OUR SERVITUDE, BUT WHAT ABOUT HIM?
+> 
+> NO, MORTALS AND IMMORTALS ALIKE HAVE ACCEPTED HIM AS THE BENEVOLENT SLAVEMASTER!
+>
+> BECAUSE THEY ARE IN LOVE WITH BEING IN LOVE!
+> 
+> BUT ISN'T THAT THE GRAND ILLUSION--
+> 
+> THEY ARE ALL STILL SLAVES!
+> 
+> LIVING AND DEAD, THEY ALL KISS HIS WHIP!
+
+<br><i>For once, for blessed once, my Father is silent.</i>
+
+#### VINCENT 
+
+> ...
+>
+> IF YOU ARE ABLE TO STAND AGAINST HIM, MY SON, THEN STAND.
+> 
+> STAND TALL.
+
+*****
+<br><i>The day ends much as it began: with a whimper. I am alone on the top floor of this grand old house ignomiously dubbed by some as the Magicademy. In my room are reminders of my mortal limitations: I cannot yet conjure clothes to my form nor can I rest without the plush comfort of a bed. I require absolute darkness to sleep - to say nothing of the silence.</i>
+
+<i>I chose this existence. I was given a taste of the other side and I refused its allure. No, I wanted, craved, something else. Some, even now, resented me for refusing my birthright - yes, son of the Prince of Elysion. But what was that worth when I would have to forsake the rest of the Tellurian? Maybe I would not persist into Eternity - I had given up that promise - but if I worked hard enough - and yes, I would have to work - maybe I could leave behind something that would endure long after no one could remember my name.</i>
+
+<i>With this vain hope in my heart, heavy with the grievances of a world in pain, I fell asleep.</i>
+
+*****
+
+<br><center>( BABY, WE BUILT THIS HOUSE ON MEMORIES )</center>
+<br><center>( TAKE MY PICTURE NOW, SHAKE IT 'TIL YOU SEE IT )</center>
+<br><center>( AND WHEN YOUR FANTASIES BECOME YOUR LEGACY )</center>
+<br><center>( PROMISE ME A PLACE )</center>
+<br><center>( IN YOUR HOUSE OF MEMORIES. )</center>
+<br>
 
 *****
