@@ -7,9 +7,10 @@ date: 2024-12-19 23:07
 description: "in which Cedric jumps off a bridge"
 tags: [skit, fpmcmain-cedric, act-viii]
 published: true
-lastmod: 2024-12-23 23:08
+lastmod: 2024-12-24 13:56
 ---
 [//]: # ( 12/23/24  -added)
+[//]: # ( 12/24/24  -finished typing)
 
 *****
 
@@ -65,9 +66,9 @@ lastmod: 2024-12-23 23:08
 
 <i>Her heart beats in protest but it serves only to bring more of the sweet vitae into my throat. Even as I lose myself, I am filled with sensory impressions of who this woman is. I do not know her name but it does not matter. I can taste merlot hanging like spice over her blood. And were those other things... sugar cookies? I do not flinch as I laugh silently to myself. Tis the season.</i>
 
-<i>There is something cloying on the upswing, though. It threatens to ruin what was otherwise an exquiste diversion. I try to focus on the rest of the profile, but this... This was something with which I was becoming intimately familiar. I could only guess it was the leavings of various pharmaceuticals. The blood of animals, for all its flaws, rarely had this particular sort of aftertaste...</i>
+<i>There is something cloying on the upswing, though. It threatens to ruin what was otherwise an exquisite diversion. I try to focus on the rest of the profile, but this... This was something with which I was becoming intimately familiar. I could only guess it was the leavings of various pharmaceuticals. The blood of animals, for all its flaws, rarely had this particular sort of aftertaste...</i>
 
-<i>And yet, I cannot pull myself away. My ecstasy, like a mirror, had been shattered, and yet the vitae still called to me. My fangs were still lodged in her artery, the resultant wounds still surrendered red lifeforce into my person. Just one moment more, I reasoned, and remembered one of the many laws that had been imposed upon my conduct... But I could't tear myself away just yet, not yet, no, I had just barely begun to drink... I was still parched - THUMP, THUMP, THUMP - let me remain here for just one moment more--</i>
+<i>And yet, I cannot pull myself away. My ecstasy, like a mirror, had been shattered, and yet the vitae still called to me. My fangs were still lodged in her artery, the resultant wounds still surrendered red lifeforce into my person. Just one moment more, I reasoned, and remembered one of the many laws that had been imposed upon my conduct... But I couldn't tear myself away just yet, not yet, no, I had just barely begun to drink... I was still parched - THUMP, THUMP, THUMP - let me remain here for just one moment more--</i>
 
 <i>And it was there and then I evacuated my body and surrendered my mind to the Haunt. I was taken to a scene long estranged - there I was, I was inexplicably me, but a good deal more tender. Barely a year of age, brown hair and all, in the middle of the night I stood, confined to my crib, wailing, crying out for her, desperate, inconsolable. I cried and cried and cried, and I could feel my face hot and contorted in the anguish. I could not think or reason, not yet. I cried out for her - I was afraid of the dark.</i>
 
@@ -108,13 +109,13 @@ lastmod: 2024-12-23 23:08
 > CAN YOU HEAR ME?
 
 *****
-<br>I never liked changing my form to mimic that of other animals. Yes, I recognized that it was one of the hallmarks of the Vampire, and certainly I could not hide from it with Vincent as my Master but I still did not like it. I suppose every metamorphosis brought me back to when the Elder Marscapone had forced me into a shapechange and removed me from that grubby apartment I had lived in upstate. I know he only did it out of necessity, I later reasoned, but every subsequent time I took the shape of an animal, I felt again that utter vulnerability and stupification. Vincent would never again force a form upon me as he had done in that desperation, but still tried to teach it to me as if trying to round out my supernatural playbook. His favorite form was - of course - a bat. Of course a damn bat. Was I starring in some old-timey monster flick? I rebelled against the very suggestion that it would ever be necessary to parade about as an animal. Kevin would outdo me here, easily imitating his father's bat, and Vincent tried to encourage me by displaying his ability to change into a wolf, a bear, and other fearsome supernatural creatures beyond the words of mortal men.</i>
+<br><i>I never liked changing my form to mimic that of other animals. Yes, I recognized that it was one of the hallmarks of the Vampire, and certainly I could not hide from it with Vincent as my Master but I still did not like it. I suppose every metamorphosis brought me back to when the Elder Marscapone had forced me into a shapechange and removed me from that grubby apartment I had lived in upstate. I know he only did it out of necessity, I later reasoned, but every subsequent time I took the shape of an animal, I felt again that utter vulnerability and stupification. Vincent would never again force a form upon me as he had done in that desperation, but he still tried to teach it to me as if trying to round out my supernatural playbook. His favorite form was - of course - a bat. Of course a damn bat. Was I starring in some old-timey monster flick? I rebelled against the very suggestion that it would ever be necessary to parade about as an animal. Kevin would outdo me here, easily imitating his father's bat, and Vincent tried to encourage me by displaying his ability to change into a wolf, a bear, and other fearsome supernatural creatures beyond the words of mortal men.</i>
 
 <i>I would think myself above such a trivial task when I easily mastered the ability to slip into mist and shadow. Yes, I impressed my Master by dissolving my form into the earth and even <u>he</u> had to admit that it would serve me well. But he still maintained that I could not shun that inside me which was <u>not</u> human.</i>
 
 <i>His teachings were unfinished when he died. I then went on in my own way, fluent in a number of the classic vampiric disciplines, but <u>not</u> that one. It was simply a continuation of my education as a mage - though the spell "Polymorph Self" was rumored to exist, I had never inside the walls of the Magicademy seen it worked. For all I knew, it could be the stuff of true fantasy. And yet, even if Myrtle could not do it, I had mused, that did not mean no mage was capable.</i>
 
-<i>After taking the blood of the dog-walkerk, I fell into mist, touching ever so gently the realm of the void and nothingness. Even my mind ceased to be in that dissolution and all that was left was formless instinct and will. I simply reappeared wherever I wanted, needed, to be. This time, propelled not by wind but only pure and simple volition, I found myself sitting far up on a spire of the Triborough Bridge. The lights of the city seemed to shine only for me as I sat alone high above the bustling cars.</i>
+<i>After taking the blood of the dog-walker, I fell into mist, touching ever so gently the realm of the void and nothingness. Even my mind ceased to be in that dissolution and all that was left was formless instinct and will. I simply reappeared wherever I wanted, needed, to be. This time, propelled not by wind but only pure and simple volition, I found myself sitting far up on a spire of the Triborough Bridge. The lights of the city seemed to shine only for me as I sat alone high above the bustling cars.</i>
 
 <i>Why had I seen that image in the Haunt? I thought I had buried those thoughts long ago. What purpose did they serve me now in this life? I had run away very intentionally, yes, even in my mortal life I had yearned for escape. What good did the recollection serve me?</i>
 
@@ -473,5 +474,352 @@ lastmod: 2024-12-23 23:08
 <p class="ppl-sez">MANDARC//</p>
 <p class="ppl-sez">... Maybe I will.</p>
 </div>
+
+*****
+<br><i>Svetlana had been a shapechanger too. Or, at least, that is what I had been told. I'm not sure I ever saw her do it. Here, I think my memories were unreliable. I am not sure of what I saw in reality versus what I might have seen in the Dream. She had been sick and unable to share her inner self with anyone anymore.</i>
+
+<i>I had an image in my mind's eye of her roaming the taiga of Muskovy as an enormous snow leopard. She would have feared no man. I'm not sure where the thought came from, but I liked it all the same. It did not matter too much if it were real or not, this was how I wanted to remember her.</i>
+
+<i>We had spent so much time on the 'net together. We had probably spent more total hours doing that than being together in meatspace. It wasn't so much that I regretted it - too much - I think in that place the symptoms of her illness were much more tolerable - but it made for few vivid touchstones for me to continue to hold after her death. I couldn't remember that time she finally got the phat lewt or topped the damage meters. It had meant so much to us then but it now faded from my mind and threatened to completely slip away. And I had found it painful to visit those places after she had gone - it had felt <u>wrong</u> to be there without her and I eventually took to avoiding them altogether.</i>
+
+<i>Yes, I was a coward. Not a terribly uncommon trait in Man, but then, I wasn't one of them anymore, was I? I was something else now and with that change came a new set of standards. Sitting tonight at the top of the Triborough Bridge, no, that didn't frighten me here and now but there were a hundred other things that did. Perhaps I could not tackle all of them at once, as much as I wanted to pretend such a thing were possible, but many of them were things I <u>could</u> make change in if I stopped being avoidant. And just because my hair would never turn grey did not mean I had forever.</i>
+
+<i>I stand up and spread my arms and take a step. I fall from the pinnacle, surrendering myself completely to gravity. It pulls me down, down, down, and I can feel the breeze sweeping over the water.</i>
+
+<i>I close my eyes and reach for memories buried deep inside. With no time to over-think it, I grab hold of what remains of my instinct and trust that I know what I'm doing.</i>
+
+<i>Only the fish see the shadow of a small creature for which they have no name flap its leathery wings impossibly fast over the river's surface. The beating of wings disturbs the water ever so slightly but otherwise they hear no sound. It disappears from their vision in an instant, bound for the brightest of the irrepressible city lights.</i>
+
+*****
+<br>
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mandarc-tb-fine.jpg" class="chat-portrait" />
+<p class="ppl-sez">MANDARC//</p>
+<p class="ppl-sez">Well I stopped into the Magicademy.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/cedric-tb-focus.jpg" class="chat-portrait" />
+<p class="ppl-sez">CEDRIC//</p>
+<p class="ppl-sez">How did it go?</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mandarc-tb-fine.jpg" class="chat-portrait" />
+<p class="ppl-sez">MANDARC//</p>
+<p class="ppl-sez">Kevin was asleep.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/cedric-tb-focus.jpg" class="chat-portrait" />
+<p class="ppl-sez">CEDRIC//</p>
+<p class="ppl-sez">Yeah - it's late.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mandarc-tb-fine.jpg" class="chat-portrait" />
+<p class="ppl-sez">MANDARC//</p>
+<p class="ppl-sez">I don't know, I guess I kinda forgot.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/cedric-tb-focus.jpg" class="chat-portrait" />
+<p class="ppl-sez">CEDRIC//</p>
+<p class="ppl-sez">Did you wake him?</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mandarc-tb-fine.jpg" class="chat-portrait" />
+<p class="ppl-sez">MANDARC//</p>
+<p class="ppl-sez">No, I spoke to Vincent.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/cedric-tb-focus.jpg" class="chat-portrait" />
+<p class="ppl-sez">CEDRIC//</p>
+<p class="ppl-sez">How did that go?</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mandarc-tb-fine.jpg" class="chat-portrait" />
+<p class="ppl-sez">MANDARC//</p>
+<p class="ppl-sez">He thanked me for being concerned but he said he knew exactly where Myrtle was and I didn't need to worry.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/cedric-tb-focus.jpg" class="chat-portrait" />
+<p class="ppl-sez">CEDRIC//</p>
+<p class="ppl-sez">That's good.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mandarc-tb-fine.jpg" class="chat-portrait" />
+<p class="ppl-sez">MANDARC//</p>
+<p class="ppl-sez">... I should have woke up Kevin.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/cedric-tb-focus.jpg" class="chat-portrait" />
+<p class="ppl-sez">CEDRIC//</p>
+<p class="ppl-sez">Why?</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mandarc-tb-fine.jpg" class="chat-portrait" />
+<p class="ppl-sez">MANDARC//</p>
+<p class="ppl-sez">Because I made a fool of myself in front of his father! I looked like a real schmuck.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/cedric-tb-focus.jpg" class="chat-portrait" />
+<p class="ppl-sez">CEDRIC//</p>
+<p class="ppl-sez">You worry too much.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mandarc-tb-fine.jpg" class="chat-portrait" />
+<p class="ppl-sez">MANDARC//</p>
+<p class="ppl-sez">I worry adequately! I was shaking like a leaf.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/cedric-tb-focus.jpg" class="chat-portrait" />
+<p class="ppl-sez">CEDRIC//</p>
+<p class="ppl-sez">I bet he didn't even notice.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mandarc-tb-fine.jpg" class="chat-portrait" />
+<p class="ppl-sez">MANDARC//</p>
+<p class="ppl-sez">Yeah, okay, says the son of the prince of darkness.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/cedric-tb-focus.jpg" class="chat-portrait" />
+<p class="ppl-sez">CEDRIC//</p>
+<p class="ppl-sez">... I... uh - don't think that means what you think it means.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mandarc-tb-fine.jpg" class="chat-portrait" />
+<p class="ppl-sez">MANDARC//</p>
+<p class="ppl-sez">Whatever. I looked stupid.</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/cedric-tb-focus.jpg" class="chat-portrait" />
+<p class="ppl-sez">CEDRIC//</p>
+<p class="ppl-sez">You're not afraid of Vlad. What's the difference?</p>
+</div>
+
+<div class="chat-box">
+<img src="{{ site.url }}/assets/tb/mandarc-tb-fine.jpg" class="chat-portrait" />
+<p class="ppl-sez">MANDARC//</p>
+<p class="ppl-sez">I don't know. It just is.</p>
+</div>
+
+*****
+<br><i>As I walk the streets of the city that never sleeps, I can feel that the sun had passed the nadir and had begun its march back toward my position. It had been a long night but I was still far from done.</i>
+
+<i>In Midtown, the sidewalks still buzzed with activity. Despite plentiful prey, it was a dangerous place for a lone creature of the night. If the curtain were drawn back, there were few lanes of escape. Vlad didn't like it and discouraged using the area as hunting grounds, especially as he had made a truce with Tomas. But I was emboldened by my victory over the river. If I played my cards right, no one would ever know.</i>
+
+<i>I can read only a few of the signs that clutter the buildings in K-town. But I don't need mastery of the language to identify exactly where I am going by smell. And this place stinks. The cloying odor of burnt sugar and charred meat dominates - the sheer number of carcasses shipped in every day is enough to ruin the appetite of any man with a shred of empathy. And if that weren't enough to turn his stomach, I could share with him the next sensation that fills my nostrils. It is the strange, artificial bouquet of perfumes emitted by the beauty shops. As a human, the plastic and foil seals would keep each balm neatly contained. But I can smell them. <u>All</u> of them.</i>
+
+<i>But I do not need any of that. What I need <u>does</u> leak into the street, but primarily by way of sound. I suppose to them, the violence of the subwoofer was like the beating of the heart. As if in the womb, they were bathed in rhythm.</i>
+
+<i>This late at night, no one was outside. They were all inside. There were no lines to enter. It had been a long time since I had been here, but it didn't seem like anything had changed. Maybe the prices. Here, cash was king.</i>
+
+<i>The stairs are illuminated but I do not need any of that. For a moment, I am alone. but it does not last long; soon I am aware, even painfully so, of the scent I have been seeking. For twenty-seven years I have been immune to the simple pleasure of sugar but here, it all comes rushing back to me. It is the sweet, syrupy scent of many drunken bodies pressed against each other, sweating, salivating, suffering. That is not to say there wasn't joy in that place - as I enter the room, a hundred observers are enraptured by the show on the stage. The microphones magnify was is an otherwise amateur performance. I always thought it made the onlookers all the more excited, eager to cheer on one of their own.</i>
+
+<i>I'm a sucker for karaoke.</i>
+
+<i>Effortlessly, I blend into the crowd and slip among them as if I've been there all night. Each of them is dotted with boozy perspiration and it's a challenge to keep my focus as the promise of conquest is just within my grasp.</i>
+
+<i>I keep steady.</i>
+
+<i>Many of them have a drink in hand, but me? I don't need it. I stay on the move and then, finally, I am satisfied with my vantage point. I am surrounded by the faceless masses but I am not afraid. When I am in this place, for a moment, I am one of them.</i>
+
+<i>The song finishes and the next performer approaches the dais. The LCD goes blank for a moment and then fills with words in white.</i>
+
+<i>There's a reason I like this place. Here, with my smooth face and bright eyes, they take me as the fledgling. They trust their prejudice and pat me on the head, taking refuge in what they think they know about me.</i>
+
+<i>And I let them.</i>
+
+*****
+
+<br><center>( IF I LEAVE HERE TOMORROW )</center>
+<br><center>( WOULD YOU STILL REMEMBER ME? )</center>
+<br>
+
+<br><i>The woman next to me is holding one of those single-serv bottles of champagne. Our eyes meet and time seems to stop, tarrying to watch us for several seconds. We are locked on to each other until she forgets her fingers and the bottle falls from her grasp.</i>
+
+<br><center>( BUT IF I STAY HERE WITH YOU, GIRL )</center>
+<br><center>( THINGS JUST COULDN'T BE THE SAME. )</center>
+<br>
+
+<br><i>Hidden by the strobing light, I catch the glass before it shatters upon the unseen floor.</i>
+
+<br><center>( AND THIS BIRD YOU CANNOT CHANGE. )</center>
+<br>
+
+<br><i>Unsure, embarrassed, she takes the bottle from me. I do not think she's aware that not a single drop has been spilled.</i>
+
+<br><center>( AND THIS BIRD YOU CANNOT CHANGE. )</center>
+<br>
+
+<br><i>She tries to take a drink and the foam wells up and gives her a moustache.</i>
+
+<i>Making no sound, we laugh together.</i>
+
+<br><center>( LORD KNOWS I CAN'T CHANGE. )</center>
+<br>
+
+*****
+<br><i>At this point, many around us have turned their cellphones to "flashlight" and they hold them aloft in their hands, swaying back and forth to the music. This was the way of things now, and I counted my blessings, thinking it a boon to those among the night vulnerable to Rötschreck.</i>
+
+<i>My companion, if I dared to call her that, fishes around in her purse as the tempo of the song quickens. She pulls out a lighter, engages the trigger, and joins the crowd in their show of solidarity.</i>
+
+<i>I tended to keep a BIC in my right pocket, but I'm not feeling so confident I can so easily follow her lead. I slip my hand in my pocket. Indeed, my lighter is there, but... it's light.</i>
+
+<i>I bring it into my vision. It's black number one, and I feel satisfied with it, until--</i>
+
+<br><center>( FLICK... )</center>
+<br><center>( FLICK... )</center>
+<br><center>( FLICK. )</center>
+<br>
+
+<br><i>The damn thing refuses to light. My lady-friend turns her attention to me, but only for a moment, and returns her gaze to the stage.</i>
+
+<br><center>( FLICK - FLICK - FLICK. )</center>
+<br>
+
+<br><i>It's out of butane. Figures - right when I needed it.</i>
+
+<i>Thinking I'll give it one more chance, I wrap my palm around the top in an effort to still the disturbed air.</i>
+
+<br><center>( FLICK. FLICK. )</center>
+<br>
+
+<br><i>Still nothing. And I refuse to resort to using my cellphone.</i>
+
+<i>I draw from a font of power deep within myself, removing myself from this time, this place, this noise. Inside that place, there are no words, only raw emotion and desire. It is dark and still and silent, and yet, everything is known to me.</i>
+
+<i>Be brave.</i>
+
+<i>Be tough.</i>
+
+<i>Be you.</i>
+
+<i>The wellspring bubbles over, propelling my will into reality.</i>
+
+<br><center>( FLICK! )</center)
+<br>
+
+<br><i>And in an instant, without fanfare, a flame of pure violet-blue appears at the mouth of the lighter.</i>
+
+<i>I barely had the chance to stretch my arm up when the woman to my left looks over at me again.</i>
+
+<i>She screams at me, because in the din she cannot hear anything. She thinks I can't hear her, but she couldn't be more mistaken.</i>
+
+#### BRUNETTE 
+
+> NICE LIGHTER YOU'VE GOT THERE.
+
+<br><i>I humor her.</i>
+
+#### CEDRIC 
+
+> WHAT?
+
+#### BRUNETTE 
+
+> NICE LIGHTER YOU HAVE THERE!
+> 
+> WHERE'D YOU GET IT?
+
+<br><center>( LORD, HELP ME, I CAN'T CHANGE. )</center>
+
+#### CEDRIC 
+
+> OH, A FRIEND.
+> 
+> A FRIEND GAVE IT TO ME.
+
+#### BRUNETTE 
+
+> THAT'S COOL...
+
+<br><i>She disengages her fire and restores it to her pocket. 
+
+#### BRUNETTE 
+
+> HEY, LISTEN, MY FRIENDS AND I HAVE A RESERVATION FOR A PRIVATE ROOM COMING UP IN ABOUT...
+
+<br><i>She glances at her watch.</i>
+
+#### BRUNETTE 
+
+> TEN MINUTES GIVE OR TAKE.
+> 
+> YOU WANNA JOIN US?
+
+<br><i>I, too, lower my lighter. I watch the tiny flame sputter and snuff out and I feel satisfied.</i>
+
+#### CEDRIC 
+
+> YEAH, THAT SOUNDS LIKE FUN.
+
+<br><i>The next performer is ready to begin. He's gonna do Queen. I <u>hate</u> Queen.</i>
+
+<i>But my friend cannot fail to improve my mood. When I suggest we get off the floor, she obliges, ready to follow me wherever I go.</i>
+
+<i>When the crowd is behind us and the lights are low, she can finally, really, hear me.</i>
+
+#### BRUNETTE 
+
+> HAS ANYONE EVER TOLD YOU THAT YOU LOOK JUST LIKE BILLY IDOL?
+
+<br><i>I cannot help but smile.</i>
+
+#### CEDRIC 
+
+> ...
+> 
+> ONCE OR TWICE.
+
+*****
+<br><i>Her friends pale against her brilliance, but I never-the-less share with them a moment shining against an inky backdrop. In those all-too-brief hours, warmed by the camaraderie of fast friendship, we find meaning underneath lyrics, between memorized words. Mortal or Immortal, we all grasp at the transcendent, and each of us, in our own way, finds it.</i>
+
+<i>By the time the sun threatens to rise, the table is decorated with a litany of half-savored cups. The room has slipped into the realm of Dream. It is a scene of peace and I savor it. I try to carve a sculpture to keep with me for always. I can't know if I will be successful, but I still try.</i>
+
+<i>I remove a handful of bills from my wallet and secure them underneath one of the glasses. Placing my hand in my right pocket, I find that my lighter is still there. Still no butane.</i>
+
+<i>With the hints of dawn streaking across the sky, I fade again back into the streets.</i>
+
+*****
+<br><i>When I get back to Astoria, the sky is fully illuminated. It is still a little early for the commuting crowd and the few people on the move are serving the numerous bakeries and food carts. The city may never truly cease motion but there were times its usual frenetic pace was replaced with the laconic haze of a morning come too soon.</i>
+
+<i>I mused on the divine cycle and observed this very real microcosm. Maybe I was a singular cog in a sea of sameness, but maybe, just maybe, I was the linchpin that kept us all hurtling toward Progress. At the very least, I did not know for certain anything beyond my periphery, so I resolved to keep going in the only way I knew how.</i>
+
+<i>Nestled in a transit desert in the northern reaches of Queens is a mouldering old building that few pay much attention to. And yet she is the beloved alma mater of a hundred mages now scattered throughout the globe. Despite my wanderings, it is here I always return. It is here that is my home.</i>
+
+<i>Opening the door, I am greeted by the smell of coffee and a spot of milk. He has not had this habit for long, but for my part, I like it.</i>
+
+#### KEVIN 
+
+> WELCOME BACK.
+
+*****
+
+<br><center>( I GOT NOTHING TO SAY I HAVEN'T SAID BEFORE )</center>
+<br><center>( I BLED ALL I CAN, WON'T BLEED NO MORE )</center>
+<br><center>( I DON'T NEED NO ONE TO UNDERSTAND )</center>
+<br><center>( WHY THE BLOOD RUN HOLD - )</center>
+<br><center>( THE HIRED HAND - ON HEART )</center>
+<br><center>( HAND OF GOD )</center>
+<br><center>( FLOOD LAND AND DRIVEN APART )</center>
+<br><center>( RUN COLD - TURN )</center>
+<br><center>( COLD, BURN LIKE A HEALING HAND. )</center>
+<br>
 
 *****
