@@ -579,7 +579,8 @@ lastmod: 2024-12-24 13:56
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/mandarc-tb-fine.jpg" class="chat-portrait" />
 <p class="ppl-sez">MANDARC//</p>
-<p class="ppl-sez">I worry adequately! I was shaking like a leaf.</p>
+<p class="ppl-sez">I worry adequately! </p>
+<p class="ppl-sez">...I was shaking like a leaf.</p>
 </div>
 
 <div class="chat-box">
@@ -645,8 +646,6 @@ lastmod: 2024-12-24 13:56
 
 <i>And I let them.</i>
 
-*****
-
 <br><center>( IF I LEAVE HERE TOMORROW )</center>
 <br><center>( WOULD YOU STILL REMEMBER ME? )</center>
 <br>
@@ -674,7 +673,6 @@ lastmod: 2024-12-24 13:56
 <br><center>( LORD KNOWS I CAN'T CHANGE. )</center>
 <br>
 
-*****
 <br><i>At this point, many around us have turned their cellphones to "flashlight" and they hold them aloft in their hands, swaying back and forth to the music. This was the way of things now, and I counted my blessings, thinking it a boon to those among the night vulnerable to Rötschreck.</i>
 
 <i>My companion, if I dared to call her that, fishes around in her purse as the tempo of the song quickens. She pulls out a lighter, engages the trigger, and joins the crowd in their show of solidarity.</i>
@@ -712,7 +710,7 @@ lastmod: 2024-12-24 13:56
 
 <i>The wellspring bubbles over, propelling my will into reality.</i>
 
-<br><center>( FLICK! )</center)
+<br><center>( FLICK! )</center>
 <br>
 
 <br><i>And in an instant, without fanfare, a flame of pure violet-blue appears at the mouth of the lighter.</i>
@@ -785,7 +783,7 @@ lastmod: 2024-12-24 13:56
 
 > ...
 > 
-> ONCE OR TWICE.
+> ...ONCE OR TWICE.
 
 *****
 <br><i>Her friends pale against her brilliance, but I never-the-less share with them a moment shining against an inky backdrop. In those all-too-brief hours, warmed by the camaraderie of fast friendship, we find meaning underneath lyrics, between memorized words. Mortal or Immortal, we all grasp at the transcendent, and each of us, in our own way, finds it.</i>
@@ -818,7 +816,7 @@ lastmod: 2024-12-24 13:56
 <br><center>( THE HIRED HAND - ON HEART )</center>
 <br><center>( HAND OF GOD )</center>
 <br><center>( FLOOD LAND AND DRIVEN APART )</center>
-<br><center>( RUN COLD - TURN )</center>
+<br><center>( RUN COLD - TURN - )</center>
 <br><center>( COLD, BURN LIKE A HEALING HAND. )</center>
 <br>
 
