@@ -1176,7 +1176,7 @@ lastmod: 2025-01-05 11:56
 
 > YOU DO NOT FRIGHTEN US, MARSCAPONE.
 
-<br><i>I release Chiasa from her bindings. She collapses to the ground. Miriam rushes forward to address her wounds. Neither of the party-crashers pay them any mind, attention now turned to Kevin, who now stands to my left.</i>
+<br><i>I release Chiasa from her bindings. She collapses to the ground. Miriam rushes forward to address her wounds. Neither of the party-crashers pay them any mind, attention now turned to Kevin, who stands to my left.</i>
 
 #### HASSAN 
 
@@ -1242,7 +1242,7 @@ lastmod: 2025-01-05 11:56
 
 > WHO KNOWS, MAYBE YOU CAN USE HIS.
 
-<br><i>At that, Hassan burst into flames and Cedric was forced to back away. Gabrielle began to dance and I gathered clouds over our heads, thick, billowing clouds that choked out the moon and stars. Rain began to pellet the area in sheets driven by an intensifying wind. The flames she'd drawn sizzled and threatened to sputter out, but it was too late.</i>
+<br><i>At that, Hassan burst into flames and Cedric was forced to back away. Gabrielle began to dance and I gathered clouds over our heads, thick, billowing clouds that choked out the moon and stars. Rain began to pelt the area in sheets driven by an intensifying wind. The flames she'd drawn sizzled and threatened to sputter out, but it was too late.</i>
 
 <i>The two winked out, leaving a fire blazing red hot in the fireplace.</i>
 
@@ -1292,7 +1292,7 @@ lastmod: 2025-01-05 11:56
 
 <i>I turn toward the three that remain.</i>
 
-<i>I tap my foot and sprout divides the rubble, quickly taking the shape of a sapling about five feet tall. It is pale with plenty of emerald leaves.</i>
+<i>I tap my foot and a sprout divides the rubble, quickly taking the shape of a sapling about five feet tall. It is pale with plenty of emerald leaves.</i>
 
 #### KEVIN 
 
