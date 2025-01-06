@@ -416,9 +416,9 @@ lastmod: 2025-01-05 11:56
 
 <i>A peculiarity of the Salubri that have mastered healing magicks is a third eye in the center of their forehead. This is not simply an affectation or adornment, it is a change of who and what they are. The eye, once opened, can never again be shut. But this saddened my friend, as it made it much more difficult to help the Mortals who so desperately needed her abilities. I was able to teach her a way to appear as she once had, a specific application of the glamour in which I was well-practiced. But as it was my trick, she couldn't use it against me. I would always see her true form, the one she'd earned. I don't think she found it as beautiful as I did.</i>
 
-<i>She had adopted a deceptive pattern of dress in the modern age. I suppose eras of fear had encouraged her to adopt symbols of defense - cryptic symbols, spikes, dark colors. There were so many who wished for the total eradication of the Salubri - I suppose she needed all the help she could get.</i>
+<i>She had adopted a deceptive pattern of dress in the modern age. I suppose eras of fear had encouraged her to adopt symbols of defense - cryptographs, spikes, dark colors. There were so many who wished for the total eradication of the Salubri - I suppose she needed all the help she could get.</i>
 
-<i>As the sun sunk behind the horizon, I found her in the study doing something completely mundane. Out of courtesy, I did not try to sense her actions with anything but my eyes. However, I could not help but smell the odor of artificial orange. She was polishing the furniture. Mandarc had kept my house spotless during his residence, but I don't think even he had oiled the woodwork.</i>
+<i>As the sun sank behind the horizon, I found her in the study doing something completely mundane. Out of courtesy, I did not try to sense her actions with anything but my eyes. However, I could not help but smell the odor of artificial orange. She was polishing the furniture. Mandarc had kept my house spotless during his residence, but I don't think even he had oiled the woodwork.</i>
 
 #### STRAUD 
 
@@ -554,7 +554,7 @@ lastmod: 2025-01-05 11:56
 
 > HERE, IN THIS PLACE.
 
-<br><i>Her eyes welled up as if she might shed tears but rather, she rushed forward and embraced me. Her hair smelled like fresh flowers but the metal adornments affixed to her jacket pushed into my flesh. She spoke in a whisper.</i>
+<br><i>Her eyes welled up as if she might shed tears but rather, she rushed forward and embraced me. Her hair smelled like fresh flowers but the metal adornments affixed to her jacket pressed into my flesh. She spoke in a whisper.</i>
 
 #### MIRIAM 
 
@@ -799,13 +799,13 @@ lastmod: 2025-01-05 11:56
 
 > BESIDES, ISN'T SHE ONE OF YOUR CHILDER?
 > 
-> I THOUGHT SUCH A PEDIGREE--
+> I THOUGHT THAT SUCH A PEDIGREE--
 
 #### STRAUD 
 
 > QUARQ!
 
-<br><i>His eyes shift downwards as if chided.</i>
+<br><i>His eyes shift downward as if chided.</i>
 
 #### STRAUD
 
@@ -939,7 +939,7 @@ lastmod: 2025-01-05 11:56
 
 #### STRAUD 
 
-> HAPPY NEW YEAR.
+> YOU TOO.
 
 <br><i>I left him to deposit his delivery behind the bar and then he disappeared back into the night.</i>
 
