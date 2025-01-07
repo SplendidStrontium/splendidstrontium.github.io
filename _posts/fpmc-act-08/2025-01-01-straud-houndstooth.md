@@ -1574,8 +1574,7 @@ lastmod: 2025-01-05 11:56
 
 *****
 
-<br><center>( I LOOKED 'ROUND )</center>
-<br><center>( AND I KNEW THERE WAS NO TURNING BACK-- )</center>
+<br><center>( ...AND I KNEW THERE WAS NO TURNING BACK-- )</center>
 <br><center>( "THUNDERSTRUCK" - AC/DC )</center>
 <br>
 

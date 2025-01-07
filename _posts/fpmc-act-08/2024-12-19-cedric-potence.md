@@ -668,7 +668,6 @@ lastmod: 2024-12-24 13:56
 <i>Making no sound, we laugh together.</i>
 
 <br><center>( LORD KNOWS... )</center>
-<br><center>( "FREE BIRD" - LYNYRD SKYNYRD )</center>
 <br>
 
 <br><i>At this point, many around us have turned their cellphones to "flashlight" and they hold them aloft in their hands, swaying back and forth to the music. This was the way of things now, and I counted my blessings, thinking it a boon to those among the night vulnerable to Rötschreck.</i>
@@ -734,6 +733,7 @@ lastmod: 2024-12-24 13:56
 > WHERE'D YOU GET IT?
 
 <br><center>( LORD, HELP ME, I CAN'T CHANGE. )</center>
+<br><center>( "FREE BIRD" - LYNYRD SKYNYRD )</center>
 
 #### CEDRIC 
 
