@@ -13,6 +13,7 @@ lastmod: 2021-11-04 16:31
 [//]: # ( 05/01/21  -added)
 [//]: # ( 10/13/21  -youtubelink added)
 [//]: # ( 11/04/21  -title added)
+[//]: # (  1/06/25  -songs credited)
 
 *****
 
@@ -830,3 +831,6 @@ SOMEBODY TELL ME DAT FATE 'AS BEEN KIND...
 </div>
 
 *****
+
+<br><center>( "WORTHLESS" - VAN DYKE PARKS, BRAVE LITTLE TOASTER )</center>
+<br><center>( "IT'S A "B" MOVIE" - DAVID NEWMAN & VAN DYKE PARKS, BRAVE LITTLE TOASTER )</center> 

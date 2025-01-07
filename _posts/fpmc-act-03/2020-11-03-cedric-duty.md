@@ -11,6 +11,7 @@ lastmod: 2021-11-03 15:15
 ---
 [//]: # ( 11/03/20  -added)
 [//]: # ( 11/03/21  -title added)
+[//]: # (  1/06/25  -lyric credited)
 
 *****
 <br>
@@ -179,3 +180,5 @@ lastmod: 2021-11-03 15:15
 <br>
 
 *****
+
+<br><center>( "WORTHLESS" - VAN DYKE PARKS, BRAVE LITTLE TOASTER )</center>

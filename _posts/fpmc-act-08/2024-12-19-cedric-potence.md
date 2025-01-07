@@ -11,13 +11,12 @@ lastmod: 2024-12-24 13:56
 ---
 [//]: # ( 12/23/24  -added)
 [//]: # ( 12/24/24  -finished typing)
+[//]: # (  1/06/25  -songs credited)
 
 *****
 
-<br><center>( D'YOU GET SCARED TO FEEL SO MUCH? )</center>
-<br><center>( TO LET SOMEBODY TOUCH YOU? )</center>
-<br><center>( SO HOT, SO COLD, SO FAR SO OUT OF CONTROL )</center>
-<br><center>( HARD TO COME BY, AND HARDER TO HOLD. )</center>
+<br><center>( HARD TO COME BY, AND HARDER TO HOLD )</center>
+<br><center>( "MORE" - THE SISTERS OF MERCY )</center>
 <br>
 
 *****
@@ -646,31 +645,30 @@ lastmod: 2024-12-24 13:56
 
 <i>And I let them.</i>
 
-<br><center>( IF I LEAVE HERE TOMORROW )</center>
-<br><center>( WOULD YOU STILL REMEMBER ME? )</center>
+<br><center>( IF I LEAVE HERE TOMORROW... )</center>
 <br>
 
 <br><i>The woman next to me is holding one of those single-serv bottles of champagne. Our eyes meet and time seems to stop, tarrying to watch us for several seconds. We are locked on to each other until she forgets her fingers and the bottle falls from her grasp.</i>
 
-<br><center>( BUT IF I STAY HERE WITH YOU, GIRL )</center>
-<br><center>( THINGS JUST COULDN'T BE THE SAME. )</center>
+<br><center>( ...JUST COULDN'T BE THE SAME )</center>
 <br>
 
 <br><i>Hidden by the strobing light, I catch the glass before it shatters upon the unseen floor.</i>
 
-<br><center>( AND THIS BIRD YOU CANNOT CHANGE. )</center>
+<br><center>( AND THIS BIRD... )</center>
 <br>
 
 <br><i>Unsure, embarrassed, she takes the bottle from me. I do not think she's aware that not a single drop has been spilled.</i>
 
-<br><center>( AND THIS BIRD YOU CANNOT CHANGE. )</center>
+<br><center>( ...YOU CANNOT CHANGE )</center>
 <br>
 
 <br><i>She tries to take a drink and the foam wells up and gives her a moustache.</i>
 
 <i>Making no sound, we laugh together.</i>
 
-<br><center>( LORD KNOWS I CAN'T CHANGE. )</center>
+<br><center>( LORD KNOWS... )</center>
+<br><center>( "FREE BIRD" - LYNYRD SKYNYRD )</center>
 <br>
 
 <br><i>At this point, many around us have turned their cellphones to "flashlight" and they hold them aloft in their hands, swaying back and forth to the music. This was the way of things now, and I counted my blessings, thinking it a boon to those among the night vulnerable to Rötschreck.</i>
@@ -809,15 +807,8 @@ lastmod: 2024-12-24 13:56
 
 *****
 
-<br><center>( I GOT NOTHING TO SAY I HAVEN'T SAID BEFORE )</center>
-<br><center>( I BLED ALL I CAN, WON'T BLEED NO MORE )</center>
-<br><center>( I DON'T NEED NO ONE TO UNDERSTAND )</center>
-<br><center>( WHY THE BLOOD RUN HOLD - )</center>
-<br><center>( THE HIRED HAND - ON HEART )</center>
-<br><center>( HAND OF GOD )</center>
-<br><center>( FLOOD LAND AND DRIVEN APART )</center>
-<br><center>( RUN COLD - TURN - )</center>
-<br><center>( COLD, BURN LIKE A HEALING HAND. )</center>
+<br><center>( GIMME THINGS THAT DON'T LAST LONG )</center>
+<br><center>( "THIS CORROSION" - THE SISTERS OF MERCY )</center>
 <br>
 
 *****

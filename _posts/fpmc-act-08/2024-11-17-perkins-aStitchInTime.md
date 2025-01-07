@@ -10,6 +10,7 @@ published: true
 lastmod: 2024-11-25 17:13
 ---
 [//]: # ( 11/25/24  -added)
+[//]: # (  1/06/25  -song lyric changed, credited)
 
 *****
 <br><i>It had failed, the whole thing had failed. All of their plans, all of their hopes and dreams gone.</i>
@@ -365,13 +366,8 @@ lastmod: 2024-11-25 17:13
 
 *****
 
-<br><center>( I CAN BUY MYSELF FLOWERS )</center>
-<br><center>( WRITE MY NAME IN THE SAND )</center>
-<br><center>( TALK TO MYSELF FOR HOURS )</center>
-<br><center>( SAY THINGS YOU DON'T UNDERSTAND )</center>
-<br><center>( I CAN TAKE MYSELF DANCING )</center>
-<br><center>( AND I CAN HOLD MY OWN HAND )</center>
-<br><center>( YEAH, I CAN LOVE ME BETTER THAN YOU CAN )</center>
+<br><center>( KINDA DREAM THAT CAN'T BE SOLD )</center>
+<br><center>( "FLOWERS" - MILEY CYRUS )</center>
 <br>
 
 *****

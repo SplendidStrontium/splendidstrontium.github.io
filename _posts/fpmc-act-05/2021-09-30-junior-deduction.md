@@ -12,6 +12,7 @@ lastmod: 2021-12-07 09:46
 [//]: # ( 09/30/21  -added)
 [//]: # ( 11/04/21  -title added)
 [//]: # ( 12/07/21  -formatting update)
+[//]: # (  1/06/25  -credited song)
 
 *****
 
@@ -486,14 +487,12 @@ lastmod: 2021-12-07 09:46
 
 *****
 
-<br/><center>( IF ALL OF THE KINGS -- )</center>
-<br><center>( HAD THEIR QUEENS ON THE THRONE )</center>
-<br><center>( WE WOULD POP CHAMPAGNE AND -- )</center>
-<br/>
+<br><center>( IF ALL OF THE KINGS -- )</center>
+<br>
 
 *****
 
-<br/>
+<br>
 
 #### TRELAINE 
 
@@ -569,3 +568,4 @@ lastmod: 2021-12-07 09:46
 
 *****
 
+<br><center>( "KINGS & QUEENS" - AVA MAX )</center>

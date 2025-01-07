@@ -10,6 +10,7 @@ published: true
 lastmod: 2025-01-05 11:56
 ---
 [//]: # (  1/05/25  -added)
+[//]: # (  1/06/25  -song credited)
 
 *****
 <br><i>It was many decades ago that I began to ask my guests to fast before attending my New Year's fête. I have the unfortunate tendency toward irritability from time to time and I think that's how it all started. I did not, on this night, enjoy them knocking on my door wearing rosy cheeks and blood-stained lips. I was well-acquainted with the gruesome truth of the Curse, but on this night, I began to demand a certain level of civility and decorum. I did not think one day was too much to ask.</i>
@@ -1573,25 +1574,9 @@ lastmod: 2025-01-05 11:56
 
 *****
 
-<br><center>( I WAS CAUGHT )</center>
-<br><center>( IN THE MIDDLE OF A RAILROAD TRACK-- )</center>
-<br><center>( THUNDER. )</center>
 <br><center>( I LOOKED 'ROUND )</center>
 <br><center>( AND I KNEW THERE WAS NO TURNING BACK-- )</center>
-<br><center>( THUNDER. )</center>
-<br><center>( MY MIND RACED )</center>
-<br><center>( AND I THOUGHT, WHAT COULD I DO? )</center>
-<br><center>( THUNDER. )</center>
-<br><center>( AND I KNEW )</center>
-<br><center>( THERE WAS NO HELP, NO HELP FROM YOU-- )</center>
-<br><center>( THUNDER. )</center>
-<br><center>( SOUND OF THE DRUMS )</center>
-<br><center>( BEATING IN MY HEART )</center>
-<br><center>( THE THUNDER OF GUNS )</center>
-<br><center>( TORE ME APART. )</center>
-<br><center>( ... )</center>
-<br><center>( YOU'VE BEEN-- )</center>
-<br><center>( THUNDERSTRUCK. )</center>
+<br><center>( "THUNDERSTRUCK" - AC/DC )</center>
 <br>
 
 *****

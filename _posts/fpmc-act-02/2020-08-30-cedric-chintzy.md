@@ -14,6 +14,7 @@ lastmod: 2021-11-03 14:01
 [//]: # ( 10/26/21  -formatting update)
 [//]: # ( 11/03/21  -in which description added)
 [//]: # ( 01/10/22  -cedric doesn't necessarily sleep at night)
+[//]: # (  1/06/25  -credited song lyric)
 
 *****
 <br><i>CEDRIC's eyes fly open. His foray into Elysion -- the Dream -- has concluded. He  just barely loses his sense of self while he travels; a brief respite from the endless chains of reality. Since accepting the Gift, true sleep as the Mortals experience has been unknown to him.</i>
@@ -54,7 +55,8 @@ lastmod: 2021-11-03 14:01
 
 > I WAS CONCERNED THE LEASH WOULD BREA --
 
-<br><CENTER>(DO, A DEER, A FEMALE DEER. RE...)</CENTER>
+<br><CENTER>( DO, A DEER, A FEMALE DEER. RE... )</CENTER>
 <br><i>A flip, a few button presses, and the alarm is silenced. He grimaces, if only slightly. The time is 6:30 AM.</i>
 
+<br><center>( "DO-RE-MI" - JULIE ANDREWS, SOUND OF MUSIC )</center>
 
