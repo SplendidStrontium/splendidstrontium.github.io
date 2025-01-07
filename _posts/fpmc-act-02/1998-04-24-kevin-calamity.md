@@ -10,6 +10,7 @@ published: true
 lastmod: 2022-04-27 11:13
 ---
 [//]: # (  4/27/22  -added)
+[//]: # (  1/06/25  -removed song lyrics)
 
 *****
 ### // MARSCAPONE SCHOOL OF MAGIC //
@@ -290,11 +291,8 @@ lastmod: 2022-04-27 11:13
 
 *****
 
-<br>
-<center>[I see a red door]</center>
-<center>[and I want it painted black]</center>
-<center>[No colors anymore]</center>
-<center>[I want them to turn black]</center>
+<br><center>( NO COLORS ANYMORE )</center>
+<br><center>( "PAINT IT BLACK" - THE ROLLING STONES )</center>
 <br>
 
 *****

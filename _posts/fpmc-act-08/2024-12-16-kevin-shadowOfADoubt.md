@@ -11,6 +11,7 @@ lastmod: 2024-12-21 10:51
 ---
 [//]: # ( 12/20/24  -added)
 [//]: # ( 12/21/24  -finished typing)
+[//]: # (  1/06/25  -song lyric credited)
 
 *****
 <br><i>I could not leave this place. Of course, I had left. I had been forced to leave, first by the Doctor Trelaine, and then later when my father taught me the unfortunate truth of the vampiric affliction. Skittish at first, I learned more about myself and derived confidence from the things I could not leave behind. I learned how to be my own home. But even so, the Magicademy was a part of me as I was a part of it. Though I would eventually renounce much of what I thought I was, I found certain things could not be changed and would remain even as everything else gave way and crumbled before me. Straud freed me from seeking the Mortals as foodstuff, but with that liberation came chains I had long forgotten when invigorated by Blood. I remembered what it was to feel tired, ill, incapable, frail, dependent. My body became very heavy and I dragged it around with me as a ball and chain. I sank back into the habits of childhood, barely scraping through life, bound to this house, beholden to my mother, who once again found herself bringing meals to my bedside.</i>
@@ -1400,11 +1401,8 @@ lastmod: 2024-12-21 10:51
 
 *****
 
-<br><center>( BABY, WE BUILT THIS HOUSE ON MEMORIES )</center>
 <br><center>( TAKE MY PICTURE NOW, SHAKE IT 'TIL YOU SEE IT )</center>
-<br><center>( AND WHEN YOUR FANTASIES BECOME YOUR LEGACY )</center>
-<br><center>( PROMISE ME A PLACE )</center>
-<br><center>( IN YOUR HOUSE OF MEMORIES. )</center>
+<br><center>( "HOUSE OF MEMORIES" - PANIC! AT THE DISCO )</center>
 <br>
 
 *****

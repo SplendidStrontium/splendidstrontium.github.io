@@ -10,6 +10,7 @@ published: true
 lastmod: 2022-01-19 10:20
 ---
 [//]: # (  1/19/22  -added)
+[//]: # (  1/06/25  -song credited)
 
 *****
 <br>
@@ -80,8 +81,7 @@ lastmod: 2022-01-19 10:20
 
 *****
 
-<BR><center>( WHAT GOES AROUND, GOES AROUND, GOES AROUND )</center>
-<br><center>( COMES ALL THE WAY BACK AROUND )</center>
+<BR><center>( WHAT GOES AROUND, GOES AROUND... )</center>
 <br>
 
 *****
@@ -92,9 +92,8 @@ lastmod: 2022-01-19 10:20
 
 *****
 
-<br><center>( DON'T WANNA THINK ABOUT IT )</center>
-<br><center>( DON'T WANNA TALK ABOUT IT )</center>
 <br><center>( I'M JUST SO SICK ABOUT IT )</center>
+<br><center>( "WHAT GOES AROUND" - JUSTIN TIMBERLAKE )</center>
 <br>
 
 *****
