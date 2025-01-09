@@ -7,6 +7,7 @@ date: 2024-12-10 21:45
 description: "in which the Islander is chided"
 tags: [skit, fpmcmain-mandarc, act-viii]
 published: true
+youtube_link: https://youtu.be/5lR5D4Cb8C8
 lastmod: 2024-12-15 21:25
 ---
 [//]: # ( 12/15/24  -added)
