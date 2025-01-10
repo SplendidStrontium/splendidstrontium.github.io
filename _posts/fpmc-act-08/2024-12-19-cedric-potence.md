@@ -7,6 +7,7 @@ date: 2024-12-19 23:07
 description: "in which Cedric jumps off a bridge"
 tags: [skit, fpmcmain-cedric, act-viii]
 published: true
+youtube_link: https://youtu.be/0029-0vpeLg
 lastmod: 2024-12-24 13:56
 ---
 [//]: # ( 12/23/24  -added)
