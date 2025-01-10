@@ -7,6 +7,7 @@ date: 2024-12-16 21:42
 description: "in which AVAEL airs her grievances"
 tags: [skit, fpmcmain-kevin, act-viii]
 published: true
+youtube_link: https://youtu.be/GDhyTvLN9fA
 lastmod: 2024-12-21 10:51
 ---
 [//]: # ( 12/20/24  -added)
