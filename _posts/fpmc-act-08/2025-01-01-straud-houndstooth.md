@@ -7,6 +7,7 @@ date: 2025-01-01 00:00
 description: "in which the Mansion is leveled"
 tags: [skit, fpmcmain-straud, act-viii]
 published: true
+youtube_link: https://youtu.be/bzFPPY-c0iw
 lastmod: 2025-01-05 11:56
 ---
 [//]: # (  1/05/25  -added)
