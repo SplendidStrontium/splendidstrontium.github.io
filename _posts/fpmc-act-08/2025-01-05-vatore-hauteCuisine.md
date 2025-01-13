@@ -7,6 +7,7 @@ date: 2025-01-05 21:53
 description: "in which Caleb and Trente entertain a guest"
 tags: [skit, fpmcmain-vatore, act-viii]
 published: true
+youtube_link: https://youtu.be/BIr2VsVrPyY
 lastmod: 2025-01-12 20:57
 ---
 [//]: # (  1/12/25  -added)
