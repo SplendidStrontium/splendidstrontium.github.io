@@ -14,7 +14,7 @@ lastmod: 2025-01-12 20:57
 *****
 <br><i>At this point, I had been in New Jersey for... well. Years. There were still things that mystified me - the dividers on the highways, the full-service gas stations, and where exactly that local twang came from. Though I still felt a stranger, an implant, I smiled and kept on. Love had brought me here and love would make me remain.</i>
 
-<i>My childhood had been quiet and lonely. I had my father, my sister, and occasionally my cousins, but growing up in Straud's realm left me isolated. I never knew the joy of spontaneous friendship, the kinds of bonds that are formed on playgrounds and over schoolbooks. Such camaraderie was the stuff of books and fairytales. And reading never came easily to me; letters and figures danced around before my eyes and made me regret having opened the tomes in the first place.</i>
+<i>My childhood had been quiet and lonely. I had my father, my sister, and occasionally my cousins, but growing up in Straud's realm had left me isolated. I never knew the joy of spontaneous friendship, the kinds of bonds that are formed on playgrounds and over schoolbooks. Such camaraderie was the stuff of books and fairytales. And reading never came easily to me; letters and figures danced around before my eyes and made me regret having opened the tomes in the first place.</i>
 
 <i>But I deeply desired to visit the foreign places I had heard rumor of. Father would read aloud to me and by candlelight, white castles rose from fields of green and valiant knights vanquished evil. And, of course, I dreamt of a princess.</i>
 
@@ -22,7 +22,7 @@ lastmod: 2025-01-12 20:57
 
 <i>Even after I had grown tall, I knew I didn't always make the right decisions. I suppose my Father would say I was thinking with my heart rather than my head. But I had never looked inside myself to see if I even possessed such organs. If they had ever once worked, they certainly didn't work anymore.</i>
 
-<i>Somewhere, deep inside my inner feelings, I had regrets about coming here. Sometimes I was deeply afraid, even terrified, of Trente Gagarin. If I could say one thing of Straud and his lackeys, it was that they were predictable. They were exactly what they presented themselves to be. Cedric was an obnoxious asshole, Mandarc was afraid of his own shadow, and Straud - well, Straud was Straud.</i>
+<i>Somewhere, deep inside my inner feelings, I had regrets about coming here. Sometimes I was deeply afraid, even terrified, of Trente Gagarin. If I could say one thing of Straud and his lackeys, it was that they were predictable. They were exactly what they presented themselves to be: Cedric was an obnoxious asshole, Mandarc was afraid of his own shadow, and Straud - well, Straud was Straud.</i>
 
 <i>But Trente was different. I had discovered that fact soon after coming to live here with her. It was not just her temper - I had seen her snap at me plenty of times before - nor was it simply the drawing back of the curtain. I had lived with my sister so I liked to think I was not entirely bewildered by the opposite sex - but Trente was something else entirely.</i>
 
@@ -272,7 +272,7 @@ lastmod: 2025-01-12 20:57
 
 > CALEB?
 
-<br><i>She sat down on the floor before me with the utmost grace. She places on hand splayed out on the floor to support herself and runs the other up my pantleg.</i>
+<br><i>She sat down on the floor before me with the utmost grace. She places one hand splayed out on the floor to support herself and runs the other up my pantleg.</i>
 
 <i>It tickles.</i>
 
@@ -310,7 +310,9 @@ lastmod: 2025-01-12 20:57
 
 #### TRENTE 
 
-> A BABY, CALEB. I WANT YOU TO GIVE ME A BABY.
+> A BABY, CALEB. 
+>
+> I WANT YOU TO GIVE ME A BABY.
 
 <br><i>I'm so confused, so stupified, I do something incredibly foolish.</i>
 
@@ -444,16 +446,12 @@ lastmod: 2025-01-12 20:57
 
 > WRONG!
 
-<br><i>She dismounts me and stands before me, her lingerie falling about her naked frame.</i>
+<br><i>She dismounts me and stands before me, her lingerie falling about her naked frame. She points toward herself emphatically.</i>
 
 #### TRENTE 
 
 > THEY WERE MADE IN <u>OUR</u> IMAGE!
-
-<br><i>She points toward herself emphatically.</i>
-
-#### TRENTE 
-
+>
 > GET THAT THROUGH YOUR THICK SKULL!
 
 #### CALEB 
@@ -571,13 +569,13 @@ lastmod: 2025-01-12 20:57
 > I HAVE IDEAS.
 
 *****
-<br><i>Friday Perkins had arrived about a month and a half ago. As I understood it, the new house located just down the way from ours belonged to her. I had only met her a handful of times and even then I hadn't had much to say. It had been strange to have a mage in the Forgotten Hollow but it hadn't been my business. She was Mandarc's girl.</i>
+<br><i>Friday Perkins had arrived about a month and a half ago. As I understood it, the new house located just down the way from ours belonged to her. I had, years ago, met her a handful of times but even then I hadn't had much to say. It had been strange to have a mage in the Forgotten Hollow but it hadn't been my business. She was Mandarc's girl.</i>
 
 <i>I had later heard that she'd run off with some wizard and gone to the Midwest. And I had assumed that was the end of that.</i>
 
 <i>The world of the Enchanted seemed very separate from my own. There were times it intersected my quite dull existence, I suppose. I stepped out of my comfort zone once to attend one of Davian's parties. But it wasn't until I came here that I became bathed in the arcane.</i>
 
-<i>With every passing day, I had to buck up and put on a good face, pretending I was unphased by what everyone else took as commonplace. At first, Trente Gagarin had seemed like any other vampire. Exceptional, yes, powerful, yes. And I had learned long ago that every vampire suffered in his or her own way. But certain qualities came up again and again. Trente avoided the sun, had strength and speed far in excess of any Mortal man - and of course, those two wicked teeth in place of the incisors. But evidence kept mounting that she was something else entirely. Not only could she conduct rituals to move entire houses across the country, now she insisted that she could become pregnant? My own ability to walk in the daylight, once a point of pride for me, seemed wholly and utterly pedestrian.</i>
+<i>With every passing day, I had to buck up and put on a good face, pretending I was unphased by what everyone else took as commonplace. At first, Trente Gagarin had seemed like any other vampire. Exceptional, yes, powerful, yes. And I had learned long ago that every vampire suffered in his or her own way. But certain qualities came up again and again. Trente avoided the sun, had strength and speed far in excess of any Mortal man - and of course, those two wicked teeth in place of the incisors. But evidence kept mounting that she was something else. Not only could she conduct rituals to move entire houses across the country, now she insisted that she could become pregnant? My own ability to walk in the daylight, once a point of pride for me, seemed wholly and utterly pedestrian.</i>
 
 <i>I don't know how Friday got my number. She never introduced herself or made any pleasantries. She just started talking to me as if we'd always been friends.</i>
 
@@ -1119,11 +1117,11 @@ lastmod: 2025-01-12 20:57
 > 
 > WE ARE A WINE HOUSE.
 
-<br><i>They disappear upstairs and I am alone for a moment. But I know I cannot linger too long in the quiet. The Queen had a certain rhythm, a cadence liked to maintain at her gatherings. If her guests had to wait for food, that just would not do. No, not at all.</i>
+<br><i>They disappear upstairs and I am alone for a moment. But I know I cannot linger too long in the quiet. The Queen had a certain rhythm, a cadence she liked to maintain at her gatherings. If her guests had to wait for food, that just would not do. No, not at all.</i>
 
 <i>The wind howled at the windows, rattling them in their frames. I looked at the cheese plate, which I had set to warm to room temperature underneath a dome of glass. I remove the cover and look at the food. It doesn't smell like much, and for that I am grateful. But the cheese has a dull sheen that reminds me of plastic. I dump a few more crackers on the plate and ascend the stairs.</i>
 
-<i>Upstairs, Trente and her guest have already opened another bottle of wine.</i>
+<i>When I get there, Trente and her guest have already opened another bottle of wine.</i>
 
 #### TRENTE 
 
@@ -1427,7 +1425,7 @@ lastmod: 2025-01-12 20:57
 
 > BUT, FOR A VAMPIRE MOVIE, AT LEAST IT WASN'T TOO GOREY.
 > 
-> NOT TOO MANY JUMP SCARES EITHER.
+> AND NOT TOO MANY JUMP SCARES EITHER.
 > 
 > I APPRECIATED THAT.
 
@@ -1547,7 +1545,7 @@ lastmod: 2025-01-12 20:57
 
 <br><i>I knew how this would go. After I drank from her, I would return to the darkness for several hours, waiting for the taste on my tongue to fade. I would wait until I again felt normal.</i>
 
-<i>I looked at my Queen, wishing that it did not have to be this way. Her eyes soften with a tender expression.</i>
+<i>I looked at my Queen, wishing that it did not have to be this way. I thought of the fruit. Her eyes soften with a tender expression.</i>
 
 #### TRENTE 
 
