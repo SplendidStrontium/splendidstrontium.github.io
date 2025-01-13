@@ -783,7 +783,7 @@ lastmod: 2025-01-12 20:57
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/caleb2.jpg" class="chat-portrait" />
 <p class="ppl-sez">CALEB//</p>
-<p class="ppl-sez">I don't know if Straud can get by without a manservant. Before Straud, he had Weaslie.</p>
+<p class="ppl-sez">I don't know if Straud can get by without a manservant. Before Mandarc, he had Weaslie.</p>
 </div>
 
 <div class="chat-box">
