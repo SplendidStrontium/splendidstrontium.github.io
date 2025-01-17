@@ -23,9 +23,9 @@ lastmod: 2025-01-17 09:17
 
 <i>I didn't care if anyone saw me. Maybe they would tear off my shell, drive a stake through my chest, and set whatever remained ablaze. I knew that as soon as I left Astoria, that was a possible outcome. But I went anyway. If it happened, at least it would be more than idling in a cage. At least, I reasoned, I'd be going out on my own terms.</i>
 
-<i>I traveled exclusively by night. It was winter now, so time was on my side. When I would see the first hints of dawn paint the sky, I would then find a dumpster, lift the lid, and conceal myself underneath piles of refuse. I would linger, half-awake, making no motion as people through their waste over my body, having absolutely no knowledge of what lay beneath.</i>
+<i>I traveled exclusively by night. It was winter now, so time was on my side. When I would see the first hints of dawn paint the sky, I would then find a dumpster, lift the lid, and conceal myself underneath piles of refuse. I would linger, half-awake, making no motion as people threw their waste over my body, having absolutely no knowledge of what lay beneath.</i>
 
-<i>It was slow going. I knew I had to take the long way around, avoiding the river. And I was tired and sluggish. It had been days, maybe longer, since I had consumed blood. Not that those wretched plasma packs had ever filled me with much energy. But, it had been something. Now I was running on fumes.</i>
+<i>It was slow going. I knew I had to take the long way around, avoiding the river. But I was tired and sluggish. It had been days, maybe longer, since I had consumed blood. Not that those wretched plasma packs had ever filled me with much energy. But, it had been something. Now I was running on fumes.</i>
 
 <i>Not that I craved that kind of life again. I had always assumed that the Doctor did not like to drink from animals. We had never lived that way, so I had never developed a taste for it. But when I had gone to live in Astoria... Well, I'd had no choice. I took what was given to me.</i>
 
@@ -45,7 +45,7 @@ lastmod: 2025-01-17 09:17
 
 <i>As if mocking me, the sky darkens and begins to dump precipitation upon me. The air is cold, but not cold enough, and clumps of damp, wet snow flutter around me. Even a drop of water is a danger to my mechanical form, and I know I should stop. I should find shelter. I should wait for the storm to pass. But I am so close and I am so tired. I keep going.</i>
 
-<i>The sidewalks become slippery, so I am forced to minimize my stride to keep steady over the icy cement. The snow keeps the humans from venturing outside, and for that, I am grateful. I cannot be deterred, not now. If anyone does try to stop me, I plot, I could get out my guns. I had never yet used them and wasn't even sure they worked, but that is what I decided I would do. I would shoot them dead.</i>
+<i>The sidewalks had become slippery, so I am forced to minimize my stride to keep steady over the icy cement. The snow keeps the humans from venturing outside, and for that, I am grateful. I cannot be deterred, not now. If anyone does try to stop me, I plot, I could get out my guns. I had never yet used them and wasn't even sure they worked, but that is what I decided I would do. I would shoot them dead.</i>
 
 <i>My pace is glacial but I am still moving forward. I don't really know how much longer I have but I am not worried about it. Even without the snowstorm, these streets are desolate, dotted with shuttered warehouses, overgrown brownfields, and the chop shops that stood as graveyards for abandoned automobiles.</i>
 
@@ -188,7 +188,7 @@ lastmod: 2025-01-17 09:17
 
 <br><i>I could sense the Cathedral drawing closer. Here, inside this Shangri-la hid hundreds of vampires loyal to the cause. There were no specific auras I yet recognized, sure, there was something familiar about this buzzing but I couldn't yet hear their voices. There were so many of them, the colors blended together into static, repetitive - and non-threatening.</i>
 
-<i>The Doctor did not lead me to the house of worship. No, perhaps he remembered that though I always enjoyed his lectures, I did not like to enter that place. I did not like to don that hat, I did not like to idle in those pews. And the smell of insence had made me nauseous.</i>
+<i>The Doctor did not lead me to the house of worship. No, perhaps he remembered that though I always enjoyed his lectures, I did not like to enter that place. I did not like to don that hat, I did not like to idle in those pews. And the smell of incense had made me nauseous.</i>
 
 #### TRELAINE 
 
@@ -210,9 +210,9 @@ lastmod: 2025-01-17 09:17
 
 #### TRELAINE 
 
-> ...ME EITHER.
+> ... ME EITHER.
 
-<br><i>We were in a huge room now. I knew this place. Bookshelves lined the walls. This was his collection, the corpus of his knowledge on the vampiric condition, both fact and fantasy. This was no library; there were no cards or date stamps. Everything here was free to take. What became missing would eventually be restocked.</i>
+<br><i>We were in a huge room now. I knew this place. Bookshelves lined the walls. This was his collection, the corpus of his knowledge on the vampiric condition, both fact and fantasy. This was no library; there were no cards in sleeves or date stamps. Everything here was free to take. What became missing would eventually be restocked.</i>
 
 <i>We would have to make our way into the lower levels to find his sanctum. We walked slowly, and through it all, Lenard held my hand. I suppose it was one of the only parts of me not plated in metal. The glove kept me from the full sensation, and yet, it was a homecoming.</i>
 
@@ -230,7 +230,7 @@ lastmod: 2025-01-17 09:17
 > 
 > JUST HIM.
 > 
-> ...MARSCAPONE--
+> ... MARSCAPONE--
 
 #### TRELAINE
 
@@ -368,7 +368,7 @@ lastmod: 2025-01-17 09:17
 
 > AVAELLE...
 > 
-> I DON'T REALLY KNOW EXACTLY HOW...
+> I DON'T REALLY KNOW HOW...
 > 
 > TO HANDLE THIS.
 > 
@@ -520,7 +520,7 @@ lastmod: 2025-01-17 09:17
 > 
 > WE'LL BE TOGETHER.
 
-<br><i>He was close to me now and I could feel his gaze upon me. He put his hand on my shoulder, metallic as it was.</i>
+<br><i>He was close to me now and I could feel his gaze upon me. He put his hand on my shoulder, metallic though it was.</i>
 
 #### TRELAINE
 
@@ -546,9 +546,9 @@ lastmod: 2025-01-17 09:17
 *****
 <br><i>I know I have entered the realm of fantasy because here, and now, I can see.</i>
 
-<i>My hands draw to my face and though it is all fake, unreal, I feel something estranged to me, and yet, intimately familiar. I have cheeks and... a chin. A nose. Eyes. My hair is drawn back on my skull, but it is there too. All of it, as it once was.</i>
+<i>My hands draw to my face and though it is all fake, unreal, I feel something estranged to me, and yet, intimately familiar. I have cheeks and... a chin. A nose. Eyes. My hair is drawn back upon my skull, but it is there too. All of it, as it once was.</i>
 
-<i>I was beautiful again.</i>
+<i>I am beautiful again.</i>
 
 <i>I push my hands into my skin, testing my senses. This must be long ago, I realize. Long, long ago. I am warm to the touch and I can feel blood in my cheeks, not... <u>on</u> them.</i>
 
@@ -556,7 +556,7 @@ lastmod: 2025-01-17 09:17
 
 <i>I'm... camping.</i>
 
-<i>My faceless companions bustle about, preparing a meal, tending the firepit. They wear modern clothing, and, as I look down at myself, I realize I blend right in.</i>
+<i>My faceless companions bustle about, preparing a meal, tending the firepit. They wear modern clothing, and, as I look down at myself, I realize that I blend right in.</i>
 
 <i>I have never been here. This is all a dream.</i>
 
@@ -568,7 +568,9 @@ lastmod: 2025-01-17 09:17
 
 <i>It must be summer, I realized, and filled my nostrils with the scent of burning wood--</i>
 
-<i>But it is all a distraction. I feel a tiny twitching on my bare legs and look down. I panic at the sight of them, scores of tiny, filthy, black mosquitoes, all piercing my skin.</i>
+<i>But it is all a distraction. I feel a tiny twitching on my bare legs and look down.</i>
+
+<i>I panic at the sight of them, scores of tiny, filthy, black mosquitoes, all piercing my skin.</i>
 
 <i>Stealing my blood.</i>
 
@@ -588,7 +590,7 @@ lastmod: 2025-01-17 09:17
 
 > DADDY?
 
-<br><i>He smiled.</i>
+<br><i>He smiles.</i>
 
 #### MR. EASTON
 
@@ -626,7 +628,7 @@ lastmod: 2025-01-17 09:17
 
 > CAN I GET YOU A BANDAGE?
 > 
-> IT SEEMS I'VE LOST THE LIQUID STUFF.
+> IT SEEMS I'VE MISPLACED THE LIQUID STUFF.
 
 #### AVAEL
 
@@ -640,7 +642,7 @@ lastmod: 2025-01-17 09:17
 
 <i>I stare at it, petrified, as everything around me begins to fade into black.</i>
 
-<i>My father, too, seems to dissolve as I cannot tear my eyes from my injury. I feel queasy and sick.</i>
+<i>My father, too, seems to dissolve as I cannot tear my eyes from the injury. I feel queasy and sick.</i>
 
 #### MR. EASTON
 
@@ -648,7 +650,9 @@ lastmod: 2025-01-17 09:17
 > 
 > CUTTING THE APPLES...
 
-<br><i>The vision fades as I clamber back into consciousness. I was leaving this place and re-entering the real world. I know I am here again because of the quiet in my ears and the blackness in my eyes. My body is here, locked beneath aluminum and steel. My fangs are here, hidden behind a malfunctioning LCD. But my heart?</i>
+<br><i>The vision fades as I clamber back into consciousness. I was leaving this place and re-entering the real world.</i>
+
+<i>I know I am there again because of the quiet in my ears and the blackness in my eyes. My body is here, locked beneath aluminum and steel. My fangs are here, hidden behind a malfunctioning LCD. But my heart?</i>
 
 <i>Perhaps my heart is still in the Dream.</i>
 
@@ -687,7 +691,7 @@ lastmod: 2025-01-17 09:17
 
 <br><i>There is a knock on the door. There is something I think I recognize in it but I can't be sure.</i>
 
-<i>His hand remains on mine as he speaks.</i>
+<i>His hand remains on mine as he speaks. He gives me a tiny squeeze.</i>
 
 #### TRELAINE
 
@@ -705,10 +709,10 @@ lastmod: 2025-01-17 09:17
 > 
 > I'LL CALL YOU.
 
-<br><i>She does not speak for a moment.</i>
-
 #### AVAELLE
 
+> ...
+>
 > YES, I UNDERSTAND.
 > 
 > BE WELL.
@@ -743,7 +747,7 @@ lastmod: 2025-01-17 09:17
 > 
 > PLANS CHANGED WHEN YOU LEFT.
 > 
-> I DIDN'T THINK I'D EVER SEE YOU AGAIN.
+> ... I DIDN'T THINK I'D EVER SEE YOU AGAIN.
 
 <br><i>And yet, here I was.</i>
 
@@ -769,7 +773,7 @@ lastmod: 2025-01-17 09:17
 > 
 > SHE IS SOMETHING DIFFERENT.
 > 
-> VERY...
+> ... VERY...
 > 
 > DIFFERENT.
 
@@ -789,7 +793,7 @@ lastmod: 2025-01-17 09:17
 > 
 > I COULD THINK OF LITTLE ELSE BUT WHAT HAD BEEN.
 > 
-> WHAT I HAD LOST.
+> ... WHAT I HAD LOST.
 
 <br><i>I didn't want to hurt him, so I withdrew.</i>
 
