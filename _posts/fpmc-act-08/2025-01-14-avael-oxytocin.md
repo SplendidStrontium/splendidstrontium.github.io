@@ -7,6 +7,7 @@ date: 2025-01-14 23:59
 description: "in which the femBot avoids Newtown Creek"
 tags: [skit, fpmcmain-avael, act-viii]
 published: true
+youtube_link: https://youtu.be/i3JxT4q2PJE
 lastmod: 2025-01-17 09:17
 ---
 [//]: # (  1/16/25  -added)
