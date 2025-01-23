@@ -27,9 +27,9 @@ lastmod: 2025-01-22 21:00
 
 <i>That is not to say I had total freedom. I had already made plans. I wanted to visit my Master in the Forgotten Hollow. I  had made a complete fool of myself at the holiday party. When the fire had broken out - I had turned tail and run. Like a yellow belly, I had taken flight and fled into the sky. I had abandoned the Count and shown myself a weakling. I hadn't been there when the Tremere summoned their demon and desecrated the Master's home. For all of my efforts to show myself worthy, when I had been needed, I had been scared shitless.</i>
 
-<i>I apologized profusely to my Master, but none of that could alleviate the intensity of the shame I bore. He smiled gently and placed his hands on my shoulders, trying to reassure me that none of it was my fault. The fear of fire was perfectly rational.</i>
+<i>I apologized profusely to my Master, but none of that could alleviate the intensity of the shame I bore. He smiled gently and placed his hands on my shoulders, trying to reassure me that none of it was my fault. The fear of fire was perfectly rational, he reiterated.</i>
 
-<i>And still, I resolved to myself that I must be better. Some of the coterie had withstood their terror. <u>They</u> had been there. <u>They</u> had fought. <u>They</u> triumphed.</i>
+<i>And still, I resolved to myself that I must be better. Some of the coterie had withstood their terror. <u>They</u> had been there. <u>They</u> had fought. <u>They</u> had triumphed.</i>
 
 <i>Maybe, though, I also needed to be patient with myself. So much had happened in these six short years. If I pushed myself too hard, I would break.</i>
 
@@ -202,13 +202,13 @@ lastmod: 2025-01-22 21:00
 </div>
 
 *****
-<br><i>Religion had always been... a sore subject. I suppose the most difficult thing about it was that it always reminded me of family. I had begun my life as a Catholic; bred, born, and baptised. But that had quickly worn out its welcome like Santa Claus and the Easter Bunny. I am not sure I ever believed in God. I know I tried - I fell to my knees and prayed into the sky, desperate for a sign, a reassurance that I was not throwing my faith into a black hole. The Messiah, the Saints, and even the Virgin - they had to have existed. So many sources agreed on this fact. But were they holy? And the miracles...? Those, I wasn't so sure about.</i>
+<br><i>Religion had always been... a sore subject. I suppose the most difficult thing about it was that it always reminded me of family. I had begun my life as a Catholic; bred, born, and baptised. But that had quickly worn out its welcome like Santa Claus and the Easter Bunny. I am not sure I ever believed in God. I know I tried - I fell to my knees and prayed into the sky, desperate for a sign, a reassurance that I was not throwing my faith into a black hole. The Messiah, the Saints, and even the Virgin - they had to have existed. So many sources agreed on this fact. But were they holy? And the miracles...? I wasn't sure.</i>
 
-<i>The Toast & Caramel is a quiet, dusty old speakeasy hidden underneath an old church in Jamaica. Whether my Master had built the house of worship himself or instead acquired it in the dawning of the age of skepticism, I could not say. He could, and often did, walk there from his house on the hill. When the trip to the Blue Velvet was too arduous, he could often be found here, placing a new record on the player. I wasn't sure he had left Jamaica since he had done battle with the Hellbeast.</i>
+<i>The Toast & Caramel is a quiet, dusty old speakeasy hidden underneath an old church in Jamaica. Whether my Master had built the house of worship himself or rather acquired it in the dawning of the age of skepticism, I could not say. He could, and often did, walk there from his house on the hill. When the trip to the Blue Velvet was too arduous, he could often be found here, placing a new record on the player. I wasn't sure he had left Jamaica since he had done battle with the Hellbeast.</i>
 
 <i>I figured my chances to find him here tonight were pretty good.</i>
 
-<i>I sat in my car, jotting down some half-cooked writing ideas in a notebook, until I see Ivette parallel park behind me. I stuff my pen and paper into the center console and exit the vehicle.</i>
+<i>I sat in my car, jotting down some half-baked writing ideas in a notebook, until I see Ivette parallel park behind me. I stuff my pen and paper into the center console and exit the vehicle.</i>
 
 <i>Ivette is a little confused.</i>
 
@@ -330,7 +330,7 @@ lastmod: 2025-01-22 21:00
 
 <i>My Master is here.</i>
 
-<i>I rush forward when we enter the room and I see him sitting there. I will not touch him, not without invitation. But I run up to him, forgetting myself, as a little Childe.</i>
+<i>I rush forward when we enter the room and I see him sitting there. I will not touch him, not without invitation, if I can help it. But I run up to him, forgetting myself, as a little Childe.</i>
 
 <i>He turns to me, granting me his face.</i>
 
@@ -426,7 +426,7 @@ lastmod: 2025-01-22 21:00
 
 #### STRAUD
 
-> THERE IS NO GREATER REWARD THAN ELEVATING OTHERS OUT OF IGNORANCE.
+> THERE IS NO GREATER VOCATION THAN ELEVATING OTHERS OUT OF IGNORANCE.
 
 <br><i>He paused.</i>
 
@@ -448,7 +448,7 @@ lastmod: 2025-01-22 21:00
 
 #### STRAUD 
 
-> PERHAPS SOMETIMES I WILL INTRODUCE YOU TO A DEAR FRIEND OF MINE.
+> PERHAPS SOMETIME I WILL INTRODUCE YOU TO A DEAR FRIEND OF MINE.
 > 
 > A LOVELY WOMAN FROM THE MIDDLE KINGDOM HAS BEEN STAYING WITH ME.
 > 
@@ -486,7 +486,7 @@ lastmod: 2025-01-22 21:00
 >
 > THAT'S ONE OF THE THINGS I LOVE ABOUT THE AREA.
 > 
-> IF YOU DON'T HAVE A REASON TO BE HERE, ONE TENDS TO JUST FLY ON BY.
+> IF ONE IS NOT SUMMONED, ONE TENDS TO JUST FLY ON BY.
 
 <br><i>Ivette didn't quite know what to say to that.</i>
 
@@ -518,7 +518,7 @@ lastmod: 2025-01-22 21:00
 > 
 > WHEN I HAD NO ONE ELSE.
 
-<br><i>I think I embarrassed her.</i>
+<br><i>I think I've embarrassed her.</i>
 
 #### IVETTE 
 
@@ -537,8 +537,14 @@ lastmod: 2025-01-22 21:00
 > IT MEANT A LOT TO ME THAT YOU DIDN'T THINK I WAS AN IDIOT FOR DROPPING OUT.
 > 
 > DIDN'T TELL ME I WAS MAKING THE WORST MISTAKE OF MY LIFE.
+>
+> DIDN'T TELL ME I'D REGRET IT EVERY SINGLE DAY.
 > 
 > OTHERS DID.
+>
+> JUST TOUGH IT OUT, THEY SAID.
+> 
+> IT COULDN'T BE THAT BAD!
 
 #### IVETTE 
 
@@ -556,7 +562,9 @@ lastmod: 2025-01-22 21:00
 
 > NO, REALLY!
 > 
-> I THOUGHT I'D GET A JOB WAITING TABLES FOR A COUPLE YEARS, MEET PEOPLE; YOU KNOW, ACTUALLY ENJOY BEING YOUNG.
+> I THOUGHT I'D TAKE A BREAK, GET A JOB WAITING TABLES FOR A COUPLE YEARS, MEET PEOPLE; YOU KNOW, ACTUALLY ENJOY BEING YOUNG.
+>
+> HAVE SOME FUN FOR ONCE.
 >
 > THEN I'D GO BACK LATER WHEN I WAS READY TO PUT MY HEAD TO STUDYING.
 
@@ -568,7 +576,7 @@ lastmod: 2025-01-22 21:00
 
 #### IVETTE 
 
-> HAHA--
+> HA--
 > 
 > I GUESS.
 > 
@@ -578,7 +586,7 @@ lastmod: 2025-01-22 21:00
 > 
 > THAT'S ABOUT IT.
 
-<br><i>I didn't really relish being put in that category, and my mind stutters.</i>
+<br><i>I didn't relish being put in that category, and my mind stutters.</i>
 
 <i>Luckily, Ivette turned to the Master.</i>
 
@@ -598,7 +606,7 @@ lastmod: 2025-01-22 21:00
 
 #### IVETTE 
 
-> OVER TEN YEARS.
+> OVER TEN YEARS NOW.
 
 #### STRAUD 
 
@@ -616,6 +624,6 @@ lastmod: 2025-01-22 21:00
 > 
 > PERHAPS I AM TOO PICKY.
 > 
-> OR PERHAPS, NOW IN THE TWILIGHT OF MY YEARS, I FEAR IT IS TOO LATE AND UNFAIR TO SADDLE SOMEONE I LOVE WITH THE INEVITABLE...
+> OR PERHAPS, NOW IN THE TWILIGHT OF MY YEARS, I FEAR IT IS TOO LATE AND IT WOULD BE UNFAIR TO SADDLE SOMEONE I CLAIM TO LOVE WITH THE INEVITABLE...
 
 <br><i>I couldn't disagree with him more but did not dare interject...</i>
