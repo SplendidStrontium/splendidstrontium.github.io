@@ -709,7 +709,7 @@ lastmod: 2025-01-23 22:55
 > 
 > TO USE A TURN OF PHRASE, I OFTEN, AS YOU WOULD SAY, AM FORCED TO TAKE MY WORK HOME WITH ME.
 
-<br><i>I hoped she would not be too impetuous here. She had contempt for the gentry and was convinced that he worked me as a dog, despite my protestations to the contrary. As she saw it, <u>he</u> was the reason I couldn't meet her for midday brunch.</i>
+<br><i>I hoped she would not be too impetuous here. She had contempt for the gentry and was convinced that he worked me as a dog, despite my protestations to the contrary. As she saw it, <u>he</u> was the reason I couldn't meet her for brunch and mimosas.</i>
 
 <i>Well, I suppose in a way, she was correct.</i>
 
@@ -727,7 +727,7 @@ lastmod: 2025-01-23 22:55
 
 #### IVETTE 
 
-> PERHAPS I'LL GIVE IT A SHOT.
+> MAYBE I'LL GIVE IT A SHOT.
 
 #### STRAUD 
 
@@ -787,7 +787,7 @@ lastmod: 2025-01-23 22:55
 
 #### IVETTE 
 
-> WELL, AS HARD AS YOU FIND IT TO BE MARRIED, IT IS A HUNDRED TIMES MORE DIFFICULT TO END A RELATIONSHIP.
+> WELL, AS HARD AS YOU FIND IT TO BE MARRIED, IT IS A HUNDRED TIMES MORE DIFFICULT TO GET DIVORCED.
 > 
 > WE OWN A HOUSE TOGETHER, WE'RE WRITTEN INTO EACH OTHER'S WILLS.
 > 
@@ -971,7 +971,7 @@ lastmod: 2025-01-23 22:55
 > 
 > I'LL SLEEP OVER FOR A FEW DAYS.
 > 
-> CATCH MY BREATH FOR A FEW DAYS.
+> CATCH MY BREATH.
 > 
 > WHAT'S THE WORST THAT COULD HAPPEN?
 
@@ -983,7 +983,9 @@ lastmod: 2025-01-23 22:55
 > 
 > I'LL STOP AT THE SCHOOL, PICK UP A FEW THINGS FROM MY OFFICE.
 > 
-> ... LOOK AT THE TIME.
+> ... 
+>
+> LOOK AT THE TIME.
 > 
 > I GUESS I HAD BETTER GET GOING.
 > 
@@ -1055,7 +1057,7 @@ lastmod: 2025-01-23 22:55
 
 > GIVE HER A DAY OFF ONCE IN A WHILE, WILL YOU?
 
-<br><i>She smiled and looked at me.</i>
+<br><i>He smiled and looked at me.</i>
 
 #### STRAUD 
 
@@ -1089,7 +1091,7 @@ lastmod: 2025-01-23 22:55
 
 #### STRAUD 
 
-> DO NOT PLAY COY WITH ME, CHILDE. 
+> DO NOT BE BASHFUL WITH ME, CHILDE. 
 > 
 > I HAVE NO TIME FOR IT.
 > 
@@ -1149,7 +1151,7 @@ lastmod: 2025-01-23 22:55
 
 #### STRAUD
 
-> ... THERE ARE OTHER WAYS TO WARD OFF MORTALITY.
+> ... THERE ARE OTHER WAYS TO WARD OFF THE REAPER.
 
 #### ROXANNE 
 
@@ -1175,9 +1177,11 @@ lastmod: 2025-01-23 22:55
 > 
 > IT SHOULD BE DONE FROM A PLACE OF WISDOM AND HOPE, NOT COVETOUSNESS, GREED.
 > 
-> NOT TO MENTION IT IS A DANGEROUS TIME TO BE A FLEDGLING.
-> 
+> IT IS A DANGEROUS TIME TO BE A FLEDGLING.
+>
 > WE ARE BESIEGED BY ENEMIES ON ALL SIDES.
+>
+> SHE WOULD ENTER THE BATTLEFIELD CLUMSY IN HER ARMOR AND UNTRAINED IN THE WAY OF THE SWORD.
 
 <br><i>I knew he spoke truth, and I felt small.</i>
 
@@ -1436,7 +1440,7 @@ lastmod: 2025-01-23 22:55
 
 > OH, ALRIGHT.
 
-<br><i>We were in the house now. I shut the door behind us and felt the weight of this upon my shoulders. I loved her; I wanted to protect her from the dangers that lurked outside in the world, dangers she didn't even know to fear. Having her here was exactly what I wanted, and yet - it meant change for me. It would be much more difficult to hide.</i>
+<br><i>We were in the house now. I shut the door behind us and felt the weight of this upon my shoulders. I loved her; I wanted to protect her from the dangers that lurked outside in the world, dangers she didn't even know to fear. Having her here was exactly what I had wanted, and yet - it meant change for me. It would be much more difficult to hide.</i>
 
 #### ROXANNE 
 
@@ -1513,13 +1517,13 @@ lastmod: 2025-01-23 22:55
 
 <i>I try to quell my worries and shut off the computer. I could not join the coterie tomorrow, I decided. But it was fine. I was needed here.</i>
 
-<i>I unlock the door to Eliza's - now <u>my</u> bedroom. It was on my never-ending list of things to do that I wanted to seek the Elder's wisdom for a technique to supernaturally seal my door. I knew it could be done but I did not yet know how. Bob was long among the Informed and knew better than to go looking for trouble. Ivette...? I wasn't so sure. </i>
+<i>I unlock the door to Eliza's - now <u>my</u> bedroom. It was on my never-ending list of things to do that I wanted to seek the Elders' wisdom for a technique to supernaturally seal my door. I knew it could be done but I did not yet know how. Bob was long among the Informed and knew better than to go looking for trouble. But Ivette...? I wasn't so sure. </i>
 
 <i>I would have to tell her the truth, and maybe sooner than I wanted to. And yet, still, I would do this in my own time, when I was ready. When I thought... she would be ready too.</i>
 
 <i>I open the door, intending to pass the remaining hour of the night in quiet solitude, but it is not to be.</i>
 
-<i>In that hideously pink room, sitting atop my coffin, is a face I recognize. She has haunted me for years, stalking me in the night, mocking me. I wasn't completely sure what her game was, but since we had chanced upon her camping out in the abandoned Goth Mansion, she had never left me alone.</i>
+<i>In that hideously pink room, sitting atop my coffin, is a face I recognize. She has haunted me for years, stalking me in the night, taunting me. I wasn't completely sure what her game was, but since we had chanced upon her camping out in the abandoned Goth Mansion, she had never left me alone.</i>
 
 <i>Tonight her raven hair is wild and the only thing she wears is a smug expression on her face.</i>
 
@@ -1657,7 +1661,7 @@ lastmod: 2025-01-23 22:55
 
 > WHY DO YOU PREY ON THE ITTY BITTY ANIMALS?
 
-<br><i>Her eyes were intense, a strange color like fuchsia. I wasn't sure I'd ever noticed them before.</i>
+<br><i>Her eyes were intense, a strange color, like fuchsia. I wasn't sure I'd ever noticed them before.</i>
 
 #### KALI
 
@@ -1673,7 +1677,7 @@ lastmod: 2025-01-23 22:55
 
 > THEY ARE EVERYONE'S BUSINESS WHEN YOU LEAVE YOUR HUSKS BEHIND.
 >
-> TAKING THE LIVES OF EARTH'S FAUNA IS DISTASTEFUL--
+> TAKING THE LIVES OF EARTH'S FAUNA IS DISGRACEFUL--
 > 
 > PARTICULARLY FOR ONE WHO CARRIES THE BLOOD OF THE ANCIENTS AS YOU DO--
 > 
@@ -1723,7 +1727,7 @@ lastmod: 2025-01-23 22:55
 > 
 > THINK OF WHAT WE COULD DO, WHAT WE COULD BE, TOGETHER.
 > 
-> UNLIKE HIM, I HAVE NOTHING BUT TIME ON MY HANDS.
+> AND UNLIKE HIM, I HAVE NOTHING BUT TIME ON MY HANDS.
 
 #### ROXANNE
 
@@ -1735,7 +1739,7 @@ lastmod: 2025-01-23 22:55
 
 > YOU REALLY ARE JUST MY TYPE.
 
-<br><i>And she disappears into mist. Faced with a creature such as she, I can't trust my senses that she's truly gone. But I have no choice.</i>
+<br><i>And she disappears into mist. Faced with a creature such as she, I can't trust my senses that she's truly gone. But I have no choice. The night is nearly gone.</i>
 
 <i>In the pink room that still reminisces about the deceased, I climb into my coffin and smooth the wrinkles from my clothing. I pull the lid over my hiding place and expel air from my lungs.</i>
 
