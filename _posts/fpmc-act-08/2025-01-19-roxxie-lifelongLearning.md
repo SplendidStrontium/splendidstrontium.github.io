@@ -7,6 +7,7 @@ date: 2025-01-22 20:59
 description: "in which Roxanne takes on a new responsibility"
 tags: [skit, fpmcmain-roxxie, act-viii]
 published: true
+youtube_link: https://youtu.be/XTZ0sEtaAb8
 lastmod: 2025-01-23 22:55
 ---
 [//]: # (  1/22/25  -added)
