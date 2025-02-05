@@ -19,5 +19,5 @@ lastmod:	2018-06-17 10:21
 
 *****
 `revision to`
-[Paige's perfect pancakes I]({{ site.url }}/recipes/perfect-pancakes-i)
+[Penelope's perfect pancakes I]({{ site.url }}/recipes/perfect-pancakes-i)
 

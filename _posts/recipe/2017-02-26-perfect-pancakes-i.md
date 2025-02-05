@@ -17,5 +17,5 @@ lastmod:	2017-02-26 12:07
 
 *****
 `revised in`
-[Paige's perfect pancakes II]({{ site.url }}/recipes/perfect-pancakes-ii)
+[Penelope's perfect pancakes II]({{ site.url }}/recipes/perfect-pancakes-ii)
 
