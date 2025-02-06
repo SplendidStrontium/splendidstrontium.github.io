@@ -7,11 +7,12 @@ date: 2020-09-12 14:16
 description: "PM@CEDRIC (before the holdup)"
 tags: [pm, dreams, fpmcmain-mandarc, act-iii]
 published: true
-lastmod: 2021-11-03 14:49
+lastmod: 2025-02-05 23:37
 ---
 [//]: # (  9/12/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
 [//]: # ( 11/03/21  -title added)
+[//]: # ( 02/05/25  -tb changed)
 
 <div class="chat-box">
 <img src="{{ site.url }}/assets/tb/pidge.jpg" class="chat-portrait" />
@@ -128,7 +129,7 @@ lastmod: 2021-11-03 14:49
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/autress-aug.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/pidge.jpg" class="chat-portrait" />
 <p class="ppl-sez">close chat @6:39 PM</p>
 </div>
 

@@ -7,11 +7,12 @@ date: 2020-09-23 12:29
 description: "PM@avael : kevin"
 tags: [pm, fpmcmain-mandarc, act-iii]
 published: true
-lastmod: 2021-11-03 15:00
+lastmod: 2025-02-05 11:21
 ---
 [//]: # (  9/23/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
 [//]: # ( 11/03/21  -title added)
+[//]: # (  2/05/25  -tb changed)
 
 *****
 
@@ -226,7 +227,7 @@ lastmod: 2021-11-03 15:00
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/autress-aug.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/pinky.jpg" class="chat-portrait" />
 <p class="ppl-sez">close chat @5:24 PM</p>
 </div>
 

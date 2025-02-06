@@ -7,10 +7,11 @@ date: 2020-09-05 18:15
 description: "from an Elder to a Younger"
 tags: [pm, fpmcmain-mandarc, act-ii]
 published: true
-lastmod: 2021-11-03 14:40
+lastmod: 2025-02-05 11:18
 ---
 [//]: # ( 10/15/21  -linkout removed)
 [//]: # ( 11/03/21  -title added)
+[//]: # (  2/05/25  -tb changed)
 
 *****
 
@@ -40,7 +41,7 @@ lastmod: 2021-11-03 14:40
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/autress-aug.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/pidge.jpg" class="chat-portrait" />
 <p class="ppl-sez">close chat @6:33 PM SEP05/2020</p>
 </div>
 

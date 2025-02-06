@@ -7,10 +7,11 @@ date: 2021-04-18 22:54
 description: "in which Myrtle, &al ask Straud to use clerical magicks"
 tags: [skit, fpmcmain-kevin, act-iv]
 published: true
-lastmod: 2021-12-13 09:21
+lastmod: 2025-02-05 23:35
 ---
 [//]: # ( 04/18/21  -added)
 [//]: # ( 12/13/21  -formatting update)
+[//]: # ( 02/05/25  -tb changed)
 
 *****
 <br>
@@ -95,7 +96,7 @@ lastmod: 2021-12-13 09:21
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/autress-aug.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/pidge.jpg" class="chat-portrait" />
 <p class="ppl-sez">close chat @01:36 PM</p>
 </div>
 <br>

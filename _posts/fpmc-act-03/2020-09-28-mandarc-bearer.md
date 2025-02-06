@@ -7,11 +7,12 @@ date: 2020-09-28 18:21
 description: "ATTN@all : Eliza"
 tags: [chat, fpmcmain-mandarc, act-iii]
 published: true
-lastmod: 2021-11-03 15:06
+lastmod: 2025-02-05 23:34
 ---
 [//]: # (  9/28/20  -added)
 [//]: # ( 10/15/21  -linkout removed)
 [//]: # ( 11/03/21  -title added)
+[//]: # ( 02/05/25  -tb changed)
 
 *****
 
@@ -258,8 +259,8 @@ lastmod: 2021-11-03 15:06
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/autress-aug.jpg" class="chat-portrait" />
-<p class="ppl-sez">AUTRESS//</p>
+<img src="{{ site.url }}/assets/tb/pidge.jpg" class="chat-portrait" />
+<p class="ppl-sez">PIDGE//</p>
 <p class="ppl-sez">Out of game, or in game. whatever:</p>
 <p class="ppl-sez">I zoned in, she was missing work.</p>
 <p class="ppl-sez">So I sent her off to work.</p>
@@ -274,7 +275,7 @@ lastmod: 2021-11-03 15:06
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/autress-aug.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/pidge.jpg" class="chat-portrait" />
 <p class="ppl-sez">close chat @6:58 PM</p>
 </div>
 

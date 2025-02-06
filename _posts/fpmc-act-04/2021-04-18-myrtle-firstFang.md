@@ -7,11 +7,12 @@ date: 2021-04-18 08:55
 description: "in which Larry asks his old teacher for help"
 tags: [skit, fpmcmain-myrtle, act-iv]
 published: true
-lastmod: 2021-12-10 14:59
+lastmod: 2025-02-05 23:36
 ---
 [//]: # ( 04/18/21  -added)
 [//]: # ( 11/04/21  -title added)
 [//]: # ( 12/10/21  -formatting update)
+[//]: # ( 02/05/25  -tb changed)
 
 *****
 <BR>
@@ -54,7 +55,7 @@ lastmod: 2021-12-10 14:59
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/autress-aug.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/pidge.jpg" class="chat-portrait" />
 <p class="ppl-sez">close chat @09:04 AM</p>
 </div>
 <BR>

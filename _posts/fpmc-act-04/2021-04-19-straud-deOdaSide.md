@@ -8,11 +8,12 @@ description: "in which Straud sees a number of visions"
 tags: [skit, fpmcmain-straud, act-iv]
 published: true
 youtube_link: https://youtu.be/LOhauJOGd58
-lastmod: 2021-11-04 16:10
+lastmod: 2025-02-05 23:31
 ---
 [//]: # ( 04/19/21  -added)
 [//]: # ( 10/13/21  -youtubelink added)
 [//]: # ( 11/04/21  -title added)
+[//]: # ( 02/05/25  -tb changed)
 
 *****
 
@@ -759,7 +760,7 @@ lastmod: 2021-11-04 16:10
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/autress-aug.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/pidge.jpg" class="chat-portrait" />
 <p class="ppl-sez">close chat @10:04 PM</p>
 </div>
 
