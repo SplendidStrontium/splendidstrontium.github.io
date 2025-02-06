@@ -8,12 +8,13 @@ description: "in which Straud brings his Saturday delivery to the Oborovsky twin
 tags: [skit, fpmcmain-straud, act-iv]
 published: true
 youtube_link: https://youtu.be/D4IW254ctmo
-lastmod: 2021-11-04 16:31
+lastmod: 2025-02-05 23:32
 ---
 [//]: # ( 05/01/21  -added)
 [//]: # ( 10/13/21  -youtubelink added)
 [//]: # ( 11/04/21  -title added)
 [//]: # (  1/06/25  -songs credited)
+[//]: # ( 02/05/25  -tb changed)
 
 *****
 
@@ -222,7 +223,7 @@ lastmod: 2021-11-04 16:31
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/autress-aug.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/pidge.jpg" class="chat-portrait" />
 <p class="ppl-sez">close chat @08:11 PM</p>
 </div>
 

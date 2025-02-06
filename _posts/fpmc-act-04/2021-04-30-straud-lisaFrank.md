@@ -8,11 +8,12 @@ description: "in which Straud hastily performs the rites, again"
 tags: [skit, fpmcmain-straud, act-iv]
 published: true
 youtube_link: https://youtu.be/w55ChhOnpq8
-lastmod: 2021-11-04 16:29
+lastmod: 2025-02-05 23:24
 ---
 [//]: # ( 04/30/21  -added)
 [//]: # ( 10/13/21  -youtubelink added)
 [//]: # ( 11/04/21  -title added)
+[//]: # ( 02/05/25  -tb changed)
 
 *****
 
@@ -819,7 +820,7 @@ lastmod: 2021-11-04 16:29
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/autress-aug.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/pidge.jpg" class="chat-portrait" />
 <p class="ppl-sez">close chat @09:55 PM</p>
 </div>
 

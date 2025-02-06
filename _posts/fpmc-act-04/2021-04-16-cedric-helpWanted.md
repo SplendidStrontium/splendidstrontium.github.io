@@ -7,10 +7,11 @@ date: 2021-04-16 22:14
 description: "in which Straud lets Cedric in on the good news"
 tags: [chat, fpmcmain-cedric, act-iv]
 published: true
-lastmod: 2021-11-04 16:04
+lastmod: 2025-02-05 23:28
 ---
 [//]: # ( 04/16/21  -added)
 [//]: # ( 11/04/21  -title added)
+[//]: # ( 02/05/25  -tb changed)
 
 *****
 
@@ -195,7 +196,7 @@ lastmod: 2021-11-04 16:04
 </div>
 
 <div class="chat-box">
-<img src="{{ site.url }}/assets/tb/autress-aug.jpg" class="chat-portrait" />
+<img src="{{ site.url }}/assets/tb/pidge.jpg" class="chat-portrait" />
 <p class="ppl-sez">close chat @10:48 PM</p>
 </div>
 
