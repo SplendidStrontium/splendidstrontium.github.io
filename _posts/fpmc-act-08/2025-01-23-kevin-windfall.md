@@ -478,7 +478,7 @@ lastmod: 2025-02-09 10:34
 
 <i>Father had realized almost immediately that Cedric did not have to fear the Sun. It was not unheard of among our kind, despite confusion on that point among Mortals - but it was virtually impossible for a fledgling. Straud, Sebastian, even my father, could stand in the Sun's radiation and not be set ablaze - but to see that Cedric had that ability from the onset of his dark birth - that showed him to be cut from a different cloth.</i>
 
-<i>In this moment, none of the three of us could be killed by a sunbeam, and yet, it did not change the fact that we were still creatures of the night.</i>
+<i>In this moment, none of the three of us could be destroyed by a sunbeam, and yet, it did not change the fact that we were still creatures of the night.</i>
 
 <i>Cedric came out on the front stoop and locked the door behind him.</i>
 
@@ -502,7 +502,7 @@ lastmod: 2025-02-09 10:34
 
 > HOUSE IS REALLY QUIET WITHOUT HER.
 
-<br><i>Though we each often required solitude, we were not asocial loners. Our bonds with others who understood our suffering was one of the few things that kept us sane.</i>
+<br><i>Though we each often required solitude, we were not asocial loners. Our bonds with others who understood our suffering were one of the few things that kept us sane.</i>
 
 #### CEDRIC 
 
@@ -546,7 +546,7 @@ lastmod: 2025-02-09 10:34
 > 
 > NOPE, I BET SHE MADE IT TO BROOKLYN IN ONE PIECE.
 > 
-> BUT IF SHE THINKS SHE'S GOING TO CARRY OUT TRELAINE'S COMMANDS AND WE'LL JUST LOOK THE OTHER WAY, SHE'S GOT ANOTHER THING COMING.
+> BUT IF SHE THINKS SHE'S GOING TO CARRY OUT TRELAINE'S COMMANDS AND WE'LL JUST LOOK THE OTHER WAY BECAUSE OF THE WAY THINGS WERE, THEN SHE'S GOT ANOTHER THING COMING.
 > 
 > FOOL ME ONCE, SHAME ON YOU.
 > 
@@ -562,7 +562,7 @@ lastmod: 2025-02-09 10:34
 > 
 > LOST.
 > 
-> ALL THAT TECHNOLOGY, IN THEIR HANDS.
+> ALL THAT TECHNOLOGY, NOW IN THEIR HANDS.
 
 #### VINCENT
 
