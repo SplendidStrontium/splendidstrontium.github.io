@@ -7,9 +7,10 @@ date: 2025-01-23 20:26
 description: "in which Straud talks to Tomas"
 tags: [skit, fpmcmain-kevin, act-viii]
 published: false
-lastmod: 2025-02-08 22:28
+lastmod: 2025-02-09 10:34
 ---
 [//]: # ( 02/08/25  -added)
+[//]: # ( 02/09/25  -still typing)
 
 *****
 <br><i>No one had ever taught me to cook. When I was a child, my mother brought me meals, and the whole process remained a mystery to me. When I became a vampire, I took vitae from Earth's creatures, and I was a thief, but I never committed murder. The Blood warmed me, and I needed no fire. But I could not live this way. When I resuccumbed to mortality, to the need to eat to survive, to... kill - it had been a difficult habit to acquire.</i>
