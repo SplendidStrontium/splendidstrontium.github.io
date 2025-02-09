@@ -16,7 +16,7 @@ lastmod: 2025-02-08 22:28
 
 <i>Hunger was repetitive and persistent. It seemed to me that as soon as I was done with one meal, I needed another. And another. Yes, I suppose it had been that way under the vampiric Affliction, but it had not seemed so crude. So often I had to remove myself from whatever I was doing to satisfy this base need. And unlike the vitae, food left a lump in my stomach that slowed me, irritated me. I did not want to eat at first - my sense of taste was acute and easily perturbed; everything reminded me of rotting flesh. Textures were revolting and disgusted me. The pungent odors made me want to gag.</i>
 
-<i>Yes, in the early days I had eaten only as was strictly necessary. My mother, long inured to the tedium of consumption, stressed the importance of three square meals. I rebelled, struggling against the yoke, but ultimately knew I had no choice. When she saw me skipping meals, she tried to stuff me with rich, fattening foods. She seemed to slip cheese into every nook and cranny of the things she prepared. When that didn't work, she insisted on protein supplements and vitamins. The bland taste and mild smell of those pseudofoods was tolerable and I took on much-needed weight. It was all still too sweet, but I had to find something I did not feel an unholy abomination against the realm of foodstuff.</i>
+<i>Yes, in the early days I had eaten only as was strictly necessary. My mother, long inured to the tedium of consumption, stressed the importance of three square meals. I rebelled, struggling against the yoke, but ultimately knew I had no choice. When she saw me skipping meals, she tried to stuff me with rich, fattening foods. She seemed to slip cheese into every nook and cranny of the things she prepared. When that didn't work, she insisted on protein supplements and vitamins. The bland taste and mild smell of those pseudofoods was tolerable and I took on much-needed weight. It was all still too sweet, but I had to find something I did not feel an unholy crime against the realm of foodstuff.</i>
 
 <i>I hated the incessant need to chew and swallow. My teeth were sharp and I bit my cheeks in the same places over and over again. My teeth sang out in pain when a drink was too cold; my tongue was scalded from coffee others seemed to enjoy. I wanted to revolt, and yet, this is what I had chosen. This life was what I had wanted. I eventually fell into a rhythm. As my stamina and health improved, I stopped relying on my mother and began to cook for myself. At this, I had no natural gift and certainly no training. At first, my creations were barely edible, burnt on the outside and cold in the centers. As if in response to my mother's soulless but adequate meals, everything I forked into my mouth was overly-spiced and salty.</i>
 
@@ -261,3 +261,334 @@ lastmod: 2025-02-08 22:28
 <br><i>She pursed her lips, sensing her reservations about bringing animals into the house were falling on deaf ears.</i>
 
 <i>She had to, reluctantly, admit defeat.</i>
+
+#### MYRTLE 
+
+> FINE.
+> 
+> BRING THEM HERE. 
+> 
+> WHO AM I TO TURN OUT THE OLD MEN TO THE BREAD LINES?
+
+<br><i>I smiled.</i>
+
+#### KEVIN 
+
+> THANK YOU, MOTHER.
+> 
+> YOU WON'T REGRET IT.
+> 
+> THEY REALLY ARE VERY GOOD LITTLE CATS.
+
+<br><i>She looked at me sideways.</i>
+
+#### MYRTLE 
+
+> ... YOU SAY THAT.
+
+#### KEVIN
+
+> THEY KEPT ME GOING WHEN THINGS GOT TOUGH.
+
+<br><i>My parents were silent a moment, so I changed the subject.</i>
+
+#### KEVIN 
+
+> STRAUD IS MAKING AN APPEARANCE AT THE B.V. TONIGHT.
+> 
+> IT'S HIS FIRST TIME THERE SINCE HIS HOUSE WAS DESTROYED.
+
+#### MYRTLE 
+
+> HOW HAS RECONSTRUCTION BEEN GOING?
+
+#### KEVIN
+
+> WELL, AS FAR AS I CAN TELL. 
+> 
+> I WENT OVER IN AN ATTEMPT TO LEND A HAND BUT IT SEEMED HE MOSTLY WANTED TO WORK ALONE.
+> 
+> HE'S RESOURCEFUL.
+> 
+> I HAVE NO DOUBT HE WILL RESTORE IT AND MAKE IT BETTER THAN EVER.
+
+#### MYRTLE
+
+> HE NEEDS ANOTHER EXIT IN THAT HOUSE.
+> 
+> AND PROPER VENTILATION IN THE KITCHEN.
+
+#### KEVIN
+
+> NOT SURE HE DOES MUCH COOKING--
+
+#### MYRTLE
+
+> THERE'S NO HARM IN BEING PREPARED.
+> 
+> AND TIDY.
+
+#### KEVIN
+
+> WHY DON'T YOU TELL HIM YOURSELF TONIGHT?
+> 
+> THERE'S ALWAYS ROOM FOR YOU AT THE TABLE.
+> 
+> IT'S NO FUN TO DRINK ALONE.
+
+<br><i>She raised an eyebrow, displeased with my insinuation.</i>
+
+#### MYRTLE 
+
+> I HAVE WORK TO DO TONIGHT.
+> 
+> I HAVEN'T THE TIME.
+
+<br><i>We always invited her and she always made excuses.</i>
+
+#### KEVIN 
+
+> IT WOULD BE A GOOD GESTURE OF SOLIDARITY--
+
+<br><i>She snapped at me.</i>
+
+#### MYRTLE
+
+> I'M NOT GOING!
+
+<br><i>I was still stunned by her outburst when my father surprises me, speaking calmly.</i>
+
+#### VINCENT 
+
+> I'LL GO.
+
+<br><i>Since his resurrection, he rarely left the house, seeming to guard the place as a stubborn hound.</i>
+
+<i>My mother was less than pleased.</i>
+
+#### MYRTLE
+
+> YOU INTEND TO LEAVE ME HERE ALONE?
+
+<br><i>When my father had made up his mind about something, little could sway him from following through on his word.</i>
+
+#### VINCENT 
+
+> I'LL WAKE UP GEORGE HENRY BEFORE I LEAVE.
+
+#### MYRTLE
+
+> THAT MILKSOP ISN'T WORTH THE PAPER HE'S PRINTED ON.
+
+#### KEVIN
+
+> YOU SELL HIM SHORT.
+> 
+> HE'S A GOOD MAN.
+
+#### MYRTLE 
+
+> AND WHERE WAS HE WHEN I NEEDED HIM?
+
+<br><i>She was thinking of when Agnes Sepal had set the house ablaze, incinerating both herself and my mother. I had been out-of-town during the incident. I still had guilt regarding what happened.</i>
+
+#### KEVIN 
+
+> FIRE IS A TRICKY BUSINESS--
+
+#### MYRTLE 
+
+> A TRICKY BUSINESS INDEED!
+> 
+> I AM SURE TRENTE GAGARIN TEACHES HER CLUTCH TO STAND THEIR GROUND!
+
+#### KEVIN
+
+> ... WE'LL GET THERE--
+
+#### MYRTLE 
+
+> BUT MAYBE NOT SOON ENOUGH!
+
+<br><i>I am sure there is little I can say to dispel her fears.</i>
+
+#### MYRTLE
+
+> OH--
+> 
+> GO TO YOUR STUPID PARTY.
+> 
+> LEAVE ME ALONE TO DEFEND THE HOMESTEAD.
+> 
+> THIS POOR LITTLE OLD LADY--
+
+#### VINCENT
+
+> MYRTLE--ENOUGH.
+
+<br><i>She knew she had stepped out of line.</i>
+
+#### VINCENT
+
+> YOU WILL BE FINE.
+> 
+> YOU ARE ONE OF THE MOST POWERFUL MAGES IN THE WORLD.
+
+<br><i>She frowned.</i>
+
+#### KEVIN
+
+> WHY DON'T YOU INVITE SOMEONE OVER FOR TEA AND COOKIES?
+
+#### VINCENT
+
+> A ROUSING GAME OF CHESS.
+
+<br><i>I searched my mind for anyone that would not offend her.</i>
+
+#### KEVIN
+
+> GWYDION?
+
+<br><i>Her eyes softened somewhat, but her lips remained tight.</i>
+
+#### MYRTLE
+
+> YES--
+> 
+> PERHAPS.
+
+*****
+<br><i>I could not help but feel that I was going from the frying pan into the fire. I had a growing responsibility to sustain my family's legacy, but I also had an allegiance to Straud and the coterie that ran deep. Refusing my vampiric inheritance had not released me from that identity, rather, it had intensified my dedication. They needed me more than ever. Most mages saw the nightfolk as parasitic affronts to the natural order. Davian had been one of the few exceptions to this rule, though I think he was driven more by loyalty to Straud than an affection for the Gift.</i>
+
+<i>But I believed, as I suspected Davian did as well, that the Talent and the Curse were two sides of the same coin. Myths and bad information ran rampant through the world of the Extranatural. Some claimed that mageblood made one immune to the vampiric taint - but what about Cedric and Gabrielle? It also appeared that vampires were largely sterile, but then how did Svetlana conceive and bear daughters by Sebastian Eriksson? And of course, there was the strange matter of my own existence.</i>
+
+<i>Though I had more questions than answers, I had resolved long ago to take life one step at a time, focusing first on the immediate needs in front of me. The sun had sank behind the sky now and the three of us would walk to the Blue Velvet together. Although everything was different now than it had been in the old millennium, there was a certain sense, a feeling, almost... déjà vu - that made me think of old times.</i>
+
+#### KEVIN 
+
+> ( CEDRIC, YOU READY? )
+
+#### CEDRIC 
+
+> ( YEAH, JUST A SEC. )
+
+<br><i>Although Cedric had no Sire, my father had taken him under his wing. For three years, we had spent every moment together. But it had seemed much longer than that. Each day, we sheltered inside the home, beneath the feet of the Orphans who knew nothing of our existence. By night, we stole into the darkness, sharpening our skills, seeking prey, preparing to fight our enemies.</i>
+
+<i>Father had realized almost immediately that Cedric did not have to fear the Sun. It was not unheard of among our kind, despite confusion on that point among Mortals - but it was virtually impossible for a fledgling. Straud, Sebastian, even my father, could stand in the Sun's radiation and not be set ablaze - but to see that Cedric had that ability from the onset of his dark birth - that showed him to be cut from a different cloth.</i>
+
+<i>In this moment, none of the three of us could be killed by a sunbeam, and yet, it did not change the fact that we were still creatures of the night.</i>
+
+<i>Cedric came out on the front stoop and locked the door behind him.</i>
+
+#### KEVIN
+
+> ANY WORD FROM AVAEL?
+
+<br><i>He slipped his keys into his pocket, turning to face me and my father.</i>
+
+#### CEDRIC 
+
+> NOPE. 
+> 
+> NADA.
+
+<br><i>We walk.</i>
+
+<i>In our melancholy, all we can hear is the rhythmic patter of our shoes upon the sidewalk.</i>
+
+#### CEDRIC 
+
+> HOUSE IS REALLY QUIET WITHOUT HER.
+
+<br><i>Though we each often required solitude, we were not asocial loners. Our bonds with others who understood our suffering was one of the few things that kept us sane.</i>
+
+#### CEDRIC 
+
+> WELL, YOU KNOW WHAT I SAY?
+> 
+> GOOD RIDDANCE.
+
+#### KEVIN
+
+> YOU DON'T MEAN THAT.
+
+<br><i>He paused.</i>
+
+#### CEDRIC 
+
+> ... MAYBE NOT ALL OF IT, BUT AT LEAST SOME OF IT, I DO.
+> 
+> IF SHE REALLY DIDN'T WANT TO BE HERE WITH US, IF THE BENEFITS WERE MORE IMPORTANT THAN THE FRIENDS, THEN YEAH--
+> 
+> GOOD FUCKING RIDDANCE.
+> 
+> SHE'LL FIGURE IT OUT SOMEDAY.
+> 
+> BUT BY THEN, IT MIGHT BE TOO LATE.
+
+<br><i>I hoped it would not come to that.</i>
+
+#### CEDRIC 
+
+> I AIN'T GOT NO TIME FOR LIARS AND CHEATS.
+
+#### KEVIN 
+
+> I HOPE SHE WASN'T FOUND BY THE MORTALS--
+
+#### CEDRIC 
+
+> I DOUBT THAT HAPPENED.
+> 
+> WE PROBABLY WOULD HAVE HEARD ABOUT IT BY NOW IF THAT WERE THE CASE.
+> 
+> NOPE, I BET SHE MADE IT TO BROOKLYN IN ONE PIECE.
+> 
+> BUT IF SHE THINKS SHE'S GOING TO CARRY OUT TRELAINE'S COMMANDS AND WE'LL JUST LOOK THE OTHER WAY, SHE'S GOT ANOTHER THING COMING.
+> 
+> FOOL ME ONCE, SHAME ON YOU.
+> 
+> I'LL BE READY THIS TIME.
+
+<br><i>I felt his rage, but at the same time, it also seemed alien to me. I was numb to this loss.</i>
+
+#### CEDRIC 
+
+> SUCKS TOO, ALL OUR HARD WORK--
+> 
+> YOUR WORK--
+> 
+> LOST.
+> 
+> ALL THAT TECHNOLOGY, IN THEIR HANDS.
+
+#### VINCENT
+
+> TRELAINE WON'T KNOW WHAT TO DO WITH HER.
+> 
+> THE METALS, THE TRANSISTORS...
+> 
+> IT IS ANETHEMA TO HIM.
+> 
+> HE IS A FLESHCRAFTER; TO HIM, SHE IS AN ABOMINATION.
+
+#### CEDRIC
+
+> SHE WAS OUR ABOMINATION.
+
+<br><i>I didn't know what to say.</i>
+
+#### KEVIN 
+
+> SHE WAS NEVER OURS.
+
+<br><i>I didn't mean to hurt him.</i>
+
+#### CEDRIC 
+
+> ... YEAH.
+> 
+> I GUESS NOT.
+
+*****
