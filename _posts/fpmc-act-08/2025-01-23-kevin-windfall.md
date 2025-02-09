@@ -12,11 +12,11 @@ lastmod: 2025-02-08 22:28
 [//]: # ( 02/08/25  -added)
 
 *****
-<br><i>No one had ever taught me to cook. When I was a child, my mother brought me meals, and the whole process remained a mystery to me. When I became a vampire, I took vitae from Earth's creatures, and I was a thief, but I never committed murder. The Blood warmed me, and I needed no fire. But I could not live this way. When I resuccumbed to mortality, to the need to eat to survive, to... kill--it had been a difficult habit to acquire.</i>
+<br><i>No one had ever taught me to cook. When I was a child, my mother brought me meals, and the whole process remained a mystery to me. When I became a vampire, I took vitae from Earth's creatures, and I was a thief, but I never committed murder. The Blood warmed me, and I needed no fire. But I could not live this way. When I resuccumbed to mortality, to the need to eat to survive, to... kill - it had been a difficult habit to acquire.</i>
 
-<i>Hunger was repetitive and persistent. It seemed to me that as soon as I was done with one meal, I needed another. And another. Yes, I suppose it had been that way under the Vampiric Affliction, but it had not seemed so crude. So often I had to remove myself from whatever I was doing to satisfy this base need. And unlike the vitae, food left a lump in my stomach that slowed me, irritated me. I did not want to eat at first - my sense of taste was acute and easily perturbed; everything reminded me of rotting flesh. Textures were revolting and disgusted me. The pungent odors made me want to gag.</i>
+<i>Hunger was repetitive and persistent. It seemed to me that as soon as I was done with one meal, I needed another. And another. Yes, I suppose it had been that way under the vampiric Affliction, but it had not seemed so crude. So often I had to remove myself from whatever I was doing to satisfy this base need. And unlike the vitae, food left a lump in my stomach that slowed me, irritated me. I did not want to eat at first - my sense of taste was acute and easily perturbed; everything reminded me of rotting flesh. Textures were revolting and disgusted me. The pungent odors made me want to gag.</i>
 
-<i>Yes, in the early days I had eaten only as was strictly necessary. My mother, long inured to the tedium of consumption, stressed the importance of three square meals. I rebelled, struggling against the yoke, but ultimately knew I had no choice. When she saw me skipping meals, she tried to stuff me with rich, fattening foods. She seemed to slip cheese into every nook and cranny of the things she prepared. When that didn't work, she insisted on protein supplements and vitamins. The bland taste and mild smell of those pseudofoods was tolerable and I took on much-needed weight. It was all still too sweet, but I had to find something I did feel an unholy abomination against the realm of foodstuff.</i>
+<i>Yes, in the early days I had eaten only as was strictly necessary. My mother, long inured to the tedium of consumption, stressed the importance of three square meals. I rebelled, struggling against the yoke, but ultimately knew I had no choice. When she saw me skipping meals, she tried to stuff me with rich, fattening foods. She seemed to slip cheese into every nook and cranny of the things she prepared. When that didn't work, she insisted on protein supplements and vitamins. The bland taste and mild smell of those pseudofoods was tolerable and I took on much-needed weight. It was all still too sweet, but I had to find something I did not feel an unholy abomination against the realm of foodstuff.</i>
 
 <i>I hated the incessant need to chew and swallow. My teeth were sharp and I bit my cheeks in the same places over and over again. My teeth sang out in pain when a drink was too cold; my tongue was scalded from coffee others seemed to enjoy. I wanted to revolt, and yet, this is what I had chosen. This life was what I had wanted. I eventually fell into a rhythm. As my stamina and health improved, I stopped relying on my mother and began to cook for myself. At this, I had no natural gift and certainly no training. At first, my creations were barely edible, burnt on the outside and cold in the centers. As if in response to my mother's soulless but adequate meals, everything I forked into my mouth was overly-spiced and salty.</i>
 
@@ -26,7 +26,7 @@ lastmod: 2025-02-08 22:28
 
 <i>I choke down some calcium carbonate, don an apron, and get right into the process.</i>
 
-<i>I am making butter chicken. I intend to go easy on the spice. I didn't like to consume the flesh of animals and generally avoided doing so if at all possible, but I could not refute that it was a nutrient-dense source of calories and was fairly easily digested. I had tried to live on carrots and cabbage, but that hadn't worked so well. No, this was yet another avenue of my life in which I was forced to make compromise.</i>
+<i>I am making butter chicken. I intend to go easy on the spice. I didn't like to consume the flesh of animals and generally avoided doing so if at all possible, but I could not refute that it was a nutrient-dense source of calories and was fairly easily digested. I had once tried to live on carrots and cabbage, but that hadn't worked so well. No, this was yet another avenue of my life in which I was forced to make compromise.</i>
 
 <i>My mother, at least, always joined me when she caught a new aroma wafting from the kitchen. She would have a tip or two, some helpful advice for me. Sometimes I took her suggestions, but other times I went my own way. Even as I listened to her pontificate on the joy - or lack thereof - of cooking, it was nice to have her company as I labored over the stove.</i>
 
@@ -60,7 +60,7 @@ lastmod: 2025-02-08 22:28
 > 
 > SHE CAN'T TAKE THEM WITH HER.
 
-<br><i>We had a house out east that I had used as a refuge when life in the city had been too overwhelming. Yes, I had gone out there often then, back several years ago when my father's soul had resided inside my mind. I had gone east on many a weekend, using the quiet to play at escape. Yes, I had taken him with me, as I always did then, but the ocean air had done me good. I had read books, scribed notes - and slept. I had good memories of that time. It had been just he and I - and the cats.</i>
+<br><i>We had a house out east that I had used as a refuge when life in the city had been too overwhelming. Yes, I had gone out there often then, back several years ago when my father's soul had resided inside my mind. I had gone east many a weekend, using the quiet to play at escape. Yes, I had taken him with me, as I always did then, but the ocean air had done me good. I had read books, scribed notes - and slept. I had good memories of that time. It had been just he and I - and the cats.</i>
 
 #### KEVIN
 
@@ -79,6 +79,8 @@ lastmod: 2025-02-08 22:28
 #### MYRTLE
 
 > WITH THE--
+>
+> ...
 > 
 > LITTER?
 
@@ -224,7 +226,7 @@ lastmod: 2025-02-08 22:28
 > 
 > THESE LITTLE GREMLINS ARE ACQUIRED BY THOSE WITHOUT THE MENTAL FORTITUDE TO FOCUS ON THE REAL NEEDS OF THIS WORLD.
 > 
-> THEY ARE SURROGATE CHILDREN TO PEOPLE WHO WOULD BE BETTER SERVED TO REMEMBER THE HUMANS LANGUISHING IN GROUP HOMES AND UNLOVING FAMILIES.
+> THEY ARE SURROGATE CHILDREN TO PEOPLE WHO WOULD BE BETTER SERVED TO REMEMBER THE PEOPLE LANGUISHING IN GROUP HOMES AND UNLOVING FAMILIES.
 
 #### KEVIN 
 
@@ -248,13 +250,13 @@ lastmod: 2025-02-08 22:28
 > 
 > WE DID THAT TO THEM.
 > 
-> WE CAN NO LONGER THROW THEM INTO THE FORESTS--
+> WE CAN NO LONGER JUST THROW THEM INTO THE FORESTS AND FORGET ABOUT THEM--
 
 #### VINCENT
 
 > ANY MORE THAN I CAN SEND YOU BACK TO A CAVE AND ARM YOU WITH A CLUB AND SPEAR.
 > 
-> DRESS YOU IN A LOINCLOTH.
+> SHALL I DRESS YOU IN A LOINCLOTH?
 
 <br><i>She pursed her lips, sensing her reservations about bringing animals into the house were falling on deaf ears.</i>
 
