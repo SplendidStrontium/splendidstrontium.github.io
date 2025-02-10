@@ -7,20 +7,20 @@ date: 2025-01-23 20:26
 description: "in which Straud talks to Tomas about the future"
 tags: [skit, fpmcmain-kevin, act-viii]
 published: true
-lastmod: 2025-02-10 09:50
+lastmod: 2025-02-10 11:10
 ---
 [//]: # ( 02/08/25  -added)
 [//]: # ( 02/09/25  -still typing)
 [//]: # ( 02/10/25  -finished typing)
 
 *****
-<br><i>No one had ever taught me to cook. When I was a child, my mother brought me meals, and the whole process remained a mystery to me. When I became a vampire, I took vitae from Earth's creatures, and I was a thief, but I never committed murder. The Blood warmed me, and I needed no fire. But I could not live this way. When I resuccumbed to mortality, to the need to eat to survive, to... kill - it had been a difficult habit to acquire.</i>
+<br><i>No one had ever taught me to cook. When I was a child, my mother brought me meals already prepared, and the whole process remained a mystery to me. When I became a vampire, I took vitae from Earth's creatures, and I was a thief, but never committed murder. The Blood warmed me, and I needed no fire. But I could not live this way. When I later resuccumbed to mortality, to the need to eat and breathe to survive, to... kill - it had been a difficult habit to acquire.</i>
 
-<i>Hunger was repetitive and persistent. It seemed to me that as soon as I was done with one meal, I needed another. And another. Yes, I suppose it had been that way under the vampiric Affliction, but it had not seemed so crude. So often I had to remove myself from whatever I was doing to satisfy this base need. And unlike the vitae, food left a lump in my stomach that slowed me, irritated me. I did not want to eat at first - my sense of taste was acute and easily perturbed; everything reminded me of rotting flesh. Textures were revolting and disgusted me. The pungent odors made me want to gag.</i>
+<i>Hunger was repetitive and persistent. It seemed to me that as soon as I was done with one meal, I needed another. And another. Yes, I suppose it had been that way under the vampiric Affliction, but it had not then seemed so crude. So often I had to remove myself from whatever I had been doing to satisfy this base need. And unlike the vitae, food left a lump in my stomach that slowed me, irritated me. I did not want to eat at first - my sense of taste was acute and easily perturbed; everything reminded me of rotting flesh. Textures were revolting and disgusted me. The pungent odors made me want to gag. I could not stand to see things overcooked or carbonized.</i>
 
 <i>Yes, in the early days I had eaten only as was strictly necessary. My mother, long inured to the tedium of consumption, stressed the importance of three square meals. I rebelled, struggling against the yoke, but ultimately knew I had no choice. When she saw me skipping meals, she tried to stuff me with rich, fattening foods. She seemed to slip cheese into every nook and cranny of the things she prepared. When that didn't work, she insisted on protein supplements and vitamins. The bland taste and mild smell of those pseudofoods was tolerable and I took on much-needed weight. It was all still too sweet, but I had to find something I did not feel an unholy crime against the realm of foodstuff.</i>
 
-<i>I hated the incessant need to chew and swallow. My teeth were sharp and I bit my cheeks in the same places over and over again. My teeth sang out in pain when a drink was too cold; my tongue was scalded from coffee others seemed to enjoy. I wanted to revolt, and yet, this is what I had chosen. This life was what I had wanted. I eventually fell into a rhythm. As my stamina and health improved, I stopped relying on my mother and began to cook for myself. At this, I had no natural gift and certainly no training. At first, my creations were barely edible, burnt on the outside and cold in the centers. As if in response to my mother's soulless but adequate meals, everything I forked into my mouth was overly-spiced and salty.</i>
+<i>I hated the incessant need to chew and swallow. My teeth were sharp from disuse and I bit my cheeks in the same places over and over again. My teeth sang out in pain when a drink was too cold; my tongue was scalded from coffee others seemed to enjoy. I wanted to revolt, and yet, this is what I had chosen. This life was what I had wanted. I eventually fell into a rhythm. As my stamina and health improved, I stopped relying on my mother and began to cook for myself. At this, I had no natural gift and certainly no training. At first, my creations were barely edible, burnt on the outside and cold in the centers. As if in response to my mother's soulless but adequate meals, everything I forked into my mouth was overly-spiced and salty.</i>
 
 <i>I continued to improve. I remained thin - my stomach would protest angrily when it had reached capacity - and I still resented that I could never stray too far from the kitchen - but the whole annoyance had slowly become bearable.</i>
 
@@ -32,7 +32,7 @@ lastmod: 2025-02-10 09:50
 
 <i>My mother, at least, always joined me when she caught a new aroma wafting from the kitchen. She would have a tip or two, some helpful advice for me. Sometimes I took her suggestions, but other times I went my own way. Even as I listened to her pontificate on the joy - or lack thereof - of cooking, it was nice to have her company as I labored over the stove.</i>
 
-<i>Often, it was just the two of us. Although I could now work the Craft as she could, we rarely had much to talk about. Our journeys were our own. I might cheerfully demonstrate a new transmutation or ask her advice on reference materials, but otherwise, the table was quiet. She seemed to always be preoccupied with her own thoughts and affairs and I refused to become a nuisance.</i>
+<i>Often, it was just the two of us. Although I could now work the Craft as she could, we rarely had much to talk about. Our journeys were our own. I might cheerfully demonstrate a new transmutation or ask her advice on reference materials, but otherwise, the table was quiet. She seemed to always be preoccupied with her own thoughts and affairs and I refused to become a nuisance. I owed her too much.</i>
 
 <i>She would invariably perk up when my father would join us in the dining room. With him present, the lanes of conversation were wide open. He might break the ice with a baudy tale or a game of remember-when. She would follow up with a tender anecdote of something one of the children had done back-in-the-day. They would laugh and reminisce and though I was little more than window dressing in these conversations, I was glad to see them happy.</i>
 
@@ -95,6 +95,10 @@ lastmod: 2025-02-10 09:50
 #### MYRTLE 
 
 > IT'S NOT JUST UNSIGHTLY, IT'S UNSANITARY.
+>
+> DISGUSTING.
+>
+> REPULSIVE.
 
 #### KEVIN
 
@@ -170,7 +174,7 @@ lastmod: 2025-02-10 09:50
 > 
 > OUTSTANDING REPRESENTATIVES OF WHAT THE SPECIES CAN BE.
 > 
-> DOCILE, CALM.
+> DOCILE, CALM, AFFECTIONATE.
 > 
 > AND...
 > 
@@ -250,7 +254,7 @@ lastmod: 2025-02-10 09:50
 
 > THEY'RE DOMESTICATED.
 > 
-> WE DID THAT TO THEM.
+> <u>WE</u> DID THAT TO THEM.
 > 
 > WE CAN NO LONGER JUST THROW THEM INTO THE FORESTS AND FORGET ABOUT THEM--
 
@@ -356,7 +360,7 @@ lastmod: 2025-02-10 09:50
 
 #### MYRTLE
 
-> I'M NOT GOING!
+> I HAVE NO INTEREST IN ATTENDING!
 
 <br><i>I was still stunned by her outburst when my father surprises me, speaking calmly.</i>
 
@@ -392,7 +396,7 @@ lastmod: 2025-02-10 09:50
 
 > AND WHERE WAS HE WHEN I NEEDED HIM?
 
-<br><i>She was thinking of when Agnes Sepal had set the house ablaze, incinerating both herself and my mother. I had been out-of-town during the incident. I still had guilt regarding what happened.</i>
+<br><i>She was thinking of when Agnes Sepal had set the house ablaze, incinerating both herself and my mother in a vicious magefeud. I had been out-of-town during the incident. I still had lingering guilt regarding what happened.</i>
 
 #### KEVIN 
 
@@ -436,7 +440,7 @@ lastmod: 2025-02-10 09:50
 > 
 > YOU ARE ONE OF THE MOST POWERFUL MAGES IN THE WORLD.
 
-<br><i>She frowned.</i>
+<br><i>She frowned, unwilling to accept the praise.</i>
 
 #### KEVIN
 
@@ -461,11 +465,11 @@ lastmod: 2025-02-10 09:50
 > PERHAPS.
 
 *****
-<br><i>I could not help but feel that I was going from the frying pan into the fire. I had a growing responsibility to sustain my family's legacy, but I also had an allegiance to Straud and the coterie that ran deep. Refusing my vampiric inheritance had not released me from that identity, rather, it had intensified my dedication. They needed me more than ever. Most mages saw the nightfolk as parasitic affronts to the natural order. Davian had been one of the few exceptions to this rule, though I think he was driven more by loyalty to Straud than an affection for the Gift.</i>
+<br><i>I could not help but feel that I was going from the frying pan into the fire. I had a growing responsibility to sustain my family's legacy, but I also had an allegiance to Straud and the coterie that ran deep. Refusing my vampiric inheritance had not released me from that identity, rather, it had intensified my dedication. They needed me more than ever. Most mages saw the nightfolk as parasitic affronts to the natural order. Davian had been one of the few exceptions to this rule, though I think he was driven more by loyalty to Straud than a particular affection for the Gift.</i>
 
-<i>But I believed, as I suspected Davian did as well, that the Talent and the Curse were two sides of the same coin. Myths and bad information ran rampant through the world of the Extranatural. Some claimed that mageblood made one immune to the vampiric taint - but what about Cedric and Gabrielle? It also appeared that vampires were largely sterile, but then how did Svetlana conceive and bear daughters by Sebastian Eriksson? And of course, there was the strange matter of my own existence.</i>
+<i>But I believed, as I suspected Davian did as well, that the Talent and the Curse were two sides of the same coin. Myth and bad information ran rampant through the world of the Extranatural. Some claimed that mageblood made one immune to the vampiric taint - but what about Cedric and Gabrielle? It also appeared that vampires were largely sterile, but then how did Svetlana conceive and bear daughters by Sebastian Eriksson? And of course, there was the strange matter of my own existence.</i>
 
-<i>Though I had more questions than answers, I had resolved long ago to take life one step at a time, focusing first on the immediate needs in front of me. The sun had sank behind the sky now and the three of us would walk to the Blue Velvet together. Although everything was different now than it had been in the old millennium, there was a certain sense, a feeling, almost... déjà vu - that made me think of old times.</i>
+<i>Though I had more questions than answers, I had resolved long ago to take life one step at a time, focusing first on the immediate needs in front of me. The sun had now sank behind the horizon and the three of us would walk to the Blue Velvet together. Although everything was different now than it had been in the old millennium, there was a certain sense, a feeling, almost - déjà vu - that made me think of old times.</i>
 
 #### KEVIN 
 
@@ -475,9 +479,9 @@ lastmod: 2025-02-10 09:50
 
 > ( YEAH, JUST A SEC. )
 
-<br><i>Although Cedric had no Sire, my father had taken him under his wing. For three years, we had spent every moment together. But it had seemed much longer than that. Each day, we sheltered inside the home, beneath the feet of the Orphans who knew nothing of our existence. By night, we stole into the darkness, sharpening our skills, seeking prey, preparing to fight our enemies.</i>
+<br><i>Although Cedric had no Sire, my father had taken him under his wing. For three years, we had spent every moment together. But it had seemed to be much longer than that. Each day, we sheltered inside the home, beneath the feet of the Orphans who knew nothing of our existence. By night, we stole into the darkness, sharpening our skills, seeking prey, preparing to fight our enemies.</i>
 
-<i>Father had realized almost immediately that Cedric did not have to fear the Sun. It was not unheard of among our kind, despite confusion on that point among Mortals - but it was virtually impossible for a fledgling. Straud, Sebastian, even my father, could stand in the Sun's radiation and not be set ablaze - but to see that Cedric had that ability from the onset of his dark birth - that showed him to be cut from a different cloth.</i>
+<i>Father had realized almost immediately that Cedric did not have to fear the Sun. It was not unheard of among our kind, despite confusion on that point among Mortals - but it was virtually impossible for a fledgling stumbling through his first decades. Straud, Sebastian, even my father, could stand in the Sun's radiation and not be set ablaze - but to see that Cedric had that ability from the onset of his dark birth - that showed him to be cut from a different cloth.</i>
 
 <i>In this moment, none of the three of us could be destroyed by a sunbeam, and yet, it did not change the fact that we were still creatures of the night.</i>
 
@@ -519,7 +523,9 @@ lastmod: 2025-02-10 09:50
 
 #### CEDRIC 
 
-> ... MAYBE NOT ALL OF IT, BUT AT LEAST SOME OF IT, I DO.
+> ... 
+>
+> MAYBE NOT ALL OF IT, BUT AT LEAST SOME OF IT, I DO.
 > 
 > IF SHE REALLY DIDN'T WANT TO BE HERE WITH US, IF THE BENEFITS WERE MORE IMPORTANT THAN THE FRIENDS, THEN YEAH--
 > 
@@ -577,7 +583,7 @@ lastmod: 2025-02-10 09:50
 
 #### CEDRIC
 
-> SHE WAS OUR ABOMINATION.
+> SHE WAS <u>OUR</u> ABOMINATION.
 
 <br><i>I didn't know what to say.</i>
 
@@ -596,11 +602,11 @@ lastmod: 2025-02-10 09:50
 *****
 <br><i>When we get to the bar, it is already swarming with activity. The Count had a while back declared a hiatus on the plays, citing issues with writers, which was kind of disingenuous because I'm pretty sure he wrote all of them. Maybe Long Winter wasn't one of his, but I could be completely sure.</i>
 
-<i>We made our way to the private chamber in which Straud entertained his more illustrious guests. It was a private viewing room with an excellent view of the stage. Unlike the other seats in the theatre, it was enclosed by walls and glass. I suspected it was enchanted somehow; from a seat in this room one would have no trouble hearing the performance, but I doubt the same permeability applied to outgoing sound.</i>
+<i>We made our way to the private chamber in which Straud entertained his more illustrious guests. It was a private viewing room with an excellent view of the stage. Unlike the other seats in the theatre, it was enclosed by walls and glass. I suspected it was enchanted somehow; from a seat in this room one would have no trouble hearing the performance, but I doubted the same permeability applied to outgoing sound.</i>
 
 <i>When we get there, Miriam and Hua Jia are seated at the table. Yet another mystery of the room was that there was always enough space at the table to seat everyone.</i>
 
-<i>The two women were relative newcomers, but they were quickly becoming accepted members of the coterie. Miriam was apparently an old friend of Straud's from when he wandered the Old World. And Hua Jia? We had supposed it was not safe to simply send her back to her homeland.</i>
+<i>The two women were relative newcomers, but they were quickly becoming accepted members of the coterie. Miriam was apparently an old friend of Straud's from when he wandered the Old World. And Hua Jia? We had supposed it was not safe to simply deport her back to her homeland.</i>
 
 #### CEDRIC 
 
@@ -660,11 +666,11 @@ lastmod: 2025-02-10 09:50
 > 
 > MY SCHOOL HAS NO STUDENTS.
 > 
-> I REFUSE TO SIT IN MY OFFICE AND ROT.
+> I REFUSE TO DROWN IN MY PAPERS.
 
 <br><i>I suppose it was strange for the others to have him here - the room seemed to hang in words unsaid.</i>
 
-<i>When I had come into being and known my father as his son, he had become a recluse from the vampiric community. It was my impression that he had become a bit of a pariah after marrying my mother and devoting so much energy to harboring and educating the Enchanted. </i>
+<i>When I had come into being and known my father as his begotten son, he had become a recluse from the vampiric community. It was my impression that he had become a bit of a pariah after marrying my mother and devoting so much energy to harboring and educating the Enchanted. </i>
 
 <i>But true fame never dies.</i>
 
@@ -692,7 +698,7 @@ lastmod: 2025-02-10 09:50
 
 #### CEDRIC 
 
-> QUIET ON THE WESTERN FRONT.
+> ALL QUIET ON THE WESTERN FRONT.
 
 <br><i>But we knew better than to sink into false security.</i>
 
@@ -776,7 +782,7 @@ lastmod: 2025-02-10 09:50
 
 > YOU CAN'T MAKE SOMETHING FROM NOTHING.
 > 
-> YOU CAN'T EXPECT TO GET SOMETHING WITHOUT GIVING SOMETHING.
+> YOU CAN'T EXPECT TO GET SOMETHING WITHOUT ALSO GIVING SOMETHING.
 
 <br><i>She smiled slyly, looking at me.</i>
 
@@ -800,7 +806,7 @@ lastmod: 2025-02-10 09:50
 > 
 > OR PERHAPS ALL MAGIC IS ULTIMATELY RUN THROUGH THE DIVINE--
 > 
-> GREAT CREATURES OF INCREDIBLE POWER BEYOND OUR UNDERSTANDING.
+> GREAT CREATURES OF INCREDIBLE POWER BEYOND OUR UNDERSTANDING WHO WATCH OUR EVERY MOVE.
 > 
 > BUT WHERE DOES IT ALL BEGIN?
 > 
@@ -834,7 +840,7 @@ lastmod: 2025-02-10 09:50
 > 
 > I TRUST THOSE IN ATTENDANCE HERE MEET WITH YOUR AGREEMENT?
 
-<br><i>Of course we all knew him. He had been Prince of the Big Apple for as long as I'd been alive.</i>
+<br><i>Of course we all knew him. He had been Prince of the Big Apple for longer than I'd been alive.</i>
 
 #### TOMAS
 
@@ -860,7 +866,7 @@ lastmod: 2025-02-10 09:50
 > 
 > DAVIAN DID MOST OF THE WORK.
 > 
-> JUST...
+> I'M JUST...
 > 
 > GLAD TO HAVE YOU BACK, DAD.
 
@@ -946,7 +952,7 @@ lastmod: 2025-02-10 09:50
 > 
 > I SUPPOSE IT IS TRUE THAT I NEVER REALLY BELIEVED IN THE CLANS.
 > 
-> I WANTED TO BELIEVE THAT IT WAS A WAY OF THE PAST, THAT WE WERE ALL VAMPIRES, REGARDLESS OF OUR PARTICULAR MANNERISMS, AND THAT IT WAS TIME TO BIND TOGETHER TO ADDRESS THE GROWING THREATS TO THE MASQUERADE.
+> I WANTED TO BELIEVE THAT IT WAS A WAY OF THE PAST, THAT WE WERE ALL VAMPIRES, REGARDLESS OF OUR PARTICULAR MANNERISMS AND AFFINITIES, AND THAT IT WAS TIME TO BIND TOGETHER TO ADDRESS THE GROWING THREATS TO THE MASQUERADE.
 
 #### STRAUD
 
@@ -1407,15 +1413,15 @@ lastmod: 2025-02-10 09:50
 <br><i>They shook hands.</i>
 
 *****
-<br><i>There were a few more things said but none of it was quite so important. We discussed some of the more prominent magicking families that remained in the city but it was clear that he only intended to provide support on this venture. To win their favor would be <u>my</u> task. My parents might be able to help, but they represented the old way of doing things. Virtually all the Extranatural in the city were familiar with my family name. The story of Straud's cure had made me famous in my own right. Both vampire and mage regarded me as somewhat of a misfit as I really was neither while I was both. It would take a careful hand to convince them that I was anything worth watching by virtue of my feats rather than my origin story.</i>
+<br><i>There were a few more things said but none of it was quite so important. We discussed some of the more prominent magicking families that remained in the city but it was clear that Straud only intended to provide support on this venture. To win their favor would be <u>my</u> task. My parents might be able to help, but they represented the old way of doing things. Virtually all the Extranatural in the city were familiar with my family name. The story of Straud's cure had made me famous in my own right. Both vampire and mage regarded me as somewhat of a misfit as I really was neither creature while I bore the burden of both. It would take a careful hand to convince them that I was anything worth watching by virtue of my own feats rather than my origin story.</i>
 
-<i>To earn the respect of the Enchanted, I would have to continue to develop my Talent. Though I had come a long way in six, seven years, I still had nothing on the witches and wizards who'd been working on their Craft for their entire lives. I could manipulate elements - create ice and flame. I could interfere with fields of physical potential: gravity, magnetism. It hadn't taken me long to master the very basics of teleportation but I needed to go further with it, truly adopt it fearlessly as part of my toolkit as my mother had.</i>
+<i>To earn the respect of the Enchanted, I would have to continue to develop my Talent. Though I had come a long way in six, seven years, I still had nothing on the witches and wizards who'd been working their Craft for their entire lives. I could manipulate elements - create ice and flame. I could interfere with fields of physical potential: gravity, magnetism. It hadn't taken me long to master the very basics of teleportation but I needed to go further with it, truly adopt it fearlessly as part of my toolkit as my mother had.</i>
 
-<i>And still other areas of expertise eluded my grasp. I had once been a competent shapeshifter under my father's tutelage, but a mage needed a completely different approach to morph one's own flesh. Most vampires used their affinity with the Beast to grasp at the Protean but for the Enchanted, the task was anything but innate. My mother would be of little help here, as she never discovered how to work the spell.</i>
+<i>And still other areas of expertise eluded my grasp. I had once been a competent shapeshifter under my father's tutelage, but a mage needed a completely different approach to morph one's own flesh. Most vampires used their affinity with the Beast to grasp at the Protean but for the Enchanted, the task was anything but innate. My mother would be of little help here, as she had never discovered how to work the spell.</i>
 
 <i>And, of course, I would need to find my secret to immortality. Working magic was known to extend one's life somewhat - certainly that had helped my mother maintain her energy into what was now her 125th year - but to perservere centuries and beyond - only true immortality could grant that to a mage. I had no idea where to even begin but I knew time would keep marching along ceaselessly and it would fall to me to resist the tendency to be dragged along with it.</i>
 
-<i>Tomas left with Shelby in tow. Our meeting had been brief but productive, leaving all in attendance with an intense desire to continue what they did best.</i>
+<i>Tomas left with Shelby in tow. Our meeting had been brief but productive, leaving all in attendance with an intense desire to continue doing what they did best.</i>
 
 <i>Miriam and my father made motion that they wished to speak to Straud. Jia seemed unsure of where she belonged. She was still new to our coterie and lacked a coherent niche in the group. I knew very little about her, but she had a spritely attitude that I appreciated. Though she was not a child of this century as were Cedric and myself, I could not help but want to draw her closer to us as she floated at the periphery. And yet I sensed there were things about her I did not yet know...</i>
 
@@ -1453,7 +1459,7 @@ lastmod: 2025-02-10 09:50
 
 <i>But those were thoughts for another day, a day when I would be wiser, stronger, greater.</i>
 
-<i>Cedric and I are quiet as we move through the crowds and exit the bar. Frankie still watched the door.</i>
+<i>Cedric and I are quiet as we move through the crowds and exit the bar. Frankie still watched the door, a stalwart guardian.</i>
 
 #### FRANKIE
 
@@ -1515,7 +1521,7 @@ lastmod: 2025-02-10 09:50
 > 
 > ... VLAD, I GUESS.
 > 
-> BUT YOU'RE NEXT.
+> BUT YOU'RE NEXT ON THE LIST.
 
 <br><i>I don't know that it was true, but it was nice of him to say.</i>
 
@@ -1529,9 +1535,9 @@ lastmod: 2025-02-10 09:50
 
 #### CEDRIC
 
-> YEAH WELL WE'LL SEE HOW THAT PANS OUT FOR HIM.
+> YEAH WELL, WE'LL SEE HOW THAT PANS OUT FOR HIM.
 >
-> KIDDO'S GOT SOME LOFTY ASPIRATIONS BUT I'M WORRIED ABOUT HIM.
+> KIDDO'S GOT SOME LOFTY ASPIRATIONS BUT I'M WORRIED.
 
 #### KEVIN
 
@@ -1546,6 +1552,10 @@ lastmod: 2025-02-10 09:50
 > THIS WHOLE COLLEGE THING WITH HIM IS JUST ASKING FOR TROUBLE.
 > 
 > I WAS LESS CONCERNED ABOUT IT WHEN YOU WERE GOING TO GO WITH HIM.
+>
+> SUPERVISE HIM.
+>
+> MAKE SURE HE DIDN'T MAKE A FOOL OF HIMSELF.
 > 
 > SOMETIMES I REALLY WONDER WHAT HE'S GOT RATTLING AROUND IN THAT BRAIN OF HIS.
 
@@ -1591,7 +1601,7 @@ lastmod: 2025-02-10 09:50
 
 > YEAH, I GUESS.
 > 
-> I HOPE HE GROWS OUT OF IT.
+> I JUST HOPE HE GROWS OUT OF IT.
 
 #### KEVIN
 
@@ -1599,7 +1609,7 @@ lastmod: 2025-02-10 09:50
 > 
 > HE HASN'T REALLY BEEN WITH US ALL THAT LONG.
 > 
-> IT FEELS LIKE HE'S ALWAYS BEEN HERE, BUT I THINK HE'S JUST STARTING TO BE HIMSELF.
+> IT FEELS LIKE HE'S ALWAYS BEEN HERE, BUT I THINK HE'S JUST STARTING TO GET COMFORTABLE, BE HIMSELF.
 > 
 > YEAH, I AGREE THAT HE'S A LITTLE NAÏVE, BUT WE NEED A LITTLE OF THAT OPTIMISM.
 
@@ -1613,13 +1623,13 @@ lastmod: 2025-02-10 09:50
 
 > I THINK WE'VE GOT THAT COVERED.
 
-<br><i>I changed the topic.</i>
+<br><i>I wanted to say something I'd been thinking about.</i>
 
 #### KEVIN
 
 > I DIDN'T KNOW--
 
-<br><i>He knew what I referred to before I could get out the compliment.</i>
+<br><i>He knew to what I referred before I could get out the compliment.</i>
 
 #### CEDRIC
 
@@ -1679,7 +1689,7 @@ lastmod: 2025-02-10 09:50
 > 
 > STUFF FROM LONG AGO.
 > 
-> BEFORE I CAM HERE, BEFORE...
+> BEFORE I CAME HERE, BEFORE...
 > 
 > BEFORE I KNEW WHAT I WAS.
 
@@ -1729,7 +1739,9 @@ lastmod: 2025-02-10 09:50
 > 
 > I LOVED THEM SO MUCH, LET THEM BECOME A PART OF ME.
 > 
-> BUT I KEPT A LITTLE BIT OF MYSELF FROM THEM, TOO, NEVER LETTING MYSELF GET TOO CLOSE, IN THE FEAR THEY'D TRASH IT, BREAK IT, BREAK ME.
+> BUT I KEPT A LITTLE BIT OF MYSELF FROM THEM, TOO, NEVER LETTING MYSELF GET TOO CLOSE, IN THE FEAR THEY'D TRASH IT, BREAK IT--
+>
+> BREAK ME.
 > 
 > I GUESS--
 
@@ -1743,7 +1755,9 @@ lastmod: 2025-02-10 09:50
 
 #### CEDRIC
 
-> SHE NEVER WANTED ME.
+> SHE--
+>
+> NEVER WANTED ME.
 > 
 > AND I THINK, BY EXTENSION, FOR A LONG TIME--
 > 
