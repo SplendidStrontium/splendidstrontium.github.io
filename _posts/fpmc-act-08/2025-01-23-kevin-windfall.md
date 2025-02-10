@@ -593,9 +593,9 @@ lastmod: 2025-02-09 23:00
 > I GUESS NOT.
 
 *****
-<br><i>When we get to the bar, it is already swarming with activity. The Count had a while back declared a hiatus on the plays, citing issues with writers, which was kind of disingenuous because I'm pretty sure he wrote all of them. Maybe Long Winter wasn't one of his, but I never could be completely sure.</i>
+<br><i>When we get to the bar, it is already swarming with activity. The Count had a while back declared a hiatus on the plays, citing issues with writers, which was kind of disingenuous because I'm pretty sure he wrote all of them. Maybe Long Winter wasn't one of his, but I could be completely sure.</i>
 
-<i>We make our way to the private chamber in which Straud entertained his more illustrious guests. It was a private viewing room with an excellent view of the stage. Unlike the other seats in the theatre, it was enclosed by walls and glass. I suspected it was enchanted somehow; from a seat in this room one would have no trouble hearing the performance, but I doubt the same permeability applied to outgoing sound.</i>
+<i>We made our way to the private chamber in which Straud entertained his more illustrious guests. It was a private viewing room with an excellent view of the stage. Unlike the other seats in the theatre, it was enclosed by walls and glass. I suspected it was enchanted somehow; from a seat in this room one would have no trouble hearing the performance, but I doubt the same permeability applied to outgoing sound.</i>
 
 <i>When we get there, Miriam and Hua Jia are seated at the table. Yet another mystery of the room was that there was always enough space at the table to seat everyone.</i>
 
@@ -779,7 +779,7 @@ lastmod: 2025-02-09 23:00
 
 <br><i>She smiled slyly, looking at me.</i>
 
-#### KEVIN
+#### MIRIAM
 
 > BUT...
 > 
@@ -801,7 +801,7 @@ lastmod: 2025-02-09 23:00
 > 
 > GREAT CREATURES OF INCREDIBLE POWER BEYOND OUR UNDERSTANDING.
 > 
-> BUT WHERE DOES IT ALL COME FROM?
+> BUT WHERE DOES IT ALL BEGIN?
 > 
 > HOW DOES IT MANIFEST?
 > 
@@ -899,7 +899,7 @@ lastmod: 2025-02-09 23:00
 
 > THERE IS NO MYSTERY AS TO WHY I CALLED THIS MEETING, TOMAS.
 > 
-> SURELY NEWS HAS TRAVELED TO YOU; THERE IS LIKELY NOT A SOUL AMONG OUR KIND WHO HAS NOT HEARD.
+> SURELY NEWS HAS TRAVELED TO YOU; THERE IS LIKELY NOT A SOUL AMONG OUR KIND WHO HAS NOT YET HEARD.
 > 
 > HASSAN TALEB AND GABRIELLE ORLÉANS, IN THE FASHION OF THE DEMON-WORSHIPPERS OF YESTERYEAR, SUMMONED A HELLBEAST TO EARTH.
 > 
@@ -983,7 +983,7 @@ lastmod: 2025-02-09 23:00
 
 #### STRAUD
 
-> FIRST AND FOREMOST, AND I DO THINK WE ARE IN AGREEMENT HERE, WE MUST WELCOME THE BRONX BACK INTO OUR ALLIANCE.
+> FIRST AND FOREMOST, AND I DO THINK WE ARE IN AGREEMENT HERE, WE MUST BRING THE BRONX BACK INTO OUR ALLIANCE.
 > 
 > I SHOULD HAVE BROUGHT THEM TO THE TABLE WHEN I SOUGHT YOU, BUT I WAS NOT READY.
 > 
