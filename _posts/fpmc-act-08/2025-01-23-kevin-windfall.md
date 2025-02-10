@@ -4,13 +4,14 @@ title: "KEVIN 041: Windfall"
 permalink: /femputermanchine/kevin/windfall/
 category: femputermanchine
 date: 2025-01-23 20:26
-description: "in which Straud talks to Tomas"
+description: "in which Straud talks to Tomas about the future"
 tags: [skit, fpmcmain-kevin, act-viii]
-published: false
-lastmod: 2025-02-09 23:00
+published: true
+lastmod: 2025-02-10 09:50
 ---
 [//]: # ( 02/08/25  -added)
 [//]: # ( 02/09/25  -still typing)
+[//]: # ( 02/10/25  -finished typing)
 
 *****
 <br><i>No one had ever taught me to cook. When I was a child, my mother brought me meals, and the whole process remained a mystery to me. When I became a vampire, I took vitae from Earth's creatures, and I was a thief, but I never committed murder. The Blood warmed me, and I needed no fire. But I could not live this way. When I resuccumbed to mortality, to the need to eat to survive, to... kill - it had been a difficult habit to acquire.</i>
@@ -1184,3 +1185,666 @@ lastmod: 2025-02-09 23:00
 > SOMETHING NEITHER SIDE SEEMS WILLING TO DO.
 > 
 > WE ARE MORE ALIKE THAN WE ARE DIFFERENT.
+
+#### TOMAS
+
+> I DON'T KNOW IF I CAN AGREE WITH YOU ON THAT.
+
+#### STRAUD
+
+> I WON'T INSULT YOU BY BELABORING THE POINT.
+>
+> I MERELY ASK THAT YOU CONSIDER MY PERSPECTIVE.
+
+<br><i>Tomas looked about the table.</i>
+
+#### STRAUD
+
+> BUT REGARDLESS OF YOUR PREJUDICE, DESERVED OR IMAGINED, LET IT BE KNOWN THAT I INTEND TO EXPAND THE RANKS OF THOSE WE COUNT AS OUR PARTNERS.
+> 
+> THIS IS SOMETHING I HAVE WANTED TO CHAMPION FOR A LONG TIME BUT I BELIEVE THE NEED IS ONLY BECOMING MORE DIRE.
+> 
+> I HAVE REASON TO BELIEVE THAT THE DOCTOR TRELAINE IS RAISING HIS OWN BAND OF FOLLOWERS BEYOND THE VAMPIRE.
+> 
+> I DO NOT INTEND TO BE LEFT IN THE DUST, SO TO SPEAK.
+
+#### TOMAS
+
+> THE MAGES WILL NEVER TRUST US.
+
+#### STRAUD
+
+> I DO NOT BELIEVE THEIR MISGIVING IS SO MONOLITHIC.
+> 
+> WE MUST BE JUDICIOUS AND PATIENT.
+> 
+> WE WILL SHOW THEM THAT WE ARE MORE TOGETHER THAN WE ARE DIVIDED.
+> 
+> AND--
+
+<br><i>He looked toward me.</i>
+
+#### STRAUD
+
+> I INTEND TO INSTATE KEVIN MARSCAPONE AS OUR AMBASSADOR.
+> 
+> HE HAS SHOWN HIMSELF TO HAVE EXCEPTIONAL ABILITY, ENDURANCE, AND LOYALTY.
+> 
+> I BELIEVE HE, AS THE HEIR TO THE FOUNDLING HOME, CAN DEMONSTRATE TO ALL OF THE EXTRANATURAL THAT WE ARE A FORCE FOR PROGRESS, FELLOWSHIP, AND MOST IMPORTANTLY, <u>GOOD</u>.
+
+<br><i>I was stunned into silence. Tomas spoke before I had the wherewithall.</i>
+
+#### TOMAS
+
+> THAT'S A RICKETY BRIDGE YOU STAND ON, COUNT.
+> 
+> CONTENTIOUS TO SAY THE LEAST.
+> 
+> SURELY YOU REALIZE THAT YOUR DECISION TO PERVERT THE PATH OF THE VAMPIRE DID NOT MEET WITH UNIVERSAL ACCLAIM.
+
+#### STRAUD
+
+> YOU, MY BROTHERS AND SISTERS, WERE CALLED TO BE FREE.
+> 
+> BUT DO NOT USE YOUR FREEDOM TO INDULGE THE FLESH; RATHER, SERVE ONE ANOTHER HUMBLY IN LOVE.
+
+#### VINCENT
+
+> GALATIANS, CHAPTER 5, VERSE 13.
+
+#### TOMAS
+
+> YOU WILL NOT WIN OVER THE KINDRED BY QUOTING THE NEW TESTAMENT.
+
+#### STRAUD
+
+> MY POINT STILL STANDS.
+> 
+> WE ALL STOOD HAND IN HAND IN THE GREAT WAR AND I BELIEVE WE CAN DO IT AGAIN.
+
+#### TOMAS
+
+> THE WORLD IS A DIFFERENT PLACE THAN IT WAS.
+
+#### STRAUD
+
+> I DO NOT BUY INTO THAT RHETORIC.
+> 
+> LET THE ELDERS TEACH THE YOUNGER.
+> 
+> LET THE CHILDREN HEAR THE OLD WISDOM AND GROW FROM IT, SEE ITS VALUE.
+> 
+> THAT IS WHAT THE MARSCAPONES HAVE ALWAYS STOOD FOR.
+> 
+> ONLY IF WE STAND TOGETHER CAN WE PRESERVE THIS DELICATE PLANET AGAINST THE FORCES THAT DARE TO CONSUME IT, SNUFF OUT ITS LIGHT SHINING IN THE DARKNESS.
+
+#### TOMAS
+
+> SOME OF US LIKE THE DARK.
+
+#### STRAUD
+
+> AND YET, WITHOUT THE SUN, WE WOULD ALL CEASE TO BE.
+
+<br><i>He could not contest the point.</i>
+
+#### TOMAS
+
+> COUNT, I WANT AS MUCH AS YOU DO TO WREST CONTROL OF BROOKLYN FROM THE FANATICS.
+> 
+> AND I AM BEGINNING TO REALIZE THAT THE POLITICS BREWING ACROSS THE HUDSON ARE AN ISSUE BEST NOT ALLOWED TO FESTER.
+
+<br><i>He paused.</i>
+
+#### TOMAS 
+
+> I WILL TAKE YOUR ADVICE AND ADDRESS THE ANARCHS.
+> 
+> BEST WE NOT LET THEM FALL TO FOREIGN INFLUENCE, I CAN SEE THAT.
+
+<br><i>He looked at me again and I could not place his feeling. Perhaps he, like so many others, were confused, and even revolted, by what I stood for.</i>
+
+#### TOMAS 
+
+> BUT I REMAIN UNCONVINCED THAT WE CAN SO CASUALLY HOPE FOR FRIENDSHIP AMONG THE ENCHANTED.
+> 
+> WE HAVE OUR OWN WAYS TO ACCOMPLISH MUCH OF WHAT THEIR TALENT GIVES THEM.
+> 
+> THAT IS WHY--
+
+#### STRAUD
+
+> THAUMATURGY IS VERY DIFFERENT THAN THE CRAFT.
+> 
+> ONE IS NOT MEANT TO USURP THE OTHER.
+> 
+> THAT IS THE WORLD TALEB AND ORLÉANS WISH TO SEE, BUT I WILL DO EVERYTHING IN MY POWER TO STOP THAT VISION FROM BECOMING REALITY.
+> 
+> IF YOU CAN RALLY ANY TREMERE TO STAND AGAINST THEM, I WILL BE GLAD FOR IT.
+> 
+> BUT I FEAR THE CORRUPTION RUNS DEEP AND WILL BE DIFFICULT TO ERADICATE.
+
+#### TOMAS
+
+> I WILL NOT SO EASILY CAST OUT MY BELOVED.
+> 
+> SHE AND HER CLAN WERE GOING TO BRING BLOOD MAGIC TO THE KINDRED, TO MAKE US WHOLE WHERE WE WERE IGNORANT.
+
+#### STRAUD
+
+> THE DISLOYAL WILL GET WHAT THEIR CONDUCT DESERVES.
+> 
+> I DO NOT INTEND TO INTERFERE IN YOUR DOMAIN BUT I IMPLORE YOU TO NOT SUFFER A FOOL.
+
+<br><i>He pursed his lips.</i>
+
+#### STRAUD
+
+> THE TREMERE FANCY THEMSELVES AS THE ONLY KEEPERS OF THE SECRETS, BUT IT IS NOT TRUE.
+> 
+> THEIR CLAN IS YOUNG.
+> 
+> THEY STOLE MORE THAN THEY INNOVATED.
+> 
+> THE DISCIPLINE PREDATES THEIR KINSHIP AND WILL ENDURE EVEN AS THEY DISSOLVE INTO HISTORY.
+> 
+> THERE ARE OTHERS THAT CAN BRING THE KINDRED THE ANCIENT WISDOMS.
+> 
+> YOU SAID YOURSELF THAT YOU DREAMT OF BREAKING DOWN THE BARRIERS THAT DIVIDE THE CLANS.
+> 
+> I SHARE YOUR VISION.
+> 
+> LET US TAKE THE FIRST STEP.
+
+<br><i>Tomas seemed hesitant. Straud rose from his chair and looked out the window toward the stage, empty, quiet, but still set with scenery from the last performance.</i>
+
+#### STRAUD
+
+> YES, THAT IS ONE OF THE REASONS I STARTED THIS PLACE.
+> 
+> I MADE IT CLEAR THAT <u>ALL</u> WERE WELCOME IN THIS PLACE OF PEACE - VAMPIRE, MAGE, GAROU, TO NAME A FEW, BUT BEYOND EVEN THAT.
+> 
+> AND YET I DID NOT ENVISION A UTOPIA BY VIRTUE OF SAMENESS IN SHARED BLINDNESS.
+> 
+> NO, I HAVE SEEN THAT BEFORE AND IT LEADS ONLY TO RUIN.
+>
+> THE WORLD I WISH TO FOSTER IS ONE WHERE DIFFERENCES ARE LAUDED RATHER THAN MADE SILENT.
+>
+> A WISE MAN WARS AGAINST EXTINCTION ITSELF.
+> 
+> WE ARE THE STEWARDS, THE PRESERVERS, THE ANTIQUARIANS, OF A SORT.
+> 
+> YOU AND I MAY DIFFER ON THE METHODS, BUT OUR GOALS ARE THE SAME.
+> 
+> I BELIEVE WE STAND TOGETHER.
+
+<br><i>Straud approached Tomas.
+
+#### STRAUD
+
+> THESE TRIALS WILL NOT BE EASY OR PLEASANT, BUT THEY ARE WORTH DOING.
+> 
+> THIS WORLD, WITH ALL ITS STRANGE CREATURES AND CUSTOMS, IS WORTH OUR EFFORTS.
+
+<br><i>He held out his hand to Tomas.</i>
+
+#### STRAUD
+
+> CAN I CONTINUE TO CALL YOU MY FRIEND?
+
+<br><i>With eyes locked completely on the Count, Tomas paused a moment, considering. Then he rose from his chair.</i>
+
+#### TOMAS
+
+> YES, COUNT.
+
+<br><i>He paused.</i>
+
+#### TOMAS
+
+> YOU HAVE MY WORD.
+
+<br><i>They shook hands.</i>
+
+*****
+<br><i>There were a few more things said but none of it was quite so important. We discussed some of the more prominent magicking families that remained in the city but it was clear that he only intended to provide support on this venture. To win their favor would be <u>my</u> task. My parents might be able to help, but they represented the old way of doing things. Virtually all the Extranatural in the city were familiar with my family name. The story of Straud's cure had made me famous in my own right. Both vampire and mage regarded me as somewhat of a misfit as I really was neither while I was both. It would take a careful hand to convince them that I was anything worth watching by virtue of my feats rather than my origin story.</i>
+
+<i>To earn the respect of the Enchanted, I would have to continue to develop my Talent. Though I had come a long way in six, seven years, I still had nothing on the witches and wizards who'd been working on their Craft for their entire lives. I could manipulate elements - create ice and flame. I could interfere with fields of physical potential: gravity, magnetism. It hadn't taken me long to master the very basics of teleportation but I needed to go further with it, truly adopt it fearlessly as part of my toolkit as my mother had.</i>
+
+<i>And still other areas of expertise eluded my grasp. I had once been a competent shapeshifter under my father's tutelage, but a mage needed a completely different approach to morph one's own flesh. Most vampires used their affinity with the Beast to grasp at the Protean but for the Enchanted, the task was anything but innate. My mother would be of little help here, as she never discovered how to work the spell.</i>
+
+<i>And, of course, I would need to find my secret to immortality. Working magic was known to extend one's life somewhat - certainly that had helped my mother maintain her energy into what was now her 125th year - but to perservere centuries and beyond - only true immortality could grant that to a mage. I had no idea where to even begin but I knew time would keep marching along ceaselessly and it would fall to me to resist the tendency to be dragged along with it.</i>
+
+<i>Tomas left with Shelby in tow. Our meeting had been brief but productive, leaving all in attendance with an intense desire to continue what they did best.</i>
+
+<i>Miriam and my father made motion that they wished to speak to Straud. Jia seemed unsure of where she belonged. She was still new to our coterie and lacked a coherent niche in the group. I knew very little about her, but she had a spritely attitude that I appreciated. Though she was not a child of this century as were Cedric and myself, I could not help but want to draw her closer to us as she floated at the periphery. And yet I sensed there were things about her I did not yet know...</i>
+
+#### KEVIN
+
+> HEY JIA, WE'RE HEADING BACK HOME.
+> 
+> ARE YOU STAYING?
+> 
+> YOU'RE WELCOME TO COME WITH.
+
+<br><i>She looked hesitantly toward the other Elders, her gaze lingering for a moment upon Straud.</i>
+
+#### JIA
+
+> I THINK I'LL STAY HERE.
+> 
+> MIRIAM AND I CAME TOGETHER.
+
+<br><i>I suppose, despite her reserve, she had more in common with them than with the two of us.</i>
+
+#### KEVIN
+
+> SOUNDS GOOD.
+> 
+> SEE YOU AROUND.
+
+<br><i>She smiled and waved at me.</i>
+
+#### JIA
+
+> 再見.
+
+<br><i>Cedric and I retrieved our things and left the room. The Blue Velvet was still hopping, oblivious to our meeting, most of them thinking our kind the stuff of imagination and make-believe. I wasn't sure I agreed with the Camarilla and their insistence to uphold this status quo, but to uncover the truth would obliterate their fantasy, destroy their science, shake their faith in the observable universe. It troubled me to see them go about their lives in a grey cloud, the wool pulled over their eyes. I wanted to believe that they could handle the truth - certainly in my gut I felt they deserved it, but I was not about to bring about world revolution under the arrogant delusion that I would be hailed a hero.</i>
+
+<i>But those were thoughts for another day, a day when I would be wiser, stronger, greater.</i>
+
+<i>Cedric and I are quiet as we move through the crowds and exit the bar. Frankie still watched the door.</i>
+
+#### FRANKIE
+
+> YOUR DAD STILL DOWN THERE?
+
+#### KEVIN
+
+> YEAH, THEY'RE STILL TALKING BUT I WANT TO GET HOME AND MAKE SURE MY MOTHER'S ALRIGHT.
+> 
+> SHE DOESN'T LIKE BEING HOME ALONE IF SHE CAN HELP IT.
+
+#### FRANKIE
+
+> TELL THE OLD BROAD I SAY HELLO.
+
+#### KEVIN
+
+> WILL DO, FRANKIE.
+> 
+> TAKE IT EASY.
+
+#### FRANKIE
+
+> YOU TOO, CONJURER.
+> 
+> DAYWALKER?
+
+<br><i>He refers to Cedric.</i>
+
+#### CEDRIC
+
+> G'NIGHT, FRANKIE.
+> 
+> SEE YA LATER.
+
+<br><i>We leave the shadow of the Blue Velvet and fade into the streets, bidding adieu, if only for a night, to the chaos of our little local corner of Elysium.</i>
+
+<i>Though the cold was anything but unwelcome to him, Cedric walks with his hands concealed in his pockets. We largely keep our eyes ahead, scanning for danger as we talk, turning to face each other only as convention demanded.</i>
+
+#### CEDRIC
+
+> SOME PROMOTION YOU GOT TONIGHT.
+> 
+> GRATS.
+
+<br><i>My expression softened, reminded of old times, looking at him as we walked side-by-side. But he was still alert, eyes elsewhere.</i>
+
+#### KEVIN
+
+> THANKS...
+> 
+> I DON'T KNOW IF I'VE EARNED IT--
+
+#### CEDRIC
+
+> YOU'RE TOO MODEST.
+> 
+> I DON'T KNOW THAT ANY OF US WORK AS HARD AS YOU DO.
+> 
+> ... VLAD, I GUESS.
+> 
+> BUT YOU'RE NEXT.
+
+<br><i>I don't know that it was true, but it was nice of him to say.</i>
+
+#### KEVIN
+
+> MANDARC IS GETTING A DEGREE.
+> 
+> ENGAGING WITH THE WORLD AROUND HIM.
+> 
+> MORE THAN I CAN SAY FOR MYSELF.
+
+#### CEDRIC
+
+> YEAH WELL WE'LL SEE HOW THAT PANS OUT FOR HIM.
+>
+> KIDDO'S GOT SOME LOFTY ASPIRATIONS BUT I'M WORRIED ABOUT HIM.
+
+#### KEVIN
+
+> HIM AND YUKI?
+
+#### CEDRIC
+
+> THAT'S JUST A SYMPTOM OF A LARGER ISSUE.
+> 
+> HE'S OBSESSED WITH THE WORLD OF THE MUNDANE.
+> 
+> THIS WHOLE COLLEGE THING WITH HIM IS JUST ASKING FOR TROUBLE.
+> 
+> I WAS LESS CONCERNED ABOUT IT WHEN YOU WERE GOING TO GO WITH HIM.
+> 
+> SOMETIMES I REALLY WONDER WHAT HE'S GOT RATTLING AROUND IN THAT BRAIN OF HIS.
+
+#### KEVIN
+
+> THERE'S ONLY ONE WAY TO LEARN.
+
+#### CEDRIC
+
+> YEAH WELL IT ONLY TAKES ONE MISPLACED WORD FOR SOMEONE TO GET CURIOUS.
+>
+> OR HE DOESN'T GET FAR ENOUGH FROM THE CAMPUS BEFORE HE TURNS INTO A BAT--
+
+#### KEVIN
+
+> HE'S NOT A TOTAL MORON.
+
+#### CEDRIC
+
+> YEAH, I KNOW.
+> 
+> BUT HE'S CARELESS AT TIMES.
+>
+> NAÏVE.
+> 
+> AND HE CAN'T LIE TO SAVE HIS LIFE.
+
+#### KEVIN
+
+> HE'S NEVER KNOWN LIFE OUT THERE.
+
+#### CEDRIC
+
+> HE DOESN'T KNOW HOW GOOD HE'S GOT IT.
+> 
+> WHY ANYONE WOULD CHOOSE THAT WORLD WHEN THEY LIVE A LIFE OF LUXURY HERE IS BEYOND ME.
+
+#### KEVIN
+
+> GRASS IS ALWAYS GREENER--
+
+#### CEDRIC
+
+> YEAH, I GUESS.
+> 
+> I HOPE HE GROWS OUT OF IT.
+
+#### KEVIN
+
+> I THINK HE WILL. 
+> 
+> HE HASN'T REALLY BEEN WITH US ALL THAT LONG.
+> 
+> IT FEELS LIKE HE'S ALWAYS BEEN HERE, BUT I THINK HE'S JUST STARTING TO BE HIMSELF.
+> 
+> YEAH, I AGREE THAT HE'S A LITTLE NAÏVE, BUT WE NEED A LITTLE OF THAT OPTIMISM.
+
+#### CEDRIC
+
+> FIREPOWER IS MORE IMPORTANT THAN SUNSHINE AND DAISIES.
+
+<br><i>I laughed.</i>
+
+#### KEVIN
+
+> I THINK WE'VE GOT THAT COVERED.
+
+<br><i>I changed the topic.</i>
+
+#### KEVIN
+
+> I DIDN'T KNOW--
+
+<br><i>He knew what I referred to before I could get out the compliment.</i>
+
+#### CEDRIC
+
+> YEAH--
+> 
+> THANKS.
+> 
+> STILL NOT ANYTHING COMPARED TO WHAT OTHERS CAN DO.
+> 
+> AND IT'S NOT WHAT VLAD HAD WANTED ME TO DO.
+> 
+> I WAS SUPPOSED TO START WITH WATER.
+
+#### KEVIN
+
+> THAT'S NOT WHAT WE NEEDED THEN.
+> 
+> WHAT--
+> 
+> WERE WE GOING TO GIVE THE THING A COLD SHOWER?
+> 
+> A BUBBLE BATH?
+
+#### CEDRIC
+
+> YEAH, WELL.
+
+<br><i>We were quiet a moment.</i>
+
+#### KEVIN
+
+> YOU SEEN ANYTHING IN THE DREAM LATELY?
+
+<br><i>He hesitated. I hoped I had not struck a nerve.</i>
+
+#### CEDRIC 
+
+> ...
+> 
+> YEAH, I HAVE.
+> 
+> BUT NOTHING GOOD.
+
+#### KEVIN
+
+> ...
+> 
+> ANYTHING YOU WANT TO TALK ABOUT?
+
+<br><i>I knew better than to press him but I also wanted him to know that he didn't have to bear this alone.</i>
+
+#### CEDRIC
+
+> IT'S...
+> 
+> THINGS I THOUGHT I HAD PUT BEHIND ME.
+> 
+> STUFF FROM LONG AGO.
+> 
+> BEFORE I CAM HERE, BEFORE...
+> 
+> BEFORE I KNEW WHAT I WAS.
+
+#### KEVIN
+
+> WHEN YOU WERE A KID?
+
+#### CEDRIC
+
+> ... YEAH.
+
+<br><i>He rarely spoke about this. I knew next to nothing about his life before he came to the orphanage.</i>
+
+#### KEVIN
+
+> WHAT DO YOU THINK THE DREAM IS TRYING TO TELL YOU?
+
+#### CEDRIC
+
+> I DON'T KNOW. 
+> 
+> FOR SO LONG I THOUGHT MY BLOCK WAS BECAUSE I HADN'T EVER PROCESSED SVETLANA'S DEATH.
+> 
+> IT ALL HAPPENED SO FAST; ONE MOMENT SHE WAS HERE, THE NEXT VLAD WAS TELLING ME I'D NEVER SEE HER AGAIN.
+
+<br><i>He paused.</i>
+
+#### CEDRIC 
+
+> BUT MAYBE MY ISSUE GOES FURTHER BACK.
+> 
+> I DON'T WANT TO ADMIT IT, IT MAKES ME ANGRY AND I HATE IT, BUT MAYBE I NEED TO TIE UP THE PAST BEFORE I CAN MOVE ON.
+> 
+> I AM READY TO MOVE ON, THAT'S FOR SURE, I JUST NEED TO...
+> 
+> I DON'T KNOW.
+> 
+> FIGURE OUT WHAT I'M DOING.
+
+<br><i>I let him speak.</i>
+
+#### CEDRIC
+
+> I THOUGHT ABOUT IT A LOT.
+> 
+> AVAEL, SVETLANA.
+> 
+> I LOVED THEM SO MUCH, LET THEM BECOME A PART OF ME.
+> 
+> BUT I KEPT A LITTLE BIT OF MYSELF FROM THEM, TOO, NEVER LETTING MYSELF GET TOO CLOSE, IN THE FEAR THEY'D TRASH IT, BREAK IT, BREAK ME.
+> 
+> I GUESS--
+
+<br><i>He lowered his voice.</i>
+
+#### CEDRIC
+
+> I NEED TO GET OVER MY MOTHER.
+
+<br><i>In all the years we had known each other, I'm not sure he had ever spoken of this.</i>
+
+#### CEDRIC
+
+> SHE NEVER WANTED ME.
+> 
+> AND I THINK, BY EXTENSION, FOR A LONG TIME--
+> 
+> I NEVER WANTED ME EITHER.
+
+<br><i>He had always spoken in anger about how my parents had raised me, but I thought, maybe, it could have been worse.</i>
+
+#### CEDRIC
+
+> I DON'T THINK I WANT TO GO BACK THERE, TRY TO FIND OUT IF SHE'S LIVING OR DEAD.
+> 
+> I DON'T THINK EITHER ANSWER WOULD BRING ME MUCH PEACE.
+> 
+> I HAVE A MORBID CURIOSITY BUT ULTIMATELY I THINK MY GOAL IS TO LEAVE THE PAST IN THE PAST.
+> 
+> I JUST CAN'T FIGURE OUT HOW TO SHUT THE DAMN DOOR.
+
+#### KEVIN
+
+> IT'S NOT YOUR FAULT YOU WERE BORN.
+
+<br><i>He laughed a little.</i>
+
+#### CEDRIC
+
+> HA.
+> 
+> SAME SHIT I KEEP TELLING YOU.
+
+<br><i>I smiled.</i>
+
+#### KEVIN
+
+> WELL, THEN YOU KNOW IT'S TRUE.
+> 
+> UNLESS YOU'VE BEEN FEEDING ME PLATITUDES AND LIES.
+
+#### CEDRIC
+
+> HEH.
+> 
+> IT'S WORSE FOR YOU.
+>
+> YOU'RE SURROUNDED BY REMINDERS OF WHAT WAS.
+> 
+> AND NOW VLAD IS INSISTING YOU MOVE FORWARD WITH THE SCHOOL, GIVE OTHERS AN EDUCATION YOU NEVER YOURSELF RECEIVED...
+
+#### KEVIN
+
+> IT'LL BE ALRIGHT.
+> 
+> I'LL GET THE CHANCE TO DO THINGS MY WAY.
+> 
+> I HAVE A GOOD IDEA OF WHAT NOT TO DO.
+
+#### CEDRIC
+
+> I GUESS THAT'S SOMETHING.
+
+<br><i>We were nearing the end of our journey. Here, away from the shops and restaurants, the streets were dark and quiet.</i>
+
+#### KEVIN
+
+> HEY...
+> 
+> JUST--
+
+<br><i>I didn't know what to say.</i>
+
+#### KEVIN
+
+> I KNOW WE ALL WALK OUR OWN PATH AND IT'S GOING TO TAKE TIME, BUT--
+
+<br><i>I tried to find the right words.</i>
+
+#### KEVIN 
+
+> IF YOU EVER NEED HELP WITH WHATEVER YOU DECIDE TO DO--
+> 
+> I--
+> 
+> IF YOU WANT ME TO DO SOMETHING--
+
+<br><i>We caught each other's gaze.</i>
+
+#### CEDRIC
+
+> YEAH, I KNOW.
+
+<br><i>We were on our street now. We stopped in front of the dark bricked old house. I could hear the wind howl as it whipped through the alleys.</i>
+
+#### CEDRIC
+
+> THANKS, KEV.
+> 
+> I APPRECIATE IT.
+
+<br><i>He smiled, if only just, body turned toward leaving.</i>
+
+#### CEDRIC
+
+> 'NIGHT.
+
+*****
