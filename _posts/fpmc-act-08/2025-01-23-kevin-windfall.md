@@ -7,7 +7,7 @@ date: 2025-01-23 20:26
 description: "in which Straud talks to Tomas"
 tags: [skit, fpmcmain-kevin, act-viii]
 published: false
-lastmod: 2025-02-09 10:34
+lastmod: 2025-02-09 23:00
 ---
 [//]: # ( 02/08/25  -added)
 [//]: # ( 02/09/25  -still typing)
@@ -593,3 +593,594 @@ lastmod: 2025-02-09 10:34
 > I GUESS NOT.
 
 *****
+<br><i>When we get to the bar, it is already swarming with activity. The Count had a while back declared a hiatus on the plays, citing issues with writers, which was kind of disingenuous because I'm pretty sure he wrote all of them. Maybe Long Winter wasn't one of his, but I never could be completely sure.</i>
+
+<i>We make our way to the private chamber in which Straud entertained his more illustrious guests. It was a private viewing room with an excellent view of the stage. Unlike the other seats in the theatre, it was enclosed by walls and glass. I suspected it was enchanted somehow; from a seat in this room one would have no trouble hearing the performance, but I doubt the same permeability applied to outgoing sound.</i>
+
+<i>When we get there, Miriam and Hua Jia are seated at the table. Yet another mystery of the room was that there was always enough space at the table to seat everyone.</i>
+
+<i>The two women were relative newcomers, but they were quickly becoming accepted members of the coterie. Miriam was apparently an old friend of Straud's from when he wandered the Old World. And Hua Jia? We had supposed it was not safe to simply send her back to her homeland.</i>
+
+#### CEDRIC 
+
+> HEY ALL.
+> 
+> IS MANDARC COMING?
+
+<br><i>We hung up our coats on the stand. Though we did not strictly need them, it was good to keep up appearances.</i>
+
+#### MIRIAM
+
+> I DO NOT THINK SO.
+> 
+> I BELIEVE HE HAD ANOTHER ENGAGEMENT.
+
+#### CEDRIC 
+
+> SOMETHING MORE EXCITING THAN TELLING OFF THE TREMERE?
+> 
+> I CAN'T IMAGINE WHAT.
+
+<br><i>Mandarc often acted as secretary at these sorts of affairs. It appeared as if Miriam would accept the mantle tonight.</i>
+
+<i>Straud was not yet present.</i>
+
+#### VINCENT
+
+> HUA JIA, MIRIAM.
+> 
+> LOVELY TO SEE YOU BOTH THIS EVENING.
+
+#### MIRIAM
+
+> AND YOU, DREAMWALKER.
+> 
+> I'M SURE VLAD WILL BE GLADDENED TO SEE YOU HERE TONIGHT.
+
+<br><i>Hua Jia acknowledged him but said nothing, seeming a little unsure of herself. It was my impression that she was quite well-known among the Kindred of the East, but here she was starting again from nothing.</i>
+
+#### VINCENT 
+
+> YES, I AM VERY SORRY THAT I MISSED THE PARTY.
+> 
+> IT SOUNDED LIKE A SWELL TIME.
+> 
+> IF THAT IS A PORTENT OF THINGS TO COME, I WILL MAKE AN EFFORT TO GET OUT MORE.
+
+#### MIRIAM
+
+> I'M SURE YOU HAVE YOUR OWN RESPONSIBILITIES.
+
+#### VINCENT
+
+> I NO LONGER SIT ON ANY THRONE.
+> 
+> HERE, I AM MADE OF FLESH AND REQUIRE VITAE TO STAY ALERT.
+> 
+> MY SCHOOL HAS NO STUDENTS.
+> 
+> I REFUSE TO SIT IN MY OFFICE AND ROT.
+
+<br><i>I suppose it was strange for the others to have him here - the room seemed to hang in words unsaid.</i>
+
+<i>When I had come into being and known my father as his son, he had become a recluse from the vampiric community. It was my impression that he had become a bit of a pariah after marrying my mother and devoting so much energy to harboring and educating the Enchanted. </i>
+
+<i>But true fame never dies.</i>
+
+#### VINCENT 
+
+> WELL, WHEN IN ROME--
+
+<br><i>And my father went to the small bar to mix up some refreshments for the group. He had become quite partial to the plasma jane. I supposed I was the only one who would not imbibe. Me - and Straud.</i>
+
+#### KEVIN 
+
+> DO WE HAVE ANY INTEL ON WHAT TO EXPECT FROM THE PRINCE?
+> 
+> IS HE BRINGING HIS WIVES...?
+> 
+> ... MOVEMENTS OF THE TREMERE OVER THE PAST SEVERAL WEEKS?
+
+#### MIRIAM 
+
+> KALYANI SEEMS TO HAVE SLIPPED INTO THE SHADOWS.
+> 
+> HASSAN, GABRIELLE--
+> 
+> THEY, TOO, HAVE NOT BEEN OBSERVED.
+
+#### CEDRIC 
+
+> QUIET ON THE WESTERN FRONT.
+
+<br><i>But we knew better than to sink into false security.</i>
+
+#### MIRIAM
+
+> I DON'T KNOW WHO TO EXPECT TONIGHT.
+
+#### CEDRIC 
+
+> SO WE'RE GOING IN BLIND.
+
+#### KEVIN
+
+> BASICALLY.
+
+<br><i>My father still busied himself with the fruit.</i>
+
+#### KEVIN
+
+> HEY JIA--
+> 
+> HOW'S THE REBUILD GOING?
+
+<br><i>I wanted to engage her. I suspected there was much hidden behind her tendency toward silence. She seemed surprised that I had chosen to talk to her.</i>
+
+#### JIA 
+
+> OH--
+> 
+> IT'S GOING ALRIGHT.
+> 
+> I'M STAYING WITH MIRIAM RIGHT NOW.
+> 
+> AT THE VATORE MANSION.
+>
+> IT'S A NICE PLACE.
+> 
+> STRAUD ASKED ME TO STAY THERE WHILE HE FOCUSED ON HIS WORK.
+> 
+> I WAS HAPPY TO OBLIGE.
+> 
+> MIRIAM HAS BEEN HELPING ME CARE FOR THE ORCHARDS.
+> 
+> WE DO NOT HAVE ANYTHING LIKE THE FRUIT WHERE I COME FROM.
+
+<br><i>I looked at my father. Miriam had left the table and joined him as he prepared the drinks. I looked back to Jia.</i>
+
+#### KEVIN
+
+> STRAUD THINKS IT MAY VERY WELL SAVE US ALL.
+
+<br><i>Cedric thought to join us.</i>
+
+#### CEDRIC
+
+> WELL, WE'LL SEE ABOUT THAT.
+> 
+> I LIKE EXERCISING MY ORGANS AS MUCH AS THE NEXT GUY, BUT IT'S STILL NO REPLACEMENT FOR THE HUNT.
+> 
+> YOU CAN'T HIDE FROM THE GRISLY REALITY OF WHAT WE ARE.
+
+#### JIA 
+
+> IT IS STRANGE, TO AGAIN EAT OF THE EARTH.
+> 
+> SO... COLD.
+
+<br><i>I was distracted by my father's voice as he performed one of his favorite bartending tricks for Miriam. He could be a bit of a showboat.</i>
+
+#### CEDRIC
+
+> THERE'S NO SUCH THING AS A FREE LUNCH.
+
+<br><i>Jia seemed confused.</i>
+
+#### KEVIN
+
+> IT'S A TURN OF PHRASE--
+
+#### CEDRIC 
+
+> YOU CAN'T MAKE SOMETHING FROM NOTHING.
+> 
+> YOU CAN'T EXPECT TO GET SOMETHING WITHOUT GIVING SOMETHING.
+
+<br><i>She smiled slyly, looking at me.</i>
+
+#### KEVIN
+
+> BUT...
+> 
+> CAN'T <u>YOU</u>?
+> 
+> ISN'T THAT...
+> 
+> MAGIC?
+
+#### KEVIN
+
+> EVERYONE HAS THEIR OWN THEORIES.
+> 
+> WHERE DOES THE MIRACLE COME FROM?
+> 
+> SOME PEOPLE SAY IT WORKS THROUGH A SPONSOR, AN AVATAR.
+> 
+> OR PERHAPS ALL MAGIC IS ULTIMATELY RUN THROUGH THE DIVINE--
+> 
+> GREAT CREATURES OF INCREDIBLE POWER BEYOND OUR UNDERSTANDING.
+> 
+> BUT WHERE DOES IT ALL COME FROM?
+> 
+> HOW DOES IT MANIFEST?
+> 
+> ARE WE CREATING THE IMPETUS WITHIN OURSELVES--
+> 
+> OR ARE WE MANIPULATING ENERGIES ALREADY PRESENT IN THE ENVIRONMENT?
+
+<br><i>She pondered.</i>
+
+#### JIA
+
+> THE WEAVE?
+> 
+> THE...
+> 
+> DREAM?
+
+<br><i>My expression softened.</i>
+
+#### KEVIN
+
+> WHATEVER YOU CALL IT.
+
+<br><i>There was a clatter at the door. The knob turned and in stepped just three vampires: Straud and Tomas, we of course expected, but the third? It was Shelby Dawson, the fresh-faced female with whom he had recently begun to collaborate. That he came without his wives, in particular the one who counted herself a Tremere, was concerning.</i>
+
+#### STRAUD
+
+> TOMAS.
+> 
+> I TRUST THOSE IN ATTENDANCE HERE MEET WITH YOUR AGREEMENT?
+
+<br><i>Of course we all knew him. He had been Prince of the Big Apple for as long as I'd been alive.</i>
+
+#### TOMAS
+
+> YES, THIS WILL DO. 
+> 
+> IT IS GOOD TO SEE YOU AGAIN, VINCE.
+
+<br><i>My father raised his glass.</i>
+
+#### VINCENT 
+
+> A TOAST TO DAVIAN HUGHES.
+> 
+> AND MY SON.
+
+<br><i>Straud closed the door.</i>
+
+#### KEVIN
+
+> IT--
+> 
+> WASN'T ANYTHING.
+> 
+> DAVIAN DID MOST OF THE WORK.
+> 
+> JUST...
+> 
+> GLAD TO HAVE YOU BACK, DAD.
+
+<br><i>There were eight of us in the room now and though we could all move freely, the air was... warm.</i>
+
+#### TOMAS 
+
+> CERTAINLY THE CITY IS FORTUNATE TO HAVE YOU AGAIN.
+
+#### STRAUD
+
+> WE MUST NOT FORGET TO HONOR OUR FRIENDS AMONG THE ENCHANTED.
+> 
+> THEY ARE A RARE LOT.
+> 
+> WE WILL NEED THEM IN THE COMING DAYS.
+
+<br><i>He looked about the room, eyeing all of us individually for a brief moment.</i>
+
+#### STRAUD 
+
+> SHALL WE ALL TAKE A SEAT?
+> 
+> LET US OPEN THE DOCKET; I AM SURE WE ALL HAVE PLACES WE WOULD RATHER BE--
+> 
+> BUSINESS ELSEWHERE.
+> 
+> VINCENT, AS YOU APPEAR TO BE RIGHT AT HOME--
+
+#### VINCENT 
+
+> GLADLY.
+
+<br><i>Straud took his seat at the head of the table. Tomas sat on the opposite end and the rest of us filled in the sides.</i>
+
+#### STRAUD
+
+> THERE IS NO MYSTERY AS TO WHY I CALLED THIS MEETING, TOMAS.
+> 
+> SURELY NEWS HAS TRAVELED TO YOU; THERE IS LIKELY NOT A SOUL AMONG OUR KIND WHO HAS NOT HEARD.
+> 
+> HASSAN TALEB AND GABRIELLE ORLÉANS, IN THE FASHION OF THE DEMON-WORSHIPPERS OF YESTERYEAR, SUMMONED A HELLBEAST TO EARTH.
+> 
+> DOES THIS MEET WITH YOUR APPROVAL?
+> 
+> WERE YOU AWARE THAT THEY, AND LIKELY THE ENTIRE CLAN, HAVE SOUGHT FORBIDDEN KNOWLEDGE?
+> 
+> WORSE YET, THEY HAVE PUT THE OLD RITUALS INTO PRACTICE.
+> 
+> WHAT SAY YOU?
+
+<br><i>My father placed a plasma jane each on the table for Tomas and Shelby and took a seat at the table next to Straud.</i>
+
+<i>Tomas blinked wistfully.</i>
+
+#### TOMAS
+
+> SHORT ANSWER: NO.
+> 
+> I DO NOT BELIEVE OUR KIND SHOULD MAKE ALLEGIANCE TO FOREIGN ACTORS, LEAST OF ALL THE DEMONIC.
+> 
+> WE KNOW ALL TOO WELL WHAT THEY WISH TO MAKE OF OUR WORLD.
+> 
+> I DO NOT CONDONE THIS.
+> 
+> I AM SHOCKED AND APPALLED TO DISCOVER DUPLICITY WITHIN MY KINDRED.
+> 
+> IF YOU RECALL, IT WAS I WHO UNIFIED THE DISPARATE CLANS OF OUR CITY UNDER ONE CROWN--
+
+#### VINCENT
+
+> THAT WASN'T QUITE HOW IT HAPPENED.
+
+<br><i>Tomas backtracked, realizing he could not summarize or amend the histories with this audience.</i>
+
+#### TOMAS 
+
+> I SUPPOSE IT IS NOT QUITE THAT SIMPLE--
+> 
+> MY PREDECESSOR HAD LAID MUCH OF THE GROUNDWORK, YES.
+> 
+> BUT IT WAS I WHO CREATED THE COUNCIL TO ENSURE THAT ALL IN OUR CITY, REGARDLESS OF WHAT MADE THEM DIFFERENT, REGARDLESS OF WHO THEY CALLED THEIR SIRE, HAD AN EQUAL VOICE.
+> 
+> I SUPPOSE IT IS TRUE THAT I NEVER REALLY BELIEVED IN THE CLANS.
+> 
+> I WANTED TO BELIEVE THAT IT WAS A WAY OF THE PAST, THAT WE WERE ALL VAMPIRES, REGARDLESS OF OUR PARTICULAR MANNERISMS, AND THAT IT WAS TIME TO BIND TOGETHER TO ADDRESS THE GROWING THREATS TO THE MASQUERADE.
+
+#### STRAUD
+
+> RIGHT NOW THE GREATEST DANGER COMES FROM WITHIN.
+
+#### TOMAS
+
+> WE CANNOT SIMPLY BANISH THE TREMERE.
+> 
+> WITHOUT THE TREMERE, PEACE FALLS APART.
+> 
+> WE CANNOT SURVIVE WITHOUT THEIR SORCERY.
+
+#### STRAUD
+
+> THEY MERELY PRACTICE THAUMATURGY, THEY ARE NOT THE SOURCE OF IT.
+> 
+> AND WHEN WE STAND AGAINST NEW JERSEY AND BROOKLYN, WE WILL LIKELY FIND THE WARLOCKS OUTMATCHED.
+
+#### TOMAS 
+
+> THEN LET US DETERMINE THE TREMERE THAT ARE LOYAL--
+
+#### STRAUD
+
+> IT IS UNWISE TO BRING KNIVES TO A GUN FIGHT. 
+> 
+> IF WE HAVE ANY HOPE OF TRULY ERADICATING THE CLANS--
+> 
+> I HAVE MY EYES SET ON THOSE YOU CALL THE SABBAT AND THE LASOMBRA--
+> 
+> THEN WE NEED TO GO FURTHER.
+
+<br><i>We all looked at him.</i>
+
+#### STRAUD
+
+> FIRST AND FOREMOST, AND I DO THINK WE ARE IN AGREEMENT HERE, WE MUST WELCOME THE BRONX BACK INTO OUR ALLIANCE.
+> 
+> I SHOULD HAVE BROUGHT THEM TO THE TABLE WHEN I SOUGHT YOU, BUT I WAS NOT READY.
+> 
+> I KNEW THERE WERE THINGS THAT NEEDED TO BE DONE BEFORE WE COULD GREET THEM WITH WELCOME ARMS.
+
+<br><i>Straud's aura burned with intensity. I could sense Tomas did not like being regarded as a subordinate, not with a title such as his, but not one of us would dare dispute the yellow-white halo around the figure at the head of the table.</i>
+
+#### TOMAS
+
+> JOHNNY AND I...
+> 
+> HAVE A HISTORY.
+
+#### STRAUD
+
+> YOU'LL PUT IT BEHIND YOU.
+
+#### TOMAS
+
+> THEY ARE MUSICIANS AND LAYABOUTS.
+> 
+> WE DO NOT NEED THEM.
+
+#### STRAUD
+
+> WE NEED EVERYONE TO STAND UNITED.
+> 
+> YOU SAID YOURSELF YOU SOUGHT THE END OF THE DISCRIMINATION OF THE CLANS.
+> 
+> YOU WILL STAND BY THE LETTER OF YOUR WORD AND BRING THE NORTHERN BOROUGH INTO YOUR CAMARILLA.
+
+#### TOMAS
+
+> THEY REFUSED MY OFFER.
+
+<br><i>Straud raised an eyebrow.</i>
+
+#### STRAUD
+
+> THEN PERHAPS YOU MUST CHANGE THE TERMS OF THE DEAL.
+> 
+> TELL THEM--
+> 
+> SHOW THEM--
+> 
+> THAT YOU HAVE CAST OUT THE TREMERE.
+
+<br><i>Tomas stood up in rage and slammed his palms upon the table.</i>
+
+#### TOMAS
+
+> JUST HOW MANY ENEMIES DO YOU WISH US TO HAVE?
+
+<br><i>But Straud remained cool.</i>
+
+#### STRAUD
+
+> BETTER A RIVAL--
+> 
+> THAN A FALSE FRIEND.
+
+#### TOMAS
+
+> NOT ALL THE TREMERE DESERVE TO BE CATEGORIZED AS BETRAYERS!
+
+#### STRAUD
+
+> I WILL LET YOU DECIDE ON YOUR OWN TIME WHO SHOULD WARM YOUR BED.
+> 
+> BUT LET IT BE KNOWN THAT THEY ARE NOT WELCOME IN MY CITY.
+
+#### TOMAS
+
+> YOUR BOROUGH IS BUT ONE PART OF MY KINGDOM!
+
+<br><i>Straud narrowed his eyes and spoke in restrained fury.</i>
+
+#### STRAUD
+
+> IS THAT A CROSS YOU WILL DIE ON?
+
+<br><i>Tomas fumed, angry but quiet. He again took his seat.</i>
+
+#### STRAUD 
+
+> I THINK YOU WILL FIND THAT MAKING AMENDS WILL BE EASIER THAN FORGING NEW CONNECTIONS.
+> 
+> WE MUST DO BOTH.
+> 
+> WE WILL NEED TO LOOK BEYOND IF WE HOPE TO REGAIN CONTROL--
+> 
+> NOT TO MENTION PREVENT THE REVEAL.
+
+<br><i>Tomas still seemed tense, but tried to remain civil.</i>
+
+#### TOMAS 
+
+> WHAT ARE YOU SUGGESTING?
+
+#### STRAUD
+
+> WE NEED MAGES TO HAVE ANY HOPE OF WINNING THIS WAR.
+
+#### TOMAS
+
+> YOU PROPOSE EXILING THE TREMERE BUT WISH TO COURT THE ENCHANTED?
+> 
+> THEIR HATRED OF OUR KIND RUNS DEEP.
+> 
+> SECOND ONLY TO THE GAROU.
+
+#### STRAUD
+
+> I AM AWARE.
+> 
+> BUT THERE ARE EXCEPTIONS TO MOST RULES.
+
+#### TOMAS
+
+> I HEAR DAVIAN HUGHES HAS GONE MISSING.
+> 
+> ONE OF THE KINDRED GUARDS HIS HOME.
+
+<br><i>His face was still.</i>
+
+#### STRAUD
+
+> UNFORTUNATELY, IT IS THE TRUTH.
+> 
+> I FEAR FOR A WORLD WITHOUT HIS MODERATING PRESENCE. 
+> 
+> BUT WE HAVE NO CHOICE; WE MUST CONTINUE ON WITHOUT HIM.
+
+#### TOMAS
+
+> YOU HAVE THE GRADUATES OF YOUR SCHOOL.
+> 
+> IS THAT NOT ENOUGH?
+
+#### VINCENT
+
+> THE MAGES MY WIFE HAS EDUCATED HAVE THEIR OWN VOICES.
+> 
+> THOUGH WE HAVE TRIED TO TEACH THEM TOLERANCE AND THE IMPORTANCE OF INFORMED SKEPTICISM, I REFUSE TO DRAFT THEM AS A BLOC INTO THIS WAR. 
+> 
+> THEY MUST BE TREATED AS INDIVIDUALS. 
+> 
+> AND BESIDES, MOST OF THEM KNOW VERY LITTLE ABOUT ME AND MY WORK.
+>
+> THE SCHOOL IS MY WIFE'S VENTURE BY AND LARGE, I MOSTLY PROVIDE MORAL SUPPORT.
+
+<br><i>Tomas was unpersuaded.</i>
+
+#### TOMAS 
+
+> FEW TRULY BELIEVE THAT.
+> 
+> THE GIRL FROM GORYEO HAS BEEN TAKEN IN BY A VAMPIRE A THOUSAND YEARS HER SENIOR.
+> 
+> WAS SHE RAISED TO VALUE EQUITY?
+> 
+> I SUPPOSE SHE SIMPLY FOLLOWED THE MODEL SET FORTH BY HER CARETAKER--
+
+<br><i>My father was not amused.</i>
+
+#### TOMAS 
+
+> AND WHAT OF THE WITCH WHO BETRAYED YOUR COTERIE?
+> 
+> SHE SEEMED TO JUST BECOME PRIVY TO YOUR SECRETS WHEN SHE TOOK THEM AND RAN.
+
+#### VINCENT
+
+> THEY MAKE THEIR OWN DECISIONS.
+
+#### TOMAS
+
+> THEY ARE CHILDREN.
+> 
+> CHILDREN WHO PLAY WITH MATCHES.
+
+#### STRAUD
+
+> WE CANNOT AFFORD TO DISMISS THEM ON THE BASIS OF THEIR AGE OR ABILITY.
+
+#### TOMAS
+
+> SO YOU PROPOSE TO USE THEM AS A TOOL.
+
+#### STRAUD
+
+> NO, I DO NOT PROPOSE THAT.
+> 
+> I PROPOSE WE ADDRESS THEM AS POTENTIAL ALLIES AND FRIENDS.
+> 
+> EQUALS.
+> 
+> SOMETHING NEITHER SIDE SEEMS WILLING TO DO.
+> 
+> WE ARE MORE ALIKE THAN WE ARE DIFFERENT.
