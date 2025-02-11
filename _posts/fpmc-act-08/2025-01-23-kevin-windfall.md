@@ -600,7 +600,7 @@ lastmod: 2025-02-10 11:10
 > I GUESS NOT.
 
 *****
-<br><i>When we get to the bar, it is already swarming with activity. The Count had a while back declared a hiatus on the plays, citing issues with writers, which was kind of disingenuous because I'm pretty sure he wrote all of them. Maybe Long Winter wasn't one of his, but I could be completely sure.</i>
+<br><i>When we get to the bar, it is already swarming with activity. The Count had a while back declared a hiatus on the plays, citing issues with writers, which was kind of disingenuous because I'm pretty sure he wrote all of them. Maybe Long Winter wasn't one of his, but I couldn't be completely sure.</i>
 
 <i>We made our way to the private chamber in which Straud entertained his more illustrious guests. It was a private viewing room with an excellent view of the stage. Unlike the other seats in the theatre, it was enclosed by walls and glass. I suspected it was enchanted somehow; from a seat in this room one would have no trouble hearing the performance, but I doubted the same permeability applied to outgoing sound.</i>
 
