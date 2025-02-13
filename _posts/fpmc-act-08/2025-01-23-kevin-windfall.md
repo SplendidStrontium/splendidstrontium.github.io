@@ -7,11 +7,19 @@ date: 2025-01-23 20:26
 description: "in which Straud talks to Tomas about the future"
 tags: [skit, fpmcmain-kevin, act-viii]
 published: true
-lastmod: 2025-02-10 11:10
+lastmod: 2025-02-12 21:19
 ---
 [//]: # ( 02/08/25  -added)
 [//]: # ( 02/09/25  -still typing)
 [//]: # ( 02/10/25  -finished typing)
+[//]: # ( 02/12/25  -forgot the song)
+
+*****
+
+<br><center>( TURN NOTHIN' INTO SOMETHING, STILL CAN )</center>
+<br><center>( MAKE THAT, STRAW INTO GOLD, CHUMP )</center>
+<br><center>( "THE MONSTER" - EMINEM )</center>
+<br>
 
 *****
 <br><i>No one had ever taught me to cook. When I was a child, my mother brought me meals already prepared, and the whole process remained a mystery to me. When I became a vampire, I took vitae from Earth's creatures, and I was a thief, but never committed murder. The Blood warmed me, and I needed no fire. But I could not live this way. When I later resuccumbed to mortality, to the need to eat and breathe to survive, to... kill - it had been a difficult habit to acquire.</i>
