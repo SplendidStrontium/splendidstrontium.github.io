@@ -7,6 +7,7 @@ date: 2025-01-23 20:26
 description: "in which Straud talks to Tomas about the future"
 tags: [skit, fpmcmain-kevin, act-viii]
 published: true
+youtube_link: https://youtu.be/kWNJc1yqIiY
 lastmod: 2025-02-12 21:19
 ---
 [//]: # ( 02/08/25  -added)
