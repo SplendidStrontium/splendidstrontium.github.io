@@ -1,0 +1,342 @@
+# WRITING CONVENTIONS
+
+### CAPITALIZATION OF NOUNS
+
+Nouns may be capitalized for a variety of reasons. Most of the [FPMC Jargon](https://github.com/SplendidStrontium/splendidstrontium.github.io/wiki/FPMC-Jargon) will be capitalized to distinguish it as a created word. Other times words may be capitalized to provide emphasis; this often differs by character as well as medium.
+
+### CHAT-BOXES
+
+Chat-boxes generally indicate conversation over the wIntraNet but are also used with non-wIntraNet characters to denote phone and/or computer-based texting. In a very limited application, they may indicate telepathic communication.
+
+### SUBJUNCTIVE MOOD
+
+If I were a writer, it would be a hill on which I am willing to die.
+
+### UNRELIABLE NARRATOR
+
+None of the work should be considered as being from the omniscient point-of-view. All pieces are written from the perspective of the characters; the character named in the title should be considered the main character or point-of-view for that particular piece. The named character changes what is noticed or described as well as the style. 
+
+# FPMC JARGON
+
+* <u>ADDICTION</u>: The need for a Vampire to drink blood.
+* <u>AUTRESS</u>: The author.
+* <u>CAPABLE</u>: Able to invoke feats of magic.
+* <u>COMPULSION</u>: The need for a Vampire to drink blood.
+* <u>CONDUIT</u>: An animal spirit indigenous to Earth.
+* <u>DAX</u>: Cedric's nickname for rumored alien invaders.
+* <u>DREAMSPACE</u>: Psuedo-mathematical term for Elysion.
+* <u>EIGEN</u>: Rumored beings of light that live in stars.
+* <u>ELDER</u>: Honorific given to more experienced Vampires.
+* <u>ELYSION</u>: The world of Dream.
+* <u>EXTRANATURAL</u>: the un-Ordinary, e.g. Vampire, Magic-user.
+* <u>FRIENDS</u>: Rumored alien invaders.
+* <u>GLAMOUR</u>: The ability of a Vampire to charm the Mundane.
+* <u>GREAT WAR</u>: A long-standing conflict, secret, ran parallel to WW-I/WW-II.
+* <u>GREAT REVEAL</u>: V.Straud's suspicion of an impending reveal of the Vampire.
+* <u>GRYMFORM</u>: The ability of a Vampire to manifest their soul as a spectre.
+* <u>KIXEN</u>: Cats.
+* <u>IMMORTAL</u>: Those incapable of dying to old age or disease, including, but not limited to, the Vampire.
+* <u>INFORMED</u>: One who knows about the existence of the Extranatural.
+* <u>LATINATE</u>: Latin-based magical incantations.
+* <u>MENTOR</u>: honorific given to Vampires who teach the Younger.
+* <u>MONKIEE</u>: Primates.
+* <u>MUNDANE</u>: One who is incapable of magical feats.
+* <u>N.S.R.</u>: New Socialist Republic, a quasi-governmental international body.
+* <u>OCCUPATION</u>: Refers to Trente Gagarin's takeover of the Charm Mansion.
+* <u>ORDINARY</u>: One who is incapable of magical feats.
+* <u>OUTSIDE</u>: the Mortal Fog of Ignorance.
+* <u>RITES</u>: Mystical ritual said to bless a deceased soul for entry to Elysion.
+* <u>TALENT</u>: Magical ability.
+* <u>TRUTH OF IT ALL</u>: the fact that the Mortal world is laced with vampires, magic-users, and a myriad of secrets.
+* <u>VAMPRESS</u>: a female Vampire.
+* <u>VISITORS</u>: Rumored alien invaders.
+* <u>WINTRANET</u>: The internal network used by Straud and his allies.
+* <u>Y2K</u>: A campaign of mostly personal vendettas against the followers of McCoy beginning 1995 and ending with Vincent Marscapone's death in the early new millenium.
+* <u>YOUNGER</u>: term of endearment for less-experienced Vampires.
+
+# FPMC CHARACTERS AND TITLES
+
+* <u>ACCURSED</u>: nickname for Kevin used by Larry.
+* <u>ADAM WESTFALL</u>: Magic-user. Apprentice/Adopted Son of Davian. First appeared in PIDGE 005: Prodigal.
+* <u>AGNES SEPAL</u>: deceased Magic-user. First appeared in KEVIN 027: Shift Change.
+* <u>ÁINE BAIRD</u>: Vampire. Childer of Bronald Weaslie Sr. First appeared in PIDGE 010: Tantamount.
+* <u>ALEXANDER GOTH</u>: Mundane. His mother and father are deceased and he currently lives in Sulani with the Vampire Sebastian Eriksson and magic-user Tzu Prano. First appeared in GOTH 001: Dark Web.
+* <u>ALICE YEATS</u>: Magic-user. Senior Councilwoman of Order of Hermes. First appeared in PIDGE 006: Esteemed.
+* <u>ALTHIA</u>: Magic-user. Circle of Friends. First mentioned in PIDGE 009: Orion.
+* <u>ALYSON ZHOU</u>: Vampire. The eldest of the three Zhou daughters, she is inclined toward humor and the non-sequitur. First appeared in CEDRIC 030: Always Welcome.
+* <u>ANCIENT ONE</u>: possibly Vladislaus Straud.
+* <u>ANGELA PLEASANT</u>: Mundane. Ex-girlfriend of Kevin Marscapone, now courting the magic-user Zhangwei Tang. First appeared in KEVIN 022: Reunion.
+* <u>ASKUWHETEAU</u>: Shifter. Follower of the Thunderbird. First appeared in PIDGE 004: Prophecy.
+* <u>AUTUMN FORTE</u>: assistant to Trelaine. Mundane. First appeared in KEVIN 001: Trick.
+* <u>AVAEL</u>: The bot formerly known as Avaelle Easton, a cybernetic Vampress. Currently lives with Cedric in the Marscapone Auxiliary Apts. First appeared in AVAEL 001: Eleven
+* <u>AVAELLE EASTON</u>: former name of AVAEL, currently used by McCoy's not-so-magic accomplice.
+* <u>BAGLEY</u>: see Camron.
+* <u>BAIRD</u>: see Áine.
+* <u>BECHAMEL</u>: see Zoe.
+* <u>BEHR</u>: last name of Candy, Yuki.
+* <u>BELLA GOTH</u>: deceased Magic-user. Seems to have died due to disease or cancer.
+* <u>BENJAMIN</u>: English nickname for Askuwheteau.
+* <u>BLACK</u>: see Lila.
+* <u>BLOOD MAGE</u>: nickname of Lenard McCoy.
+* <u>BOB PANCAKES</u>: Mundane. Has starred in a number of small commercials and TV spots. Lives in Astoria near the Magicademy.
+* <u>BOBBIE CUMMINGS</u>: former Vampire. see Sergeant Bobbie.
+* <u>BOBBY HILL</u>: Mundane. Cousin to Luanne Platter.
+* <u>BRONALD WEASLIE, LESSER</u>: Magic-user.
+* <u>BRONALD WEASLIE, GREAT-UNCLE</u>: Vampire. First appeared in AVAEL 001: Eleven.
+* <u>BUTTERCUP</u>: nickname for Avaelle used by McCoy.
+* <u>CALEB VATORE</u>: Vampire. Younger brother to Lilith Vatore, the heir-apparent to the Vatore fortune and fame.
+* <u>CAMPBELL</u>: see Ivette.
+* <u>CAMRON BAGLEY</u>: deceased Vampire, killed by Cedric.
+* <u>CANDY BEHR</u>: suspected Mundane.
+* <u>CAPTAIN</u>: esp. "the old Captain", nickname used by Quarq, Lilith for Vladislaus Straud. 
+* <u>CASSANDRA GOTH</u>: Mundane. Eldest sibling of the Goth children, now lives in her maternal grandmother's home, Galantome, in Steinway.
+* <u>CEDRIC</u>: A Vampire completely immune to the damaging effects of the Sun. First appeared in CEDRIC 000: Consent.
+* <u>CHAIRPERSON</u>: title of the head of the NSR.
+* <u>CHARLOTTE DEADEYE</U>: Vampire. Sister and supposed brains of the Iroquois outfit with her brother, Jude.
+* <u>CHARM</u>: last name of Gemma, Darrel, Minerva.
+* <u>CHIASA CHINOKO</u>: Vampire. First appeared PIDGE 002: Instinct.
+* <u>CHINOKO</u>: see Chiasa.
+* <u>CLEOPATRA</u>: see Patra.
+* <u>CONJURER</u> (Kevin): used esp. by George Henry.
+* <u>COOPER</u>: see Whack Jack.
+* <u>CORDELIA SEPAL</u>: Magic-user.
+* <u>CORNELIA</u>: Spirit. Narrator for On the Origin and Nature of Magick. First appeared in PIDGE 009: Orion.
+* <u>CORONADO</u>: see Dustin.
+* <u>COUNT</u>: title used by Vladislaus Straud.
+* <u>CUMMINGS</u>: see Bobbie.
+* <u>DARREL CHARM</u>: Magic-user.
+* <u>DAVIAN HUGHES</u>: Magic-user, old friend of Vladislaus Straud. First appeared in PIDGE 001: Anniversary.
+* <u>DAYWALKER</u> (Cedric): Used esp. by George Henry.
+* <u>D'AVALON</u>: see Egbert.
+* <u>DEXTER ZHOU</u>: Vampire. Father of the Zhou family, attacked by feral vampires in the 90s, now stumbling through initiation.
+* <u>DEXX</u>: Mandarc's dog.
+* <u>DOCTOR</u>: nickname for McCoy.
+* <u>DREAMWALKER</u> (Cedric): used esp. by Myrtle.
+* <u>DUATBA</u>: see Miriam.
+* <u>DUSTIN CORONADO</u>: deceased Vampire.
+* <u>EASTON</u>: see Avaelle.
+* <u>EDWARD</u>: Roxanne's dog.
+* <u>EGBERT D'AVALON</u>: Magic-user. Assistant to the Council at the Order of Hermes. First appeared in PIDGE 006: Esteemed.
+* <u>EKSTROM</u>: see Lucia.
+* <u>ELIZA PANCAKES</u>: deceased Vampire. Wife of Bob Pancakes. Had a penchant for guns and cursing.
+* <u>EMBER</u>: see Morgyn.
+* <u>EMMITT SKINNER</u>: Magic-user. Rescued from the Occupation by Straud, Mandarc in 2022.
+* <u>ENDYMION</u> (Trente Gagarin): used esp. by Quarq.
+* <u>ENTERTAINER</u>: Unknown.
+* <u>ERI O'LANNA</u>: Magic-user. Associate of Trente Gagarin. Capable of unpredictable magicks.
+* <u>ERIKSSON</u>: see Sebastian.
+* <u>ESTHER OBOROVSKY</u>: Vampire. Maurice Weatherspoon's ex-wife. Caught in the half-Dream.
+* <u>ETHAN SCHAAL</u>: Magic-user. Ophelia Oborovsky's ex-husband.
+* <u>EXILE</u>: nickname for V. Straud.
+* <u>FRANKIE</u>: Thinblood Vampire. Works as a valet at the B.V. First appeared in PIDGE 002: Instinct.
+* <u>FRIDAY PERKINS</u>: Magic-user. Mandarc's ex-girlfriend now shacked up with Bronald Weaslie.
+* <u>FULTON</u>: see Gertrude.
+* <u>GABRIELLE DE ROHAN</u>: Tremere Vampire. Ex-lover of Davian.
+* <u>GAGARIN</u>: see Trente.
+* <u>GARDENER</u> (Elder Vatore): used esp. by NSR.
+* <u>G.H.</u> (George Henry): used esp. by Myrtle.
+* <u>GEMMA CHARM</u>: Magic-user. Sent to the Landgraabs to provide protection.
+* <u>GEOFFREY LANDGRAAB</u>: Mundane.
+* <u>GEORGE HENRY</u>: Vampire. Long-time servant to Vincent Marscapone.
+* <u>GERTRUDE FULTON</u>: Werewolf. Deceased. First appeared in STRAUD 028: Patriot.
+* <u>GOD-MACHINE</u>: Artificial mind in the Umbra. First mentioned in PIDGE 004: Prophecy.
+* <u>GOTH</u>: last name of Cassandra, Alexander, Mortimer, Bella.
+* <u>GRANGER</u>: see Hermione.
+* <u>GWYDION YANÚLA</u>: Magic-user. Member of the Society of Aether. First appeared in PIDGE 011: Zenith I.
+* <u>HANK HILL</u>: Mundane. Uncle to Luanne Platter.
+* <u>HAROLD</u>: Magic-user. Circle of Friends. First mentioned in PIDGE 009: Orion.
+* <u>HASSAN TALEB</u>: Tremere Vampire. Sire to Gabrielle. First appeared in PIDGE 002: Instinct.
+* <u>HEADMISTRESS</u>: honorific for Myrtle used esp. by her former students.
+* <u>HENRY</u>: see George.
+* <u>HERMIONE</u>: Magic-user.
+* <u>HILL</u>: last name of Peggy, Hank, Bobby.
+* <u>HOLIDAY</u>: see Summer.
+* <u>HUA</u>: see Jia.
+* <u>HUGHES</u>: last name of Davian.
+* <u>IROQUOIS, OF</U>: origin tribe for Charlotte, Jude.
+* <u>ISLANDER</u>: nickname for Makoa.
+* <u>IVETTE CAMPBELL</u>: Mundane. Writes letters with her old friend, Roxanne Schwartz.
+* <u>JACK</u>: see Whack Jack.
+* <u>JIA HUA</u>: Vampire rescued from diablerie by L. Black et al. First appeared in PIDGE 010: Tantamount.
+* <u>JUDE OF IROQUOIS</u>: Vampire. Merry and outgoing half of the Iroquois siblings with Charlotte.
+* <u>JUNIOR</u> (Trente Gagarin): nickname given by her mother.
+* <u>KEALOHA</u>: see Makoa.
+* <u>KEVIN MARSCAPONE</u>: Magic-user, former Vampire. Took the Cure in 2019 and trying to live a life parallel to that in which he grew up. First appeared in KEVIN 001: Trick.
+* <u>KIX</u>: Kevin's cat.
+* <u>LANDGRAAB</u>: last name of Geoffrey, Nancy, Malcolm.
+* <u>LARRY POTTER</u>: Magic-user. Largely employed as a ghostbuster.
+* <u>LENARD TRELAINE</u>: Vampire. Old rival of Vladislaus Straud. First appeared in AVAEL 002: Tatters.
+* <u>LILA BLACK</u>: Magic-user. Apprentice to Davian. First appeared in PIDGE 009: Orion.
+* <u>LILITH PLEASANT</u>: Mundane. Dedicated follower of Trente and the N.S.R.
+* <u>LILITH VATORE</u>: Vampire. Lover of Quarq aiming to learn how to seduce mortals.
+* <u>LINDSAY</u>: Lasombra Vampire. First appeared in PIDGE 008: Tacky.
+* <u>LUANNE PLATTER</u>: Mundane. Girlfriend to Bob Pancakes.
+* <u>LUCIA EKSTROM</u>: Magic-user. Displaced noble, runaway from home.
+* <u>MAHOGANY, MS</u>: unknown.
+* <u>MAKOA KEALOHA</u>: Vampire. Sulani native converted to Vampirism in 2018.
+* <u>MALCOLM LANDGRAAB</u>: Mundane.
+* <u>MANDARC SOO</u>: Vampire.
+* <u>MARSCAPONE</u>: last name of Vincent, Kevin, Myrtle.
+* <u>MARTEL</u>: see Mikael.
+* <u>MATILDA</u>: bartender at the B.V. First appeared PIDGE 002: Instinct.
+* <u>MATRON</u>: nickname for Myrtle used esp. by allies of Straud.
+* <u>MAURICE WEATHERSPOON</u>: Magic-user. Often a private operative. First appeared in AVAEL 001: Eleven.
+* <u>McCOY</u>: see Lenard, also Wendy.
+* <u>MEIFENG</u>: former name of Vanessa.
+* <u>MIKAEL MARTEL</u>: Magic-user. First appeared in PIDGE 008: Tacky.
+* <u>MINERVA CHARM</u>: deceased Magic-user. Soldier-friend to Myrtle Marscapone.
+* <u>MINI-MOON</u>: nickname for Trente Gagarin used esp. by her associates.
+* <u>MIRIAM DUATBA</u>: Salubri Vampire. 
+* <u>MISSUS</u>: nickname for Myrtle used esp. by allies of Straud.
+* <u>MOON MAGUS</u>: title for Eri O'Lanna.
+* <u>MOON PRIESTESS</u>: honorific for Trente Gagarin used esp. by Caleb.
+* <u>MORGYN EMBER</u>: deceased Magic-user.
+* <u>MORRISON</u>: see Tyler.
+* <u>MORTIMER GOTH</u>: deceased Vampire.
+* <u>MYRTLE MARSCAPONE</u>: Magic-user. Founded the Marscapone School of Magic and took in a number of orphans without any other way to learn to practice magic. First appeared in MYRTLE 001: Humidity.
+* <u>NANCY LANDGRAAB</u>: Mundane.
+* <u>NIXKAMICH</u>: Grandfather. Nickname for V. Straud from Askuwheteau.
+* <u>NOAH COOPER</u>: see Whack Jack.
+* <u>O'SHAUGHNESSY</u>: see Roy.
+* <u>OBOROVSKY</u>: last name of Svetlana, Tatanya, Esther, Ophelia.
+* <u>OPHELIA OBOROVSKY</u>: Vampire. Ex-wife of Ethan Schaal. Caught in the half-dream.
+* <u>ORTEGA</u>: see Tomas.
+* <u>PANCAKES</u>: last name of Bob, Eliza.
+* <u>PATRA</u>: Mundane. Servant to Trente Gagarin.
+* <u>PEIYUN TANG</u>: deceased Magic-user. Slain by Vanessa.
+* <u>PEGGY HILL</u>: deceased Mundane. Slain by Cedric re: a request from Myrtle Marscapone.
+* <u>PENELOPE ZHOU</u>: Vampire. Youngest of Zhou sisters when converted.
+* <u>PENNY</U>: nickname for Penelope.
+* <u>PERCIVAL WHITFORD</u>: Magic-user. Circle of Friends. Went missing 1053. First mentioned in PIDGE 009: Orion.
+* <u>PERKINS</u>: see Friday.
+* <u>PLATTER</u>: see Luanne.
+* <u>PLEASANT</u>: last name of Angela, Lilith.
+* <u>POTTER</u>: see Larry.
+* <u>PRINCE OF ELYSION</u> (Vincent Marscapone): Claimed demi-God status of the ancient Vampire.
+* <u>PROFESSOR</u> (Vladislaus Straud): Used especially by friends of his converts and the Magicademy.
+* <u>QUARQ</u>: Vampire. First appeared in STRAUD 005: An Old Chum.
+* <u>R</u>: possibly Bronald. Magic-user.
+* <u>RAJ RASOYA</u>: Vampire. Chef and layabout. Charlotte's progeny.
+* <u>RATDEATH</u>: Cedric's pistol.
+* <u>RICHARD</u>: Mundane.
+* <u>RINI</u> (Trente Gagarin): nickname given by old followers.
+* <u>ROHAN, DE</u>: see Gabrielle.
+* <u>ROSENBERG</u>: see Sierra.
+* <u>ROXANNE SCHWARTZ</u>: Vampire. Converted by Straud in 2019. A college dropout with a lot on her mind.
+* <u>ROY O'SHAUGHNESSY</u>: secret identity.
+* <u>SCHAAL</U>: see Ethan.
+* <u>SCHWARTZ</u>: see Roxanne.
+* <u>SEBASTIAN ERIKSSON</u>: Vampire. Very old Vampire, converted by Straud early 1700s. Attained status as a chieftain in Sulani. First appeared in STRAUD 001: Flower Power.
+* <u>SEPAL</u>: last name of Agnes, Cordelia.
+* <u>SERGEANT BOBBIE</u>: Mundane, formerly Bobbie Cummings. Vampiricly slain by Mandarc, Perkins, left as a Mundane. Still loyal to McCoy.
+* <u>SEVEN OF NINE</u>: also Seven Zhou. Vampire. Intent to learn more of her new-found kind.
+* <u>SHADOWSPEAKER</u>: nickname for V. Straud.
+* <u>SIERRA ROSENBERG</u>: Vampire. Assistant to Caleb Vatore and his orchard.
+* <u>SILVER TONGUE</u>: specifically 'He of the Silver Tongue'. nickname for V. Straud.
+* <u>SILVERSWEATER</u>: see Simeon.
+* <u>SIMEON SILVERSWEATER</u>: deceased Magic-user.
+* <u>SKINNER</u>: see Emmitt.
+* <u>SKITTLES</u>: Kevin's cat.
+* <u>SKOLL</u>: Lila's dog.
+* <u>SLIM</u>: nickname for Avaelle used by McCoy.
+* <u>STEPHANIE</u>: acquaintance of Davian Hughes. First appeared in PIDGE 001: Anniversary.
+* <u>STEPHEN</u>: acquaintance of Chiasa Chinoko. First appeared in PIDGE 003: As Thou Wilt.
+* <u>STRAUD</u>: see Vladislaus.
+* <u>SUMMER HOLIDAY</u>: Mundane. Lives in the most normal part of the Magicademy.
+* <u>SVETLANA OBOROVSKY</u>: Vampire. Struggled with being caught in the half-Dream following the birth of her children.
+* <u>SYLVIA</u>: Vampire. Camarilla 'Prince'. First mentioned in PIDGE 007: Extra Extra.
+* <u>TALEB</u>: see Hassan.
+* <u>TANG</u>: last name of Zhangwei, Vanessa, Peiyun.
+* <u>TATANYA OBOROVSKY</u>: Magic-user. Lover of Charlotte. Talented magus.
+* <u>TEMPERANCE</u>: Spectre.
+* <u>THUNDERBIRD</u>: Askuwheteau's guide. First appeared in PIDGE 010: Tantamount.
+* <u>TOMAS ORTEGA</u>: Ventrue Vampire. Camarilla Prince. First appeared in PIDGE 011: Zenith I.
+* <u>TOONCES</u>: Cedric's cat. Recently had two kittens.
+* <u>TRELAINE</u>: see Lenard.
+* <u>TRENTE GAGARIN</u>: Vampire. Old rival to Vladislaus Straud.
+* <u>TYLER MORRISON</u>: Magic-user. Senior member of the Council of the Order of Hermes. First appeared in PIDGE 006: Esteemed.
+* <u>TZU PRANO</u>: Magic-user. 
+* <u>VAN HELSING</u>: Magic-user. Larry's therapist.
+* <u>VANDY BANDERSNATCH</u>: Bartender at B.V. First appeared in PIDGE 011: Zenith I.
+* <u>VANESSA TANG</u>: Vampire. Bloodthirsty and ruthless, she has little love for her former family and friends.
+* <u>VATORE</u>: last name of Caleb, Lilith, and their father, the as-of-yet unnamed Elder Vatore.
+* <u>VERONICA</u>: acquaintance of Davian Hughes. First appeared in PIDGE 001: Anniversary.
+* <u>VINCENT MARSCAPONE</u>: Vampire. Ancient, Italian, friend to many a Vampire and Magic-user alike. First appeared in MYRTLE 003: Ragamuffin.
+* <u>VLADISLAUS STRAUD</u>: Vampire. A very aged man who, against his better judgement, has taken it upon himself to help and advise those he calls friends.
+* <u>WARLOCK</u>: used by Myrtle to refer to Kevin.
+* <u>WEATHERSPOON</u>: see Maurice.
+* <u>WENDY McCOY</u>: suspected Mundane. Possibly a flesh golem, clone; does she have a soul?
+* <u>WESLEY</u>: acquaintance of Chiasa Chinoko. First appeared in PIDGE 003: As Thou Wilt.
+* <u>WHACK JACK</u>: Potence Vampire AKA Dr. Mundo. First appeared in PIDGE 008: Tacky.
+* <u>WHITE WITCH</u>: nickname for Myrtle earned during the Great War.
+* <u>WHITFORD</u>: see Percival.
+* <u>YANÚLA</u>: see Gwydion.
+* <u>YEATS</u>: see Alice.
+* <u>YUKI BEHR</u>: Mundane.
+* <u>ZHANGWEI TANG</u>: Magic-user. Recently dealt with his sister and mother going missing, suspected deceased.
+* <u>ZHOU</u>: last name of Dexter, Alyson, Seven, Penelope.
+* <u>ZOE BECHAMEL</U>: Magic-user. Unbeknownst to her, she has a highly-charged lineage.
+
+# FPMC GUIDE TO LOCATIONS
+
+### LOCATIONS WITHIN QUEENS
+
+* <u>STRAUD MANSION</u> (Jamaica Estates): This is the traditional home of Vladislaus Straud and located within the Forgotten Hallow.
+* <u>VATORE MANSION</u> (Jamaica Estates): On land purchased from V.Straud by the Elder Vatore. He used the land to grow plasma fruit trees. Currently supporting Caleb Vatore and his distant relative.
+* <u>WIDOWSHILD TOWNHOME</u> (Jamaica Estates): An old townhome that used to shelter Friday Perkins & Mandarc Soo. Now supports Mandarc & Emmitt Skinner.
+* <u>TOAST & CARAMEL</u> (Jamaica): A bar owned by Vladislaus Straud, operated as a safe-space for the Vampire.
+* <u>MAGICADEMY</u> (Astoria): Alternatively known as the Marscapone School of Magic, this spacious home was once a group home and academy for magic. Purchased by Myrtle Marscapone around 1920. Currently houses the vampire George Henry, the mundane Summer Holiday, and the ghost Myrtle Marscapone. 101 Church St.
+* <u>MARSCAPONE AUXILIARY APARTMENTS</u> (Astoria): A group of various townhomes owned by the Marscapone family. Currently housing AVAEL, Cedric, Roxanne Schwartz, Bob Pancakes.
+* <u>BLUE VELVET</u> (Astoria): A bar at least part-owned by Vladislaus Straud, operated as a safe-space for the Vampire & Magic-user.
+* <u>OLD GALANTOME ESTATE</u> (Steinway): Ancestral home of Bella's mother. 37 Ascot.
+* <u>GOTH MANOR</u> (Douglaston): Currently empty.
+* <u>RINDLE ROSE</u> (College Point?): Myrtle's retirement home.
+
+### LOCATIONS IN OTHER NYC BOROUGHS & LONG ISLAND
+ 
+* <u>OBOROVSKY FLAT</u> (Upper East Side): Home of Esther, Ophelia Oborovsky.
+* <u>PLEASANT HOUSE</u> (Morningside Heights/Harlem): Home of Angela, Lilith Pleasant.
+* <u>TANG HOUSE</u> (Williamsburg): Home of Tang family.
+* <u>SOO TOWNHOME</u> (Brooklyn?): Home of Myrtle's father; where she grew up.
+* <u>QUARQ'S PENTHOUSE</u> (Prospect Heights?): Purchased 1990s. Currently housing Quarq, Lilith Vatore.
+* <u>PREEMINENT DOMAIN</u> (East New York?): Abandoned train station currently housing Avaelle Easton, Vanessa Tang.
+* <u>FUTURESIM LABORATORY</u> (Brookhaven): former workplace of Kevin, Cassandra.
+* <u>MARSCAPONE SUMMER HOME</u> (Riverhead): Located somewhere on the mid-north fork is a home purchased mid-century by the Marscapone family. Currently houses Kevin Marscapone.
+
+### AMERRKAN LOCATIONS OUTSIDE NEW YORK CITY
+
+* <u>JOISEY</u> (New Jersey): Location of Crimson Tower(?)
+* <u>KONNETTIKUT</u> (Connecticut)
+  - <u>EASTON HOUSE</u>: Birthplace of Avaelle Easton.
+* <u>UHAIGHA</u> (Ohio River Valley): Birthplace of Cedric, location of Charm Mansion.
+* <u>STRIXHAVEN</u> (Indiana?): Home to Maurice Weatherspoon.
+* <u>SAINT LOUIE</u> (St. Louis): Home to the Gateway to the Realm of Magic as well as the current home of the Weaslie family.
+* <u>L'ORLEENS</u> (New Orleans): Birthplace of Bechamel(?).
+* <u>SAN FRANSISKO</u> (Bay Area)
+* <u>SULANI</u> (Hawai'i): Home to Tzu Prano, Sebastian Eriksson, Alexander Goth. Tzu runs a doctor's office out of her home.
+
+### LOCALES OUTSIDE AMERRKA
+
+* <u>YEUROP</u> (Europe): A general place-name for the countries such as France, Germany...
+* <u>MUSKOVY</u> (Russia): Birthplace of Svetlana & Tatanya Oborovsky.
+* <u>BHARAT</u> (India): Birthplace of Kali.
+* <u>ZHONGGUO</u> (China): Birthplace of Myrtle's father.
+* <u>GORYEO</u> (Korea): Birthplace of Tzu Prano.
+* <u>NIHON</u> (Japan): Birthplace of Yuki Behr(?).
+* <u>ANTARTIKA</u> (Antarctica): Uncharted territory.
+  - <u>NEEDLE</u> (South Pole): Mysterious stone castle.
+
+### LOCALES OUTSIDE EARTH
+
+* <u>ELYSION</u>
+* <u>FIRSTHOME</u>: a.k.a. Coreworld
+
+# IDEAS ON HOLD
+
+Below is a collection of ideas that are on-hold for whatever reason. They aren't total junk but aren't a development priority.
+
+### Bid-on-a-pie
+I like baking so I thought it would be fun to have an open auction for a pastry as a fundraiser for the site. Ex. NANNY-C is going to make three pies this weekend. She opens bidding. Pie 1 is won by User A for $200. Pie 2 is won by User B for $150. Pie 3 is won by User C for $100. Pies are made and transferred to winners. Unsure whether this would be a local thing or if (oi) I'd try to use postal services. I like the idea but not feasible for release in the next few months. Plus it needs some idea refinement. [Closed issue](https://github.com/SplendidStrontium/splendidstrontium.github.io/issues/18) [upd: thu-apr-16-2020]
+
+### Technicolor
+I thought about putting a color theme on the site. But I don't know. Colors are... colorful. And I'm kind of getting attached to the B/W. Maybe someday I can have users able to set their own colors. [Closed issue](https://github.com/SplendidStrontium/splendidstrontium.github.io/issues/17) [upd: thu-apr-16-2020]
