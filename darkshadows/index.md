@@ -1,7 +1,6 @@
 ---
 layout: darkshadows
 title: "Dark Shadows Episode Reviews"
-menu: main
 permalink: /darkshadows/ 
 ---
 

@@ -1,8 +1,7 @@
 ---
-layout: eatsleepdo
-title: "Updates"
-menu: main
-permalink: /updates/ 
+layout: warcraft
+title: "Warcraft"
+permalink: /warcraft/ 
 ---
 
 <html>
@@ -12,24 +11,32 @@ permalink: /updates/
 
 <body>
 
-<p>Pull updates to your software until they no longer support your device. Here the author discusses issues with adhering to meta. ♫♫ indicates that a post has open comments.</p>
-<div id="esd-list">
+
+<div id="warcft-list">
+
+<p>If you play World of Warcraft(魔兽世界), you might understand some of this stuff. ♫♫ indicates that a post has open comments.</p>
 
 <ul>
 	{% for post in site.posts %}
         {% if post.url %}
-			{% if post.category == "updates" %}
+			{% if post.category == "warcraft" %}
 
-		        <li class="esd-post">
-				<div class="esd-link-box"><a class="esd-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+		        <li class="warcft-post">
+				<div class="warcft-link-box"><a class="warcft-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
+				
+				{% if post.thumbnail_id %}
+				<div class="warcft-tb">
+				<img src="{{ site.url }}/assets/tb/{{post.thumbnail_id}}" alt="" class="warcft-tb-img">
+				</div>
+				{% endif %}
 
-				<div class="esd-desc">
-					<span class="esd-tags">{{post.tags | array_to_sentence_string}}</span><br/>
+				<div class="warcft-desc">
+					<span class="warcft-tags">{{post.tags | array_to_sentence_string}}</span><br/>
 					{{post.description}} {% if post.comments_id %}<span class="arch-comments-notify">♫♫</span>{% endif %}
 				</div>
 
 		
-				<span class="esd-date">
+				<span class="warcft-date">
 				<span id="dayname-cn">
 				{% assign day = post.date | date: "%w" %}
 				{% case day %}
