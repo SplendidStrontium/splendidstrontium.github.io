@@ -302,3 +302,61 @@ li.canon-list-date-lstcheck{
         "syntax-highlighting",
 		"comments"
 ;
+
+.social-footer {
+  margin-top: 2rem;
+  padding: 1rem 0;
+  border-top: 1px solid #ffffff;
+  text-align: center;
+  font-family: 'OpenDyslexic', monospace;
+}
+
+.footer-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.social-links {
+  margin-bottom: 1rem;
+}
+
+.social-links a {
+  margin: 0 0.5rem;
+  text-decoration: underline;
+}
+
+.contact-info {
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+}
+
+.contact-info p {
+  margin: 0.25rem 0;
+}
+
+.site-description {
+  font-size: 0.85rem;
+  font-style: italic;
+}
+
+.site-description p {
+  margin: 0;
+}
+
+.legal-footer {
+  margin-top: 2rem;
+  padding: 1rem 0;
+  border-top: 1px solid #ffffff;
+  text-align: center;
+  font-family: 'OpenDyslexic', monospace;
+}
+
+.disclaimer-content {
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+.contact-social {
+  text-align: center;
+}
