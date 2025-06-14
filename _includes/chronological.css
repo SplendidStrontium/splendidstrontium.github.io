@@ -1,4 +1,4 @@
-.arch-post{ 
+.chron-post{ 
 	position: relative;
 	border-style: solid;
 	border-collapse: collapse;
@@ -13,7 +13,7 @@
 	list-style-type: none;
 }
 
-.arch-link-box{
+.chron-link-box{
 	width: 56%;
 	border-style: solid;
 	border-width: 1px;
@@ -25,11 +25,11 @@
     margin-bottom: 0.1em;
 }
 
-.arch-link-txt{
+.chron-link-txt{
     display:block;
 }
 
-.arch-desc{
+.chron-desc{
 	font-style: italic;
 	font-size: 0.9em;
     background-color: #bbb;
@@ -40,7 +40,7 @@
 	padding-right: 0.4em;
 }
 
-.arch-cata{
+.chron-cata{
     font-family: monospace;
     font-size: 1.1em;
 	color: #666;
@@ -50,7 +50,7 @@
     text-align: right;
 }
 
-.arch-tags{
+.chron-tags{
     color: #777;
     font-size: 0.8em;
     text-align: right;
@@ -58,7 +58,7 @@
 }
     
 
-.arch-date{
+.chron-date{
     width: 9.9em;
 	height: 1.7em;
 	font-size: 0.9em;

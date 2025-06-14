@@ -1,69 +1,48 @@
 ---
-layout: archive
-title: "/archive"
+layout: default
+title: Writing Archive
 menu: main
-permalink: /archive/ 
+permalink: /archive/
 ---
 
 <html>
-<head>
-<meta charset="utf-8">
-</head>
+	<head>
+		<meta charset="utf-8">
+	</head>
 
 <body>
-<p>The archive is the list of many active posts listed chronologically. ♫♫ indicates that a post has open comments.</p>
-
-<div id="arch-list">
-{% for post in site.posts %}
-{% if post.url %}
-{% if post.category != "old" %}
-{% if post.category != "calligraphy" %}
-{% if post.category != "hexfiles" %}
-{% if post.category != "fpmcnotes" %}
 
 
-	<li class="arch-post">
-	<div class="arch-link-box"><a class="arch-link-txt" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | truncate: 31 }}</a></div>
-	
-    <p class="arch-cata">/{{post.category}}/</p>
+<h1>Writing Archive</h1>
 
-    {% if post.description == "" %}
-	{% else %}<br>
+<p>A collection of writing projects, completed works, and ongoing experiments. Some projects are actively maintained while other represent completed explorations or works in progress that may be revisited.
 
-    <div class="arch-desc">{{post.description}} {% if post.comments_id %}<span class="arch-comments-notify">♫♫</span>{% endif %}</div>
-    {% endif %}
+<p>-</p>
 
-    <div class="arch-tags">
-    {{post.tags | array_to_sentence_string}}</div>
-   
+<p><strong><a href="/darkshadows/">Dark Shadows Episode Reviews</a></strong><br>
+Brief synopsis of the first eleven episodes of the popular soap opera Dark Shadows, which aired on ABC from 1966-1971.</p>
 
-    <span class="arch-date">
-    <span id="dayname-cn">
-    {% assign day = post.date | date: "%w" %}
-    {% case day %}
-    {% when '0' %}周日
-    {% when '1' %}周一
-    {% when '2' %}周二
-    {% when '3' %}周三
-    {% when '4' %}周四
-    {% when '5' %}周五
-    {% else %}周六
-    {% endcase %}</span>
+<p><strong><a href="/devlog-old/">Development Log (old)</a></strong><br>
+Pull updates to your software until they no longer support your device. Here the author discusses issues with adhering to meta.</p>
 
-	{{post.date | date: "%d %b, %Y"}}
-	</span>
-	
-	</li>
-	
-{% endif %}	
-{% endif %}	
-{% endif %}	
-{% endif %}
-{% endif %}
-{% endfor %}
-</div>
+<p><strong><a href="/femputermanchine/">Femputer Manchine</a></strong><br>
+For ten thousand years the people of planet Earth have been awakening to create civilization and colonize their world. A modern fantasy exploring hidden magical societies and the tension between mundane and mystical realities.</p>
 
+<p><strong><a href="/harmonicmean/">Harmonic Mean</a></strong><br>
+A webnovel exploring mathematical concepts through narrative structure and character development.</p>
 
+<p><strong><a href="/recipe/">Recipes</a></strong><br>
+It so happens you have to eat to live. A collection of cooking experiments and documented recipes, because sustenance is part of the creative process.</p>
+
+<p><strong><a href="/sophieblue/">Sophie Blue</a></strong><br>
+Sophie Blue was imprisoned for crimes against humanity. She was allowed to keep a diary in her quarters during her time served. A dark exploration of character through the lens of confinement and reflection.</p>
+
+<p><strong><a href="/warcraft/">Warcraft</a></strong><br>
+If you play World of Warcraft, you might understand some of this stuff. Stories, character sketches, and creative writing inspired by the World of Warcraft universe.</p>
+
+<p>-</p>
+
+<p><em>For a complete chronological listing of all posts across projects, see <a href="/chronological/">chronological archive</a>.</em></p>
 
 </body>
 </html>

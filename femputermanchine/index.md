@@ -1,7 +1,6 @@
 ---
 layout: femputermanchine
 title: "Femputer Manchine"
-menu: main
 permalink: /femputermanchine/ 
 ---
 
