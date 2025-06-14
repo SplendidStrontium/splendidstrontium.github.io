@@ -1,0 +1,24 @@
+<footer class="legal-footer creative-commons">
+  <div class="footer-content">
+	<div class="disclaimer-content">
+		<p>This work is licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">Creative Commons Attribution-ShareAlike 4.0 International License</a>. You are free to share and adapt this material with proper attribution.</p>
+    </div>
+  
+	<div class="contact-social">
+		<div class="social-links">
+			<a href="/feed.xml" aria-label="RSS Feed" title="Subscribe to RSS">RSS</a>
+			<a href="https://www.youtube.com/channel/UC2GGSbxdmmy-X7c5wyzE38w" target="_blank" aria-label="YouTube Channel" title="Visit our YouTube channel">YouTube</a>
+			<a href="https://discord.gg/A5PyBpFvE8" target="_blank" aria-label="Discord Server" title="Join our Discord community">Discord</a>
+		</div>
+	</div>
+	  
+	<div class="contact-info">
+		<p>&copy; {{ site.time | date: '%Y' }} {{ site.title | default: site.github.repository_name }}</p>
+		<a href="mailto:{{ site.email }}">{{ site.email }}</a>
+	</div>
+
+    <div class="site-description">
+        <p>{{ site.description }}</p>
+    </div>
+  </div>
+</footer>

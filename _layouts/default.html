@@ -14,8 +14,13 @@
       </div>
     </div>
 
-		{% include footer-sm.html %}
-
+		{% if page.categories contains 'femputermanchine' or page.categories contains 'warcraft' or page.url contains '/femputermanchine/' or page.url contains '/warcraft/' %}
+			{% include footer-fanfiction.html %}
+		{% elsif page.categories contains 'sophieblue' or page.categories contains 'harmonicmean' or page.categories contains 'original-fiction' or page.url contains '/sophieblue/' or page.url contains '/harmonicmean/' %}
+			{% include footer-creative-commons.html %}
+		{% else %}
+			{% include footer.html %}
+		{% endif %}
   </body>
 
 </html>
