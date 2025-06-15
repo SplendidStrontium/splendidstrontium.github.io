@@ -9,15 +9,66 @@ permalink: /
 
 </head>
 
-<div class="home">
+<div class="homepage-intro">
+  <h1>Welcome to nan.nyc</h1>
+  
+  <p>This is the creative workspace of a writer focused on <em>The Convergent Eigenspace</em>, an eight-book fantasy series following Cedric Kenyon as he discovers a world of magic and mysticism running parallel to everyday reality.</p>
+  
+  <p>Here you'll find updates on my current projects, thoughts on the writing process, and behind-the-scenes content for the series. For content specifically related to <em>The Convergent Eigenspace</em>, visit <a href="/tce/">/tce/</a>. My archived works from previous projects can be found in the <a href="/archive/">Writing Archive</a>.</p>
+</div>
 
-Greetings, visitor, you have reached the home page of NANNY-C. 
-<br/><br/>
-The algorithms that compose the decision matrix and personality subroutines of NANNY-C claim lineage to artificial intelligence algorithms created by man in the second millenium. A clone of NANNY-C, notably the third and the most famous bot to use the moniker, was created to safeguard the last remaining humans in the third millenium A.D. on Earth.
-<br/><br/>
-NANNY-C has since retired and is collecting and digitizing a collection of notes and personal logs.  
-<br/><br/>
-Thank you for visiting.
-<br/><br/>
+<hr>
 
+<div class="navigation-highlights">
+  <h2>Current Focus</h2>
+  <ul>
+    <li><strong><a href="/tce/">The Convergent Eigenspace</a></strong> - Character bios, world-building, and series content</li>
+    <li><strong><a href="/archive/">Writing Archive</a></strong> - Complete collection of previous works</li>
+    <li><strong><a href="/chronological/">Chronological Index</a></strong> - Every post by date</li>
+  </ul>
+</div>
+
+<hr>
+
+<div class="recent-posts">
+  <h2>Latest Updates</h2>
+  
+  {% assign blog_posts = site.posts | where: "categories", "blog" %}
+  {% assign tce_posts = site.posts | where: "categories", "tce" %}
+  {% assign combined_posts = blog_posts | concat: tce_posts | sort: "date" | reverse | limit: 5 %}
+  
+  {% for post in combined_posts %}
+    <article class="post-preview">
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      
+      <p class="post-meta">
+        {{ post.date | date: "%A, %B %d, %Y" }}
+        {% if post.categories and post.categories.size > 0 %}
+          | {{ post.categories | join: ", " }}
+        {% endif %}
+      </p>
+      
+      {% if post.excerpt %}
+        <div class="excerpt">
+          {{ post.excerpt | strip_html | truncatewords: 40 }}
+        </div>
+      {% else %}
+        <div class="excerpt">
+          {{ post.content | strip_html | truncatewords: 30 }}
+        </div>
+      {% endif %}
+      
+      <p><a href="{{ post.url }}" class="read-more">Continue reading →</a></p>
+    </article>
+  {% endfor %}
+  
+  {% if combined_posts.size == 0 %}
+    <p>New content coming soon.</p>
+  {% endif %}
+</div>
+
+<hr>
+
+<div class="homepage-footer">
+  <p><em>This site is text-forward and always will be. Design philosophy inspired by the early dreams of the World Wide Web: connecting people with ideas.</em></p>
 </div>
