@@ -3,7 +3,6 @@ layout: post
 title: "New Beginnings: Eyes on the Path Ahead"
 date: 2025-06-15
 categories: [blog]
-category: blog
 tags: [website-update, writing-journey, tce, announcement]
 excerpt: "After years of writing in different directions, I am ready to commit to a clear creative path and have reorganized this site to reflect that focus."
 author: nan
