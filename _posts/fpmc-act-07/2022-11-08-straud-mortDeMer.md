@@ -5,11 +5,12 @@ permalink: /femputermanchine/straud/mort-de-mer/
 category: femputermanchine
 date: 2022-11-08 21:52
 description: "in which Cedric rebels"
-tags: [chat, fpmcmain-pidge, act-vii]
+tags: [chat, fpmcmain-straud, act-vii]
 published: true
 lastmod: 2022-11-08 21:53
 ---
 [//]: # ( 11/08/22  -added)
+[//]: # ( 06/19/25  -this had a pidge tag)
 
 *****
 <br>
