@@ -10,8 +10,13 @@
                 {% assign commentData = comment[1] %}
                 <div class="comment" id="comment-{{ comment[0] }}">
                     <div class="comment-header">
-                        <strong>{{ commentData.name }}</strong>
-                        <span class="comment-date">{{ commentData.date | date: "%B %d, %Y at %I:%M %p" }}</span>
+                        <div class="comment-author">
+                            {% if commentData.email %}
+                                <img src="https://www.gravatar.com/avatar/{{ commentData.email }}?s=40&d=identicon" alt="Avatar" class="comment-avatar">
+                            {% endif %}
+                            <strong>{{ commentData.name }}</strong>
+                        </div>
+                        <span class="comment-date">{{ commentData.date | date: "%B %d, %Y at %I:%M %p UTC" }}</span>
                     </div>
                     <div class="comment-body">
                         {{ commentData.message | markdownify }}
