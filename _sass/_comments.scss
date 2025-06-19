@@ -54,4 +54,176 @@
     display: none;
 }
 
+/* Comment Section Styling - Matches site aesthetic */
+.comments-section {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid black;
+}
 
+.comments-section h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: $text-color;
+  text-align: center;
+}
+
+/* Comments List */
+.comments-list {
+  margin-bottom: 2rem;
+}
+
+.comment {
+  background-color: #eee;
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  box-shadow: -0.2em 0.2em 0.05em #666;
+}
+
+.comment-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid black;
+}
+
+.comment-header strong {
+  color: $text-color;
+  font-weight: bold;
+}
+
+.comment-date {
+  color: $grey-color-dark;
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
+.comment-body {
+  color: $text-color;
+  line-height: $base-line-height;
+}
+
+.comment-body p {
+  margin-bottom: 0.5rem;
+}
+
+.comment-body p:last-child {
+  margin-bottom: 0;
+}
+
+/* Comment Form */
+.comment-form {
+  background-color: #ddd;
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 1.5rem;
+  margin-top: 1.5rem;
+  box-shadow: -0.2em 0.2em 0.05em #666;
+}
+
+.comment-form h4 {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: $text-color;
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.form-group label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 0.25rem;
+  color: $text-color;
+}
+
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid black;
+  background-color: #fff;
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  box-sizing: border-box;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+  outline: 2px solid $brand-color;
+  background-color: #f9f9f9;
+}
+
+.comment-form button {
+  background-color: $brand-color;
+  color: white;
+  border: 1px solid black;
+  padding: 0.75rem 1.5rem;
+  font-size: $base-font-size;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: -0.2em 0.2em 0.05em #666;
+}
+
+.comment-form button:hover {
+  background-color: darken($brand-color, 10%);
+}
+
+.comment-form button:active {
+  box-shadow: -0.1em 0.1em 0.02em #666;
+  transform: translate(-0.1em, 0.1em);
+}
+
+.form-note {
+  margin-top: 1rem;
+  font-size: $small-font-size;
+  color: $grey-color-dark;
+  font-style: italic;
+  text-align: center;
+}
+
+/* No Comments Message */
+.comments-section > p {
+  color: $grey-color-dark;
+  font-style: italic;
+  text-align: center;
+  padding: 1.5rem;
+  background-color: #eee;
+  border: 1px solid black;
+  margin-bottom: 1.5rem;
+}
+
+/* Responsive Design */
+@include media-query($on-palm) {
+  .comments-section {
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+  }
+  
+  .comment {
+    padding: 0.75rem;
+  }
+  
+  .comment-form {
+    padding: 1rem;
+  }
+  
+  .comment-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.25rem;
+  }
+  
+  .form-group input,
+  .form-group textarea {
+    padding: 0.4rem;
+  }
+}
