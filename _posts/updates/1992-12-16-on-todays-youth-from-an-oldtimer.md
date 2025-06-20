@@ -6,7 +6,7 @@ category:	updates
 tags:		[fpmc] 
 description: 	"found in the little old desk"
 thumbnail_id:	"00-004.jpg"
-comments_id:	"48"
+
 published: true
 lastmod:	2020-05-22 20:26
 ---

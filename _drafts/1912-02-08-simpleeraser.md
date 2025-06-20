@@ -6,7 +6,7 @@ category:	fpmcnotes
 tags:		[fpmc] 
 description: 	"a treatise for deleting records"
 thumbnail_id:	"00-003.jpg"
-comments_id:	"44"
+
 published: true
 lastmod:	2020-05-22 20:30
 ---

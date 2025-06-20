@@ -5,7 +5,7 @@ date:	2018-05-14 16:25
 category:	hexfiles
 tags:		[fantasy, cantrips] 
 description: 	"a list of ideas for small invocations"
-comments_id:	"49"
+
 published: true
 lastmod:	2018-05-14 16:25
 ---

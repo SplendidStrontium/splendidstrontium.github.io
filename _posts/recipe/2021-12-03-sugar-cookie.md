@@ -6,7 +6,7 @@ category: recipe
 tags: [wheat, butter, eggs, milk] 
 description: "a crowd-pleaser in any shape"
 thumbnail_id: "f0-010.jpg"
-comments_id: "88"
+
 published: true
 lastmod: 2021-12-03 16:57
 ---

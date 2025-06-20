@@ -5,7 +5,7 @@ date:	2018-05-03 11:42
 category:	updates
 tags:		[star-trek, tv-reaction] 
 description: 	"Series originally about philosophical exploration has become weekly dose-o-melodrama"
-comments_id:	"50"
+
 published: true
 lastmod:	2018-05-04 09:18
 ---
