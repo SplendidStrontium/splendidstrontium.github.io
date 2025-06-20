@@ -22,7 +22,7 @@
         </div>
     </div>
     <div class="comment-body">
-        {{ commentData.message | markdownify }}
+        {{ commentData.message | replace: '\r\n', '<br>' | replace: '\n', '<br>' | markdownify }}
     </div>
     
     {% if level < max_depth %}
