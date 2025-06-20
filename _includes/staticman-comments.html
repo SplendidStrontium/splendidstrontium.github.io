@@ -3,31 +3,77 @@
 <div class="comments-section">
     <h3>Comments</h3>
     
-    <!-- Display existing comments using your original working logic -->
+    <!-- Display root-level comments with improved filtering logic -->
     {% assign sorted_comments = comments | sort %}
     <div class="comments-list">
         {% for comment in sorted_comments %}
             {% assign commentData = comment[1] %}
             {% assign commentId = comment[0] %}
-            <div class="comment" id="comment-{{ commentId }}">
-                <div class="comment-header">
-                    <div class="comment-author">
-                        {% if commentData.email %}
-                            <img src="https://www.gravatar.com/avatar/{{ commentData.email }}?s=40&d=identicon" alt="Avatar" class="comment-avatar">
-                        {% else %}
-                            <div class="comment-avatar"></div>
+            
+            <!-- Display comments that are root-level (no parent_id or empty parent_id) -->
+            {% assign is_root_comment = false %}
+            {% if commentData.parent_id == nil or commentData.parent_id == "" or commentData.parent_id == blank %}
+                {% assign is_root_comment = true %}
+            {% endif %}
+            
+            {% if is_root_comment %}
+                <div class="comment" id="comment-{{ commentId }}">
+                    <div class="comment-header">
+                        <div class="comment-author">
+                            {% if commentData.email %}
+                                <img src="https://www.gravatar.com/avatar/{{ commentData.email }}?s=40&d=identicon" alt="Avatar" class="comment-avatar">
+                            {% else %}
+                                <div class="comment-avatar"></div>
+                            {% endif %}
+                            <strong>{{ commentData.name }}</strong>
+                        </div>
+                        <div class="comment-meta">
+                            <span class="comment-date">{{ commentData.date | date: "%B %d, %Y at %I:%M %p UTC" }}</span>
+                            <button class="reply-button" data-parent-id="{{ commentId }}" data-parent-author="{{ commentData.name }}">Reply</button>
+                        </div>
+                    </div>
+                    <div class="comment-body">
+                        {{ commentData.message | markdownify }}
+                    </div>
+                    
+                    <!-- Find and display child comments nested under this parent -->
+                    {% assign child_comments = '' | split: '' %}
+                    {% for potential_child in sorted_comments %}
+                        {% assign potential_child_data = potential_child[1] %}
+                        {% if potential_child_data.parent_id == commentId %}
+                            {% assign child_comments = child_comments | push: potential_child %}
                         {% endif %}
-                        <strong>{{ commentData.name }}</strong>
-                    </div>
-                    <div class="comment-meta">
-                        <span class="comment-date">{{ commentData.date | date: "%B %d, %Y at %I:%M %p UTC" }}</span>
-                        <button class="reply-button" data-parent-id="{{ commentId }}" data-parent-author="{{ commentData.name }}">Reply</button>
-                    </div>
+                    {% endfor %}
+                    
+                    {% if child_comments.size > 0 %}
+                        <div class="comment-replies">
+                            {% for child_comment in child_comments %}
+                                {% assign childData = child_comment[1] %}
+                                {% assign childId = child_comment[0] %}
+                                <div class="comment comment-level-1" id="comment-{{ childId }}">
+                                    <div class="comment-header">
+                                        <div class="comment-author">
+                                            {% if childData.email %}
+                                                <img src="https://www.gravatar.com/avatar/{{ childData.email }}?s=40&d=identicon" alt="Avatar" class="comment-avatar">
+                                            {% else %}
+                                                <div class="comment-avatar"></div>
+                                            {% endif %}
+                                            <strong>{{ childData.name }}</strong>
+                                        </div>
+                                        <div class="comment-meta">
+                                            <span class="comment-date">{{ childData.date | date: "%B %d, %Y at %I:%M %p UTC" }}</span>
+                                            <button class="reply-button" data-parent-id="{{ childId }}" data-parent-author="{{ childData.name }}">Reply</button>
+                                        </div>
+                                    </div>
+                                    <div class="comment-body">
+                                        {{ childData.message | markdownify }}
+                                    </div>
+                                </div>
+                            {% endfor %}
+                        </div>
+                    {% endif %}
                 </div>
-                <div class="comment-body">
-                    {{ commentData.message | markdownify }}
-                </div>
-            </div>
+            {% endif %}
         {% endfor %}
     </div>
     
