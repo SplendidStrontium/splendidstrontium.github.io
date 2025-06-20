@@ -7,7 +7,7 @@ tags:		[wheat, rye, butter, corn]
 description: 	"first try AP->rye"
 thumbnail_id:	"f0-007.jpg"
 published: true
-comments_id:	20
+
 lastmod:	2020-02-03 12:00
 ---
 ![finished apple blackberry pie innards]({{ site.url }}/assets/img/apple-blackberry-pie.jpg)

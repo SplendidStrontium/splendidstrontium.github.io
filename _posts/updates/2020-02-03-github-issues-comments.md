@@ -5,7 +5,7 @@ date:	2020-02-03 10:54
 category:	updates
 tags:		[jekyll, github, how-to, comments] 
 description: 	"A summary of how I added comments to my Github-hosted blog; albeit by requiring people to use a Github-account to interact with the comment-page"
-comments_id:	"45"
+
 published: true
 lastmod:	2020-02-03 10:54
 ---

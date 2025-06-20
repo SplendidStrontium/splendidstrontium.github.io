@@ -6,7 +6,7 @@ category:	warcraft
 tags:		[opinion, ooc] 
 description: 	"I hear that Blizzard is polling the community about their interest in reviving a playable copy of the Burning Crusade. Assuming it's implemented similarly to WoW: Classic, I say, 'Sure, if you must.' I don't think we need it. But if you want it that badly, do it, but that's all you get. For'rll."
 thumbnail_id:	"w0-012.jpg"
-comments_id:	"43"
+
 published: true
 lastmod:	2020-04-12 18:24
 ---

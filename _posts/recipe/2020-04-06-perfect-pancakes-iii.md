@@ -6,7 +6,7 @@ category:	recipe
 tags:		[wheat, butter, eggs, milk, plant-milk, sugar] 
 description: 	"I am trying to create a fluffy pancake from basic ingredients. Batter should be smooth and cook up quickly. Finished product should be mostly dry inside but form a distinct 'cake' with enough protein to resist crumbling."
 thumbnail_id:	"f0-008.jpg"
-comments_id:	"39"
+
 published: true
 lastmod:	2020-04-12 17:34
 ---
