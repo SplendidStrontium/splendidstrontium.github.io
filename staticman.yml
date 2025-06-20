@@ -9,7 +9,6 @@ comments:
   requiredFields: ["name", "message"]
   transforms:
     email: md5
-    message: "function(field, data) { return field.replace(/\\r\\n/g, '\\n').replace(/\\r/g, '\\n'); }"
   generatedFields:
     date:
       type: "date"
