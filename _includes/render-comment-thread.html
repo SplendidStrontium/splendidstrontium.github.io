@@ -1,0 +1,50 @@
+{% assign commentId = include.comment_id %}
+{% assign commentData = include.comment_data %}
+{% assign all_comments = include.all_comments %}
+{% assign level = include.level | default: 0 %}
+{% assign max_depth = 4 %}
+
+<div class="comment comment-level-{{ level }}" id="comment-{{ commentId }}">
+    <div class="comment-header">
+        <div class="comment-author">
+            {% if commentData.email %}
+                <img src="https://www.gravatar.com/avatar/{{ commentData.email }}?s=40&d=identicon" alt="Avatar" class="comment-avatar">
+            {% else %}
+                <div class="comment-avatar"></div>
+            {% endif %}
+            <strong>{{ commentData.name }}</strong>
+        </div>
+        <div class="comment-meta">
+            <span class="comment-date">{{ commentData.date | date: "%B %d, %Y at %I:%M %p UTC" }}</span>
+            {% if level < max_depth %}
+                <button class="reply-button" data-parent-id="{{ commentId }}" data-parent-author="{{ commentData.name }}">Reply</button>
+            {% endif %}
+        </div>
+    </div>
+    <div class="comment-body">
+        {{ commentData.message | markdownify }}
+    </div>
+    
+    {% if level < max_depth %}
+        {% assign direct_children = '' | split: '' %}
+        
+        {% for comment_pair in all_comments %}
+            {% assign check_data = comment_pair[1] %}
+            {% if check_data.parent_id == commentId %}
+                {% assign direct_children = direct_children | push: comment_pair %}
+            {% endif %}
+        {% endfor %}
+        
+        {% if direct_children.size > 0 %}
+            {% assign next_level = level | plus: 1 %}
+            <div class="comment-replies">
+                {% assign sorted_children = direct_children | sort %}
+                {% for child_pair in sorted_children %}
+                    {% assign child_id = child_pair[0] %}
+                    {% assign child_data = child_pair[1] %}
+                    {% include render-comment-thread.html comment_id=child_id comment_data=child_data all_comments=all_comments level=next_level %}
+                {% endfor %}
+            </div>
+        {% endif %}
+    {% endif %}
+</div>
