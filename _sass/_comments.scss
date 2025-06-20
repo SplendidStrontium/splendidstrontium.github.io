@@ -387,3 +387,32 @@
     gap: 0.75rem;
   }
 }
+
+/* Desktop layout fixes for deeply nested comments */
+@media screen and (min-width: 769px) {
+  .comment-level-3 .comment-header,
+  .comment-level-4 .comment-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+  
+  .comment-level-3 .comment-meta,
+  .comment-level-4 .comment-meta {
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+  }
+  
+  /* Reduce indentation for very deep nesting on smaller desktop screens */
+  @media screen and (max-width: 1200px) {
+    .comment-level-3 {
+      margin-left: 4rem;
+    }
+    
+    .comment-level-4 {
+      margin-left: 5rem;
+    }
+  }
+}
