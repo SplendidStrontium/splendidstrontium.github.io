@@ -2,7 +2,7 @@
     <div class="comment-form">
         <h4 id="comment-form-title">Leave a Comment</h4>
         
-        <form id="comment-form" action="https://staticman.nan.nyc/v2/entry/SplendidStrontium/splendidstrontium.github.io/master/comments" method="post">
+        <form id="comment-form" action="https://staticman.nan.nyc/v2/entry/SplendidStrontium/splendidstrontium.github.io/master/comments" method="post" enctype="application/x-www-form-urlencoded">
             
             <!-- Hidden fields for Staticman -->
             <input type="hidden" name="options[redirect]" value="{{ site.url }}{{ page.url }}#comment-submitted">
@@ -27,7 +27,7 @@
                 <label for="message">Comment (required)</label>
                 <textarea id="message" name="fields[message]" rows="5" required></textarea>
                 <small class="form-help">
-                    Basic <a href="https://www.markdownguide.org/basic-syntax/" target="_blank">Markdown</a> formatting supported: **bold**, *italic*, [links](url)
+                    Basic <a href="https://www.markdownguide.org/basic-syntax/" target="_blank">Markdown</a> formatting supported: *italic*, [links](url)
                 </small>
             </div>
             

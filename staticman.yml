@@ -9,6 +9,7 @@ comments:
   requiredFields: ["name", "message"]
   transforms:
     email: md5
+    message: "frontmatterEscape"
   generatedFields:
     date:
       type: "date"
