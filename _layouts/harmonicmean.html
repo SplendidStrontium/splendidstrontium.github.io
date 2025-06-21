@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+<script src="{{ '/assets/js/comments.js' | relative_url }}"></script>
+
 <div class="hm-main">
 
  <header class="hm-header">
@@ -8,9 +10,10 @@ layout: default
   </header>
 
   <div class="hm-content">
-    <div>
 		{{ content }}
-	</div>
   </div>
+
+<!-- Comments section - enabled for all posts -->
+{% include staticman-comments.html %}
 
 </div>

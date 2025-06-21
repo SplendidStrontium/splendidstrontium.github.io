@@ -20,15 +20,7 @@ layout: default
 	<p class="post-meta">Last update: {{ page.lastmod | date_to_rfc822 }}</p>
 {% endif %}
 
-{% assign show_comments = false %}
-{% if page.category == "blog" %}
-	{% assign show_comments = true %}
-{% elsif page.categories contains "blog" %}
-	{% assign show_comments = true %}
-{% endif %}
-
-{% if show_comments %}
-	{% include staticman-comments.html %}
-{% endif %}
+<!-- Comments section - enabled for all posts -->
+{% include staticman-comments.html %}
 
 </div>

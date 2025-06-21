@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<script src="{{ '/assets/js/comments.js' | relative_url }}"></script>
 
 {% for post in site.categories.darkshadows %}
 	{% if post.url == page.url %}
@@ -40,10 +41,6 @@ layout: default
   </article>
 	
 
-
-
-
-
 <div class="ds-nav-box">
 {% if prev_post %}
 	<div class="ds-nav-link-box"><span class="ds-nav-link-txt"><a href="{{ prev_post }}">Previous// {{ prev_post_title }}</a></span><br/><span class="ds-nav-prev-desc">{{ prev_post_desc }}</span></div>
@@ -54,6 +51,7 @@ layout: default
 {% endif %}
 </div>
 
-
+<!-- Comments section - enabled for all posts -->
+{% include staticman-comments.html %}
 
 </div>
