@@ -6,7 +6,6 @@
 
 {% include chronological.css %}
 {% include biography.css %}
-{% include calligraphy.css %}
 {% include chinese.css %}
 {% include darkshadows.css %}
 {% include eatsleepdo.css %}
@@ -36,206 +35,12 @@ $grey-color-dark:  darken($grey-color, 25%);
 $on-palm:          600px;
 $on-laptop:        800px;
 
-
-
-li.arch-post {
-	list-style: none	!important;
-}
-
-li.snips-post {
-	list-style: none	!important;
-}
-
-li.entertainment-post {
-	list-style: none	!important;
-}
-
 // li a:hover, li a:focus {
 // 	background-color:red;
 // }
 
 .book-quote{
 	font-size: .8em;
-}
-
-#canon-intro{
-	margin:0;
-	margin-bottom: 2em;
-}
-
-ul.canon-list-current{
-	list-style-type: none;
-	margin: 0;
-	margin-bottom: 2em;
-	padding-top: 0.9em;
-	padding-left: 2em;
-	padding-right: 3em;
-	padding-bottom: 0.1em;
-	list-style-position:inside;
-    border: 1px solid black;
-}
-
-li.canon-list-name{
-	padding-left: 1.8em;
-	font-size:1.9em;
-}
-
-.canon-list-nametext{
-	text-decoration:underline;
-	font-style:bold;
-}
-
-li.canon-list-desc-shrt{
-	color:#444;
-}
-	
-
-li.canon-list-desc-long{
-	border-top: 1px solid black;
-	border-bottom: 1px solid black;
-	margin-top: 2em;
-	padding-top: 1em;
-	color:#222;
-}
-
-li.canon-list-date-lstcheck{
-	color:#666;
-	text-align:right;
-}
-
-.og-award-badge{ 
-	position: relative;
-	z-index: 3;
-	overflow: hidden;
-	left: 2em;
-	width: 80%;
-	border-style: solid;
-	border-collapse: collapse;
-	border-width: thin medium;
-	border-color: #888;
-	margin-bottom: 4em;
-	padding-bottom: 0.2em;
-	border-radius: 1.5em 1.5em;
-    background-color: #aaa;
-	box-shadow: -0.3em 0.3em 0.05em #666;
-	list-style-type: none;
-}
-
-.award-title{
-    display:positioned;
-	margin-top: 0.4em;
-	text-align: center;
-	font-size: 1.8em;
-}
-
-.og-tb-bar{
-	display: flex;
-	justify-content: center;
-	height:130px;
-	align-items:center;
-}
-
-.og1-tb{
-	z-index: 1;
-	margin-right:3em;
-}
-
-.oga-tb{
-	z-index: 1;
-	margin-left:3em;
-}
-
-.og-title{
-	z-index:0;
-    display:relative;
-	text-align: center;
-	left: 120px;
-	top: 0;
-
-}
-
-.og-title-txt{
-	font-style: italic;
-	font-size: 0.8em;
-}
-
-.og-desc{
-	display:relative;
-	text-align:center;
-	width:80%;
-	margin-top: 0;
-	margin-left: 10%;
-	margin-right: 10%;
-
-}
-
-.og-date{
-	display:block;
-	right:0;
-	bottom:0;
-	text-align:right;
-}
-
-#ff_table {
-	border: 1px solid black;
-	border-collapse: collapse;
-	background-color: #ccc;
-}
-
-#ff_table td {
-	border:	1px solid black;
-	background-color: #eee;
-}
-
-#ff_table th {
-	border: 1px solid black;
-	background-color: #ddd;
-}
-
-#rm_table {
-	border: 1px solid black;
-	border-collapse: collapse;
-	background-color: #ccc;
-}
-
-#rm_table td {
-	border:	1px solid black;
-	background-color: #eee;
-}
-
-#rm_table th {
-	border: 1px solid black;
-	background-color: #ddd;
-}
-
-#lol_table {
-	border: 1px solid black;
-	border-collapse: collapse;
-	background-color: #ccc;
-}
-
-#lol_table td {
-	border:	1px solid black;
-	background-color: #eee;
-}
-
-#lol_table th {
-	border: 1px solid black;
-	background-color: #ddd;
-}
-
-.champ_title {
-	font-size: .9em;
-	font-style:	italic;
-}
-
-.champ_lg_name {
-	font-size: 1.15em;
-}
-
-.champ_name {
-	padding: 2px;
-	padding-left: 5px;
 }
 
 #wow_table_played_01 {
@@ -278,8 +83,6 @@ li.canon-list-date-lstcheck{
 
 
 
-
-
 // Using media queries with like this:
 // @include media-query($palm) {
 //     .wrapper {
@@ -292,7 +95,6 @@ li.canon-list-date-lstcheck{
         @content;
     }
 }
-
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)

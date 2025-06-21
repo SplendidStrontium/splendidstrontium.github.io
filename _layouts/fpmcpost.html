@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<script src="{{ '/assets/js/comments.js' | relative_url }}"></script>
 
 {% for post in site.categories.femputermanchine %}
 	{% if post.url == page.url %}
@@ -38,11 +39,6 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
-	
-
-
-
-
 
 <div class="fpmc-nav-box">
 {% if prev_post %}
@@ -54,7 +50,7 @@ layout: default
 {% endif %}
 </div>
 
-
-
+<!-- Comments section - enabled for all posts -->
+{% include staticman-comments.html %}
 
 </div>

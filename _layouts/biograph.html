@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+<script src="{{ '/assets/js/comments.js' | relative_url }}"></script>
+
 <div class="post">
 
   <header class="post-header">
@@ -17,4 +19,8 @@ layout: default
 {% if page.lastmod %}
 	<p class="post-meta">Last update: {{ page.lastmod | date_to_rfc822 }}</p>
 {% endif %}
+
+<!-- Comments section - enabled for all posts -->
+{% include staticman-comments.html %}
+
 </div>

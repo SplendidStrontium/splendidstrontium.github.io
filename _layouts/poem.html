@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+<script src="{{ '/assets/js/comments.js' | relative_url }}"></script>
+
 <div class="poem">
 
   <header class="poem-header">
@@ -18,6 +20,7 @@ layout: default
 	<p class="poem-lastupdate">Last update: {{ page.lastmod | date_to_rfc822 }}</p>
 {% endif %}
 
-
+<!-- Comments section - enabled for all posts -->
+{% include staticman-comments.html %}
 
 </div>
