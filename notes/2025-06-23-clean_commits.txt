@@ -1,0 +1,1155 @@
+2025-06-20 | Merge pull request #126 from SplendidStrontium/staticman_cda65ca0-4e44-11f0-9831-ff53d46ff7bd
+2025-06-20 | Merge pull request #127 from SplendidStrontium/staticman_27328e60-4e45-11f0-9831-ff53d46ff7bd
+2025-06-20 | Merge pull request #128 from SplendidStrontium/staticman_4d680ce0-4e45-11f0-9831-ff53d46ff7bd
+2025-06-20 | Merge pull request #129 from SplendidStrontium/staticman_7d4aa800-4e45-11f0-9831-ff53d46ff7bd
+2025-06-20 | Merge pull request #130 from SplendidStrontium/staticman_9ed31930-4e45-11f0-9831-ff53d46ff7bd
+2025-06-20 | Merge pull request #131 from SplendidStrontium/staticman_28c418f0-4e47-11f0-9831-ff53d46ff7bd
+2025-06-20 | Merge pull request #125 from SplendidStrontium/staticman_64a20dd0-4e44-11f0-9831-ff53d46ff7bd
+2025-06-20 | css cleanup, comments implemented across old content
+2025-06-21 | New comment by NaN
+2025-06-21 | New comment by NaN
+2025-06-21 | New comment by NaN
+2025-06-21 | New comment by NaN
+2025-06-21 | New comment by NaN
+2025-06-21 | New comment by NaN
+2025-06-21 | New comment by NaN
+2025-06-20 | comment id eliminated from frontmatter
+2025-06-20 | staticman.yml and test comment cleanup
+2025-06-20 | Merge pull request #124 from SplendidStrontium/staticman_7b896810-4dd9-11f0-8808-1daf8cb87f99
+2025-06-20 | New comment by Mewtwo
+2025-06-20 | js processing of comment for newline normalization
+2025-06-20 | Merge pull request #123 from SplendidStrontium/staticman_078a6370-4dd8-11f0-8808-1daf8cb87f99
+2025-06-20 | Merge pull request #122 from SplendidStrontium/staticman_571f93c0-4dd7-11f0-8808-1daf8cb87f99
+2025-06-20 | New comment by Kit Kat
+2025-06-20 | staticman.yml message processing for newlines
+2025-06-20 | New comment by A Curious Penguin
+2025-06-20 | Merge pull request #121 from SplendidStrontium/staticman_83dbd380-4dd5-11f0-8808-1daf8cb87f99
+2025-06-20 | newline detection and replacement before markdownify
+2025-06-20 | New comment by A Lean Lion
+2025-06-20 | Merge pull request #120 from SplendidStrontium/staticman_fdfa8fa0-4dd3-11f0-8808-1daf8cb87f99
+2025-06-20 | add markdown support to comments
+2025-06-20 | New comment by A Curious Penguin
+2025-06-19 | testing comments cleanup
+2025-06-19 | css fix for desktop
+2025-06-19 | Merge pull request #119 from SplendidStrontium/staticman_2c4cae10-4d84-11f0-8808-1daf8cb87f99
+2025-06-20 | New comment by Daffy
+2025-06-19 | Merge pull request #118 from SplendidStrontium/staticman_75608640-4d83-11f0-8808-1daf8cb87f99
+2025-06-19 | nesting problem fixed
+2025-06-20 | New comment by Bugs Bunny
+2025-06-19 | Update README.md
+2025-06-19 | Merge pull request #117 from SplendidStrontium/staticman_f135d360-4d7e-11f0-8808-1daf8cb87f99
+2025-06-19 | Merge pull request #116 from SplendidStrontium/staticman_cae68b50-4d7e-11f0-8808-1daf8cb87f99
+2025-06-19 | further refinement of threaded comment display and functions
+2025-06-20 | New comment by Daffy Duck
+2025-06-20 | New comment by Bumblebee
+2025-06-19 | Merge pull request #115 from SplendidStrontium/staticman_0e68b800-4d7d-11f0-8808-1daf8cb87f99
+2025-06-19 | Merge pull request #114 from SplendidStrontium/staticman_2a5851c0-4d7c-11f0-8808-1daf8cb87f99
+2025-06-19 | updates to threaded comment display
+2025-06-20 | New comment by Elmer Fudd
+2025-06-20 | New comment by Megatron
+2025-06-19 | Merge pull request #112 from SplendidStrontium/staticman_afa66510-4d77-11f0-8808-1daf8cb87f99
+2025-06-19 | Merge pull request #111 from SplendidStrontium/staticman_cdfb3f00-4d76-11f0-8808-1daf8cb87f99
+2025-06-20 | New comment by Bugs Bunny
+2025-06-19 | improved comment form functionality
+2025-06-20 | New comment by Forget me not
+2025-06-19 | Merge pull request #110 from SplendidStrontium/staticman_d4459e10-4d75-11f0-8808-1daf8cb87f99
+2025-06-20 | New comment by Cache this
+2025-06-19 | Merge pull request #109 from SplendidStrontium/staticman_4b990fc0-4d75-11f0-8808-1daf8cb87f99
+2025-06-20 | New comment by Felicity
+2025-06-19 | Merge branch 'master' of github.com:SplendidStrontium/splendidstrontium.github.io
+2025-06-19 | updated comment form
+2025-06-19 | Merge pull request #108 from SplendidStrontium/staticman_bf9b2900-4d73-11f0-8808-1daf8cb87f99
+2025-06-20 | New comment by Blue
+2025-06-19 | update staticman.yml
+2025-06-19 | about page art credit clarification
+2025-06-19 | about page refinements
+2025-06-19 | straud 31 tag corrected
+2025-06-19 | revised about page
+2025-06-18 | gravatar display implemented
+2025-06-18 | Merge pull request #104 from SplendidStrontium/staticman_837eeb50-4cb5-11f0-b63b-953dca23f972
+2025-06-18 | Merge pull request #105 from SplendidStrontium/staticman_6c5bcdc0-4cb6-11f0-b63b-953dca23f972
+2025-06-18 | Merge pull request #106 from SplendidStrontium/staticman_5019a730-4cb7-11f0-b63b-953dca23f972
+2025-06-18 | Merge pull request #103 from SplendidStrontium/staticman_cddca8a0-4cb4-11f0-b63b-953dca23f972
+2025-06-18 | Merge pull request #107 from SplendidStrontium/staticman_f9729730-4cba-11f0-b63b-953dca23f972
+2025-06-19 | New comment by NaN
+2025-06-18 | add styling for comment system
+2025-06-19 | New comment by The Pink Ranger
+2025-06-19 | New comment by I really don't know
+2025-06-19 | New comment by Purple Cat
+2025-06-19 | New comment by Sally the Giant
+2025-06-18 | update config for production deployment
+2025-06-18 | Merge branch 'staticman-comments' of github.com:SplendidStrontium/splendidstrontium.github.io into staticman-comments
+2025-06-18 | Update form URL and config for testing
+2025-06-18 | Merge pull request #102 from SplendidStrontium/staticman_1909b4f0-4c95-11f0-b63b-953dca23f972
+2025-06-18 | New comment by Optimus Prime
+2025-06-18 | edit test comment content
+2025-06-18 | Merge branch 'staticman-comments' of github.com:SplendidStrontium/splendidstrontium.github.io into staticman-comments
+2025-06-18 | update comment form URL and template changes
+2025-06-18 | Merge pull request #101 from SplendidStrontium/staticman_ac42e740-4c91-11f0-b63b-953dca23f972
+2025-06-18 | New comment by Bix the Cat
+2025-06-18 | Add Staticman config for comment system
+2025-06-17 | note added to old landing page
+2025-06-15 | Add new blog post: New Beginnings
+2025-06-14 | update readme with new urls
+2025-06-14 | remove unused jquery 1.11.2 file to fix security warnings
+2025-06-14 | footer copyright tweak
+2025-06-14 | footer redesign and conditional legal disclaimers
+2025-06-14 | old site content archived
+2025-03-17 | Update footer-sm.html
+2025-03-17 | Update README.md
+2025-03-17 | Update footer-sm.html
+2025-03-06 | Update act-viii.md
+2025-03-06 | removed link to gh wiki
+2025-02-15 | trelaine 002 removed
+2025-02-14 | Update _config.yml
+2025-02-14 | Update femputermanchine.md
+2025-02-14 | Update 2025-01-23-kevin-windfall.md
+2025-02-13 | Create frankie.jpg
+2025-02-12 | Update 2025-01-23-kevin-windfall.md
+2025-02-12 | Update 2025-01-23-kevin-windfall.md
+2025-02-11 | kevin 041 photodump
+2025-02-10 | Create cedric00.jpg
+2025-02-10 | Update 2025-01-23-kevin-windfall.md
+2025-02-10 | Update 2025-01-23-kevin-windfall.md
+2025-02-10 | Update 2025-01-23-kevin-windfall.md
+2025-02-09 | Update 2025-01-23-kevin-windfall.md
+2025-02-09 | Update 2025-01-23-kevin-windfall.md
+2025-02-09 | Update 2025-01-23-kevin-windfall.md
+2025-02-09 | Update 2025-01-23-kevin-windfall.md
+2025-02-09 | Update 2025-01-23-kevin-windfall.md
+2025-02-09 | Update 2025-01-23-kevin-windfall.md
+2025-02-09 | Create 2025-01-23-kevin-windfall.md
+2025-02-06 | img purge
+2025-02-06 | tb purge pt 3
+2025-02-06 | tb purge pt 2
+2025-02-06 | tb purge pt 1
+2025-02-05 | move junk to drafts
+2025-02-05 | Update harmonicmean.html
+2025-02-05 | Update harmonicmean.html
+2025-02-05 | removed pancakes 0
+2025-02-05 | chatbot removed
+2025-02-05 | removing bad recipes and boring updates
+2025-02-05 | homecraft removed
+2025-02-05 | Update main.scss
+2025-02-05 | removed "other" projects
+2025-02-05 | removed orrery
+2025-02-05 | Update README.md
+2025-02-03 | Update _config.yml
+2025-01-25 | Update 2025-01-19-roxxie-lifelongLearning.md
+2025-01-23 | Update 2025-01-19-roxxie-lifelongLearning.md
+2025-01-23 | Update 2025-01-19-roxxie-lifelongLearning.md
+2025-01-23 | update ROXXIE 007 Lifelong Learning
+2025-01-23 | Update 2025-01-19-roxxie-lifelongLearning.md
+2025-01-22 | Update 2025-01-19-roxxie-lifelongLearning.md
+2025-01-22 | create ROXXIE 007 Lifelong Learning
+2025-01-20 | Update 2025-01-14-avael-oxytocin.md
+2025-01-18 | avael 019 photodump
+2025-01-17 | Update 2025-01-14-avael-oxytocin.md
+2025-01-17 | Create 2025-01-14-avael-oxytocin.md
+2025-01-13 | Update 2025-01-05-vatore-hauteCuisine.md
+2025-01-13 | Update 2025-01-05-vatore-hauteCuisine.md
+2025-01-13 | Update 2025-01-05-vatore-hauteCuisine.md
+2025-01-13 | Update 2025-01-05-vatore-hauteCuisine.md
+2025-01-12 | create vatore 014 haute cuisine
+2025-01-11 | Update 2025-01-01-straud-houndstooth.md
+2025-01-10 | Create vlad0.jpg
+2025-01-10 | straud 036 portraits
+2025-01-10 | Update 2024-12-19-cedric-potence.md
+2025-01-09 | Update 2024-12-16-kevin-shadowOfADoubt.md
+2025-01-09 | photos for kevin 040
+2025-01-09 | Update 2024-12-10-mandarc-rocketScience.md
+2025-01-08 | Create matilda.jpg
+2025-01-08 | Create nanikealoha.jpg
+2025-01-08 | glimmerbrook portraits
+2025-01-06 | copyright tweaks
+2025-01-06 | the great copyright infringement
+2025-01-06 | Update 2025-01-01-straud-houndstooth.md
+2025-01-05 | Update 2025-01-01-straud-houndstooth.md
+2025-01-05 | Create 2025-01-01-straud-houndstooth.md
+2024-12-24 | Update 2024-12-19-cedric-potence.md
+2024-12-24 | Update 2024-12-19-cedric-potence.md
+2024-12-24 | Update 2024-12-19-cedric-potence.md
+2024-12-23 | Create 2024-12-19-cedric-potence.md
+2024-12-21 | Update 2024-12-16-kevin-shadowOfADoubt.md
+2024-12-21 | Update 2024-12-16-kevin-shadowOfADoubt.md
+2024-12-21 | Update 2024-12-16-kevin-shadowOfADoubt.md
+2024-12-20 | Update 2024-12-16-kevin-shadowOfADoubt.md
+2024-12-20 | create shadow of a doubt pt 1
+2024-12-16 | Update 2024-12-10-mandarc-rocketScience.md
+2024-12-15 | Create 2024-12-10-mandarc-rocketScience.md
+2024-11-25 | Create 2024-11-17-perkins-aStitchInTime.md
+2024-04-21 | update ep 0011
+2024-04-21 | create ep 0011
+2024-04-14 | create ep 0010
+2024-04-12 | create ds part ii
+2024-04-11 | create ep 0009
+2024-04-11 | Update darkshadows.css
+2024-04-11 | Update darkshadows.css
+2024-04-11 | Update darkshadows.css
+2024-04-11 | update ds css
+2024-04-11 | Update darkshadows.css
+2024-04-11 | update ds page css
+2024-04-11 | update ds rating css
+2024-04-11 | update ds page to show rating
+2024-04-10 | create ep 0008
+2024-04-09 | update ep 0007
+2024-04-09 | create ep 0007
+2024-04-08 | update ep 0006
+2024-04-08 | create ep 0006
+2024-04-07 | create ep 0005
+2024-04-06 | update ep 0004
+2024-04-05 | create ep 0004
+2024-04-05 | update ep 0003 desc
+2024-04-05 | update ep 0003
+2024-04-05 | update ep 0003
+2024-04-05 | update ep 0003
+2024-04-05 | create ep 0003
+2024-04-05 | update ds img naming paradigm
+2024-04-04 | create ep 0002
+2024-04-04 | update ep 0001
+2024-04-04 | update ds css
+2024-04-04 | update includes for ds
+2024-04-04 | update ep 0001
+2024-04-03 | create ep 0001
+2024-04-03 | create darkshadows landing page
+2024-03-26 | Create 2024-03-20-straud-corinthians.md
+2024-03-25 | Update 2024-03-19-cedric-toScintillate.md
+2024-03-25 | Create 2024-03-19-cedric-toScintillate.md
+2024-03-21 | Create 2024-03-18-kealoha-insubordination.md
+2024-03-20 | Update 2024-03-17-weaslie-average.md
+2024-03-20 | Create 2024-03-17-weaslie-average.md
+2024-03-15 | Update 2024-03-08-cedric-dreamWithinDream.md
+2024-03-15 | Create 2024-03-08-cedric-dreamWithinDream.md
+2024-03-11 | Create 2024-02-23-tang-reclamation.md
+2024-03-11 | Create 2023-12-10-cedric-reconfiguration.md
+2024-03-08 | Create 2023-11-23-straud-lifeWithoutSeasons.md
+2024-03-08 | Update 2023-09-25-junior-aFairTrade.md
+2024-03-08 | Create 2023-10-12-avael-reflection.md
+2024-03-07 | Create 2023-09-25-junior-aFairTrade.md
+2023-09-14 | Update 2023-09-13-cedric-coastToCoast.md
+2023-09-13 | Create 2023-09-13-cedric-coastToCoast.md
+2023-06-16 | Create 2023-06-16-straud-flatland.md
+2023-04-27 | tang englishbreakfast typos
+2023-04-27 | tang englishbreakfast
+2023-04-25 | shelby debuts
+2023-04-20 | repeat offense typos
+2023-04-20 | mandarc repeat offense
+2023-04-19 | cedric sos
+2023-04-16 | straud humility
+2023-04-01 | hourglass corrections
+2023-04-01 | pidge hourglass finished
+2023-04-01 | Create 2023-01-31-pidge-hourglass.md
+2023-03-15 | photos for pidge
+2023-03-04 | Update tomasortega.png
+2023-03-04 | pidge zenith ii
+2023-03-03 | Update 2023-01-30-pidge-zenith-i.md
+2023-03-03 | Update 2023-01-30-pidge-zenith-i.md
+2023-03-03 | pidge zenith i
+2023-03-02 | Update 2023-01-30-pidge-tantamount.md
+2023-03-02 | Update 2023-01-30-pidge-tantamount.md
+2023-03-02 | pidge tantamount
+2023-01-31 | typo corrections pidge orion
+2023-01-31 | pidge squeakhearts
+2022-12-23 | primetimeline updated with marscapone return to life
+2022-12-22 | kevin change of destiny
+2022-12-02 | fineus trashlog iv
+2022-11-08 | Create 2022-11-08-straud-mortDeMer.md
+2022-11-08 | pidge tacky pt2
+2022-10-23 | pidge tacky pt1
+2022-10-22 | pidge extra extra
+2022-10-22 | pidge esteemed
+2022-08-09 | straud estranged
+2022-08-05 | Update 2022-04-29-pidge-prodigal.md
+2022-08-05 | pidge prodigal is no5 thx
+2022-08-05 | pidge prodigal party
+2022-07-08 | pidge prophecy
+2022-06-30 | straud patriot
+2022-06-29 | twinpeaks
+2022-06-29 | kevin plea
+2022-06-17 | pidge as thou wilt
+2022-06-13 | chronicle of pidge
+2022-06-11 | Update 2022-04-25-pidge-instinct.md
+2022-06-10 | Merge branch 'master' of https://github.com/SplendidStrontium/splendidstrontium.github.io
+2022-06-10 | pidge part i
+2022-06-08 | kealoha atLast
+2022-06-06 | mandarc numbers
+2022-06-02 | shoot the messenger
+2022-05-26 | vatore joke
+2022-05-23 | straud forever
+2022-05-17 | vatore element
+2022-05-16 | cedric slip
+2022-05-15 | relinquish the devil
+2022-04-29 | 3 acts goes to seven
+2022-04-28 | cedric joins up pt 1
+2022-04-27 | cedric and kevin calamity jane
+2022-04-25 | 1995 epilogue
+2022-04-23 | vincent storms the castle
+2022-04-22 | straud springtime pt 2
+2022-04-21 | straud springtime pt 1
+2022-04-19 | goth mittens lil post
+2022-04-03 | Create 1995-03-05-myrtle-unease.md
+2022-03-29 | chatbot refers out to wiki
+2022-03-28 | straud anOldChum pt1
+2022-03-22 | eriolanna overlay
+2022-03-22 | trrask thefetish
+2022-03-20 | antigony trash 01
+2022-03-15 | fineus au
+2022-03-09 | chatbot buttons
+2022-03-09 | chatbot skeleton
+2022-03-08 | fineus identity
+2022-03-04 | slashplayed 01 paragraph finished
+2022-03-04 | slashplayed 01 finished
+2022-03-03 | played01 draft1
+2022-03-02 | eriolanna kb01
+2022-03-02 | fineus kb01
+2022-03-02 | warcraft file names and permalinx
+2022-02-28 | kevin ratio numberfix
+2022-02-25 | Create 1995-03-03-kevin-ratio.md
+2022-02-24 | vincent fortitude
+2022-02-22 | straud destiny kevin fruit
+2022-02-16 | straud connexion
+2022-02-15 | kevin vestigial
+2022-02-14 | cedric6 photodump
+2022-02-14 | kevin schedule vincent center
+2022-02-11 | kevin cold
+2022-02-10 | kevin inquisition
+2022-02-09 | vincent hindsight
+2022-02-08 | kealoha eternity try1
+2022-02-07 | straud lunarlight
+2022-02-04 | vincent echo typo correction
+2022-02-04 | rainblast photodump
+2022-02-04 | vincent echo
+2022-02-04 | trelaine rename attempt 3
+2022-02-04 | trelaine rename attempt 2
+2022-02-04 | trelaine rename attempt 1
+2022-02-03 | kevin invitation myrtle unsupervised
+2022-02-02 | first day 1995
+2022-02-01 | vincent without
+2022-01-31 | kevin greenhouse 2
+2022-01-31 | kevin greenhouse
+2022-01-31 | straud whatYouKnow
+2022-01-29 | cedric coppertone
+2022-01-29 | snowstorm photodump
+2022-01-28 | vanhelsing routine
+2022-01-27 | tang family-eyes
+2022-01-26 | mccoy reassurance
+2022-01-25 | straud ndegang tzu confidante
+2022-01-24 | kealoha precocious perkins assured
+2022-01-22 | straud shimmer
+2022-01-22 | STRAUD this-is-halloween
+2022-01-21 | mandarc preach
+2022-01-20 | perkins ambiance, tzu shy
+2022-01-19 | straud adverse
+2022-01-18 | straud offering mandarc homeDespot
+2022-01-14 | straud under-her-nose mandarc i-mandarc
+2022-01-12 | mandarc kitchen-witch jr low-effort
+2022-01-11 | myrtle research, perkins destitute
+2022-01-10 | cedric miracle
+2022-01-07 | roxxie digital cedric pattern
+2022-01-06 | myrtle beyond tang gaunt
+2022-01-05 | myrtle 4 placeholder
+2022-01-05 | cedric bienvenue
+2022-01-04 | mandarc adieu and primetimeline2022
+2022-01-03 | vatore rhetoric
+2021-12-30 | kevin packingup
+2021-12-29 | goth comix
+2021-12-28 | goth professionalism final
+2021-12-27 | goth professionalism stage1
+2021-12-23 | goth fandom
+2021-12-22 | avael curse of agony
+2021-12-21 | avael tradition
+2021-12-20 | avael tradition pt 1
+2021-12-17 | avael varnish oregontrailnotes
+2021-12-16 | unfinished mandarc business
+2021-12-15 | cedric alwaysWelcome and some censorship
+2021-12-14 | straud algebra camp chewing gum
+2021-12-13 | kevinNCedric human-cleric gifted
+2021-12-10 | weaslie number9
+2021-12-09 | kevin nextOfKin
+2021-12-08 | tang despicable
+2021-12-07 | van helsing note
+2021-12-07 | junior downtoearth and tang 1 placeholder
+2021-12-06 | mccoy retribution
+2021-12-03 | img shrink
+2021-12-03 | sugar cookie recipe
+2021-12-03 | cedric halfElfRanger and some moves to hexfiles
+2021-12-02 | some work on halfelfranger
+2021-12-01 | cedric halfelfranger placeholder
+2021-12-01 | kevin reunion sees the return of gh
+2021-11-29 | cedric monday night football
+2021-11-29 | roxxie leftovers
+2021-11-28 | ivette photodump
+2021-11-24 | zhongguoren and mort goth letter to cassandra after suicide
+2021-11-24 | cassandras home is called galantome estate
+2021-11-23 | myrtle ragamuffin sees her speak to vincent regarding the parade
+2021-11-22 | roxxie patience as well as formatting updates
+2021-11-22 | straud followers sees kali in cedrics basement
+2021-11-19 | kevin resistance sees the woman get taken in
+2021-11-18 | cedric 22 brouhaha sees the party find the squatter
+2021-11-17 | myrtles young friend is named richard
+2021-11-17 | kevin displaced sees kev warn cassandra about the visit to the manor
+2021-11-16 | straud favor sees roxanne and straud chat
+2021-11-15 | straud 1 flower power sees straud meet the oborovsky twins for the first time
+2021-11-15 | roxxie 2 backwards sees her receive the letter from her friend ivette campbell
+2021-11-12 | straud 1 correction sees straud crash mandarcs date
+2021-11-10 | mandarc 2 courtship sees mandarc, perkins say hi at the blue velvet
+2021-11-10 | the great file and url renaming. long live permalinx
+2021-11-09 | typo in perkins 1 curiosity
+2021-11-09 | perkins 1 sees perkins press the matron marscapone for contact with mandarc
+2021-11-08 | mandarc 1 stoop kid sees perkins meet mandarc, straud
+2021-11-07 | mandarc 1 stoop kid
+2021-11-05 | a condensation of numbering schema
+2021-11-05 | tzu 5 sees a bad mood at the creme dropoff
+2021-11-04 | second half of new titles for old pieces
+2021-11-03 | first half of titles on fpmc posts
+2021-11-03 | add straud portrait
+2021-11-03 | emerald dream photo dump
+2021-11-02 | cedric 25 sees him not get on the plane
+2021-11-01 | straud 11 and the big dream
+2021-10-29 | cedric 24 sees cedric raise a toast to the crone
+2021-10-28 | kevin 23 sees kev let tzu into the wintranet
+2021-10-27 | primetimeline2021 and small css changes to chatbox and frontmatter
+2021-10-26 | wendy moved to hexfiles, primetimeline2021 notes begun
+2021-10-26 | formatting update and hexfiles dump
+2021-10-25 | myrtle 0 renamed, myrtle 12 sees her begin penning memoirs
+2021-10-21 | avael 11 talks of avaelleeaston3
+2021-10-20 | avael x and connects to avaelleeaston2
+2021-10-19 | avael 9 to speak of avaelleeaston1
+2021-10-18 | Update 2021-06-25-vatore-viii.md
+2021-10-15 | avael 8 death penalty
+2021-10-15 | old linkout style removed
+2021-10-14 | mccoy ten moved
+2021-10-14 | mccoy 11
+2021-10-13 | straud 10 the palm reading of avaelle easton
+2021-10-13 | youtube links added to readers theatre
+2021-10-11 | kev 22
+2021-10-11 | tzu 4
+2021-10-08 | Create w0-015.jpg
+2021-10-08 | mandarc 18 finished
+2021-10-07 | mandarc 18 in progress
+2021-10-06 | roxxie 1 and added to character list
+2021-10-05 | cedric 23 and refinement of bottom nav for fpmc
+2021-10-01 | fpmc separated into acts
+2021-10-01 | fpmc character bio pages
+2021-09-30 | junior 4 and boxshadow on pplsez chatbox
+2021-09-29 | tile is draggable
+2021-09-29 | fs table skeleton
+2021-09-27 | games skeleton and perkins 5
+2021-09-27 | games dir
+2021-09-27 | games dir added
+2021-09-23 | api call for earth centered on sun
+2021-09-23 | api call to nasa horizons
+2021-09-23 | cc has a field and actionbar and draws the sun in the center
+2021-09-22 | mapgen only allows properly sized monsters
+2021-09-22 | mapgen draws a door and generates a ceiling
+2021-09-21 | american spirit added to the hexfiles
+2021-09-21 | mapgen has weighted room sizes
+2021-09-20 | mapgen inputs climate value
+2021-09-17 | mapgen has link symbol before links to d20srd
+2021-09-17 | avaelle and the locket complete
+2021-09-17 | d20srd monsters updated with size,type fields
+2021-09-16 | avaelle and the locket start draft
+2021-09-16 | Create avaelle-the-ladys-necklace.jpg
+2021-09-16 | data up to dragon
+2021-09-15 | mapgen links open in new tabs
+2021-09-15 | srd monsters through hag
+2021-09-15 | monsters through ghoul
+2021-09-15 | mapgen draws a room
+2021-09-14 | mapgen draws a room and console logs dimensions
+2021-09-14 | mapsize dropdown hides some options
+2021-09-13 | mapgen options inc dungeon cave tower
+2021-09-10 | mapgen generates monsters from basic list
+2021-09-09 | d20srdmonsters skeleton
+2021-09-08 | mapgen base url
+2021-06-25 | Update 2021-06-25-vatore-viii.md
+2021-06-25 | Update 2021-06-25-vatore-viii.md
+2021-06-25 | Update 2021-06-25-vatore-viii.md
+2021-06-25 | Create 2021-06-25-vatore-viii.md
+2021-06-06 | Update 2021-06-06-goth-ix.md
+2021-06-06 | Create 2021-06-06-goth-ix.md
+2021-06-04 | Create 2021-06-04-straud-ix.md
+2021-05-05 | Create 2021-05-05-mccoy-x.md
+2021-05-04 | Create 2021-05-04-avael-vii.md
+2021-05-03 | Create 2021-05-03-myrtle-xi.md
+2021-05-02 | Create 2021-05-02-vatore-vii.md
+2021-05-01 | Update 2021-05-01-straud-viii.md
+2021-05-01 | Create 2021-05-01-straud-viii.md
+2021-04-30 | Update 2021-04-30-straud-vii.md
+2021-04-30 | Create 2021-04-30-straud-vii.md
+2021-04-29 | Create 2021-04-29-cedric-xxii.md
+2021-04-28 | GOTH 8 rough draft
+2021-04-27 | Update 2021-04-27-kevin-xxi.md
+2021-04-27 | kevin 21 in progress
+2021-04-25 | mandarc 17 rough draft
+2021-04-23 | Update 2021-04-23-cedric-xxi.md
+2021-04-23 | Create 2021-04-23-cedric-xxi.md
+2021-04-22 | Update 2021-04-21-kevin-xx.md
+2021-04-22 | Update 2021-04-21-kevin-xx.md
+2021-04-21 | Create 2021-04-21-kevin-xx.md
+2021-04-19 | Update 2021-04-19-straud-vi.md
+2021-04-19 | straud 6 rough draft
+2021-04-19 | kevin 19 proofread
+2021-04-19 | kevin 19 rough draft
+2021-04-18 | myrtle 10 proofread
+2021-04-18 | myrtle 10 rough draft
+2021-04-16 | cedric 20 rough draft
+2021-04-16 | Update _config.yml
+2021-04-16 | Update README.md
+2021-04-15 | TZU 3 rough draft
+2021-04-15 | mandarc 16 rough draft
+2021-04-14 | goth 7 rough draft
+2021-04-08 | fpmc nav should show post title
+2021-04-08 | dpp move complete, fpmc nav up
+2021-04-08 | junior 3 category correction
+2021-04-08 | junior 3 tag correction
+2021-04-08 | junior 3 rough draft
+2021-04-07 | Update fpmcpost.html
+2021-04-06 | Update fpmcpost.html
+2021-04-06 | Update fpmcpost.html
+2021-04-06 | Update fpmcpost.html
+2021-04-06 | Update fpmcpost.html
+2021-04-06 | Update fpmcpost.html
+2021-04-06 | Update fpmcpost.html
+2021-04-06 | maybe fpmc nav
+2021-04-06 | will fpmc link to next and prev posts
+2021-04-06 | debut of fpmcpost layout
+2021-04-06 | fineus 3 trashlog
+2021-04-05 | kevin 18 had wrong tag
+2021-04-04 | Update femputermanchine.md
+2021-04-04 | divide the book page, kevin 18
+2021-04-04 | kevin 18 beginning
+2021-04-03 | Update 2021-04-03-cedric-xix.md
+2021-04-03 | cedric 19 rough draft and lastmod date corrections
+2021-04-03 | cedric 19 chat skeleton
+2021-04-03 | Add files via upload
+2021-04-03 | Add files via upload
+2021-03-31 | Update 2021-03-31-avael-vi.md
+2021-03-31 | Update index.html
+2021-03-31 | Update _config.yml
+2021-03-31 | Update _config.yml
+2021-03-31 | Update _config.yml
+2021-03-31 | Update 2021-03-31-avael-vi.md
+2021-03-31 | Update _config.yml
+2021-03-31 | Update 2021-03-31-avael-vi.md
+2021-03-31 | Create 2021-03-31-avael-vi.md
+2021-03-28 | Create 2021-03-28-vatore-vi.md
+2021-03-26 | Update 2021-03-26-mccoy-ix.md
+2021-03-26 | Create 2021-03-26-mccoy-ix.md
+2021-03-25 | myrtle 9 and georgehenry2021 photodump
+2021-03-24 | state of the union 2
+2021-03-23 | Create 2021-03-23-perkins-iv.md
+2021-03-15 | Create 2021-03-15-kevin-xvii.md
+2021-03-12 | Update 2021-03-12-cedric-xviii.md
+2021-03-12 | Update 2021-03-12-cedric-xviii.md
+2021-03-12 | Create 2021-03-12-cedric-xviii.md
+2021-03-12 | Create 2021-03-12-mccoy-viii.md
+2021-03-08 | Create 2021-03-08-kevin-xvi.md
+2021-03-08 | Update 2021-03-08-cedric-xvii.md
+2021-03-08 | Update 2021-03-08-cedric-xvii.md
+2021-03-08 | Create 2021-03-08-cedric-xvii.md
+2021-03-04 | mccoy 7 uploaded
+2021-03-03 | Update 2021-03-03-cedric-xvi.md
+2021-03-03 | Update 2021-03-03-cedric-xvi.md
+2021-03-03 | Update 2021-03-03-cedric-xvi.md
+2021-03-03 | upload cedric 16 rough draft
+2021-03-02 | Update 2021-03-02-myrtle-viii.md
+2021-03-02 | Create 2021-03-02-myrtle-viii.md
+2020-12-20 | fineus trashlog end 2020
+2020-12-07 | Update 2020-12-06-avael-v.md
+2020-12-07 | Create 2020-12-06-avael-v.md
+2020-12-05 | Create 2020-12-05-mandarc-xv.md
+2020-12-05 | Update 2020-12-05-cedric-xv.md
+2020-12-05 | Create 2020-12-05-cedric-xv.md
+2020-12-04 | Create 2020-12-04-kevin-xv.md
+2020-12-04 | Update 2020-12-04-cedric-xiv.md
+2020-12-04 | Create 2020-12-04-cedric-xiv.md
+2020-12-04 | Update 2020-12-04-vatore-v.md
+2020-12-04 | Update 2020-12-04-vatore-v.md
+2020-12-04 | Create 2020-12-04-vatore-v.md
+2020-12-03 | Create 2020-12-03-perkins-iii.md
+2020-12-02 | Create 2020-12-02-weaslie-iii.md
+2020-12-02 | junior 2
+2020-12-01 | Update 2020-12-01-mccoy-vi.md
+2020-12-01 | Create 2020-12-01-mccoy-vi.md
+2020-12-01 | Update 2020-11-30-myrtle-vii.md
+2020-11-30 | Create 2020-11-30-myrtle-vii.md
+2020-11-30 | Create 2020-11-29-myrtle-vi.md
+2020-11-29 | Create 2020-11-28-goth-vi.md
+2020-11-28 | Create kev-workhappy.jpg
+2020-11-28 | doctor tzu screencap dump
+2020-11-24 | Create 2020-11-24-cedric-xiii.md
+2020-11-13 | Update 2020-11-13-14.md
+2020-11-13 | sb 14
+2020-11-12 | Create 2020-11-12-cedric-xii.md
+2020-11-08 | Create 2020-11-08-mandarc-xiv.md
+2020-11-06 | Update 2020-11-06-kevin-xiv.md
+2020-11-06 | Create 2020-11-06-kevin-xiv.md
+2020-11-05 | Create 2020-11-05-mandarc-xiii.md
+2020-11-03 | Update 2020-11-03-cedric-xi.md
+2020-11-03 | Create 2020-11-03-cedric-xi.md
+2020-11-02 | Update 2020-11-02-mandarc-xii.md
+2020-11-02 | Create 2020-11-02-mandarc-xii.md
+2020-10-30 | junior alights
+2020-10-12 | state of the union 1 rough
+2020-10-07 | Update 2020-09-13-tzu-i.md
+2020-10-07 | Update 2020-09-13-tzu-i.md
+2020-10-07 | tzu dear diary
+2020-10-03 | Update 2020-10-03-vatore-iv.md
+2020-10-03 | vatore 4 first draft
+2020-10-03 | Create 2020-10-03-perkins-ii.md
+2020-10-03 | css shrink
+2020-10-02 | caps wtf
+2020-10-02 | Update 2020-10-02-myrtle-v.md
+2020-10-02 | Update 2020-10-02-myrtle-v.md
+2020-10-02 | caps consistency
+2020-10-02 | Create 2020-10-02-myrtle-v.md
+2020-09-30 | avael 10 css fixes
+2020-09-29 | Update 2020-09-29-cedric-x.md
+2020-09-29 | Update 2020-09-29-cedric-x.md
+2020-09-29 | cedric 10 rough draft
+2020-09-28 | mandarc 11 rough draft
+2020-09-27 | Create 2020-09-27-myrtle-iv.md
+2020-09-27 | Update 2020-09-27-weaslie-ii.md
+2020-09-27 | Update 2020-09-27-weaslie-ii.md
+2020-09-27 | Create 2020-09-27-weaslie-ii.md
+2020-09-26 | Update 2020-09-25-mccoy-v.md
+2020-09-26 | Create 2020-09-26-cedric-ix.md
+2020-09-26 | Create 2020-09-25-mccoy-v.md
+2020-09-24 | Update 2020-09-24-vatore-iii.md
+2020-09-24 | Update 2020-09-24-vatore-iii.md
+2020-09-24 | Update 2020-09-23-mandarc-x.md
+2020-09-24 | vatore 3 first draft
+2020-09-23 | mandarc 10 first draft
+2020-09-21 | vatore 2 goth 5 first drafts
+2020-09-21 | Update 2020-09-19-kevin-xiii.md
+2020-09-21 | kevin 13 first draft
+2020-09-19 | Create 2020-09-18-kevin-xii.md
+2020-09-17 | Update 2020-09-15-goth-iv.md
+2020-09-17 | goth 4 rough draft
+2020-09-14 | two posts were missing descriptions
+2020-09-14 | goth 3 first draft
+2020-09-13 | weaslie tzu vatore up on homepage
+2020-09-13 | perkins on homepage
+2020-09-13 | myrtle on homepage
+2020-09-13 | mccoy on homepage
+2020-09-13 | mandarc on homepage
+2020-09-13 | kevin on homepage
+2020-09-13 | goth on homepage
+2020-09-13 | cedric on homepage
+2020-09-13 | Update femputermanchine.md
+2020-09-13 | forgot
+2020-09-13 | Update femputermanchine.md
+2020-09-13 | try to list by book name on fpmc
+2020-09-13 | photodump
+2020-09-13 | vatore 1 first draft
+2020-09-12 | mandarc 9
+2020-09-12 | perkins leaves
+2020-09-11 | weaslie 1
+2020-09-11 | Update 2020-09-11-kevin-xi.md
+2020-09-11 | Update 2020-09-11-kevin-xi.md
+2020-09-11 | kevin 11
+2020-09-10 | Create 2020-09-10-cedric-viii.md
+2020-09-05 | Create 2020-09-05-mandarc-viii.md
+2020-09-05 | sgt bobbie photodump
+2020-09-05 | Create 2020-09-05-mccoy-iv.md
+2020-09-03 | Merge branch 'master' of https://github.com/SplendidStrontium/splendidstrontium.github.io
+2020-09-03 | Create 2020-09-03-avael-iii.md
+2020-09-03 | removed faulty tb link
+2020-09-03 | change categories
+2020-09-03 | rename required
+2020-09-03 | word choice no rhyme necessary
+2020-09-03 | Update 2020-09-03-mandarc-vi.md
+2020-09-03 | Create 2020-09-03-mandarc-vi.md
+2020-09-02 | rollcall minmaxis
+2020-09-01 | added tags to recent fpmc entries
+2020-09-01 | cedric 7
+2020-08-30 | Create 2020-08-30-cedric-vi.md
+2020-08-29 | hexfiles moved
+2020-08-28 | Create 2020-08-28-cedric-v.md
+2020-08-28 | calligraphy tb
+2020-08-28 | links fixed posturl bad news bears
+2020-08-27 | hexfiles folder
+2020-08-27 | canonten gone
+2020-08-27 | orrery is not in main menu
+2020-08-27 | why is slash roll showing
+2020-08-27 | new fpmc notes folder
+2020-08-27 | Update archive.html
+2020-08-27 | lisas remembrances
+2020-08-27 | where is the bug
+2020-08-27 | tb test callig straud
+2020-08-27 | ahriell
+2020-08-27 | postmove 3
+2020-08-27 | Update archive.html
+2020-08-27 | try to exclude calligraphy
+2020-08-27 | moving posts 2
+2020-08-27 | moving posts old handwriting
+2020-08-27 | move some posts
+2020-08-27 | Update 2020-05-21-straud-iii.md
+2020-08-27 | sorting paperwork
+2020-08-27 | Update archive.html
+2020-08-27 | trying to exclude old posts
+2020-08-27 | Update archive.html
+2020-08-25 | GOTH 2
+2020-08-25 | moved back goth 1
+2020-08-25 | myrtles advice
+2020-08-24 | Update 2020-07-08-kevin-viii.md
+2020-08-24 | kevin ten
+2020-08-23 | Create 2020-08-23-goth-i.md
+2020-08-22 | Create 2020-08-22-mccoy-iv.md
+2020-08-21 | sophie submits
+2020-08-20 | myrtle painted photodump
+2020-08-20 | myrtle wakes photodump
+2020-08-19 | Update 2020-08-19-myrtle-i.md
+2020-08-19 | Create 2020-08-19-myrtle-i.md
+2020-08-18 | fpmc weston coup
+2020-08-17 | mandarc links
+2020-08-17 | kevin links
+2020-08-17 | docs without borders
+2020-08-17 | reduced spacing on egwene links
+2020-08-17 | aegwain nav
+2020-08-17 | test fpmc nav formatting
+2020-08-17 | Update 2020-04-12-11.md
+2020-08-17 | Update 2020-08-17-12.md
+2020-08-17 | Update 2020-08-17-12.md
+2020-08-17 | Update 2020-08-17-12.md
+2020-08-17 | Create 2020-08-17-12.md
+2020-08-16 | incomplete and old file backup
+2020-08-15 | Create 2020-08-15-dreams-of-cantrips.md
+2020-08-15 | Create 2020-08-15-aegwain-viii.md
+2020-07-23 | fridays notes for new saves
+2020-07-23 | hi its friday
+2020-07-20 | Create 2020-07-20-aegwain-vii.md
+2020-07-18 | Create 2020-07-18-mandarc-vi.md
+2020-07-18 | Add files via upload
+2020-07-15 | egwene waits for teppei
+2020-07-12 | Create 2020-07-12-egwene-v.md
+2020-07-11 | mandarc spitballs on kirk
+2020-07-10 | Create 2020-07-10-avael-ii.md
+2020-07-10 | janeway receives a threat
+2020-07-09 | ampm mixup
+2020-07-09 | secreat lab fire candice 1
+2020-07-08 | Create 2020-07-08-kevin-viii.md
+2020-07-08 | Update 2020-07-08-straud-v.md
+2020-07-08 | Update 2020-07-08-straud-v.md
+2020-07-08 | Create 2020-07-08-straud-v.md
+2020-07-07 | Create 2020-07-07-mandarc-iv.md
+2020-07-06 | Create 2020-07-06-mandarc-iii.md
+2020-07-02 | avaelle2020 tbdumb 2 of 2
+2020-06-28 | MYRTLE is confused
+2020-06-28 | avaelle2020 tbdump 1
+2020-06-26 | Create 1831-06-24-weaslie-0.md
+2020-06-23 | Create 1831-06-23-avaelleeaston-0.md
+2020-05-30 | Add files via upload
+2020-05-28 | Create 2020-05-28-cedric-iv.md
+2020-05-28 | Create cedric-sees-fire.jpg
+2020-05-28 | liliths-tb-dump
+2020-05-28 | FIRESIDE5
+2020-05-27 | the guestbook fiasco
+2020-05-27 | FIRESIDECHAT003
+2020-05-26 | dwight
+2020-05-25 | FIRESIDECHAT01
+2020-05-25 | contemporary civilization
+2020-05-25 | jaedra illuminates
+2020-05-25 | photodump
+2020-05-25 | kaori the steampunk duelisto
+2020-05-25 | saeka soeurs
+2020-05-25 | jaedra alights unbanned
+2020-05-25 | Update pippsee-current.jpg
+2020-05-24 | press to open chat
+2020-05-24 | king of the elves
+2020-05-24 | kev snags fineus
+2020-05-24 | straudmansiontbdump
+2020-05-23 | sims4tb
+2020-05-23 | history tb
+2020-05-23 | try out a goodbye portrait
+2020-05-23 | warcraft portrait tb photodump
+2020-05-23 | femputermanchine landing pg becomes act 1 timeline
+2020-05-23 | Datefix
+2020-05-23 | corrected fpmc links
+2020-05-23 | blu notebook photodump
+2020-05-23 | Update 2020-05-22-the-prime-retcon.md
+2020-05-22 | the prime retcon
+2020-05-22 | Create primetimeline2020.txt
+2020-05-22 | Add files via upload
+2020-05-07 | cedric5
+2020-05-07 | KEVIN email out
+2020-05-07 | the importance of an extra return
+2020-05-07 | added linkbacks to dpp
+2020-05-07 | Update 2020-04-30-mccoy-iii.md
+2020-05-07 | Update 2020-04-27-mccoy-ii.md
+2020-05-07 | say the words
+2020-05-07 | the false master
+2020-05-07 | Update 2020-05-07-cedric-3.md
+2020-05-07 | syntax trim
+2020-05-07 | close tags GOOD
+2020-05-07 | ampersands BAD
+2020-05-07 | kevin1,cedric3stub
+2020-05-02 | Update 2020-05-02-cedric-2.md
+2020-05-02 | Update 2020-05-02-cedric-2.md
+2020-05-02 | cedric is confused
+2020-05-02 | Create 2020-05-02-cedric-2.md
+2020-05-01 | Merge branch 'master' of https://github.com/SplendidStrontium/splendidstrontium.github.io
+2020-05-01 | mccoy3
+2020-04-29 | Update 2020-04-29-fineus-1.md
+2020-04-29 | Delete 2020-04-29-fineus.md
+2020-04-29 | Create 2020-04-29-fineus-1.md
+2020-04-29 | Update 2020-04-29-fineus.md
+2020-04-29 | Add files via upload
+2020-04-29 | Update 2020-04-29-cedric-1.md
+2020-04-29 | Add files via upload
+2020-04-29 | Create 2020-04-29-fineus.md
+2020-04-29 | Add files via upload
+2020-04-27 | create tzuprano
+2020-04-27 | changed my mind about consents apostrophes
+2020-04-27 | testing syntax for fpmc linx
+2020-04-27 | mccoy should probably buy a actual diary
+2020-04-27 | Update 2020-04-22-consent-i.md
+2020-04-27 | consent got some roman numerals
+2020-04-26 | Merge branch 'master' of https://github.com/SplendidStrontium/splendidstrontium.github.io
+2020-04-26 | Create 2020-04-26-mccoy-and-the-dollhouse.md
+2020-04-25 | Update 2020-04-22-consent.md
+2020-04-25 | Update 2020-04-22-consent.md
+2020-04-25 | Add files via upload
+2020-04-25 | Update 2020-04-22-consent.md
+2020-04-24 | experimenting with md formatting
+2020-04-24 | Update 2020-04-22-consent.md
+2020-04-23 | Update 2020-04-22-consent.md
+2020-04-23 | Update 2020-04-22-consent.md
+2020-04-22 | Create 2020-04-22-consent.md
+2020-04-19 | rootpages fm cleanup
+2020-04-19 | opened comments chocchipcookies2
+2020-04-19 | sometimes angry cookies
+2020-04-19 | hm pt2001
+2020-04-17 | 700w geometry review 2
+2020-04-17 | 700w geometry review 1
+2020-04-16 | upload wiki images
+2020-04-16 | old moves to notes folder
+2020-04-15 | titlefix, canvas talks to js
+2020-04-15 | orrery skeleton pages
+2020-04-15 | Merge branch 'master' of https://github.com/SplendidStrontium/splendidstrontium.github.io
+2020-04-15 | Create post-idea-darth-vader-as-described-by-ben-kenobi.jpg
+2020-04-13 | some comments opened
+2020-04-13 | split eatsleepdo
+2020-04-12 | on-this-day posts should be in updates
+2020-04-12 | on-this-day april 12
+2020-04-12 | opened comments for tbc commentary
+2020-04-12 | don't add a commentsid if there isn't one prob solved
+2020-04-12 | comments indication moved to comment box
+2020-04-12 | archive should indicate comments open
+2020-04-12 | opened some comments 40-42
+2020-04-12 | Update 2020-04-06-perfect-pancakes-iii.md
+2020-04-12 | Update 2020-04-12-11.md
+2020-04-12 | Update 2020-04-12-11.md
+2020-04-12 | out damned x
+2020-04-12 | sb10 links to sb11
+2020-04-12 | sb11 rough
+2020-04-11 | not coming soon
+2020-04-11 | canon is online
+2020-04-11 | canonten1stjson
+2020-04-11 | Update canonten.html
+2020-04-10 | oskargold1st
+2020-04-10 | og-firstawards-tb-json
+2020-04-07 | trrask trollwise
+2020-04-06 | woops mirror img
+2020-04-06 | tbc img should sit left
+2020-04-06 | tbc commentary cssfix
+2020-04-06 | tbc but thats it
+2020-04-06 | recipe: ppp3
+2020-04-05 | improve the coat, fix the bloat
+2020-04-01 | fix bad url logic
+2020-04-01 | thumbnails for warcraft, callig
+2020-04-01 | pictures inc on eatsleepdo
+2020-04-01 | food and yarn practice thumbnails
+2020-03-31 | modern life
+2020-03-31 | tags 75
+2020-03-30 | the archive overhaul
+2020-03-30 | changed up homepages/baseURLclicky
+2020-03-30 | Merge branch 'master' of https://github.com/SplendidStrontium/splendidstrontium.github.io
+2020-03-30 | peppa travels through time
+2020-03-30 | archive prettified
+2020-03-30 | canon shell added, rootpages css cleaned up
+2020-03-30 | arch title should be styled as a page title
+2020-03-30 | pageDNEpost
+2020-03-30 | remove media query
+2020-03-30 | old index cmt removed
+2020-03-30 | Merge branch 'master' of https://github.com/SplendidStrontium/splendidstrontium.github.io
+2020-03-30 | remove gb styling
+2020-03-30 | Remove Anki link from homepage
+2020-03-30 | infopages moved to rootdir
+2020-03-28 | Create 2020-03-28-phoebe.md
+2020-03-28 | Rainy day poem
+2020-03-21 | Create 2020-03-21-how-to-eat.md
+2020-03-20 | add link to sb10
+2020-03-20 | Create 2020-03-20-10.md
+2020-03-14 | day of week upgrade
+2020-03-14 | assets-img rename, post folders rearranged
+2020-03-14 | correct baby knit hat typo
+2020-03-14 | add commentsid
+2020-03-13 | Update 2020-03-13-meatpie-01.md
+2020-03-13 | Create 2020-03-13-meatpie-01.md
+2020-03-13 | add files via upload PIday2020
+2020-03-03 | Create 2020-03-03-p2-ch000.md
+2020-03-02 | Create 2020-03-02-dear-fineus.md
+2020-03-01 | link ch9
+2020-03-01 | upload p1ch9
+2020-02-29 | Create 2020-02-29-selene.md
+2020-02-29 | Create 2020-02-29-llthander.md
+2020-02-28 | Create 2020-02-28-zhang-math-01.md
+2020-02-28 | handwriting sample upload
+2020-02-28 | Create 2020-02-28-birthright-restored-1.md
+2020-02-26 | upload ch8
+2020-02-26 | link to ch8
+2020-02-25 | Create 2020-02-25-trrask.md
+2020-02-25 | Create 2020-02-25-calandrath.md
+2020-02-25 | Create 2020-02-25-eriolanna.md
+2020-02-25 | Add files via upload
+2020-02-24 | Create 2020-02-24-zhang.md
+2020-02-24 | Add files via upload
+2020-02-24 | Create 2020-02-24-avaelle.md
+2020-02-24 | Add files via upload
+2020-02-24 | Create 2020-02-24-fineus.md
+2020-02-24 | Add files via upload
+2020-02-23 | readability spaces
+2020-02-23 | Update footer-sm.html
+2020-02-23 | end transmissin'
+2020-02-23 | Create 2020-02-23-capacitriste.md
+2020-02-23 | Update biography.css
+2020-02-23 | capacitriste sprite
+2020-02-22 | readable font ahoy
+2020-02-22 | fix links
+2020-02-22 | upload ch7
+2020-02-21 | Create 2020-02-21-yellow-cake-0.md
+2020-02-21 | yellow cake try 1
+2020-02-21 | update ch5 links
+2020-02-21 | write ch6
+2020-02-21 | upload pressure cooker notes
+2020-02-20 | not long enough
+2020-02-19 | update ch4
+2020-02-19 | create ch5
+2020-02-19 | create ch4
+2020-02-19 | link to ch4
+2020-02-11 | Update _comments.scss
+2020-02-11 | Update _comments.scss
+2020-02-11 | Update _config.yml
+2020-02-11 | Update 2020-02-11-reassign-characters-win10.md
+2020-02-11 | Update 2020-02-10-p1-ch3.md
+2020-02-11 | Create 2020-02-11-reassign-characters-win10.md
+2020-02-11 | Add files via upload
+2020-02-10 | Update 2020-02-10-p1-ch3.md
+2020-02-10 | Create 2020-02-10-p1-ch3.md
+2020-02-10 | Update 2019-12-13-p1-ch2.md
+2020-02-08 | Create 2020-02-08-simpleeraser.md
+2020-02-08 | Add files via upload
+2020-02-06 | Create 2020-02-06-tiantangdenver.md
+2020-02-05 | clientsecrets deprecated
+2020-02-05 | composition Feb05-2020 lengdekafei
+2020-02-03 | github issue comments online
+2020-01-30 | op index and introduction
+2020-01-30 | Update _config.yml
+2020-01-28 | apple blackberry pie
+2019-12-24 | the title is wrong
+2019-12-24 | Create 2019-12-24-3-wise-men.md
+2019-12-24 | Add files via upload
+2019-12-13 | roy ch2 added, margins tweaked
+2019-12-12 | Update 2019-12-12-p1-ch1.md
+2019-12-12 | hm p1ch1 added and hm layout skeleton created
+2019-12-07 | Update anki.html
+2019-12-07 | homepage links to youtube and anki summary pg
+2019-11-21 | Update 2018-11-14-3.md
+2019-11-21 | Update 2019-02-04-8.md
+2019-11-21 | Create 2019-11-21-9.md
+2019-11-12 | Create 2019-11-12-that-spam-wont-kill-when-its-clutch.md
+2019-09-16 | hm p1c0 foldercreate
+2019-09-12 | fixed a url
+2019-09-12 | added photos
+2019-09-12 | photos for fortnite n feminism
+2019-09-12 | fortnite n feminism
+2019-07-01 | added nostalgik by a morissette
+2019-07-01 | final gbcomment purge
+2019-07-01 | update twitter username
+2019-07-01 | remove extraneous layout
+2019-07-01 | Merge branch 'master' of https://github.com/SplendidStrontium/splendidstrontium.github.io
+2019-07-01 | no more guests
+2019-06-30 | Merge branch 'master' of https://github.com/SplendidStrontium/splendidstrontium.github.io
+2019-06-30 | spammy spammy spam spam
+2019-06-30 | added fort me priesty
+2019-02-04 | sb8 added
+2019-01-13 | update sb7 encoding
+2019-01-13 | Update README.md
+2019-01-13 | create sb7
+2019-01-10 | Update 2019-01-09-5.md
+2019-01-10 | create sb6
+2019-01-09 | sb5
+2019-01-03 | Update sabertooth.md
+2019-01-03 | Create sabertooth.md
+2018-12-16 | newspaper clipping humor
+2018-11-29 | added eskimofrenzy
+2018-11-27 | Update 2018-11-27-be-quick-be-clever.md
+2018-11-27 | Update 2018-11-27-be-quick-be-clever.md
+2018-11-27 | Update 2018-11-27-be-quick-be-clever.md
+2018-11-27 | Update 2018-11-27-be-quick-be-clever.md
+2018-11-27 | new poem: be quick be clever
+2018-11-26 | Update 2018-11-26-my-sylvanas.md
+2018-11-26 | add my sylvanas lyrics
+2018-11-18 | what is starting poetry
+2018-11-17 | new poetry category
+2018-11-16 | sb now uses monospace, snips category deleted
+2018-11-14 | sb3 added; holder on sb page modified
+2018-11-13 | corrected the Regent's name; he must be capitalized?
+2018-11-13 | sophie blue second log added, fixed formatting on 1
+2018-11-12 | sophie blue 1-roughdraft
+2018-10-05 | Update 2018-10-05-beginning-elf.md
+2018-10-05 | Update 2018-10-05-beginning-elf.md
+2018-10-05 | new post: elf
+2018-10-04 | wow screenshot of two elven females in orgrimmar
+2018-09-20 | Update 2018-09-20-craft-work.md
+2018-09-20 | Create 2018-09-20-craft-work.md
+2018-09-14 | add post: banana muffins
+2018-09-14 | Delete 2015-06-07-blueberry-cake.md
+2018-06-17 | Update 2018-05-06-perfect-pancakes-ii.md
+2018-06-10 | color favicon
+2018-06-10 | cornbread favicon
+2018-05-17 | Update 2018-05-17-classic-chocolate-chip-cookies.md
+2018-05-17 | Create 2018-05-17-classic-chocolate-chip-cookies.md
+2018-05-14 | tribute post to andromede
+2018-05-11 | changed index to reflect completed guestbook
+2018-05-10 | guestbook improved
+2018-05-10 | guestbook tidyed up
+2018-05-09 | add gbcomments
+2018-05-09 | guestbook first try
+2018-05-09 | Update staticman.yml
+2018-05-09 | Update staticman.yml
+2018-05-09 | Create staticman.yml
+2018-05-09 | index and todo updated
+2018-05-07 | Update 2018-05-07-perfect-pancakes-0.md
+2018-05-07 | Create 2018-05-07-perfect-pancakes-0.md
+2018-05-07 | Add files via upload
+2018-05-07 | new post
+2018-05-06 | pancake revision
+2018-05-06 | Create 2018-05-06-perfect-pancakes-ii.md
+2018-05-05 | new post: stars
+2018-05-04 | Update 2018-05-03-star-trek-disco-01-02.md
+2018-05-03 | Update 2018-05-03-star-trek-disco-01-02.md
+2018-05-03 | Create 2018-05-03-star-trek-disco-01-02.md
+2018-04-30 | list of champsup-to-date
+2018-04-30 | new snips
+2018-04-29 | few more entries, placeholder post
+2018-04-29 | new post: insect cold war
+2018-04-24 | new post
+2018-04-23 | new list of lol champs in progress
+2018-04-21 | Create 2018-04-21-rules-of-ghosting.md
+2018-04-20 | two tables
+2018-04-18 | cartoon fam drawing json data
+2018-04-18 | new film lists
+2018-04-16 | first draft cartoon character representation
+2018-04-15 | book quotes have new class
+2018-04-13 | added desc to entertainment post list
+2018-04-12 | clean up fake dated posts
+2018-04-09 | new movie review
+2017-12-11 | delete bad post
+2017-12-11 | forgot suffix
+2017-12-11 | new post
+2017-11-30 | update post 'leaving'
+2017-11-30 | new post: headed for the island
+2017-11-26 | new post: sous chef
+2017-11-16 | poem draft
+2017-11-03 | toaster pastry draft
+2017-10-23 | md sucks
+2017-10-23 | order
+2017-10-23 | pet battle draft
+2017-09-06 | in memoriam day post
+2017-09-06 | added link to Netflix sugar docum'y
+2017-09-05 | new post: lowering sugar intake
+2017-07-15 | tables suck
+2017-07-13 | tables are going to suck horribly
+2017-07-13 | tamina placeholder
+2017-07-12 | philomina has a table
+2017-07-11 | philominas placeholder portrait
+2017-07-11 | yarn removed from main menu
+2017-07-10 | division of categories
+2017-07-10 | recipe added
+2017-07-08 | wow i made a wow post
+2017-07-04 | new post- stegosaurus pattern
+2017-07-03 | index updated with details about nannyc
+2017-07-03 | added cc lic to layouts
+2017-06-19 | cleanup contact
+2017-06-19 | file format change
+2017-06-19 | added: a writers reflection on historical last words
+2017-02-28 | Corrected typo on post
+2017-02-26 | temporary fix on li elements, contrast archive with posts
+2017-02-26 | post list moved to archive
+2017-02-26 | added: post on pancakes
+2017-02-21 | deleted old files
+2017-02-21 | added archive skeleton
+2017-02-20 | post added: trex motif hat
+2016-07-26 | rules of acquisition draft
+2016-03-29 | provided detail to about
+2016-03-23 | homepg disp posts by category
+2016-03-11 | img added: 24h baby hat
+2016-03-10 | layout the lastmod
+2016-03-10 | baby wishlist draft
+2016-03-10 | resume, meet json
+2016-03-08 | resume json conversion in progress
+2016-03-08 | resume text added
+2016-02-01 | Update index.html
+2016-02-01 | Update index.html
+2016-02-01 | Update resume.css
+2016-02-01 | Update resume.css
+2016-02-01 | Update index.html
+2016-02-01 | Create 2010-04-28-untitled.md
+2016-02-01 | Create 2010-03-10-1973.md
+2016-02-01 | Update 2010-02-24-apartment.md
+2016-02-01 | Update 2010-02-24-apartment.md
+2016-02-01 | create 2010-02-24-apartment.md
+2016-01-11 | removed roll pg
+2016-01-11 | rephrased about, removed dice roller
+2016-01-10 | about blurb added
+2016-01-10 | added 404.md
+2015-12-07 | lastmod does not show up if field is empty
+2015-12-06 | added post lastmod date
+2015-12-06 | new post: cornbread
+2015-11-29 | new post: install eve on linux mint
+2015-11-17 | fix name-id issue
+2015-11-17 | edit page: roll
+2015-11-16 | yml fm added, tagline descriptions
+2015-11-16 | updated: resume
+2015-11-16 | edited: index format
+2015-11-16 | hidden: jekyll welcome post
+2015-11-16 | edit post.html
+2015-11-16 | edited: post layout to show update date
+2015-11-16 | edited config.yml: changed permalink format
+2015-11-16 | new post: cloth diapering
+2015-11-14 | new post: (multiples, recipes)
+2015-11-14 | edit post: BJ Laura 1.0
+2015-11-14 | edit post: BJ Laura 1.0
+2015-11-13 | new post: BJ Laura 1.0
+2015-11-13 | jekyll migration
+2015-11-13 | fixed readme format
+2015-11-13 | added readme
+2015-11-13 | added Gemfile
+2015-11-13 | Create README.md
+2015-11-11 | added rudiments for dice rolling
+2015-11-11 | added page for dice roller
+2015-02-03 | leftnav skeleton
+2015-02-02 | skills and experience text
+2015-01-23 | border disappears on mobile
+2015-01-23 | added resume header
+2015-01-23 | no default character
+2015-01-15 | added simple borders
+2015-01-15 | html inserted on dropdown change
+2015-01-09 | jquery displays msg before leaving site
+2015-01-09 | added jquery pkg
+2015-01-09 | add simple character data
+2015-01-09 | js alert
+2015-01-09 | holder for character sheet displayer
+2014-12-10 | replace cat with link to blog
+2014-11-29 | Update index.html
+2014-11-29 | Update index.html
+2014-11-29 | Update index.html
+2014-11-29 | Create homepage.css
+2014-11-29 | add external neko to index.html
+2014-11-23 | Create CNAME
+2014-11-23 | fix link
+2014-11-23 | linkage
+2014-11-23 | first commit
+2014-11-23 | init commit

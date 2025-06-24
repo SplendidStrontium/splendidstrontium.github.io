@@ -105,6 +105,17 @@ $on-laptop:        800px;
 		"comments"
 ;
 
+.post-preview {
+    border-bottom: 1px solid #999;
+    padding-bottom: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.post-preview:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+}
+
 .social-footer {
   margin-top: 2rem;
   padding: 1rem 0;
