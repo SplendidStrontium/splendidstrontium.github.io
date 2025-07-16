@@ -1,0 +1,19 @@
+{% assign image_data = site.data.images[include.image_id] %}
+<figure class="blog-image">
+  {% if image_data.hosting == "external" %}
+    <img src="{{ image_data.image_url }}" 
+         alt="{{ image_data.alt_text }}" 
+         title="{{ image_data.description }}">
+  {% else %}
+    <img src="/assets/images/{{ image_data.filename }}" 
+         alt="{{ image_data.alt_text }}" 
+         title="{{ image_data.description }}">
+  {% endif %}
+  <figcaption>
+    <div class="image-caption">{{ image_data.description }}</div>
+    <div class="image-attribution">
+      Image courtesy of <a href="{{ image_data.source_page }}" target="_blank">{{ image_data.source_platform }}</a>, 
+      digitized from {{ image_data.source_institution }}. {{ image_data.rights_status }}.
+    </div>
+  </figcaption>
+</figure>
