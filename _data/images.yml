@@ -1,0 +1,54 @@
+fauntleroy_suits:
+  title: "Children wearing 'Fauntleroy suits'"
+  description: "Three children wearing velvet suits inspired by Little Lord Fauntleroy style, between 1909 and 1932"
+  hosting: external
+  image_url: "https://upload.wikimedia.org/wikipedia/commons/8/81/Children_wearing_velvet_suits_inspired_by_Little_Lord_Fauntleroy_style_LCCN2001706354.jpg"
+  source_page: "https://commons.wikimedia.org/wiki/File:Children_wearing_velvet_suits_inspired_by_Little_Lord_Fauntleroy_style_LCCN2001706354.tif"
+  source_institution: "Library of Congress"
+  source_platform: "Wikimedia Commons"
+  rights_status: "Public domain"
+  alt_text: "three children in velvet suits with lace collars"
+
+little_lord_fauntleroy_cover:
+  title: "Little Lord Fauntleroy, 1886 Cover"
+  description: "Cover of Little Lord Fauntleroy, 1886, Author: Frances Hodgson Burnett, Artist: Reginald B. Birch"
+  hosting: external
+  image_url: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Little_Lord_Fauntleroy_-_Cover.jpg"
+  source_page: "https://commons.wikimedia.org/wiki/File:Little_Lord_Fauntleroy_-_Cover.jpg"
+  source_institution: "Sp1nd01"
+  source_platform: "Wikimedia Commons"
+  rights_status: "Public domain"
+  alt_text: "1886 cover of Little Lord Fauntleroy"
+
+little_lord_fauntleroy_horseback:
+  title: "Little Lord Fauntleroy, horseback illustration"
+  description: "Little Lord Fauntleroy on horseback, illustration by Reginald B. Birch"
+  hosting: external
+  image_url: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Little_Lord_Fauntleroy_-_dedication.png"
+  source_page: "https://commons.wikimedia.org/wiki/File:Little_Lord_Fauntleroy_-_dedication.png"
+  source_institution: "Sp1nd01"
+  source_platform: "Wikimedia Commons"
+  rights_status: "Public domain"
+  alt_text: "Little Lord Fauntleroy, horseback, illustration"
+
+little_lord_fauntleroy_p41:
+  title: "Little Lord Fauntleroy p.41"
+  description: "Cedric gives some of his newfound wealth to an elderly apple-seller, illustration by Reginald B. Birch"
+  hosting: external
+  image_url: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Birch_Little_Lord_Fauntleroy_p41.jpg"
+  source_page: "https://commons.wikimedia.org/wiki/File:Birch_Little_Lord_Fauntleroy_p41.jpg"
+  source_institution: "scanned book (archive.org)"
+  source_platform: "Wikimedia Commons"
+  rights_status: "Public domain"
+  alt_text: "Little Lord Fauntleroy p.41, Cedric gives to the apple-seller"
+
+little_lord_fauntleroy_tommy_russell:
+  title: "Tommy Russell as Little Lord Fauntleroy"
+  description: "Tommy Russell and Elsie Leslie alternated as the title character in a New York production of 'Little Lord Fauntleroy' in 1888-1889."
+  hosting: external
+  image_url: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Tommy_Russell%2C_as_Little_Lord_Fauntleroy_-_DPLA_-_fc95c6daedc27833850654482b0a8ab9_%28page_1%29.jpg"
+  source_page: "https://commons.wikimedia.org/wiki/File:Tommy_Russell,_as_Little_Lord_Fauntleroy_-_DPLA_-_fc95c6daedc27833850654482b0a8ab9_(page_1).jpg"
+  source_institution: "Boston Public Library"
+  source_platform: "Wikimedia Commons"
+  rights_status: "Public domain"
+  alt_text: "Tommy Russell as Little Lord Fauntleroy, 1890"
