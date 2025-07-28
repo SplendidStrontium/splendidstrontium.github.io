@@ -1,19 +1,21 @@
 {% assign image_data = site.data.images[include.image_id] %}
 <figure class="blog-image">
-  {% if image_data.hosting == "external" %}
-    <img src="{{ image_data.image_url }}" 
-         alt="{{ image_data.alt_text }}" 
-         title="{{ image_data.description }}">
-  {% else %}
-    <img src="/assets/images/{{ image_data.filename }}" 
-         alt="{{ image_data.alt_text }}" 
-         title="{{ image_data.description }}">
-  {% endif %}
+  <img src="{{ image_data.image_url }}" 
+       alt="{{ image_data.alt_text }}" 
+       title="{{ image_data.description }}">
   <figcaption>
     <div class="image-caption">{{ image_data.description }}</div>
     <div class="image-attribution">
-      Image courtesy of <a href="{{ image_data.source_page }}" target="_blank">{{ image_data.source_platform }}</a>, 
-      digitized from {{ image_data.source_institution }}. {{ image_data.rights_status }}.
+      {% if image_data.hosting == "external" %}
+        Image courtesy of <a href="{{ image_data.source_page }}" target="_blank">{{ image_data.source_platform }}</a>, 
+        digitized from {{ image_data.source_institution }}. {{ image_data.rights_status }}.
+      {% else %}
+        {% if image_data.source_platform == "Fiverr" %}
+          Commissioned artwork by {{ image_data.source_institution }} via <a href="https://www.fiverr.com" target="_blank">{{ image_data.source_platform }}</a>. {{ image_data.rights_status }}.
+        {% else %}
+          Artwork by {{ image_data.source_institution }}. {{ image_data.rights_status }}.
+        {% endif %}
+      {% endif %}
     </div>
   </figcaption>
 </figure>

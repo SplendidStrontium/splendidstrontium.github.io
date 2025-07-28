@@ -1,3 +1,14 @@
+bianca_portrait:
+  title: "Bianca Vacarescu Portrait"
+  description: "Portrait of the author, penname Bianca Vacarescu, sitting at a desk"
+  hosting: internal
+  image_url: "/assets/img/bianca-portrait01.png"
+  source_page: "https://nan.nyc/about"
+  source_institution: "introlocifer"
+  source_platform: "Fiverr"
+  rights_status: "Licensed for commercial use"
+  alt_text: "portrait of Bianca Vacarescu sitting at a desk"
+
 fauntleroy_suits:
   title: "Children wearing 'Fauntleroy suits'"
   description: "Three children wearing velvet suits inspired by Little Lord Fauntleroy style, between 1909 and 1932"
