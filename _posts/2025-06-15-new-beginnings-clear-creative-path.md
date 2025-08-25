@@ -8,7 +8,7 @@ excerpt: "After years of writing in different directions, I am ready to commit t
 author: nan
 permalink: /blog/:year/:month/:day/:title/
 featured: true
-lastmod: 2025-06-15 10:45
+lastmod: 2025-08-25 12:23
 ---
 
 After years of writing in many different directions, I am ready to commit to a clear creative path. I pushed my first commit to this website ten years ago in 2015 and began publishing my writing here in 2019. Beginning in 2020 and concluding with its final post in January 2025, I worked primarily within my Femputer Machine (FPMC) universe, where I explored what it meant to survive in a world that was more than it appeared.
@@ -43,16 +43,10 @@ The Convergent Eigenspace, currently expected to form an eight-book series, foll
 
 I will use my existing website as a springboard toward a showcase of my current creative work. On what was the fairly unexciting landing page for https://nan.nyc, I will post the latest news regarding my projects, including website development, workflow details, creative progress, and maybe the occasional retrospective. 
 
-While the landing page will showcase all of the most recent posts, all material specifically pertaining to The Convergent Eigenspace will be highlighted at https://nan.nyc/tce/. 
-
-## What's at /tce/
-
-Not too many spoilers, I promise! I have plans to tease content and provide backstory on elements I may not be able to explore in-depth in the series as presented. My current hopes include posting select character bios, background information relevant to TCE plotlines, and world-building elements. 
-
-I am taking an entirely different approach to composing TCE than the experimental, seat-of-the-pants philosophy I had while creating FPMC. As a result, I will not be sharing the novel's text, but will instead focus on generating unique content that cannot be obtained elsewhere. 
+While the landing page will showcase all of the most recent posts, all material specifically pertaining to The Convergent Eigenspace will be highlighted at https://nan.nyc/tce/.  
 
 ## Looking Forward
 
 Amidst a graveyard of archived projects, I am anxious to see TCE to its completion. Although 2025 marks the start of this series in earnest, I began sketching the prototype over five years ago on this very website. I am ready to spread my wings and learn how to fly. 
 
-As I spend the next several years working on the first two novels of the planned eight-book series, I will continue to post here with my progress. I would like to finish two novels before I publish Book 0, largely because these two books mirror each other. It is an ambitious project, one I believe more relevant than ever to a changing world, and I have the foundation to see this through to the end. I hope to see you along for the ride.
+I will continue to post here with my progress. I hope to see you along for the ride.
