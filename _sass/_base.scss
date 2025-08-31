@@ -215,8 +215,8 @@ pre {
 	position: relative;
 	border: 1px solid #888;
 	border-radius: 6px;
-	margin-top: 1em;
-	margin-bottom: 1em;
+	margin-top: 2em;
+	margin-bottom: 2em;
 	background-color: #ddd;
 	padding: 0.8em;
 	padding-left: 132px; // Make room for the image (100px + 1em margin + padding)
@@ -254,7 +254,7 @@ pre {
 	// Subsequent paragraphs (chat text) styling  
 	&:not(:first-of-type) {
 		color: lighten($text-color, 10%); // Slightly lighter message text
-		margin: 0.2em 0;
+		margin: 1em 0;
 	}
 }
 
