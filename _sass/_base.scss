@@ -208,25 +208,74 @@ pre {
  * Icons
  */
 
-.chat-box{
+// Updated chat box styling - CSS Grid layout for proper text stacking
+
+// CSS-only solution using CSS positioning
+.chat-box {
+	position: relative;
 	border: 1px solid #888;
-	border-radius: 13px 3px 13px 3px;
+	border-radius: 6px;
 	margin-top: 1em;
 	margin-bottom: 1em;
-	background-color:#ddd;
-	box-shadow: 5px 3px 5px #555;
+	background-color: #ddd;
+	padding: 0.8em;
+	padding-left: 132px; // Make room for the image (100px + 1em margin + padding)
+	box-shadow: 2px 2px 3px rgba(85, 85, 85, 0.3);
+	min-height: 100px; // Ensure minimum height for the image
 }
 
 .chat-portrait {
+	position: absolute;
+	left: 0.8em;
+	top: 0.8em;
 	width: 100px;
-	border-radius: 13px 0px;
+	height: 100px;
+	border: 1px solid #888;
 }
 
-.ppl-sez{
-	padding-bottom: 1em;
-	margin-left: 0.5em;
-	padding-right: 1em;
+.ppl-sez {
+	margin: 0;
+	padding: 0;
+	
+	// First paragraph (username) styling
+	&:first-of-type {
+		font-weight: bold;
+		color: $text-color;
+		background-color: rgba(0, 0, 0, 0.1); // Subtle background highlight
+		padding: 0.2em 0.4em;
+		border-radius: 3px;
+		margin-bottom: 0.5em;
+		margin-top: 0;
+		font-size: 0.9em; // Slightly smaller than message text
+		text-transform: uppercase; // Makes it more distinct
+		letter-spacing: 0.5px; // Adds some spacing for clarity
+	}
+	
+	// Subsequent paragraphs (chat text) styling  
+	&:not(:first-of-type) {
+		color: lighten($text-color, 10%); // Slightly lighter message text
+		margin: 0.2em 0;
+	}
 }
+
+// Mobile responsiveness
+@include media-query($on-palm) {
+	.chat-box {
+		padding-left: 104px; // Adjust for smaller image (80px + 0.8em margin + padding)
+		padding-top: 0.6em;
+		padding-right: 0.6em;
+		padding-bottom: 0.6em;
+		min-height: 80px;
+	}
+	
+	.chat-portrait {
+		left: 0.6em;
+		top: 0.6em;
+		width: 80px;
+		height: 80px;
+	}
+}
+
 
 .icon {
 
