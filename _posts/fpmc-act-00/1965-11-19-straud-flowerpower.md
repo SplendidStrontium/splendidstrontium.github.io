@@ -7,9 +7,11 @@ date: 1965-11-19 10:53
 description: "in which Straud visits Sebastian's small family"
 tags: [skit, fpmcmain-straud, act-0]
 published: true
+youtube_link: https://youtu.be/gfeFBy6EJMo
 lastmod: 2021-11-15 14:17
 ---
 [//]: # ( 11/15/21  -added)
+[//]: # ( 10/05/25  -added yt link)
 
 *****
 <br><i>The Great War finally over, the Goryeon Conflict nearing its conclusion, the world has begun to sink into some sort of stability again.</i>
