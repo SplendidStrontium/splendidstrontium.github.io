@@ -5,6 +5,7 @@ date: 2025-06-23
 categories: [tce]
 tags: [fpmc-retrospective, writing-journey, tce]
 excerpt: "I am not sure I struggled at all with the first question. This was always Cedric's story."
+og_image: "https://nan.nyc/assets/img/dolls-reclining.jpg"
 author: nan
 permalink: /tce/:year/:month/:day/:title/
 featured: true
