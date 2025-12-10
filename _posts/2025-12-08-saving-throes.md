@@ -6,6 +6,7 @@ categories: [tce]
 tags: [writing-journey, tce]
 excerpt: "Anything is possible, but you might have to wait a while."
 og_image: "https://nan.nyc/assets/img/the-lidless-eye.jpg"
+card_thumbnail: the-lidless-eye-card.jpg
 author: nan
 permalink: /tce/:year/:month/:day/:title/
 featured: true
