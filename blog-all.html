@@ -1,0 +1,37 @@
+---
+layout: default
+title: "All Posts"
+permalink: /blog/all/
+---
+
+<div class="recent-posts">
+  <h1>All Posts</h1>
+
+{% for post in site.posts %}
+{% if post.categories contains 'tce' or post.categories contains 'blog' %}
+<article class="post-card">
+  {% if post.card_thumbnail %}
+  <div class="post-card-thumbnail">
+    <img src="/assets/tb/cards/{{ post.card_thumbnail }}" alt="">
+  </div>
+  {% endif %}
+
+  <div class="post-card-content">
+    <h3 class="post-card-title">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </h3>
+    <p class="post-card-meta">
+      {{ post.date | date: "%A, %B %d, %Y" }}
+      {% if post.categories.size > 0 %}
+        | {{ post.categories | join: ", " }}
+      {% endif %}
+    </p>
+    <p class="post-card-excerpt">
+      {{ post.excerpt | strip_html | truncatewords: 30 }}
+    </p>
+    <a href="{{ post.url }}" class="post-card-link">Continue reading →</a>
+  </div>
+</article>
+{% endif %}
+{% endfor %}
+</div>
