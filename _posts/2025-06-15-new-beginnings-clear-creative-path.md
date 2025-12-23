@@ -9,7 +9,7 @@ og_image: "https://nan.nyc/assets/img/potence-draft.jpg"
 card_thumbnail: potence-draft-card.jpg
 author: nan
 permalink: /blog/:year/:month/:day/:title/
-featured: true
+published: false
 lastmod: 2025-08-25 12:23
 ---
 

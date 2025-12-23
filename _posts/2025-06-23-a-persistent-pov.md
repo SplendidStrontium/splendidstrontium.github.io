@@ -9,7 +9,7 @@ og_image: "https://nan.nyc/assets/img/dolls-reclining.jpg"
 card_thumbnail: dolls-reclining-card.jpg
 author: nan
 permalink: /tce/:year/:month/:day/:title/
-featured: true
+published: false
 lastmod: 2025-06-23 10:46
 ---
 

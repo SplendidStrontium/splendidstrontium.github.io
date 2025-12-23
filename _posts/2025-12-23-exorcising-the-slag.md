@@ -9,7 +9,7 @@ og_image: "https://nan.nyc/assets/img/writing-implements.jpg"
 card_thumbnail: writing-implements-card.jpg
 author: nan
 permalink: /tce/:year/:month/:day/:title/
-featured: true
+published: false
 lastmod: 2025-12-23 09:53
 ---
 

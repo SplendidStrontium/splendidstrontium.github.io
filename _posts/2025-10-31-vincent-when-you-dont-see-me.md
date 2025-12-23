@@ -9,7 +9,7 @@ og_image: "https://nan.nyc/assets/img/looking-toward-the-divine.jpg"
 card_thumbnail: looking-toward-the-divine-card.jpg
 author: nan
 permalink: /tce/:year/:month/:day/:title/
-featured: true
+published: false
 lastmod: 2025-10-31 21:05
 ---
 

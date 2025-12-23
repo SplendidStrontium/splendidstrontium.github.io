@@ -9,7 +9,7 @@ og_image: "https://nan.nyc/assets/img/the-lidless-eye.jpg"
 card_thumbnail: the-lidless-eye-card.jpg
 author: nan
 permalink: /tce/:year/:month/:day/:title/
-featured: true
+published: false
 lastmod: 2025-12-08 21:41
 ---
 

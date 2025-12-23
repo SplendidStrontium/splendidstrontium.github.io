@@ -9,7 +9,7 @@ og_image: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Little_Lord_Faunt
 card_thumbnail: llf-card.jpg
 author: nan
 permalink: /tce/:year/:month/:day/:title/
-featured: true
+published: false
 lastmod: 2025-07-16 14:44
 ---
 

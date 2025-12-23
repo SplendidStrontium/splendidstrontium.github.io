@@ -9,7 +9,7 @@ og_image: "https://nan.nyc/assets/img/a-park-long-ago.jpg"
 card_thumbnail: a-park-long-ago-tb.jpg
 author: nan
 permalink: /tce/:year/:month/:day/:title/
-featured: true
+published: false
 lastmod: 2025-12-21 22:06
 ---
 
