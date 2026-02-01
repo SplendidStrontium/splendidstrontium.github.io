@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vocabulary Tools</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,400&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg: #1a1614; --bg2: #221e1a; --text: #c4b5a0; --text-light: #d4c5b0;
+    --text-dim: #8b7355; --text-faint: #6b5d4d; --text-ghost: #4a3f34;
+    --accent: rgba(139,115,85,0.2); --accent-border: rgba(139,115,85,0.15);
+  }
+  html { height: 100%; }
+  body {
+    min-height: 100%; background: linear-gradient(160deg, var(--bg) 0%, var(--bg2) 50%, var(--bg) 100%);
+    color: var(--text); font-family: 'Cormorant Garamond', Georgia, 'Palatino Linotype', serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  .texture {
+    position: fixed; inset: 0; pointer-events: none; z-index: 0;
+    background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(196,181,160,0.015) 2px, rgba(196,181,160,0.015) 4px);
+  }
+  .container {
+    position: relative; z-index: 1; max-width: 600px; margin: 0 auto; padding: 48px 24px;
+  }
+  .header {
+    text-align: center; margin-bottom: 48px;
+  }
+  .header h1 {
+    font-size: 32px; font-weight: 400; letter-spacing: 0.1em; color: var(--text-light);
+    margin: 0 0 8px; text-transform: uppercase; font-variant: small-caps;
+  }
+  .header-line {
+    width: 80px; height: 1px; margin: 0 auto 12px;
+    background: linear-gradient(90deg, transparent, var(--text-dim), transparent);
+  }
+  .header-sub {
+    font-size: 15px; color: var(--text-dim); letter-spacing: 0.12em;
+  }
+  .tools-grid {
+    display: grid; gap: 16px;
+  }
+  .tool-card {
+    display: block;
+    background: linear-gradient(180deg, rgba(34,30,26,0.95) 0%, rgba(26,22,20,0.98) 100%);
+    border: 1px solid rgba(139,115,85,0.2); border-radius: 10px;
+    padding: 24px; text-decoration: none; color: inherit;
+    transition: border-color 0.2s, transform 0.2s;
+  }
+  .tool-card:hover {
+    border-color: var(--text-dim);
+    transform: translateY(-2px);
+  }
+  .tool-card h2 {
+    font-size: 22px; font-weight: 400; color: var(--text-light);
+    margin-bottom: 8px; letter-spacing: 0.04em;
+  }
+  .tool-card p {
+    font-size: 15px; color: var(--text-dim); line-height: 1.6;
+    margin-bottom: 12px;
+  }
+  .tool-meta {
+    font-size: 13px; color: var(--text-faint); letter-spacing: 0.06em;
+  }
+  .tool-card-placeholder {
+    background: rgba(34,30,26,0.5);
+    border: 1px dashed rgba(139,115,85,0.15); border-radius: 10px;
+    padding: 24px; text-align: center; color: var(--text-ghost);
+    font-size: 14px; font-style: italic;
+  }
+  .footer {
+    text-align: center; margin-top: 48px; font-size: 12px;
+    color: var(--text-ghost); letter-spacing: 0.1em;
+  }
+</style>
+</head>
+<body>
+<div class="texture"></div>
+<div class="container">
+  <div class="header">
+    <h1>Vocabulary Tools</h1>
+    <div class="header-line"></div>
+    <div class="header-sub">Study aids for the discerning wordsmith</div>
+  </div>
+
+  <div class="tools-grid">
+    <a href="literary-english.html" class="tool-card">
+      <h2>Literary English</h2>
+      <p>A curated collection of elevated vocabulary for writers. Flashcard-style study with spaced repetition tracking.</p>
+      <div class="tool-meta">50 words &middot; Categories &middot; Progress tracking</div>
+    </a>
+
+    <div class="tool-card-placeholder">
+      More tools coming soon
+    </div>
+  </div>
+
+  <div class="footer">Build your lexicon</div>
+</div>
+</body>
+</html>
