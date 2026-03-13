@@ -3,9 +3,22 @@ title: Not a Number
 email: nan@nan.nyc 
 description: > # this means to ignore newlines until "baseurl:"
   here, we are not only numbers
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://nan.nyc" # the base hostname & protocol for your site
+baseurl: "" 
+url: "https://nan.nyc" 
 youtube_username: UC2GGSbxdmmy-X7c5wyzE38w
+
+# Collections
+collections:
+  wiki:
+    output: true
+ 
+defaults:
+  - scope:
+      path: ""
+      type: "wiki"
+    values:
+      layout: "wiki-entry"
+      permalink: /tce/wiki/:path/
 
 # Build settings
 markdown: kramdown

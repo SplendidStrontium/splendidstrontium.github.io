@@ -1,0 +1,111 @@
+/* Wiki styles */
+
+.wiki-index hr {
+  margin: 1.5em 0;
+  border: none;
+  border-top: 1px solid #999;
+}
+
+.wiki-book-group {
+  margin-bottom: 1em;
+}
+
+.wiki-book-group h3 {
+  margin-bottom: 0.1em;
+}
+
+.wiki-book-count {
+  font-size: 0.85em;
+  color: #666;
+  margin-top: 0;
+}
+
+.wiki-entry-list {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.wiki-entry-list li {
+  padding: 0.4em 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.wiki-entry-list li:last-child {
+  border-bottom: none;
+}
+
+.wiki-entry-desc {
+  font-size: 0.9em;
+  color: #666;
+}
+
+/* Individual entry pages */
+
+.wiki-entry-header {
+  margin-bottom: 1.5em;
+}
+
+.wiki-entry-header h1 {
+  margin-bottom: 0.2em;
+}
+
+.wiki-meta {
+  font-size: 0.85em;
+  color: #666;
+}
+
+.wiki-category {
+  text-transform: capitalize;
+}
+
+.wiki-entry-content {
+  margin-bottom: 2em;
+}
+
+.wiki-entry-footer {
+  margin-top: 2em;
+  padding-top: 1em;
+  border-top: 1px solid #999;
+  font-size: 0.9em;
+}
+
+.wiki-entry-footer p {
+  margin-bottom: 0.3em;
+}
+
+.wiki-lastmod {
+  font-size: 0.85em;
+  color: #666;
+  font-style: italic;
+  margin-bottom: 0.8em;
+  padding-bottom: 0.8em;
+  border-bottom: 1px solid #999;
+}
+
+/* Spoiler sections via <details> */
+
+.wiki-entry-content details {
+  margin: 1em 0;
+  padding: 0.5em 1em;
+  border-left: 3px solid #999;
+  background-color: #e0e0e0;
+}
+
+.wiki-entry-content details summary {
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 0.95em;
+  color: #444;
+  padding: 0.3em 0;
+}
+
+.wiki-entry-content details summary:hover {
+  color: #111;
+}
+
+.wiki-entry-content details[open] summary {
+  margin-bottom: 0.5em;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 0.5em;
+}

@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<article class="wiki-entry">
+
+  <header class="wiki-entry-header">
+    <h1>{{ page.title }}</h1>
+    <p class="wiki-meta">
+      <span class="wiki-category">{{ page.category }}</span>
+      &middot;
+      <a href="/tce/wiki/{{ page.book }}/">Book: <em>{{ page.book_title }}</em></a>
+    </p>
+  </header>
+
+  <div class="wiki-entry-content">
+    {{ content }}
+  </div>
+
+  <footer class="wiki-entry-footer">
+    {% if page.lastmod %}
+        <p class="wiki-lastmod">Last updated: {{ page.lastmod | date: "%B %-d, %Y" }}</p>
+    {% endif %}
+    <p><a href="/tce/wiki/{{ page.book }}/">&larr; Back to {{ page.book_title }}</a></p>
+    <p><a href="/tce/wiki/">&larr; Wiki Index</a></p>
+  </footer>
+
+  <script>
+    document.querySelectorAll('.wiki-entry-content a').forEach(function(link) {
+        if (link.hostname !== window.location.hostname) {
+            link.setAttribute('target', '_blank');
+            link.setAttribute('rel', 'noopener');
+        }
+    });
+    </script>
+
+</article>
