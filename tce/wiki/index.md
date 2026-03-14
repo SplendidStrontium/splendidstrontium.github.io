@@ -6,7 +6,7 @@ permalink: /tce/wiki/
 
 <div class="wiki-index">
 
-<h1>The Convergent Eigenspace — Wiki</h1>
+<h1>TCE: Wiki</h1>
 
 <p>A companion guide to people, places, and things across the series. Entries contain spoilers behind collapsible sections — expand at your own risk.</p>
 

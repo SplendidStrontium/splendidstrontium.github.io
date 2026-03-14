@@ -3,7 +3,7 @@ title: Cedric Kenyon
 category: person
 book: b0
 book_title: "What Time Cannot Touch"
-description: "A young man who destroyed his former identity to start over."
+description: "a young man who destroyed his former identity to start over."
 lastmod: 2026-03-13
 ---
 [//]: # (  3/13/26  -file created)

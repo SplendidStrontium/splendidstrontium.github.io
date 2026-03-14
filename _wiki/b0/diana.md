@@ -3,12 +3,17 @@ title: Diana
 category: person
 book: b0
 book_title: "What Time Cannot Touch"
-description: "A generous young woman who selflessly helps another in need."
-lastmod: 2026-03-13
+description: "a generous young woman who selflessly helps another in need."
+lastmod: 2026-03-14
 ---
 [//]: # (  3/13/26  -file created)
+[//]: # (  3/14/26  -birthday added)
 
-Diana is a kind-hearted young woman who reaches out to help others with little thought of what it costs to give of one's heart.
+Diana is a kind-hearted young woman who reaches out to help others with little thought of what it costs to give of one's heart. She possesses a keen facility with mathematics but also likes to draw in her spare time. She thinks the best of other people but tends to disparage herself and neglect her own needs.
+
+## Birthdate
+
+June 26, 1976
 
 ## Major Appearances
 

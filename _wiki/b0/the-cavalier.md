@@ -3,7 +3,7 @@ title: the Cavalier
 category: thing
 book: b0
 book_title: "What Time Cannot Touch"
-description: "The means by which Cedric travels East."
+description: "the means by which Cedric travels East."
 lastmod: 2026-03-13
 ---
 [//]: # (  3/13/26  -file created)
