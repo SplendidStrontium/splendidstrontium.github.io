@@ -3,7 +3,7 @@ title: the Marscapone School of Magic
 category: place
 book: b0
 book_title: "What Time Cannot Touch"
-description: "an orphanage in Queens that serves as home for many who have need."
+description: "an orphanage in Queens that serves as home for many who have no other."
 lastmod: 2026-03-13
 ---
 [//]: # (  3/13/26  -file created)
