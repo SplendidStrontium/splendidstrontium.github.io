@@ -5,7 +5,6 @@ description: > # this means to ignore newlines until "baseurl:"
   here, we are not only numbers
 baseurl: "" 
 url: "https://nan.nyc" 
-youtube_username: UC2GGSbxdmmy-X7c5wyzE38w
 
 # Collections
 collections:
@@ -29,4 +28,4 @@ plugins:
 
 #other options
 timezone: America/New_York
-exclude:	[old]
+exclude:	[old, notes, _scripts, _drafts]
