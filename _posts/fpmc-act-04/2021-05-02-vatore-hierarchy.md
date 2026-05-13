@@ -7,11 +7,9 @@ date: 2021-05-02 21:00
 description: "in which Caleb receives his first astronomy lesson in one month"
 tags: [skit, fpmcmain-vatore, act-iv]
 published: true
-youtube_link: https://youtu.be/6IqIim6WY8I
 lastmod: 2021-11-04 16:35
 ---
 [//]: # ( 05/02/21  -added)
-[//]: # ( 10/13/21  -youtubelink added)
 [//]: # ( 11/04/21  -title added)
 
 *****

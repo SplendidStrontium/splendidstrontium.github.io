@@ -7,7 +7,6 @@ date: 2021-06-25 14:05
 description: "in which Lilith and Quarq introduce themselves to the newcomer Zoe Bechamel"
 tags: [skit, fpmcmain-vatore, act-iv]
 published: true
-youtube_link: https://youtu.be/khNjt2X92Ds
 lastmod: 2021-11-04 16:43
 ---
 [//]: # ( 06/25/21  -added)

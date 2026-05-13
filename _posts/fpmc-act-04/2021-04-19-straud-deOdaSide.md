@@ -7,11 +7,9 @@ date: 2021-04-19 19:59
 description: "in which Straud sees a number of visions"
 tags: [skit, fpmcmain-straud, act-iv]
 published: true
-youtube_link: https://youtu.be/LOhauJOGd58
 lastmod: 2025-02-05 23:31
 ---
 [//]: # ( 04/19/21  -added)
-[//]: # ( 10/13/21  -youtubelink added)
 [//]: # ( 11/04/21  -title added)
 [//]: # ( 02/05/25  -tb changed)
 

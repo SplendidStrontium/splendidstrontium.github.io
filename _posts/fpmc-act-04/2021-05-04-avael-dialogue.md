@@ -7,11 +7,9 @@ date: 2021-05-04 13:35
 description: "in which Cedric and AVAEL deworm the puddytat"
 tags: [skit, fpmcmain-avael, act-iv]
 published: true
-youtube_link: https://youtu.be/I86ZVQQDdWo
 lastmod: 2021-11-04 16:40
 ---
 [//]: # ( 05/04/21  -added)
-[//]: # ( 10/13/21  -youtubelink added)
 [//]: # ( 11/04/21  -title added)
 
 *****

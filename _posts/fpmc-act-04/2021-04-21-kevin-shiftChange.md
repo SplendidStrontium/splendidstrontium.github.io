@@ -7,11 +7,9 @@ date: 2021-04-21 21:45
 description: "in which starts the Journey to the West"
 tags: [skit, fpmcmain-kevin, act-iv]
 published: true
-youtube_link: https://youtu.be/P2PD5i4KYLI
 lastmod: 2025-02-05 23:25
 ---
 [//]: # ( 04/21/21  -added)
-[//]: # ( 10/13/21  -youtubelink added)
 [//]: # ( 11/04/21  -title added)
 [//]: # ( 02/05/25  -tb changed)
 

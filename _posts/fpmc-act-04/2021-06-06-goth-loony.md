@@ -7,11 +7,9 @@ date: 2021-06-06 18:21
 description: "in which Cassandra serves soft-boiled eggs"
 tags: [skit, fpmcmain-goth, act-iv]
 published: true
-youtube_link: https://youtu.be/-VRZTDzocJo
 lastmod: 2021-11-24 12:05
 ---
 [//]: # ( 06/06/21  -added)
-[//]: # ( 10/13/21  -youtubelink added)
 [//]: # ( 11/04/21  -title added)
 [//]: # ( 11/24/21  -going with Galantome)
 

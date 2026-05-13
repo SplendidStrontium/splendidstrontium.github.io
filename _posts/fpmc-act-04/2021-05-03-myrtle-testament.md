@@ -7,11 +7,9 @@ date: 2021-05-03 21:01
 description: "in which one endures the Death of the Dreaded Lock"
 tags: [skit, fpmcmain-myrtle, act-iv]
 published: true
-youtube_link: https://youtu.be/fm5AHQIdxik
 lastmod: 2021-11-04 16:38
 ---
 [//]: # ( 05/03/21  -added)
-[//]: # ( 10/13/21  -youtubelink added)
 [//]: # ( 11/04/21  -title added)
 
 *****

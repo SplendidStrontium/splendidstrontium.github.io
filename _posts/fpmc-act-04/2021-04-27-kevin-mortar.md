@@ -7,11 +7,9 @@ date: 2021-04-27 18:50
 description: "in which Kevin &al report to the Marscapone School"
 tags: [skit, fpmcmain-kevin, act-iv]
 published: true
-youtube_link: https://youtu.be/s_fMkKwlyqQ
 lastmod: 2021-11-04 16:23
 ---
 [//]: # ( 04/27/21  -added)
-[//]: # ( 10/13/21  -youtubelink added)
 [//]: # ( 11/04/21  -title added)
 
 *****
