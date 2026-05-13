@@ -28,4 +28,4 @@ plugins:
 
 #other options
 timezone: America/New_York
-exclude:	[old, notes, _scripts, _drafts]
+exclude:	[old, _scripts, _drafts]
