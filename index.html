@@ -14,5 +14,14 @@ permalink: /
   <p><em>The Convergent Eigenspace</em> follows Cedric Kenyon from small-town Ohio to 1990s New York, where he stumbles into a hidden world of magic running parallel to everyday reality. As he navigates this new life - and the people who inhabit it - he learns that fangs alone do not define a predator.</p>
 
   <p style="margin-bottom: 3em;">For content specifically related to <em>The Convergent Eigenspace</em>, visit <a href="/tce/">/tce/</a> as well as <a href="https://read.nan.nyc">my substack</a>. My legacy work can be found at the <a href="/archive/">archive</a>.</p>
+
+  <hr>
+
+  <section class="recent-log">
+    <h2 class="log-title">Lately</h2>
+    {% assign recent = site.data.log | slice: 0, 5 %}
+    {% include log-entries.html entries=recent %}
+    <p class="log-more"><a href="/log/">more →</a></p>
+</section>
 </div>
 

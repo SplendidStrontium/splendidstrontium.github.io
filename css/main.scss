@@ -177,3 +177,49 @@ $on-laptop:        800px;
 .text-center{
   text-align: center;
 }
+
+// log styles
+
+.log { list-style: none; padding: 0; margin: 0; }
+.log-title {
+  font-size: 1.2em;
+  font-style: italic;
+  font-weight: normal;
+}
+.log-entry {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  column-gap: 0.6em;
+  margin: 0.6em 0;
+}
+.log-date {
+  grid-column: 1;
+  color: #8A7D72;
+  font-variant: small-caps;
+  margin-right: 0.5em;
+}
+.log-date::after { content: ":";}
+.log-text { grid-column: 2; }
+.log-mood { 
+  grid-column: 2;
+  color: #8A7D72; 
+  font-style: italic; 
+  font-size: 0.85em;
+}
+.mood-icon {
+  width: 2.2em; height: 2.2em;
+  vertical-align: middle;
+  margin-left: 0.25em;
+  filter: saturate(0.75) sepia(0.15) contrast(0.95);
+}
+.log-year-heading {
+  font-size: 1em;
+  font-style: italic;
+  font-weight: normal;
+  color: #8A7D72;
+  margin-top: 1.5em;
+}
+.log-credits-link {
+  margin-top: 2.5em;
+  font-size: 0.85em;
+}
