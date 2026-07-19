@@ -11,9 +11,11 @@ All mood icons are cropped and modified from public domain works.
 <ul class="mood-credits">
 {% for c in site.data.mood_credits %}
   <li>
-    <img class="mood-icon" src="/assets/moods/{{ c.icon }}" alt="">
-    {{ c.artist }}, <em>{{ c.title }}</em> ({{ c.year }});
-    <a href="{{ c.source }}">public domain</a>; modified
+    <img class="mood-credit-icon" src="/assets/moods/{{ c.icon }}" alt="">
+    <span class="mood-credit-text">
+      {{ c.artist }}, <em>{{ c.title }}</em> ({{ c.year }});
+      <a href="{{ c.source }}">public domain</a>; modified
+    </span>
   </li>
 {% endfor %}
 </ul>

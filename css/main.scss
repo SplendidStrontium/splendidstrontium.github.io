@@ -182,7 +182,7 @@ $on-laptop:        800px;
 
 .log { list-style: none; padding: 0; margin: 0; }
 .log-title {
-  font-size: 1.3em;
+  font-size: 1.4em;
   font-style: italic;
   font-weight: normal;
 }
@@ -228,4 +228,22 @@ $on-laptop:        800px;
 .log-credits-link {
   margin-top: 2.5em;
   font-size: 0.85em;
+}
+
+// mood credits
+.mood-credits {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.mood-credits li {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  column-gap: 0.8em;
+  align-items: center;  // or start, if you prefer text top-aligned with the icon
+  margin: 0.8em 0;
+}
+
+.mood-credit-icon {
+  width: 4em; height: 4em;
 }
