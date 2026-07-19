@@ -4,7 +4,7 @@ title: log
 permalink: /log/
 ---
 
-<h1 class="log-page-title">log</h1>
+<!-- <h1 class="log-page-title">log</h1> -->
 
 {% assign by_year = site.data.log | group_by_exp: "entry", "entry.date | date: '%Y'" %}
 {% for year in by_year %}

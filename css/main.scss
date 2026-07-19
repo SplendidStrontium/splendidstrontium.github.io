@@ -182,7 +182,7 @@ $on-laptop:        800px;
 
 .log { list-style: none; padding: 0; margin: 0; }
 .log-title {
-  font-size: 1.2em;
+  font-size: 1.3em;
   font-style: italic;
   font-weight: normal;
 }
@@ -191,33 +191,39 @@ $on-laptop:        800px;
   grid-template-columns: max-content 1fr;
   column-gap: 0.6em;
   margin: 0.6em 0;
+  border: 1px solid #999;
+  border-radius: 5px;
+  padding: 0.4em;
 }
 .log-date {
   grid-column: 1;
-  color: #8A7D72;
+  color: #555;
   font-variant: small-caps;
-  margin-right: 0.5em;
+  margin: 0 0.5em 0.2em 0;
 }
 .log-date::after { content: ":";}
-.log-text { grid-column: 2; }
+.log-text { 
+  grid-column: 2; 
+  margin: 0 0;
+}
 .log-mood { 
   grid-column: 2;
-  color: #8A7D72; 
+  color: #777; 
   font-style: italic; 
-  font-size: 0.85em;
+  font-size: 0.9em;
 }
 .mood-icon {
-  width: 2.2em; height: 2.2em;
+  width: 2.3em; height: 2.3em;
   vertical-align: middle;
   margin-left: 0.25em;
   filter: saturate(0.75) sepia(0.15) contrast(0.95);
 }
 .log-year-heading {
-  font-size: 1em;
+  font-size: 2em;
   font-style: italic;
   font-weight: normal;
-  color: #8A7D72;
-  margin-top: 1.5em;
+  color: #555;
+  margin-top: 0.5em;
 }
 .log-credits-link {
   margin-top: 2.5em;
