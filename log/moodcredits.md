@@ -13,7 +13,7 @@ All mood icons are cropped and modified from public domain works.
   <li>
     <img class="mood-icon" src="/assets/moods/{{ c.icon }}" alt="">
     {{ c.artist }}, <em>{{ c.title }}</em> ({{ c.year }});
-    <a href="{{ c.source }}">public domain via Wikimedia Commons</a>; modified
+    <a href="{{ c.source }}">public domain</a>; modified
   </li>
 {% endfor %}
 </ul>
