@@ -19,7 +19,7 @@ permalink: /
 
   <section class="recent-log">
     <h2 class="log-title">Lately...</h2>
-    {% assign recent = site.data.log | slice: 0, 5 %}
+    {% assign recent = site.data.log | slice: 0, 3 %}
     {% include log-entries.html entries=recent %}
     <p class="log-more"><a href="/log/">more →</a></p>
 </section>

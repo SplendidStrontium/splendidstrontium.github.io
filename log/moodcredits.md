@@ -4,15 +4,15 @@ title: mood icon credits
 permalink: /log/moodcredits/
 ---
 
-All mood icons are cropped and modified from public domain works.
+All log icons are cropped and modified from public domain works.
 <hr>
 <br>
 
-<ul class="mood-credits">
+<ul class="log-credits">
 {% for c in site.data.mood_credits %}
   <li>
-    <img class="mood-credit-icon" src="/assets/moods/{{ c.icon }}" alt="">
-    <span class="mood-credit-text">
+    <img class="log-credit-icon" src="/assets/moods/{{ c.icon }}" alt="">
+    <span class="log-credit-text">
       {{ c.artist }}, <em>{{ c.title }}</em> ({{ c.year }});
       <a href="{{ c.source }}">public domain</a>; modified
     </span>

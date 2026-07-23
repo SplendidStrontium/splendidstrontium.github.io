@@ -14,4 +14,4 @@ permalink: /log/
 </section>
 {% endfor %}
 
-<p class="log-credits-link"><a href="/log/moodcredits/">mood icon credits</a></p>
+<p class="log-credits-link"><a href="/log/moodcredits/">log icon credits</a></p>

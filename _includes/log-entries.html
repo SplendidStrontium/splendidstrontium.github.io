@@ -5,8 +5,16 @@
     <span class="log-date">{{ entry.date | date: "%b %-d" }}</span>
     <span class="log-text">{{ entry.text }}</span>
     {% if entry.mood %}
-    <span class="log-mood">feeling: {{ entry.mood }}{% if entry.icon %}
-      <img class="mood-icon" src="/assets/moods/{{ entry.icon }}" alt="">{% endif %}</span>
+    <span class="log-mood">feeling: {{ entry.mood }}{% if entry.mood_icon %}
+      <img class="log-icon" src="/assets/moods/{{ entry.mood_icon }}" alt="">{% endif %}</span>
+    {% endif %}
+    {% if entry.location %}
+    <span class="log-location">location: {{ entry.location }}{% if entry.location_icon %}
+      <img class="log-icon" src="/assets/moods/{{ entry.location_icon }}" alt="">{% endif %}</span>
+    {% endif %}
+    {% if entry.status %}
+    <span class="log-status">status: {{ entry.status }}{% if entry.status_icon %}
+      <img class="log-icon" src="/assets/moods/{{ entry.status_icon }}" alt="">{% endif %}</span>
     {% endif %}
   </li>
   {% endfor %}
