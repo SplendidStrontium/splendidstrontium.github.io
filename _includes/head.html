@@ -9,7 +9,7 @@
     <link rel="manifest" href="/site.webmanifest">
 
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="description" content="{{ site.description }}">
+    <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
@@ -26,11 +26,14 @@
 </script>
 
 <!-- Open Graph -->
-<meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+<meta property="og:type" content="{% if page.layout == 'post' or page.layout == 'tce-post' %}article{% else %}website{% endif %}">
 <meta property="og:url" content="{{ page.url | absolute_url }}">
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-<meta property="og:image" content="{% if page.og_image %}{{ page.og_image | absolute_url }}{% else %}{{ '/assets/images/default-og-image.jpg' | absolute_url }}{% endif %}">
+<meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+{% if page.header_image %}<meta property="og:image" content="{{ page.header_image | absolute_url }}">
+{% elsif page.og_image %}<meta property="og:image" content="{% if page.og_image contains '//' %}{{ page.og_image }}{% else %}{{ page.og_image | absolute_url }}{% endif %}">
+{% else %}<meta property="og:image" content="{{ '/assets/images/default-og-image.jpg' | absolute_url }}">
+{% endif %}<meta property="og:image" content="{% if page.og_image %}{{ page.og_image | absolute_url }}{% else %}{{ '/assets/images/default-og-image.jpg' | absolute_url }}{% endif %}">
 <meta property="og:site_name" content="{{ site.title }}">
 
 </head>

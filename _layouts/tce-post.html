@@ -1,0 +1,61 @@
+---
+layout: default
+---
+<script src="{{ '/assets/js/comments.js' | relative_url }}"></script>
+
+{% assign tce_hero_img = page.header_image | default: page.og_image %}
+
+<div class="post tce-post">
+
+  {% if tce_hero_img %}
+  <header class="tce-post-hero">
+    <span class="tce-card-bg" style="background-image: url('{% if tce_hero_img contains '//' %}{{ tce_hero_img }}{% else %}{{ tce_hero_img | relative_url }}{% endif %}');"></span>
+    <div class="tce-card-content">
+      <h1 class="tce-post-hero-title">{{ page.title }}</h1>
+    </div>
+  </header>
+  {% else %}
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+  {% endif %}
+
+  <p class="post-meta">Published: {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} &bull; {{ page.author }}{% endif %}{% if page.header_image_credit %} &bull; {% include image-credit.html image_id=page.header_image_credit %}{% endif %}</p>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+  {% if page.lastmod %}
+  <p class="post-meta">Last update: {{ page.lastmod | date_to_rfc822 }}</p>
+  {% endif %}
+
+  {% comment %} prev/next scoped to the blog category only —
+      page.previous/next would walk into FPMC and Dark Shadows. {% endcomment %}
+  {% assign tce_blog = site.categories.blog %}
+  {% for p in tce_blog %}
+    {% if p.url == page.url %}
+      {% unless forloop.first %}
+        {% assign tce_newer_i = forloop.index0 | minus: 1 %}
+        {% assign tce_newer = tce_blog[tce_newer_i] %}
+      {% endunless %}
+      {% unless forloop.last %}
+        {% assign tce_older = tce_blog[forloop.index] %}
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
+  {% if tce_newer or tce_older %}
+  <nav class="pagination">
+    {% if tce_older %}
+    <a class="pagination-prev" href="{{ tce_older.url | relative_url }}">&larr; {{ tce_older.title }}</a>
+    {% else %}<span class="pagination-prev disabled">&larr; oldest</span>{% endif %}
+    <a class="pagination-index" href="/tce/blog/">all posts</a>
+    {% if tce_newer %}
+    <a class="pagination-next" href="{{ tce_newer.url | relative_url }}">{{ tce_newer.title }} &rarr;</a>
+    {% else %}<span class="pagination-next disabled">newest &rarr;</span>{% endif %}
+  </nav>
+  {% endif %}
+
+  {% include staticman-comments.html %}
+
+</div>

@@ -105,3 +105,142 @@
     height: 128px;
   }
 }
+
+// ---------------------------------------------------------------
+// TCE duotone cards — /tce/blog index and "Lately in TCE" snippet
+// Colors as custom properties so a future [data-theme] can retune.
+// ---------------------------------------------------------------
+
+:root {
+  --tce-card-teal-deep: #0d2323;
+  --tce-card-teal-mid: #123434;
+  --tce-card-teal-accent: #58b3ad;
+  --tce-card-taupe: #978272;
+  --tce-card-text: #f0ede7;
+  --tce-card-text-dim: #cfc8bf;
+}
+
+.tce-card {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  aspect-ratio: 2.4 / 1;
+  margin-bottom: 1.75rem;
+  border-radius: 3px;
+  background: var(--tce-card-teal-deep);
+  color: var(--tce-card-text);
+  text-decoration: none;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+
+  &:focus-visible {
+    outline: 3px solid var(--tce-card-teal-accent);
+    outline-offset: 3px;
+  }
+
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(160deg, var(--tce-card-teal-mid) 0%, var(--tce-card-teal-deep) 100%);
+  }
+}
+
+.tce-card-bg {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  background-size: cover;
+  background-position: center;
+  filter: grayscale(1) contrast(1.1) brightness(0.8);
+  mix-blend-mode: luminosity;
+  opacity: 0.85;
+  transition: filter 0.5s ease, transform 0.5s ease;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .tce-card:hover .tce-card-bg {
+    filter: grayscale(1) contrast(1.1) brightness(0.95);
+    transform: scale(1.02);
+  }
+}
+
+.tce-card-content {
+  position: absolute;
+  z-index: 2;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 3.5rem 1.25rem 1.1rem;
+  background: linear-gradient(to top, rgba(8, 20, 20, 0.92), rgba(8, 20, 20, 0));
+}
+
+.tce-card-meta {
+  font-size: 0.72rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--tce-card-text-dim);
+
+  .tce-card-dia {
+    color: var(--tce-card-taupe);
+    padding: 0 0.35em;
+  }
+}
+
+.tce-card-title {
+  margin: 0.25rem 0 0.35rem;
+  font-size: 1.15rem;
+  font-weight: 300;
+  line-height: 1.35;
+  color: var(--tce-card-text);
+}
+
+.tce-card:hover .tce-card-title {
+  color: var(--tce-card-teal-accent);
+}
+
+.tce-card-excerpt {
+  margin: 0;
+  font-size: 0.8rem;
+  line-height: 1.5;
+  color: var(--tce-card-text-dim);
+}
+
+// TCE post hero — same duotone treatment, sized for the post page
+.tce-post-hero {
+  position: relative;
+  overflow: hidden;
+  aspect-ratio: 2 / 1;
+  margin-bottom: 0.5rem;
+  border-radius: 3px;
+  background: var(--tce-card-teal-deep);
+
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(160deg, var(--tce-card-teal-mid) 0%, var(--tce-card-teal-deep) 100%);
+  }
+}
+
+.tce-post-hero-title {
+  margin: 0;
+  font-size: 2.2rem;
+  font-weight: 300;
+  line-height: 1.3;
+  color: var(--tce-card-text);
+  letter-spacing: 1px;
+}
+
+// post page shows the header image in true color; duotone is for cards only
+.tce-post-hero .tce-card-bg {
+  filter: none;
+  mix-blend-mode: normal;
+  opacity: 1;
+}
+
+@media screen and (max-width: 560px) {
+  .tce-card { aspect-ratio: 4 / 3; }
+  .tce-card-excerpt { display: none; }
+  .tce-post-hero { aspect-ratio: 4 / 3; }
+  .tce-post-hero-title { font-size: 1.5rem; }
+}

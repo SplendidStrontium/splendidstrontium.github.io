@@ -13,18 +13,24 @@ permalink: /tce/
 
 <h1>The Convergent Eigenspace</h1>
 
-<p>By transformation, a youth may shed childhood and grow through something not so different from a mathematical operation. In all but a few cases, the process is irreversible.</p>
+<p>At the age of nineteen, a young man destroys his old identity to take a new name, stepping into the shoes of Cedric Kenyon.</p>
 
-<p>At the age of nineteen, a young man destroys his old identity to take a new name, stepping into the shoes of Cedric Kenyon. Intent on leaving the past behind him, he drives east, landing in a town that bears an uncanny resemblance to what he left behind. When he accepts a sum of cash to drive a package to New York City, he soon finds himself behind bars. Moments before his fate is sealed, a strange woman posts his bail and insists that he come to live at an orphanage in Queens, promising forbidden knowledge in exchange for his undying loyalty.</p>
-
-<p><em>The Convergent Eigenspace</em> starts with Book 0: <em>What Time Cannot Touch</em>. While Cedric has abandoned his old life, he finds he has brought with him a tendency toward bizarre and troubling dreams. He must endure terror by night while each day attempting to grasp at feats he had long believed impossible. When his magical abilities emerge in ways his fellow students don't recognize, he finds that a unique gift can feel like loneliness, and sometimes like a curse.</p>
-
-<p>Over the course of eight books spanning twenty-two years, the tale of a becoming unfolds with tender attention paid to the people who bring meaning to our suffering. In true Gothic fashion, Cedric discovers our past will always haunt us, but we nevertheless have a choice of how we deal with our skeletons — and our endless Thirst.</p>
+<p><em>The Convergent Eigenspace</em> starts with Book 0: <em>What Time Cannot Touch</em>. While Cedric has abandoned his old life, he finds he has brought with him a tendency toward bizarre and troubling dreams. He must endure terror by night while each day attempting to grasp at feats he had long believed impossible. When his magical abilities emerge in ways his fellow students don't recognize, he finds that a unique gift can feel like loneliness, and sometimes like a curse. In true Gothic fashion, Cedric discovers our past will always haunt us, but we nevertheless have a choice of how we deal with our skeletons — and our endless Thirst.</p>
 
 <p>To read the series, visit <a href="https://read.nan.nyc">my substack</a>.</p>
 
-<p>To explore the people, places, and things of the series, visit the <a href="/tce/wiki/">wiki</a>.</p>
+<p>I will occasionally post author's notes on the <a href="/tce/blog/">blog</a>. To explore the people, places, and things of the series, visit the <a href="/tce/wiki/">wiki</a>.</p>
 
+<br>
+<hr>
+<h2>Recent Additions</h2>
+{% assign blog = site.categories.blog %}
+{% assign chapters = "" | split: "" %}
+{% if site.book0 %}{% assign chapters = site.book0 %}{% endif %}
+{% assign recent = blog | concat: chapters | sort: "date" | reverse %}
+{% for item in recent limit: 3 %}
+  {% include tce-card.html item=item %}
+{% endfor %}
 
 </body>
 </html>

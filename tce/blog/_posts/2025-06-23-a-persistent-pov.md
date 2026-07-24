@@ -1,15 +1,9 @@
 ---
-layout: post
 title: "A Persistent POV"
 date: 2025-06-23
-categories: [tce]
-tags: [fpmc-retrospective, writing-journey, tce]
-excerpt: "I am not sure I struggled at all with the first question. This was always Cedric's story."
-og_image: "https://nan.nyc/assets/img/dolls-reclining.jpg"
-card_thumbnail: dolls-reclining-card.jpg
-author: nan
-permalink: /tce/:year/:month/:day/:title/
-published: false
+description: "I am not sure I struggled at all with the first question. This was always Cedric's story."
+header_image: /assets/tce/blog/dolls-reclining.webp
+header_image_credit: own-photo
 lastmod: 2025-06-23 10:46
 ---
 

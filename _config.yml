@@ -18,6 +18,12 @@ defaults:
     values:
       layout: "wiki-entry"
       permalink: /tce/wiki/:path/
+  - scope:
+      path: "tce/blog"
+      type: "posts"
+    values:
+      layout: "tce-post"
+      permalink: /tce/blog/:title/
 
 # Build settings
 markdown: kramdown

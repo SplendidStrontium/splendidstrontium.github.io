@@ -13,7 +13,7 @@
         {% if image_data.source_platform == "Fiverr" %}
           Commissioned artwork by {{ image_data.source_institution }} via <a href="https://www.fiverr.com" target="_blank">{{ image_data.source_platform }}</a>. {{ image_data.rights_status }}.
         {% else %}
-          Artwork by {{ image_data.source_institution }}. {{ image_data.rights_status }}.
+          Artwork from {{ image_data.source_institution }}. {{ image_data.rights_status }}.
         {% endif %}
       {% endif %}
     </div>

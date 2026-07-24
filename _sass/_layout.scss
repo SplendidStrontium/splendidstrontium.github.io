@@ -76,6 +76,13 @@
 }
 
 
+// pagination
+.pagination-prev  { flex: 1; text-align: left; }
+.pagination-index { flex: 1; text-align: center; text-decoration: none;
+  &:hover { text-decoration: underline; } }
+.pagination-next  { flex: 1; text-align: right; }
+
+
 
 /**
  * Site footer
