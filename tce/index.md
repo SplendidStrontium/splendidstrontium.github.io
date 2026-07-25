@@ -15,7 +15,7 @@ permalink: /tce/
 
 <p>At the age of nineteen, a young man destroys his old identity to take a new name, stepping into the shoes of Cedric Kenyon.</p>
 
-<p><em>The Convergent Eigenspace</em> starts with Book 0: <em>What Time Cannot Touch</em>. While Cedric has abandoned his old life, he finds he has brought with him a tendency toward bizarre and troubling dreams. He must endure terror by night while each day attempting to grasp at feats he had long believed impossible. When his magical abilities emerge in ways his fellow students don't recognize, he finds that a unique gift can feel like loneliness, and sometimes like a curse. In true Gothic fashion, Cedric discovers our past will always haunt us, but we nevertheless have a choice of how we deal with our skeletons — and our endless Thirst.</p>
+<p><em>The Convergent Eigenspace</em> starts with Book 0: <em>What Time Cannot Touch</em>. While Cedric has abandoned his old life, he finds he has brought with him a tendency toward bizarre and troubling dreams. He must endure terror by night while each day attempting to grasp at feats he had long believed impossible. In true Gothic fashion, Cedric discovers our past will always haunt us, but we nevertheless have a choice of how we deal with our skeletons — and our endless Thirst.</p>
 
 <p>To read the series, visit <a href="https://read.nan.nyc">my substack</a>.</p>
 
