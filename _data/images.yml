@@ -1,3 +1,38 @@
+b00c00_notebook-paper:
+  medium: "Artwork"
+  source_institution: "Kateryna Hliznitsova"
+  rights_status: "Public domain via Unsplash, modified"
+
+b00c01_plastic-soldiers:
+  medium: "Artwork"
+  source_institution: "Ottre"
+  rights_status: "Public domain via Wikimedia Commons, modified"
+
+b00c02_lawn-chairs:
+  medium: "Artwork"
+  source_institution: "Debbie Ducic"
+  rights_status: "Public domain via Unsplash, modified"
+
+b00c03_scissors:
+  medium: "Artwork"
+  source_institution: "Jiří Sedláček"
+  rights_status: "Public domain via Wikimedia Commons, modified"
+
+b00c04_scale:
+  medium: "Artwork"
+  source_institution: "Lerone Pieters"
+  rights_status: "Public domain via Unsplash, modified"
+
+b00c05_eight-ball:
+  medium: "Artwork"
+  source_institution: "Joseph Gage"
+  rights_status: "Public domain via Wikimedia Commons, modified"
+
+b00c06_hydrant:
+  medium: "Artwork"
+  source_institution: "Bill Nino"
+  rights_status: "Public domain via Unsplash, modified"
+
 bianca_portrait:
   title: "Bianca Vacarescu Portrait"
   description: "Portrait of the author, penname Bianca Vacarescu, sitting at a desk"

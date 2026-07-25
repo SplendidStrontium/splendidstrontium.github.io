@@ -10,6 +10,8 @@ url: "https://nan.nyc"
 collections:
   wiki:
     output: true
+  chapters:
+    output: true
  
 defaults:
   - scope:
@@ -24,6 +26,13 @@ defaults:
     values:
       layout: "tce-post"
       permalink: /tce/blog/:title/
+  - scope:
+      path: ""
+      type: "chapters"
+    values:
+      layout: "tce-chapter"
+      permalink: /tce/:path/
+      footer: "cc-by-nc-nd"
 
 # Build settings
 markdown: kramdown

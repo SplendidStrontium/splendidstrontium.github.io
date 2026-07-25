@@ -17,7 +17,7 @@ permalink: /tce/
 
 <p><em>The Convergent Eigenspace</em> starts with Book 0: <em>What Time Cannot Touch</em>. While Cedric has abandoned his old life, he finds he has brought with him a tendency toward bizarre and troubling dreams. In true Gothic fashion, Cedric discovers our past will always haunt us, but we nevertheless have a choice of how we deal with our skeletons — and our endless Thirst.</p>
 
-<p>To read the series, visit <a href="https://read.nan.nyc">my substack</a>.</p>
+<p>To read the series, visit the <a href="/tce/contents/">Table of Contents</a>.</p>
 
 <p>I will occasionally post author's notes on the <a href="/tce/blog/">blog</a>. To explore the people, places, and things of the series, visit the <a href="/tce/wiki/">wiki</a>.</p>
 
@@ -25,9 +25,7 @@ permalink: /tce/
 <hr>
 <h2>Recent Additions</h2>
 {% assign blog = site.categories.blog %}
-{% assign chapters = "" | split: "" %}
-{% if site.book0 %}{% assign chapters = site.book0 %}{% endif %}
-{% assign recent = blog | concat: chapters | sort: "date" | reverse %}
+{% assign recent = blog | concat: site.chapters | sort: "date" | reverse %}
 {% for item in recent limit: 3 %}
   {% include tce-card.html item=item %}
 {% endfor %}
