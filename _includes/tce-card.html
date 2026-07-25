@@ -10,7 +10,7 @@
   <div class="tce-card-bg" style="background-image: url('{% if tce_card_img contains '//' %}{{ tce_card_img }}{% else %}{{ tce_card_img | relative_url }}{% endif %}');"></div>
   {% endif %}
   <div class="tce-card-content">
-    <span class="tce-card-meta">{{ include.item.date | date: "%b %-d, %Y" }}{% if include.item.collection == "book0" %}<span class="tce-card-dia">&#9670;</span>Book 0{% else %}<span class="tce-card-dia">&#9670;</span>Making TCE{% endif %}</span>
+    <span class="tce-card-meta">{{ include.item.date | date: "%b %-d, %Y" }}{% unless include.hide_label %}<span class="tce-card-dia">&#9670;</span>{% if include.item.collection == "chapters" %}{% if include.item.deleted_scene %}Book {{ include.item.book }} &middot; Deleted Scene{% else %}Book {{ include.item.book }}{% endif %}{% else %}Making TCE{% endif %}{% endunless %}</span>
     <h2 class="tce-card-title">{{ include.item.title }}</h2>
     {% assign tce_card_desc = include.item.description | default: include.item.excerpt %}
     {% if tce_card_desc %}

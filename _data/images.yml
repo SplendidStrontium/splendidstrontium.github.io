@@ -33,6 +33,94 @@ b00c06_hydrant:
   source_institution: "Bill Nino"
   rights_status: "Public domain via Unsplash, modified"
 
+b00c07_subway-token:
+  medium: "Photo"
+  source_institution: "author"
+
+b00c08_milk-cartons:
+  medium: "Artwork"
+  source_institution: "Shannon VanDenHeuvel"
+  rights_status: "Public domain via Unsplash, modified"
+
+b00c09_lace-parasol:
+  medium: "Artifact"
+  source_institution: "G. Fox & Company"
+  rights_status: "Public domain via Metropolitan Museum of Art, modified"
+
+b00c10_champagne:
+  medium: "Artwork"
+  source_institution: "Kjetil Ree"
+  rights_status: "Public domain via Wikimedia Commons, modified"
+
+b00c11_white-pawn:
+  medium: "Artwork"
+  source_institution: "Dietmar Rabich"
+  rights_status: "Public domain via Wikimedia Commons, modified"
+
+b00c12_gavel:
+  medium: "Artwork"
+  source_institution: "Anoko"
+  rights_status: "Public domain via Wikimedia Commons, modified"
+
+b00c13_chorizo-string:
+  medium: "Artwork"
+  source_institution: "Tamorlan"
+  rights_status: "Public domain via Wikimedia Commons, modified"
+
+b00c14_crayons:
+  medium: "Artwork"
+  source_institution: "Graham Haley"
+  rights_status: "Public domain via Wikimedia Commons, modified"
+
+b00c15_carrots:
+  medium: "Artwork"
+  source_institution: "domdomegg"
+  rights_status: "Public domain via Wikimedia Commons, modified"
+
+b00c16_marshmallow:
+  medium: "Artwork"
+  source_institution: "Hermann Adolf Köhler"
+  rights_status: "Althaea officinalis (1887); public domain via Wikimedia Commons; modified"
+
+b00c17_lemon-cloves:
+  medium: "Artwork"
+  source_institution: "Tarasna0922"
+  rights_status: "Public domain via Wikimedia Commons, modified"
+
+b00c18_caardvark:
+  medium: "Photo"
+  source_institution: "author"
+
+b00c19_still-life:
+  medium: "Artwork"
+  source_institution: "John O'Brien Inman"
+  rights_status: "Gentlemen's Still Life (1871); public domain via National Gallery of Art; modified"
+
+b00c20_la-chambre-a-coucher:
+  medium: "Artwork"
+  source_institution: "Vincent van Gogh"
+  rights_status: "La Chambre à Coucher (1888); public domain via Wikimedia Commons; modified"
+
+b00ds01_pancakes:
+  medium: "Artwork"
+  source_institution: "Shisma"
+  rights_status: "Public domain via Wikimedia Commons, modified"
+
+b00ds02_meander:
+  medium: "Artwork"
+  source_institution: "GFreihalter"
+  rights_status: "Detail der Nordfassade der Abtei Saint-Fortunat in Charlieu im Département Loire, public domain via Wikimedia Commons, modified"
+
+b00ds03_deux-lapins:
+  medium: "Painting"
+  source_institution: "H. Baert"
+  rights_status: "Two Rabbits (1842); public domain via Wikimedia Commons; modified"
+
+b00ds04_beowulf-grendel:
+  medium: "Artwork"
+  source_institution: "J. H. F. Bacon"
+  rights_status: "Beowulf shears off the head of Grendel (~1910); public domain via Project Gutenberg; modified"
+
 bianca_portrait:
   title: "Bianca Vacarescu Portrait"
   description: "Portrait of the author, penname Bianca Vacarescu, sitting at a desk"

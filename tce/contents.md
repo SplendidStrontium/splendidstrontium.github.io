@@ -6,6 +6,7 @@ permalink: /tce/contents/
 
 <div class="tce-toc">
 <h1>Table of Contents</h1>
+<hr>
 
 {% for book in site.data.tce.books %}
   {% assign book_docs = site.chapters | where: "book", book.number %}
@@ -25,11 +26,16 @@ permalink: /tce/contents/
         <li>
           <a href="{{ c.url | relative_url }}">
             {% if c.image %}
-            <span class="toc-thumb" style="background-image: url('{{ c.image | relative_url }}');"></span>
+              <span class="toc-thumb" style="background-image: url('{{ c.image | relative_url }}');"></span>
             {% else %}
-            <span class="toc-thumb toc-thumb--empty"></span>
+              <span class="toc-thumb toc-thumb--empty"></span>
             {% endif %}
-            <span class="toc-label">Chapter {{ c.chapter }}: {{ c.title }}</span>
+            <span class="toc-text">
+              <span class="toc-label">Chapter {{ c.chapter }}: {{ c.title }}</span>
+                {% if c.description %}
+                  <span class="toc-excerpt">{{ c.description }}</span>
+                {% endif %}
+            </span>
           </a>
         </li>
         {% endfor %}
@@ -46,13 +52,18 @@ permalink: /tce/contents/
       {% for c in book_ds %}
       <li>
         <a href="{{ c.url | relative_url }}">
-          {% if c.image %}
-          <span class="toc-thumb" style="background-image: url('{{ c.image | relative_url }}');"></span>
-          {% else %}
-          <span class="toc-thumb toc-thumb--empty"></span>
-          {% endif %}
-          <span class="toc-label">{{ c.title }}</span>
-        </a>
+            {% if c.image %}
+              <span class="toc-thumb" style="background-image: url('{{ c.image | relative_url }}');"></span>
+            {% else %}
+              <span class="toc-thumb toc-thumb--empty"></span>
+            {% endif %}
+            <span class="toc-text">
+              <span class="toc-label">Chapter {{ c.chapter }}: {{ c.title }}</span>
+                {% if c.description %}
+                  <span class="toc-excerpt">{{ c.description }}</span>
+                {% endif %}
+            </span>
+          </a>
       </li>
       {% endfor %}
     </ul>

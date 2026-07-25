@@ -373,3 +373,57 @@ body p{
     opacity: 0.35;
   }
 }
+
+.tce-toc .toc-list a {
+  // existing flex rules stay
+  border: 1px solid transparent;
+  border-radius: 2px;
+  transition: border-color 0.15s ease;
+}
+
+.toc-text {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.toc-excerpt {
+  font-size: 0.85em;
+  opacity: 0;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease, opacity 0.2s ease;
+}
+
+// pointer devices: reveal on hover/focus
+@media (hover: hover) {
+  .tce-toc .toc-list a:hover,
+  .tce-toc .toc-list a:focus-visible {
+    border-color: var(--divider, #978272);
+
+    .toc-excerpt {
+      max-height: 4.5em;
+      opacity: 0.75;
+    }
+
+    .toc-thumb { opacity: 1; }
+  }
+}
+
+// touch devices: excerpts always visible, muted; no border theatrics
+@media (hover: none) {
+  .toc-excerpt {
+    max-height: none;
+    opacity: 0.65;
+  }
+}
+
+@media (hover: none) {
+  .tce-toc .toc-list li + li a {
+    border-top: 1px solid rgba(151, 130, 114, 0.35);   // taupe at low strength
+  }
+  .tce-toc .toc-list a {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+  }
+}
