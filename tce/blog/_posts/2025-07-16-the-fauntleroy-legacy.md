@@ -2,7 +2,7 @@
 title: "The Fauntleroy Legacy"
 date: 2025-07-16
 description: "It is little Cedric, with his bright outlook and optimism, that endures as the best personification of what a young person can be, and his crowning achievement is convincing the Earl of Dorincourt to change his ways."
-header_image: /assets/tce/blog/fauntleroy/llf-dedication.webp 
+image: /assets/tce/blog/fauntleroy/llf-dedication.webp 
 header_image_credit: little_lord_fauntleroy_dedication
 lastmod: 2025-07-16 14:44
 ---

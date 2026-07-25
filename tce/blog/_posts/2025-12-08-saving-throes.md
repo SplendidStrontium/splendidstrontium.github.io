@@ -1,15 +1,9 @@
 ---
-layout: post
 title: "Saving Throes"
 date: 2025-12-08
-categories: [tce]
-tags: [writing-journey, tce]
-excerpt: "Anything is possible, but you might have to wait a while."
-og_image: "https://nan.nyc/assets/img/the-lidless-eye.jpg"
-card_thumbnail: the-lidless-eye-card.jpg
-author: nan
-permalink: /tce/:year/:month/:day/:title/
-published: false
+description: "Anything is possible, but you might have to wait a while."
+image: /assets/tce/blog/the-lidless-eye.webp
+header_image_credit: lidless_eye
 lastmod: 2025-12-08 21:41
 ---
 

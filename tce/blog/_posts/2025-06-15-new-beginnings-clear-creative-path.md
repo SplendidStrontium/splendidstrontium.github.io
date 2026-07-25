@@ -2,7 +2,7 @@
 title: "New Beginnings: Eyes on the Path Ahead"
 date: 2025-06-15
 description: "After years of writing in different directions, I am ready to commit to a clear creative path and have reorganized this site to reflect that focus."
-header_image: /assets/tce/blog/potence-draft.webp
+image: /assets/tce/blog/potence-draft.webp
 header_image_credit: own-photo
 lastmod: 2025-08-25 12:23
 ---

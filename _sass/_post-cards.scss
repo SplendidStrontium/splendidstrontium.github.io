@@ -112,12 +112,13 @@
 // ---------------------------------------------------------------
 
 :root {
-  --tce-card-teal-deep: #0d2323;
-  --tce-card-teal-mid: #123434;
-  --tce-card-teal-accent: #58b3ad;
+  --tce-card-deep: #0d2323;
+  --tce-card-mid: #123434;
+  --tce-card-accent: #58b3ad;
   --tce-card-taupe: #978272;
   --tce-card-text: #f0ede7;
   --tce-card-text-dim: #cfc8bf;
+  --tce-card-scrim-rgb: 8, 20, 20;
 }
 
 .tce-card {
@@ -127,13 +128,13 @@
   aspect-ratio: 2.4 / 1;
   margin-bottom: 1.75rem;
   border-radius: 3px;
-  background: var(--tce-card-teal-deep);
+  background: var(--tce-card-deep);
   color: var(--tce-card-text);
   text-decoration: none;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
 
   &:focus-visible {
-    outline: 3px solid var(--tce-card-teal-accent);
+    outline: 3px solid var(--tce-card-accent);
     outline-offset: 3px;
   }
 
@@ -141,8 +142,19 @@
     content: "";
     position: absolute;
     inset: 0;
-    background: linear-gradient(160deg, var(--tce-card-teal-mid) 0%, var(--tce-card-teal-deep) 100%);
+    background: linear-gradient(160deg, var(--tce-card-mid) 0%, var(--tce-card-deep) 100%);
   }
+}
+
+// blog posts: warm tan/sepia duotone (favicon cream + copper)
+.tce-card--tan {
+  --tce-card-deep: #262017;
+  --tce-card-mid: #3d3222;
+  --tce-card-accent: #c8752c;
+  --tce-card-text: #efe6d2;
+  --tce-card-text-dim: #d4c7ab;
+  --tce-card-taupe: #c8752c;   // diamond goes copper on warm ground
+  --tce-card-scrim-rgb: 20, 16, 9;
 }
 
 .tce-card-bg {
@@ -171,7 +183,7 @@
   right: 0;
   bottom: 0;
   padding: 3.5rem 1.25rem 1.1rem;
-  background: linear-gradient(to top, rgba(8, 20, 20, 0.92), rgba(8, 20, 20, 0));
+  background: linear-gradient(to top, rgba(var(--tce-card-scrim-rgb), 0.92), rgba(var(--tce-card-scrim-rgb), 0));
 }
 
 .tce-card-meta {
@@ -195,7 +207,7 @@
 }
 
 .tce-card:hover .tce-card-title {
-  color: var(--tce-card-teal-accent);
+  color: var(--tce-card-accent);
 }
 
 .tce-card-excerpt {
@@ -212,13 +224,13 @@
   aspect-ratio: 2 / 1;
   margin-bottom: 0.5rem;
   border-radius: 3px;
-  background: var(--tce-card-teal-deep);
+  background: var(--tce-card-deep);
 
   &::before {
     content: "";
     position: absolute;
     inset: 0;
-    background: linear-gradient(160deg, var(--tce-card-teal-mid) 0%, var(--tce-card-teal-deep) 100%);
+    background: linear-gradient(160deg, var(--tce-card-mid) 0%, var(--tce-card-deep) 100%);
   }
 }
 

@@ -2,8 +2,8 @@
 title: "A Persistent POV"
 date: 2025-06-23
 description: "I am not sure I struggled at all with the first question. This was always Cedric's story."
-header_image: /assets/tce/blog/dolls-reclining.webp
-header_image_credit: own-photo
+image: /assets/tce/blog/dolls-reclining.webp
+header_image_credit: dolls_reclining
 lastmod: 2025-06-23 10:46
 ---
 

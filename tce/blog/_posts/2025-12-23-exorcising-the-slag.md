@@ -1,15 +1,9 @@
 ---
-layout: post
 title: "Exorcising the Slag: 2025 in Review"
 date: 2025-12-23
-categories: [tce]
-tags: [writing-journey, tce, fpmc-retrospective]
-excerpt: "The part where they were monstrous blood-drinkers conveniently happened during their off-hours, and while in the narrator's spotlight they were shining beacons of impeccable morality."
-og_image: "https://nan.nyc/assets/img/writing-implements.jpg"
-card_thumbnail: writing-implements-card.jpg
-author: nan
-permalink: /tce/:year/:month/:day/:title/
-published: false
+description: "The part where they were monstrous blood-drinkers conveniently happened during their off-hours, and while in the narrator's spotlight they were shining beacons of impeccable morality."
+image: /assets/tce/blog/writing-implements.webp
+header_image_credit: writing_implements
 lastmod: 2025-12-23 09:53
 ---
 

@@ -9,8 +9,13 @@ bianca_portrait:
   rights_status: "Licensed for commercial use"
   alt_text: "portrait of Bianca Vacarescu sitting at a desk"
 
+dolls_reclining:
+  medium: "Photo"
+  source_institution: "author"
+
 fauntleroy_suits:
   title: "Children wearing 'Fauntleroy suits'"
+  medium: "Scan"
   description: "Three children wearing velvet suits inspired by Little Lord Fauntleroy style, between 1909 and 1932"
   hosting: internal
   image_url: "/assets/tce/blog/fauntleroy/llf-suits.webp"
@@ -20,8 +25,13 @@ fauntleroy_suits:
   rights_status: "Public domain"
   alt_text: "three children in velvet suits with lace collars"
 
+lidless_eye:
+  medium: "Photo"
+  source_institution: "author"
+
 little_lord_fauntleroy_cover:
   title: "Little Lord Fauntleroy, 1886 Cover"
+  medium: "Scan"
   description: "Cover of Little Lord Fauntleroy, 1886, Author: Frances Hodgson Burnett"
   hosting: internal
   image_url: "/assets/tce/blog/fauntleroy/llf-cover.webp"
@@ -33,6 +43,7 @@ little_lord_fauntleroy_cover:
 
 little_lord_fauntleroy_dedication:
   title: "Little Lord Fauntleroy, horseback illustration"
+  medium: "Drawing"
   description: "Little Lord Fauntleroy on horseback."
   hosting: internal
   image_url: "/assets/tce/blog/fauntleroy/llf-dedication.webp"
@@ -44,6 +55,7 @@ little_lord_fauntleroy_dedication:
 
 little_lord_fauntleroy_horseback:
   title: "Little Lord Fauntleroy, horseback illustration"
+  medium: "Scan"
   description: "Little Lord Fauntleroy on horseback."
   hosting: internal
   image_url: "/assets/tce/blog/fauntleroy/llf-horseback.webp"
@@ -55,6 +67,7 @@ little_lord_fauntleroy_horseback:
 
 little_lord_fauntleroy_p41:
   title: "Little Lord Fauntleroy p.41"
+  medium: "Scan"
   description: "Cedric gives some of his newfound wealth to an elderly apple-seller."
   hosting: internal
   image_url: "/assets/tce/blog/fauntleroy/llf-p41.webp"
@@ -66,6 +79,7 @@ little_lord_fauntleroy_p41:
 
 little_lord_fauntleroy_tommy_russell:
   title: "Tommy Russell as Little Lord Fauntleroy"
+  medium: "Scan"
   description: "Tommy Russell and Elsie Leslie alternated as the title character in a New York production of 'Little Lord Fauntleroy' in 1888-1889."
   hosting: internal
   image_url: "/assets/tce/blog/fauntleroy/llf-russell.webp"
@@ -75,7 +89,19 @@ little_lord_fauntleroy_tommy_russell:
   rights_status: "Public domain"
   alt_text: "Tommy Russell as Little Lord Fauntleroy, 1890"
 
+marking_bks:
+  medium: "Photo"
+  source_institution: "author"
+
 own-photo:
   description: "photo by author"
   source_institution: "author"
   hosting: internal
+
+vincent_relief:
+  medium: "Photo"
+  source_institution: "author"
+
+writing_implements:
+  medium: "Photo"
+  source_institution: "author"

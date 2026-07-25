@@ -1,15 +1,9 @@
 ---
-layout: post
 title: "Vincent: When You Don't See Me"
 date: 2025-10-31
-categories: [tce]
-tags: [tce-vincent, tce, fpmc-retrospective]
-excerpt: "The man titled by some the Prince of Elysion is more than just the odd man out. He does not belong here, and yet, perhaps none are so human as he."
-og_image: "https://nan.nyc/assets/img/looking-toward-the-divine.jpg"
-card_thumbnail: looking-toward-the-divine-card.jpg
-author: nan
-permalink: /tce/:year/:month/:day/:title/
-published: false
+description: "The man titled by some the Prince of Elysion is more than just the odd man out. He does not belong here, and yet, perhaps none are so human as he."
+image: /assets/tce/blog/looking-toward-the-divine.webp
+header_image_credit: vincent_relief
 lastmod: 2025-10-31 21:05
 ---
 

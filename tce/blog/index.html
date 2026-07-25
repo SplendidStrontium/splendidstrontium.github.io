@@ -1,0 +1,13 @@
+---
+layout: default
+title: "Making TCE"
+permalink: /tce/blog/
+---
+
+<h1>Making TCE</h1>
+
+<hr>
+<br>
+{% for post in site.categories.blog %}
+{% include tce-card.html item=post %}
+{% endfor %}

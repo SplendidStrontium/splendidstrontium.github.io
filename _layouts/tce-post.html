@@ -3,7 +3,7 @@ layout: default
 ---
 <script src="{{ '/assets/js/comments.js' | relative_url }}"></script>
 
-{% assign tce_hero_img = page.header_image | default: page.og_image %}
+{% assign tce_hero_img = page.image | default: page.og_image %}
 
 <div class="post tce-post">
 

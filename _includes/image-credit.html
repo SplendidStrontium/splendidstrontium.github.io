@@ -2,6 +2,6 @@
 {% if credit_data %}
 {% if credit_data.hosting == "external" %}Image courtesy of <a href="{{ credit_data.source_page }}" target="_blank">{{ credit_data.source_platform }}</a>, digitized from {{ credit_data.source_institution }}. {{ credit_data.rights_status }}.
 {% elsif credit_data.source_platform == "Fiverr" %}Commissioned artwork by {{ credit_data.source_institution }} via <a href="https://www.fiverr.com" target="_blank">{{ credit_data.source_platform }}</a>. {{ credit_data.rights_status }}.
-{% else %}Artwork by {{ credit_data.source_institution }}. {% if credit_data.rights_status %}{{ credit_data.rights_status }}.{% endif %}
+{% else %}{{ credit_data.medium | default: "Artwork" }} by {{ credit_data.source_institution }}. {% if credit_data.rights_status %}{{ credit_data.rights_status }}.{% endif %}
 {% endif %}
 {% endif %}

@@ -4,17 +4,17 @@
   Image priority: header_image (site-relative, the go-forward field)
   → og_image (legacy, may be absolute) → plain teal card, no image.
 {% endcomment %}
-{% assign tce_card_img = include.item.header_image | default: include.item.og_image %}
-<a class="tce-card" href="{{ include.item.url | relative_url }}">
+{% assign tce_card_img = include.item.image | default: include.item.og_image %}
+<a class="tce-card{% if include.item.collection == 'posts' %} tce-card--tan{% endif %}" href="{{ include.item.url | relative_url }}">
   {% if tce_card_img %}
-  <span class="tce-card-bg" style="background-image: url('{% if tce_card_img contains '//' %}{{ tce_card_img }}{% else %}{{ tce_card_img | relative_url }}{% endif %}');"></span>
+  <div class="tce-card-bg" style="background-image: url('{% if tce_card_img contains '//' %}{{ tce_card_img }}{% else %}{{ tce_card_img | relative_url }}{% endif %}');"></div>
   {% endif %}
-  <span class="tce-card-content">
+  <div class="tce-card-content">
     <span class="tce-card-meta">{{ include.item.date | date: "%b %-d, %Y" }}{% if include.item.collection == "book0" %}<span class="tce-card-dia">&#9670;</span>Book 0{% else %}<span class="tce-card-dia">&#9670;</span>Making TCE{% endif %}</span>
     <h2 class="tce-card-title">{{ include.item.title }}</h2>
     {% assign tce_card_desc = include.item.description | default: include.item.excerpt %}
     {% if tce_card_desc %}
     <p class="tce-card-excerpt">{{ tce_card_desc | strip_html | truncate: 140 }}</p>
     {% endif %}
-  </span>
+  </div>
 </a>
