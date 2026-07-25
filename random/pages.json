@@ -1,0 +1,9 @@
+---
+layout: null
+permalink: /random/pages.json
+---
+{% assign urls = "" | split: "" %}
+{% for entry in site.wiki %}{% assign urls = urls | push: entry.url %}{% endfor %}
+{% for ch in site.chapters %}{% assign urls = urls | push: ch.url %}{% endfor %}
+{% for post in site.posts %}{% assign urls = urls | push: post.url %}{% endfor %}
+{{ urls | jsonify }}

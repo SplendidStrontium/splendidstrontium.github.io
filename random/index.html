@@ -1,0 +1,14 @@
+---
+layout: null
+permalink: /random/
+---
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><title>somewhere in the eigenspace</title>
+<script>
+fetch('/random/pages.json')
+  .then(r => r.json())
+  .then(pages => {
+    window.location.replace(pages[Math.floor(Math.random() * pages.length)]);
+  });
+</script>
+</head><body><noscript>This needs JavaScript — <a href="/">back home</a>.</noscript></body></html>
