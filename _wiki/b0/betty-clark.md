@@ -15,28 +15,28 @@ Betty Clark, or, "just Betty", is a gentle woman who has taken to renting out a 
 <details markdown="1">
 <summary>Chapter 2: Liberty</summary>
 
-Betty invites Cedric off her stoop and into her home, allowing him to let a room after signing a brief [renter's agreement](https://read.nan.nyc/p/liberty?r=72ulkf).
+Betty invites Cedric off her stoop and into her home, allowing him to let a room after signing a brief [renter's agreement](/tce/book0/chapter-02/).
 
 </details>
 
 <details markdown="1">
 <summary>Chapter 3: Susurration</summary>
 
-Cedric recalls his first evening in Newburgh where, over an offering of meatloaf, Betty mentioned her discomfort in continuing to be referred to as a "Mrs". When Cedric returns from his outing, she remarks disparagingly on how the quality of food to be found at Sullivan's isn't [what it used to be](https://read.nan.nyc/p/susurration?r=72ulkf).
+Cedric recalls his first evening in Newburgh where, over an offering of meatloaf, Betty mentioned her discomfort in continuing to be referred to as a "Mrs". When Cedric returns from his outing, she remarks disparagingly on how the quality of food to be found at Sullivan's isn't [what it used to be](/tce/book0/chapter-03/).
 
 </details>
 
 <details markdown="1">
 <summary>Chapter 4: Priceless Antiques</summary>
 
-When Betty brings out some of her favorite records, Cedric is stunned to discover that rebellion can be as subtle as it is [seismic](https://read.nan.nyc/p/priceless-antiques?r=72ulkf).
+When Betty brings out some of her favorite records, Cedric is stunned to discover that rebellion can be as subtle as it is [seismic](/tce/book0/chapter-04/).
 
 </details>
 
 <details markdown="1">
 <summary>Chapter 6: Jet Lag</summary>
 
-The two bid each other a [bittersweet farewell](https://read.nan.nyc/p/jet-lag?r=72ulkf) in which Betty realizes, like the title of a book, a few short words can be insufficient to convey the deeper message in the story of a lifetime.
+The two bid each other a [bittersweet farewell](/tce/book0/chapter-06/) in which Betty realizes, like the title of a book, a few short words can be insufficient to convey the deeper message in the story of a lifetime.
 
 </details>
 

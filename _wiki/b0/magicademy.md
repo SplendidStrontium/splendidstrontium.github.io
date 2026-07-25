@@ -15,6 +15,6 @@ A mysterious building in the upper reaches of Astoria, Queens that lies within w
 <details markdown="1">
 <summary>Chapter 11: Asylum</summary>
 
-Cedric arrives at the Marscapone Foundling Home after night has fallen. After Davian drops the two off, Myrtle shows her newest student to a small [single room](https://read.nan.nyc/p/asylum?r=72ulkf) with the curtains drawn.
+Cedric arrives at the Marscapone Foundling Home after night has fallen. After Davian drops the two off, Myrtle shows her newest student to a small [single room](/tce/book0/chapter-11/) with the curtains drawn.
 
 </details>
