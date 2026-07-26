@@ -23,11 +23,13 @@ He was still caught in the half-dream, trying to catch the sand falling between 
 
 His thoughts were scattered as he looked up at the sign's tidy lettering. "M" meant Manhattan: that had been obvious enough. But…Sixty? 
 
-*\[Random noise.\]*
+[Random noise.]
+{: .tce-half-dream}
 
 When the Sun was hidden in the Earth's shadow, early morning was indistinguishable from black night. Without thinking, he tried to approximate the phase.
 
-*\[what would it mean?\]*
+[what would it mean?]
+{: .tce-half-dream}
 
 Cedric looked up, but he could see no stars. 
 
