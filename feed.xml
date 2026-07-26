@@ -2,7 +2,9 @@
 layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>{{ site.title | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
@@ -11,20 +13,29 @@ layout: null
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
-      <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
-      </item>
-    {% endfor %}
+
+      {% assign feed_items = site.posts | concat: site.chapters %}
+          {% assign feed_items = feed_items | sort: 'date' | reverse %}
+          {% for item in feed_items limit:10 %}
+            <item>
+              <title>{{ item.title | xml_escape }}</title>
+              <description>{{ item.description | default: item.excerpt | strip_html | xml_escape }}</description>
+              <content:encoded>{{ item.content | xml_escape }}</content:encoded>
+              <pubDate>{{ item.date | date_to_rfc822 }}</pubDate>
+              <link>{{ item.url | prepend: site.baseurl | prepend: site.url }}</link>
+              <guid isPermaLink="true">{{ item.url | prepend: site.baseurl | prepend: site.url }}</guid>
+              {% for tag in item.tags %}
+              <category>{{ tag | xml_escape }}</category>
+              {% endfor %}
+              {% for cat in item.categories %}
+              <category>{{ cat | xml_escape }}</category>
+              {% endfor %}
+              {% if item.collection == 'chapters' %}
+              <category>tce</category>
+              <category>chapter</category>
+              {% endif %}
+            </item>
+          {% endfor %}
+
   </channel>
 </rss>
