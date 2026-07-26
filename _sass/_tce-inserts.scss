@@ -1,0 +1,162 @@
+/* ---- TCE chapter inserts ----------------------------------
+   
+------------------------------------------------------------ */
+
+/* ---- Road sign ------------------------------------------ */
+.tce-sign {
+  max-width: 24rem;
+  margin: 2.5rem auto;
+  padding: 1.25rem 1.5rem;
+  background: #e9e6e2;
+  border: 1.5px solid #8A7D72;
+  border-radius: 4px;
+  text-align: center;
+  letter-spacing: 0.06em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 600;
+  font-size: 1.2em;
+}
+
+.tce-sign p {
+  margin: 0.35em 0;    
+}
+
+/* ---- Paper sign ------------------------------------------ */
+.tce-paper-sign {
+  max-width: 24rem;
+  margin: 2.5rem auto;
+  padding: 1.25rem 1.5rem;
+  background: #e9e6e2;
+  border: 1.5px solid #8A7D72;
+  border-radius: 4px;
+  text-align: center;
+  letter-spacing: 0.06em;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 500;
+  font-size: 1.2em;
+}
+
+.tce-paper-sign p {
+  margin: 0.35em 0;    
+}
+
+/* ---- In the Dream ------------------------------------------ */
+.tce-dream-sense {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.3em;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  max-width: 28rem;
+  margin: 6rem auto;
+  padding: 0.8rem 1.25rem;
+  background: #444; 
+  color: #fff;
+  border: 1px solid #eee;
+  border-radius: 3px;
+  text-align: center;
+  text-shadow: 
+    0 0 4px rgba(255,255,255, 0.9),
+    0 0 10px rgba(245,245,245, 0.8),
+    0 0 15px rgba(230,230,230, 0.6);
+}
+
+.tce-half-dream {
+  font-family: 'Georgia', serif;
+  font-size: 1.2em;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  max-width: 28rem;
+  margin: 6rem auto;
+  padding: 0.8rem 1.25rem;
+  background: #999; 
+  color: #fff;
+  border: 1px solid #777;
+  border-radius: 3px;
+  text-align: center;
+  text-shadow: 
+    0 0 4px rgba(10,10,10, 0.9),
+    0 0 10px rgba(25,25,25, 0.8),
+    0 0 15px rgba(50,50,50, 0.6);
+}
+
+/* ---- Overheard, Music ----------------------------------------- */
+.tce-music {
+  font-family: 'Verdana', 'sans-serif';
+  margin: 2.5rem auto;
+  text-align: center;
+  font-style: italic;
+  background: #bbb;
+  max-width: 36rem;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+}
+
+.tce-music::before,
+.tce-music::after {
+  content: "";
+  display: block;
+  width: min(160px, 40%);
+  margin: 0.9rem auto;
+  font-size: 2em;
+  line-height: 0.1em;
+  border-top: 1px solid #888;
+}
+
+.tce-sound {
+  font-family: 'Times New Roman', 'Times', 'serif';
+  font-size: 1.2em;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  margin: 2.5rem auto;
+  text-align: center;
+  background: #bbb;
+  max-width: 36rem;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+}
+
+.tce-sound::before,
+.tce-sound::after {
+  content: "";
+  display: block;
+  width: min(160px, 40%);
+  margin: 0.9rem auto;
+  font-size: 2em;
+  line-height: 0.1em;
+  border-top: 1px solid #888;
+}
+
+/* ---- Letters ------------------------------------------ */
+.tce-letter {
+  max-width: 34rem;
+  margin: 2.5rem auto;
+  padding: 1.75rem 1.5rem;
+  background: #e9e6e2;
+  border: 1px solid #97827288;
+  box-shadow: 2px 3px 0 #97827233;
+
+  p { margin: 1em 0; }
+  p:first-child { margin-top: 0; }
+  p:last-child { margin-bottom: 0; }
+}
+
+.hand-cedric {
+    font-family: 'Georgia', serif;
+    letter-spacing: 0.05em;
+}
+
+.hand-davian {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    letter-spacing: 0.02em;
+}
+
+/* ---- Telepathy ------------------------------------------ */
+.tce-telepathy {
+    color: #555;
+    font-style: italic;
+    letter-spacing: 0.02em;
+    text-shadow: 
+      0 0 5px rgba(255,255,255,0.9),
+      0 0 10px rgba(245,245,245,0.8);
+}

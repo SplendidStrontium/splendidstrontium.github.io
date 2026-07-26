@@ -43,7 +43,8 @@ He saw the paint was flecked with tiny bits of quartz, glinting in the midday li
 
 <hr class="break-minor" />
 
-*\[ "…Who likes all our pretty songs; And he…" \]*
+[ "…Who likes all our pretty songs; And he…" ]
+{: .tce-music}
 
 Cedric was bombarded by extravagance as soon as he opened the door to the car. The seats were bound in deep grey, seeming almost, but not quite, black. The leather creaked as he crawled into the backseat, a large sandwich wrapped in foil and white paper seeming to dissuade him from going any further. He aligned himself on the side he'd entered, sitting suspended on the seat, feeling somewhat ill-at-ease.
 
@@ -69,7 +70,8 @@ He prepared to take a bite and thought better of it, looking up and away from th
 
 He smiled, and his teeth were clean and straight. "Hope you like it, you'll have to let me know what you prefer next time. I aim to please."
 
-*\[ "…Knows not what it means…" \]*
+[ "…Knows not what it means…" ]
+{: .tce-music}
 
 "Davian," Myrtle began in restrained exasperation, and then was interrupted by a car horn blaring from behind.
 
@@ -81,7 +83,8 @@ Davian turned his eyes back to the road, depressed the accelerator and with a sq
 
 He mumbled just audibly, voice lowered back to a tolerable level as the speed of the car met the sudden acceleration. "Assholes!"
 
-*\[ "…Knows not what it means, and I say…" \]*
+[ "…Knows not what it means, and I say…" ]
+{: .tce-music}
 
 Cedric looked at nothing in particular, eyes averted. Davian, sensing the icy reaction, reformed his voice to an amiable tone, presumably addressing his guest in the backseat. 
 
@@ -115,7 +118,8 @@ Cedric gleaned the necessary context, having little personal experience beyond b
 
 "Davian," Myrtle chided. "I was going to let him get some rest and talk to him in the morning. I think we all need to think about how best to move forward. I've told the children—"
 
-*\[ "Memory…uh" \]*
+[ "Memory…uh" ]
+{: .tce-music}
 
 "Music OK?" Davian ignored the woman in the passenger seat and inquired to his passenger's well-being.
 
@@ -155,7 +159,8 @@ Myrtle's spoke with pointed disdain, baring her teeth. "Don't make me regret bri
 
 "What were your other options?" Davian remarked caustically. "Was your husband going to drive you?"
 
-*\[ "…We could have all three…" \]*
+[ "…We could have all three…" ]
+{: .tce-music}
 
 <hr class="break-major" />
 

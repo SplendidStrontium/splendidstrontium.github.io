@@ -97,31 +97,38 @@ Finally, surrounded by strangers, he was alone.
 
 <hr class="break-minor" />
 
-*\[ "always crying" \]*
+[ "always crying" ]
+{: .tce-dream-sense}
 
 He was running, and he was crying. He was in pain, but from what, he could not tell.
 
-*\[ "quit your bawling" \]*
+[ "quit your bawling" ]
+{: .tce-dream-sense}
 
 He hadn't heard that voice in a long time, but when he heard it again, it was a knife with an edge that could split to the bone.
 
-*\[ "weeping, wailing, carrying on" \]*
+[ "weeping, wailing, carrying on" ]
+{: .tce-dream-sense}
 
 He was young when he heard it, and he kept running in the dark because he could not find her.
 
-*\[ "what are you, a sissy" \]*
+[ "what are you, a sissy" ]
+{: .tce-dream-sense}
 
 She had said these things to him, and he had tried to hold back his tears because he knew that she was right. And now he was looking for her because he hurt and he was in pain and she was all that he had.
 
-*\[ "Mom?" \]*
+[ "Mom?" ]
+{: .tce-dream-sense}
 
 That one was his, the question he couldn't forget. His voice was small, but familiar because it was the one he'd had first.
 
-*\[ "Mom? Where are you mom" \]*
+[ "Mom? Where are you mom" ]
+{: .tce-dream-sense}
 
 He kept going, and he thought her voice was getting closer.
 
-*\[ "he always makes so much damn noise" \]*
+[ "he always makes so much damn noise" ]
+{: .tce-dream-sense}
 
 That was when he saw it: the Chair.
 
@@ -131,11 +138,13 @@ It was faced away from him because he'd walked in through the door. And though i
 
 He reached his hand toward the corner.
 
-*\[ "you wanna cry, kid?" \]*
+[ "you wanna cry, kid?" ]
+{: .tce-dream-sense}
 
 The sound was not hers, but it wasn't his either.
 
-*\[ "i'll give you something to cry about" \]*
+[ "i'll give you something to cry about" ]
+{: .tce-dream-sense}
 
 His hand was still reaching, so he let it continue. He touched the chair on the far left, and when he pulled, he could move it, and it was something he had never done and his heart fell a little because he did not—
 
@@ -143,23 +152,28 @@ Her legs were sticking out straight because they were short and could not fold o
 
 Because they were red.
 
-*\[ "So, Junior, what're you going to do?" \]*
+[ "So, Junior, what're you going to do?" ]
+{: .tce-dream-sense}
 
 It was her, it was Friday, and she looked at him with the eyebrows that fell down over her eyes because she was looking right at him.
 
-*\[ "Are you going to hit me go ahead hit me" \]*
+[ "Are you going to hit me go ahead hit me" ]
+{: .tce-dream-sense}
 
 And she was looking at him and it hurt to look back.
 
-*\[ "Go ahead Junior hit me I dare you" \]*
+[ "Go ahead Junior hit me I dare you" ]
+{: .tce-dream-sense}
 
 He just kept looking and maybe he clenched his teeth but then he wasn't really sure where he was at all and didn't know if he had any.
 
-*\[ "I double-dog dare you hit me just hit me" \]*
+[ "I double-dog dare you hit me just hit me" ]
+{: .tce-dream-sense}
 
 He was tense then, because he wasn't moving and was trying to do something else.
 
-*\[ "Junior?" \]*
+[ "Junior?" ]
+{: .tce-dream-sense}
 
 And because she was sitting and she was eleven or twelve or thirteen or whatever, when he brought his fist up and swung, it was at—
 

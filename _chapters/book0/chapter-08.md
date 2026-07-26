@@ -185,7 +185,8 @@ Cedric was hungry. 'Starving' was a strong word, one he could not yet justify fo
 
 It was with this singular focus that he found himself at a very peculiar dinner party. He was alone in a huge room, ceiling and walls stretching off into eternity, staring at an empty plate that reminded him of the tiny pewter tokens he'd clutched during his childhood.
 
-*\[Not pewter.\]*
+[Not pewter.]
+{: .tce-dream-sense}
 
 The plate was silver, tarnished, the thick edge risen and carved with inexplicable detail. The crevices of the ornamentation were blackened, lending contrast to the relief. What might have once been crisp definition had worn down with age. The plate was like nothing he'd ever seen before.
 
@@ -193,7 +194,8 @@ But it still could not feed him.
 
 Cedric felt his dire need overwhelm all other sensation, leaving him only capable of staring at the greyish silver, hoping it would give him what he craved.
 
-*\[No food.\]*
+[No food.]
+{: .tce-dream-sense}
 
 Desperate, impatient, he looked up. He realized he was sitting at one end of a very long wooden table, weathered, perhaps quite ancient. What stood out to him was how very like this plate was the table — entirely barren: no bowls, no cups, and even to the side of his own oblong silver plate, not a single utensil. Except for his own place-setting, the table was laid plain.
 
@@ -205,13 +207,15 @@ He tried to look to either side for escape but his eyes would not obey, seeming 
 
 And that was when he saw them.
 
-*\[The hands.\]*
+[The hands.]
+{: .tce-dream-sense}
 
 Alabaster skin covered the pair, emerging from dark folds of cloth. Each finger was adorned with a short nail, the edge rounded and even more brilliant white than the tinted flesh it protected.
 
 He felt sense recede as those hands floated, belonging to no man; skeletal, and yet not dead. In the void left by emotion's vacancy grew a seed of fear.
 
-*\[The voice.\]*
+[The voice.]
+{: .tce-dream-sense}
 
 It came from the right side, and, suddenly aware of himself, he looked toward the sound, not even sure what word had been spoken. Cedric raised his eyes, searching, but there was nothing beside him, and here the fire's light was fading to black.
 
@@ -219,7 +223,8 @@ It spoke again, emitting an utterance more primitive than language, beckoning hi
 
 In the shadow cast by the tall chair, with his own eyes, he saw those white hands.
 
-*\[The knife.\]*
+[The knife.]
+{: .tce-dream-sense}
 
 One hand bore a steel implement, grey-blue in the darkness, with a smooth wooden handle. Opposite the knife was held a pale block with a matte finish, scattering the muted illumination. The blade cut through the block and a shaving hung for a moment before it fell to the table, its curved shape suggesting the delicacy of the medium, easily yielding to division.
 
@@ -239,7 +244,8 @@ He looked away from the plate. The cloaked man seated upwind now had an audience
 
 Cedric let his eyes fall and he found his plate scattered with the sculptor's crumpled leavings, a pungent perfume invading his nostrils.
 
-*\[Soap.\]*
+[Soap.]
+{: .tce-dream-sense}
 
 He looked up again, and where there had been four figures, now scores of them, perhaps a hundred, cluttered the table. But the hands still methodically drew the blade into the tender material, fresh scraps fallen unseen behind the table's edge.
 
@@ -251,7 +257,8 @@ Cedric looked down to find he could not see the silver. The plate was completely
 
 He brought his own hand up, and as he closed his fingers around a slender ribbon of soap, Cedric felt the force of his heartbeat reverberate in his chest, pounding against the pit in his stomach. He brought the sliver toward his mouth and parted his lips over the teeth.
 
-*\[Lavender?\]*
+[Lavender?]
+{: .tce-dream-sense}
 
 Repulsion flooded his veins. This was not food.
 

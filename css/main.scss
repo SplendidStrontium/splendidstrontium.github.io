@@ -3,18 +3,6 @@
 ---
 @charset "utf-8";
 
-{% include biography.css %}
-{% include chinese.css %}
-{% include darkshadows.css %}
-{% include eatsleepdo.css %}
-{% include femputermanchine.css %}
-{% include sb.css %}
-{% include hm.css %}
-{% include poem.css %}
-{% include warcraft.css %}
-{% include wiki.css %}
-
-
 // Our variables
 $base-font-family: OpenDyslexic, Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
@@ -40,24 +28,6 @@ $on-laptop:        800px;
 
 .book-quote{
 	font-size: .8em;
-}
-
-#wow_table_played_01 {
-	border: 1px solid black;
-	border-collapse: collapse;
-	background-color: #ccc;
-}
-
-#wow_table_played_01 td {
-	border:	1px solid black;
-	background-color: #eee;
-	padding: 5px;
-}
-
-#wow_table_played_01 th {
-	border: 1px solid black;
-	background-color: #ddd;
-	padding: 5px;
 }
 
 .inline-imgtbl-r {
@@ -102,11 +72,23 @@ $on-laptop:        800px;
   "layout",
   "syntax-highlighting",
 	"comments",
-  "post-cards"
+  "post-cards",
+  "tce-inserts",
+  "tce-wiki",
+  "biography",
+  "sb",
+  "chinese",
+  "darkshadows",
+  "eatsleepdo",
+  "fpmc",
+  "hm",
+  "poem",
+  "warcraft"
 ;
 
 body {
-  line-height: 1.65;
+  line-height: 1.7;
+  font-size: 1.1em;
 }
 
 body p{
@@ -274,7 +256,7 @@ body p{
 .tce-post .post-content hr.break-minor {
   border: 0;
   width: min(160px, 40%);
-  height: 1px;
+  height: 2px;
   margin: 4rem auto;
   background: var(--divider);
 }
@@ -282,7 +264,7 @@ body p{
 .tce-post .post-content hr.break-major {
   border: 0;
   width: 100%;
-  height: 1px;
+  height: 2px;
   margin: 5.5rem auto;
   background: var(--divider);
 }

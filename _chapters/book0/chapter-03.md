@@ -29,19 +29,23 @@ The Sun. It didn't appear in the sky, but something somewhere must have been cre
 
 But maybe it was the Moon — she who would not smite your eye for looking upon her —
 
-*\[Noise.\]*
+[Noise.]
+{: .tce-dream-sense}
 
 It rose from all directions, but he knew from whence it came. Here, he knew all. This is what he'd heard before he entered the domain of the slumbering dead.
 
-*\[Hate.\]*
+[Hate.]
+{: .tce-dream-sense}
 
 Anger swelled within him as he heard the engine shriek, heeding its master's command. He yearned to shatter each component, vaporize the metal, dash the atoms into chaos.
 
-*\[Closer.\]*
+[Closer.]
+{: .tce-dream-sense}
 
 The machinery grew louder and the sound rattled his chest. Blood pushed against veins and sweat soaked his skin.
 
-*\[Pain!\]*
+[Pain!]
+{: .tce-dream-sense}
 
 Cedric remembered himself and looked toward the car but it was too late.
 

@@ -157,9 +157,11 @@ Crossing the Delaware was not as glorious as it might have been for others in th
 
 He passed safely over the river and read a plain sign.
 
+<div class="tce-sign" markdown="1">
 WELCOME TO NEW YORK
 
 THE EMPIRE STATE
+</div>
 
 The sun was behind him and the sky was still bright. He could keep going, he thought, and certainly it followed his usual inclination to keep hurtling on, barely breathing and completely spent by the time he crossed the finish line. He looked down at an indicator on the dashboard.
 

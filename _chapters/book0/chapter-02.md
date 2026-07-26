@@ -127,9 +127,11 @@ His tan Cavalier sat quiet, waiting patiently across the street. It, too, had be
 
 Cedric looked up past the roof of his car and noticed a plain sign hanging in the window of one of the townhomes on the other side of the street. 
 
+<div class="tce-paper-sign" markdown="1">
 ROOM FOR RENT
 
 INQUIRE WITHIN
+</div>
 
 <hr class="break-major" />
 

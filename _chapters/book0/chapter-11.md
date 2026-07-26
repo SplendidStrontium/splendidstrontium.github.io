@@ -67,7 +67,8 @@ His body lay on feathers and down, but his mind could not rest.
 
 He was not sure which had been dream, and which had been reality. 
 
-*\[I've seen this before.\]*
+[I've seen this before.]
+{: .tce-dream-sense}
 
 The sounds echoed through his memory, gaining sharp definition the longer they were permitted to ricochet. The sensation persisted, groaning and lumbering as a massive beast of terror. His secondary senses were dulled, hearing again and again the striking of skin against skin, a hand thrown by the ageless sinew of hatred, pitiless against the yielding flesh of youth.
 
@@ -75,11 +76,13 @@ The echo of the nightmare.
 
 Desperately trying to cling to what his senses told him was real, he thought back to last night, to what he thought he'd seen while the philosophers stood placid.
 
-*\[Not this…\]*
+[Not this…]
+{: .tce-dream-sense}
 
 None of it was here, and yet, it was his only reality.
 
-*\[Not again.\]*
+[Not again.]
+{: .tce-dream-sense}
 
 He could see nothing about him, but he heard them and felt them, first the Master, the witness, and then the victims, whose tiny voices rang out as pleas toward Heaven, blending to become one.
 

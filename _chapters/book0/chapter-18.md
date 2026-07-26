@@ -11,21 +11,21 @@ description: "In front of a large cardboard cut-out, there stood a strange man."
 
 In front of a large cardboard cut-out, there stood a strange man. He was not old so much as he had become weathered. His skin was deeply wrinkled from a long life beneath the Yellow Sun, but still his long black hair shone in the light.
 
-*( "What does this say" ),* he asked his companion.
+<span class="tce-telepathy">( "What does this say" ),</span> he asked his companion.
 
 They had descended the boat at South Ferry together, but anyone who was really looking would have known they'd been traveling together for far longer than that.
 
 She smiled at him, because she loved him and his questions.
 
-*( "It says Caardvark" ),* she said. *( "It's a play with words — they put the word 'card' in front of 'aardvark' and mash them together — Card-vark — C-Aardvark" )*
+<span class="tce-telepathy">( "It says Caardvark" ),</span> she said. <span class="tce-telepathy">( "It's a play with words — they put the word 'card' in front of 'aardvark' and mash them together — Card-vark — C-Aardvark" )</span>
 
-Then she added sweetly, *( "It's supposed to be funny" )*
+Then she added sweetly, <span class="tce-telepathy">( "It's supposed to be funny" )</span>
 
-The man with the old skin was confused, but he did not sneer. He looked at the cartoon and asked, *( "And the clothing — Is that supposed to be funny too" )*
+The man with the old skin was confused, but he did not sneer. He looked at the cartoon and asked, <span class="tce-telepathy">( "And the clothing — Is that supposed to be funny too" )</span>
 
 Daisy rolled her eyes in quiet delight. She took his hand in hers and tried to lead him away.
 
-*( "C'mon Ben — We could be here all day — but we really ought to get going" )*
+<span class="tce-telepathy">( "C'mon Ben — We could be here all day — but we really ought to get going" )</span>
 
 <hr class="break-major" />
 
@@ -55,17 +55,17 @@ So when the people would not open their mouths and talk to her, she found the wo
 
 Ben could read the way a leaf had been broken where a creature had strode past, and he knew how long a vine had been climbing by how it gripped a tree, but when it came to the symbols men had invented to give their voices life that lasted when the sound had long faded, he let his companion do the talking.
 
-*( "It says 'Liberty'" ),* she told Ben. 
+<span class="tce-telepathy">( "It says 'Liberty'" ),</span> she told Ben. 
 
 They were standing in front of a tall iron pole and looking up at an arrow that turned with the wind. 
 
-*( "It says here" ),* Daisy said, now reading an inscription that lay beneath, *( "That it is the fifth of its kind — the English tore it down once twice and yet again — and still the Sons put it —" )*
+<span class="tce-telepathy">( "It says here" ),</span> Daisy said, now reading an inscription that lay beneath, <span class="tce-telepathy">( "That it is the fifth of its kind — the English tore it down once twice and yet again — and still the Sons put it —" )</span>
 
-*( "It wasn't iron then" ),* Ben said cryptically, looking at the letters above.
+<span class="tce-telepathy">( "It wasn't iron then" ),</span> Ben said cryptically, looking at the letters above.
 
-*( "Nineteen twenty one was when they put this one up" ),* Daisy replied, still reading the paragraph at the ground. *( "So — seventy-three years —" )*
+<span class="tce-telepathy">( "Nineteen twenty one was when they put this one up" ),</span> Daisy replied, still reading the paragraph at the ground. <span class="tce-telepathy">( "So — seventy-three years —" )</span>
 
-*( "It was seventy-four" ),* he quickly corrected.
+<span class="tce-telepathy">( "It was seventy-four" ),</span> he quickly corrected.
 
 Daisy did not know why he said that, but she knew that the place was thick with spirit, and when they were in places where the living things had been made to bear what they should never have been made to bear, Ben heard what she could not. And then sometimes he was a Conduit, and she knew she did not understand, but she thought she might someday, so she listened and remembered and took it with her.
 
@@ -73,25 +73,25 @@ She had brought him here because she thought the cars and cement and chatter had
 
 <hr class="break-minor" />
 
-*( "Have you ever noticed how the wolf looks at his kin and can speak with his eyes while his mouth remains still" )*
+<span class="tce-telepathy">( "Have you ever noticed how the wolf looks at his kin and can speak with his eyes while his mouth remains still" )</span>
 
 She was still young in her memory, but she was then, as always, a quick study.
 
-*( "I've never seen a wolf" ),* she admitted. *( "We had dogs, and cows; pigs, and cats and —" )*
+<span class="tce-telepathy">( "I've never seen a wolf" ),</span> she admitted. <span class="tce-telepathy">( "We had dogs, and cows; pigs, and cats and —" )</span>
 
-*( "The dogs can, but they look up more than they look out" ),* he said.
+<span class="tce-telepathy">( "The dogs can, but they look up more than they look out" ),</span> he said.
 
-*( "What about the cats" ),* she asked. 
+<span class="tce-telepathy">( "What about the cats" ),</span> she asked. 
 
-*( "Some of them feel the wind in their fur when they chase the vole — others are too tired to hunt and sleep by a conjured fire, but even they retreat to Dream" )*
+<span class="tce-telepathy">( "Some of them feel the wind in their fur when they chase the vole — others are too tired to hunt and sleep by a conjured fire, but even they retreat to Dream" )</span>
 
-*( "The speech is in the twitch of a whisker — the turn of a tail" ),* he told her. *( "You will learn it too" )*
+<span class="tce-telepathy">( "The speech is in the twitch of a whisker — the turn of a tail" ),</span> he told her. <span class="tce-telepathy">( "You will learn it too" )</span>
 
-And he added, humbly, *( "And you will realize that you never learned anything from me because it was already in your heart" )*
+And he added, humbly, <span class="tce-telepathy">( "And you will realize that you never learned anything from me because it was already in your heart" )</span>
 
-*( "What if I want to get you something for your birthday" ),* she asked. *( "And what if I don't want you to know what it is" )*
+<span class="tce-telepathy">( "What if I want to get you something for your birthday" ),</span> she asked. <span class="tce-telepathy">( "And what if I don't want you to know what it is" )</span>
 
-He smiled when he looked at her and said, *( "What could you get for me that I don't already have" )*
+He smiled when he looked at her and said, <span class="tce-telepathy">( "What could you get for me that I don't already have" )</span>
 
 <hr class="break-major" />
 
@@ -107,21 +107,21 @@ The people were many, and they were doing all kinds of things that seemed famili
 
 At one place in the park, there was a very old elm, and they waited for a while and watched it, and while they did that, there weren't as many people around because they were occupied with other things.
 
-*( "This tree — it reminds me of someone" ),* Daisy said, and she was smiling because she knew he knew who she was talking about.
+<span class="tce-telepathy">( "This tree — it reminds me of someone" ),</span> Daisy said, and she was smiling because she knew he knew who she was talking about.
 
 Ben was lost in Memoria, and when he was lost in those paths, he often misread what she said to him, and his response was somewhat flat. 
 
-*( "I don't see the resemblance" )*
+<span class="tce-telepathy">( "I don't see the resemblance" )</span>
 
-*( "It's Grandfather" )*, she said, and he felt immediately embarrassed to have her say that.
+<span class="tce-telepathy">( "It's Grandfather" )</span>, she said, and he felt immediately embarrassed to have her say that.
 
-*( "I did not know what I was saying when I said that" ),* Ben admitted sheepishly. *( "I do not say that anymore and I wish you wouldn't either" )*
+<span class="tce-telepathy">( "I did not know what I was saying when I said that" ),</span> Ben admitted sheepishly. <span class="tce-telepathy">( "I do not say that anymore and I wish you wouldn't either" )</span>
 
-*( "You only said that then because you were young and you knew the ones who had seen the rise and fall of many Suns were called Grandmother — And because you had never known a Man to live so long, you said that" )*
+<span class="tce-telepathy">( "You only said that then because you were young and you knew the ones who had seen the rise and fall of many Suns were called Grandmother — And because you had never known a Man to live so long, you said that" )</span>
 
 He liked it when she repeated his stories back to him and tried to soothe him because sometimes it worked, and he was just silent to hear what she would say next.
 
-*( "I am sure the honor you intended was the one that was received" )*
+<span class="tce-telepathy">( "I am sure the honor you intended was the one that was received" )</span>
 
 <hr class="break-minor" />
 
@@ -157,17 +157,17 @@ When on that day the Moon entered the realm of the Sun, he was one man, and when
 
 Ben found something fresh in the moving wind and was glad, so they stood for a while and looked at the tree and its darkening leaves, and then they moved on.
 
-*( "I'm sorry" ),* he said to his companion. *( "The tree is not what we came here to see" )*
+<span class="tce-telepathy">( "I'm sorry" ),</span> he said to his companion. <span class="tce-telepathy">( "The tree is not what we came here to see" )</span>
 
 Daisy did not laugh, exactly, because laughter was a sound that could not move through their minds because it could only be dispersed in air, but he knew she was at ease because she paused a moment before trying to comfort him. 
 
-*( "Maybe not, but it's exactly what we needed to find" )*
+<span class="tce-telepathy">( "Maybe not, but it's exactly what we needed to find" )</span>
 
 They were walking, and those that were native to the city and those that weren't ran around them and past them but never through them because they walked at a pace that only they understood.
 
-*( "So many bright colors" ),* he remarked of his surroundings. *( "The children of Earth make so much noise" )*
+<span class="tce-telepathy">( "So many bright colors" ),</span> he remarked of his surroundings. <span class="tce-telepathy">( "The children of Earth make so much noise" )</span>
 
-Daisy let his judgment percolate, and then she added, *( "The ones who aren't human make a lot of noise too" )*
+Daisy let his judgment percolate, and then she added, <span class="tce-telepathy">( "The ones who aren't human make a lot of noise too" )</span>
 
 <hr class="break-minor" />
 
@@ -189,23 +189,23 @@ There were many who lay in beds whose bodies and minds and souls had been broken
 
 Ben looked into the eye that looked at him, and it was grey, the same grey it had been many years ago when he had stopped saying Grandfather. But he saw the fear, too, and then he was afraid. And he hated to leave the sides of the many he had come to help, but when he saw how the ancient was afraid, he had to brace himself to not also shake with the same fear.
 
-*( "Take me to him" )*
+<span class="tce-telepathy">( "Take me to him" )</span>
 
 <hr class="break-minor" />
 
-*( "Garibaldi" ),* Daisy said, reading the words at the base of a bronze and copper structure. *( "Eighteen —" )*
+<span class="tce-telepathy">( "Garibaldi" ),</span> Daisy said, reading the words at the base of a bronze and copper structure. <span class="tce-telepathy">( "Eighteen —" )</span>
 
-*( "It wasn't like that when it was made" ),* Ben said suddenly of the man's posture. *( "It couldn't have been and it wasn't" )*
+<span class="tce-telepathy">( "It wasn't like that when it was made" ),</span> Ben said suddenly of the man's posture. <span class="tce-telepathy">( "It couldn't have been and it wasn't" )</span>
 
 It was harder to hear the metals sing when they had been worked by human hands, but still they resonated when the rest of the world shook.
 
-*( "I think it was important that he did not sit atop a horse" ),* Daisy said after a while.
+<span class="tce-telepathy">( "I think it was important that he did not sit atop a horse" ),</span> Daisy said after a while.
 
-*( "He is not ready because his sword is not drawn" ),* Ben said. *( "And his feet face wrong" )*
+<span class="tce-telepathy">( "He is not ready because his sword is not drawn" ),</span> Ben said. <span class="tce-telepathy">( "And his feet face wrong" )</span>
 
 Daisy did not say anything, because Ben was displeased, so she was quiet until she heard him again.
 
-*( "I am ready to go" )*
+<span class="tce-telepathy">( "I am ready to go" )</span>
 
 <hr class="break-minor" />
 
@@ -221,15 +221,15 @@ Once the Mages learned what their words could do, they did not think they needed
 
 <hr class="break-minor" />
 
-*( "Where will we hide when we get there" ),* Daisy asked, reminding him of what was past and what was present.
+<span class="tce-telepathy">( "Where will we hide when we get there" ),</span> Daisy asked, reminding him of what was past and what was present.
 
-He kept his mind quiet for a moment, and then laid his thought out for the taking, *( "Where he will not think to look" )*
+He kept his mind quiet for a moment, and then laid his thought out for the taking, <span class="tce-telepathy">( "Where he will not think to look" )</span>
 
 When Ben and Daisy left the park in the shadow of the island's oldest tree, they headed west and north. The closer he became to the old threads he had woven with younger hands, the more he could feel the strain of the weight they bore, like a spider's web after a storm at dawn. He could not know what was dissolved in the skyfall, but he knew it would not be long until the net could not hold. 
 
 They wandered, getting closer. Ben wandered in Memoria, in Dream, as he walked and remembered this Mage, remembered him from long ago, and remembered his feverish pale skin, covered in sweat, crying in fear of the monsters that crept into his mind when he slept…
 
-*( "I do not know if I can reach him" ),* Ben had said. *( "The weave is old. It wasn't made to catch —" ),* and Ben's thought stuttered, because he did not want to let the war into his mind.
+<span class="tce-telepathy">( "I do not know if I can reach him" ),</span> Ben had said. <span class="tce-telepathy">( "The weave is old. It wasn't made to catch —" ),</span> and Ben's thought stuttered, because he did not want to let the war into his mind.
 
 "Shh… Shh…" the ancient one said, reaching out a hand with skin the color of a summer glacier. "I fear he will succumb to the wasting, but a few more days can be a new life in the hands of the dying."
 

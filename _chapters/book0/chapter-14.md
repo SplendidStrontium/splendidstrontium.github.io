@@ -175,15 +175,18 @@ Each time he brought the blade to his face, he made fall another column of cream
 
 But something did not look right, even though he could not see. The tile was white and the mirror was silver and the light made his pupils contract until they were small and they were green all around the black and if he'd been quiet enough, he might have noticed the pain.
 
-*\[ 'Bet—' \]*
+[ 'Bet—' ]
+{: .tce-dream-sense}
 
 It was Betty's bathroom, on the second floor, left as you went up the stairs. Set above the kitchen, if you thought about it, so that the pipes ran up and down in neat little lines, gravity helping the plumbing, but never deviated — never went diagonally.
 
-*\[ 'I don't live here, do—' \]*
+[ 'I don't live here, do—' ]
+{: .tce-dream-sense}
 
 No, he didn't live here, he realized. That time and place had passed, and now… 
 
-*\[ 'You're wrong, it was right, not left. Now…?' \]*
+[ 'You're wrong, it was right, not left. Now…?' ]
+{: .tce-dream-sense}
 
 He was shaving. But an inordinate time had seemed to stretch ponderous past his cognition, pulled tight so that the light passed through it, and still he remained on the right cheek. It wasn't right, and he thought he'd made a mistake. In five strokes, he should be done; in five strokes, sometimes six, he could move to the other side, or at least into the middle.
 
@@ -193,27 +196,32 @@ He went underneath his nose then, and his razor touched the division, slicing in
 
 He bent against the counter to get a better look, but he hated to see himself and the way his flesh looked pink when he got too close. His eyes, too, streaked with tiny reddish vessels. The pressure of the—
 
-***\[ Wait. \]***
+**[ Wait. ]**
+{: .tce-dream-sense}
 
 Betty didn't have a square counter. There was no marble there, no cold corners, that wasn't how he'd seen it. That wasn't how it had been. This was all wrong. It was round, it had been round, yes: round; and there had been a little glass shelf and sometimes he put the razor on there and then he saw how it left a residue, and then he—
 
-***\[ Look. \]***
+**[ Look. ]**
+{: .tce-dream-sense}
 
 In the mirror, was his face. And he'd moved to the left now, and one swipe had left a swath glowing where the pores were open. He felt the air flood into the empty follicles and it was cold as it was burning and then he was looking at himself and he was seeing into the empty space outside the color of his eyes when his face twisted into a smile.
 
-***\[ Smile? \]***
+**[ Smile? ]**
+{: .tce-dream-sense}
 
 Yes, it was a smile, though it was cockeyed. He still had shaving cream on one side, so the whole thing was tilted while it was straight. 
 
 And he stared for some time, thinking he saw a smile, but was not himself making it and though he wanted desperately to raise his hands and touch his fingers to his face to test the orientation of his muscles, they would not go and refused him because he was holding a razor.
 
-***\[ Razor. \]***
+**[ Razor. \]**
+{: .tce-dream-sense}
 
 But where was the razor?
 
 His eyes peered, but they could not see. Two bright lights had been born upon the mirror and as his eyes were open, they grew and grew and grew until they flashed white overload into the back of his retina.
 
-***\[ Wheel. \]***
+**[ Wheel. \]**
+{: .tce-dream-sense}
 
 He was driving the Cavalier—but?
 
@@ -221,25 +229,30 @@ He was still in the bathroom.
 
 Cedric hated when they followed so close behind him. He hated when the lights flashed bright in the rearview, up and down, intense from askew when they came out of the divots in the road. The anger rose again so he threw his head backward to look at them, to show his face, to let them know they could not hide in his—
 
-***\[ Shadow? \]***
+**[ Shadow? \]**
+{: .tce-dream-sense}
 
 When he looked, there was nothing there. He was sure he hadn't moved (his feet) but the walls were gone and the tile wasn't there and the car was nowhere to be seen.
 
 What remained was the water. It came up around his ankles and it was cold and where it seeped into his jeans, it made the clothing heavy. The faucet was running; he could hear it and he needed to make it stop. He stumbled around and looked for the sink but the weight of the denim made it hard to walk and where he stepped, the icy water splashed back and got more of him wet.
 
-*\[ "Betty?" \]*
+[ "Betty?" ]
+{: .tce-dream-sense}
 
 He was calling out for her now. If he couldn't turn off the sink, the noise would keep going and the level would rise and soon the whole house would flood with water everywhere.
 
-*\[ "Betty…?" \]*
+[ "Betty…?" ]
+{: .tce-dream-sense}
 
 He kept yelling into the darkness for help. It was her house, he thought, her bathroom, her sink. She would know how to fix it. She would have the tools: a wrench, the pliers or whatever she needed…
 
-*\[ "…Betty!" \]*
+[ "…Betty!" ]
+{: .tce-dream-sense}
 
 A bucket, maybe.
 
-*\[ "Help! Betty, I—!" \]*
+[ "Help! Betty, I—!" ]
+{: .tce-dream-sense}
 
 <hr class="break-major" />
 
@@ -253,6 +266,7 @@ He blinked and shifted underneath the plush covers: a sheet, supple and impossib
 
 If there had been water all over, how did he fall in the open air?
 
+<div class="tce-sound" markdown="1">
 ( …DONG… )
 
 ( … )
@@ -262,6 +276,7 @@ If there had been water all over, how did he fall in the open air?
 ( … )
 
 ( …D— )
+</div>
 
 The clock in the hallway rang out. He counted the tolling of the bell, because the darkness gave no other clues, and when it was done he knew it was five o'clock in the morning.
 
@@ -465,6 +480,7 @@ He moved his head a little, toward Elmer, but eyes cast over the sink.
 
 <hr class="break-major" />
 
+<div class="tce-letter hand-cedric" markdown="1">
 Dear Betty,
 
 I hope this letter finds you well. I am sorry I have taken so long to write, and I hope you have not worried too much about me. 
@@ -482,4 +498,5 @@ Sincerely,
 Cedric
 
 (P.S. I let Suyon draw on the letter. She's little. I hope you don't mind.)
+</div>
 

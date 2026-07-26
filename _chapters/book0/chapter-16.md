@@ -47,6 +47,7 @@ He raised his neck a little, but mostly just turned his face toward the sound of
 
 <hr class="break-major" />
 
+<div class="tce-letter hand-davian" markdown="1">
 15th December, 1992
 
 My dear Cedric,
@@ -66,6 +67,7 @@ Yours, with the warmest regards the season permits,
 D.
 
 P.S. Do dress for dinner. The season warrants a certain degree of ceremony and I find I am increasingly intolerant of its absence.
+</div>
 
 <hr class="break-major" />
 
@@ -153,13 +155,16 @@ And then they looked at him. And he looked away, glancing first at the fire, and
 
 In the deep recesses of his mind, in a place he did not wander often, was a small voice, and when it spoke, it spoke without words and he did not know what he was hearing, much less understand whatever it was trying to say. 
 
-*\[ be brave \]*
+[ be brave ]
+{: .tce-half-dream}
 
-*\[ be tough \]*
+[ be tough ]
+{: .tce-half-dream}
 
 And he was looking at the marshmallow then, while they all were looking at him. 
 
-*\[ be you \]*
+[ be you ]
+{: .tce-half-dream}
 
 And when he opened his eyes again, they were all clapping for him.
 
@@ -177,23 +182,27 @@ And it felt good to put his right hand on the gearshift, and he pressed on the c
 
 And it all went like that for a while, and he was very aware of that tan interior and how it felt warm and brown and —
 
-*\[ toasty \]*
+[ toasty ]
+{: .tce-dream-sense}
 
 Then he looked, because he couldn't make any other choice, and then he was worried and the path broke.
 
 On the passenger seat were blocks, blocks, blocks he recognized and knew belonging to the little girl with the black hair and big eyes who was sweet and friendly but never said anything. And she didn't say anything but she also never said anything that hurt either.
 
-*\[ her name her name what is her name lost her name \]*
+[ her name her name what is her name lost her name ]
+{: .tce-dream-sense}
 
 The blocks were falling on the seat and sometimes they were falling on the floor but he must stop them from falling on the floor so he leaned over the center of the car to stop them from falling but when he did that he knew he wasn't watching the road and he knew he absolutely needed to watch the road because if he didn't watch the road, if he neglected to hold the wheel and watch the road—
 
-*\[ CAR \]*
+[ CAR ]
+{: .tce-dream-sense}
 
 And when he didn't catch the blocks and he didn't watch the road either, he blinked and the Cavalier was gone. 
 
 He thought he woke up, because he didn't have the car anymore and it was gone, but when he looked around he knew he hadn't woken up because he was flying.
 
-*\[ flying? \]*
+[ flying? ]
+{: .tce-dream-sense}
 
 Cedric was not used to flying or even imagining that he was flying because he knew he couldn't so it was easier just not to think about it because if you don't think about the things you can't do or the things you don't have then you don't have to think about the things you don't have,
 
@@ -203,7 +212,8 @@ That was when he looked at the ground and saw the thing he did not expect to see
 
 When he dreamt things, he saw places that he had been to and people he had known and sometimes they were backwards or diagonal or criss-cross but still the little pieces that made them them were laid in an order such that he always knew what he was looking at even if the colors were inverted. But when he looked at the ground and saw what was chasing him, he did not know where it had come from.
 
-*\[ zombie \]*
+[ zombie ]
+{: .tce-dream-sense}
 
 Shambling, scrambling, lumbering were the corpses and where he had once felt he was flying perfectly, suddenly it was not fast enough because he was afraid. And he had not realized before that he was in a jungle but he was in a jungle and there were tens of the corpses coming out from amongst the ferns and leaves and trees. And the further Cedric went and the faster he tried to go, the more of them appeared as he realized he didn't know how to go any faster than he was already going and maybe there were a hundred but he couldn't look back to know. 
 
@@ -215,7 +225,8 @@ The skeleton from which the flesh was suspended wrapped itself around Cedric's l
 
 He was encumbered, and his anger made it hard for him to focus and he hated them and he hated their grasping and in his singular thought to wrest himself back from the clutching undead, he let another, and another mass of flesh catch him in the air and scrape at his body. And those fingers were like claws and they dug into him and something inside faltered because he thought this was the end and he had lost and the dead things that walked and crawled and would not stop and tore into his body and tried to take it from him had won and when he thought they had won, the voice spoke because the despair had become rage and when the rage made his insides quake, the nails they were using to crawl on him had not severed the throat and he knew the throat was all he had left and then he heard
 
-*\[ "Faggot!" \]*
+[ "Faggot!" ]
+{: .tce-dream-sense}
 
 And when he heard it he wasn't sure where it had come from because he could not notice the direction so much as he felt that word like glass he had swallowed that had become lodged in his throat and then the rage disappeared because the bodies did too and Cedric was completely alone in the darkness. The jungle was gone and the zombies were gone and the air was silent and he wanted to feel relief but he could still hear the echo of that shattering and even if the air had stopped and become still and black he could still hear that word.
 
