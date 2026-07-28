@@ -5,7 +5,7 @@ deleted_scene: true
 date: 2026-03-17
 image: /assets/tce/book0/b00ds02_meander.webp
 header_image_credit: b00ds02_meander
-description: "Cedric had never drank wine--and now witness to the time it had taken him to recover, he was sure he never wanted to drink it again."
+description: "He wasn't sure he gave a damn about which was favored by Napoleon."
 ---
 
 Cedric had never drank wine--and now witness to the time it had taken him to recover, he was sure he never wanted to drink it again.
