@@ -58,7 +58,7 @@ permalink: /tce/contents/
               <span class="toc-thumb toc-thumb--empty"></span>
             {% endif %}
             <span class="toc-text">
-              <span class="toc-label">Chapter {{ c.chapter }}: {{ c.title }}</span>
+              <span class="toc-label">{{ c.title }}</span>
                 {% if c.description %}
                   <span class="toc-excerpt">{{ c.description }}</span>
                 {% endif %}
