@@ -21,36 +21,36 @@ And in this strange car, a car he didn't recognize but knew how to drive anyway,
 
 He didn't really know what was outside the car, but he did know what was inside the car, or at least he thought he did. The seats were cloth—
 
-[ they get dirty ]
+they get dirty
 {: .tce-dream-sense}
 
 No the ones in the back were leather weren't they even if the ones in the front were cloth.
 
 And maybe he was gonna tune the radio, because sometimes almost anything was better than silence, sometimes, so he took his hand and raised it up and went toward the buttons and numbers where he should have had something saved—
 
-[ one two three f… ]
+one two three f…
 {: .tce-dream-sense}
 
 Someone else had set the stations, hadn't they or maybe they were set for a city or town that was really far back from here, and if he pushed the buttons all he was gonna get was s-s-static because they didn't match didn't match and he hated the static got away from the static so he didn't even p—
 
-[ push it push it ]
+push it push it
 {: .tce-dream-sense}
 
 But he didn't want to push it, so he didn't and he just kept driving but he didn't stop looking and because he didn't stop looking he noticed there was a collar around the rearview mirror.
 
-[ "dog" ]
+"dog"
 {: .tce-dream-sense}
 
 But he didn't put it there.
 
-[ what ]
+what
 {: .tce-dream-sense}
 
 And since he didn't put it there, he didn't think he should take it down either because it probably definitely belonged to someone else. So he didn't take it down, but he didn't like it there either, because it hung down and obstructed the glass and made it so there was something in his field of view when he was trying to see out the front windshield and he needed to see out the front windshield because dammit that was how he had to drive the car and if you couldn't see then—
 
 And the collar was getting bigger, wasn't it?
 
-[ one two thr… ]
+one two thr…
 {: .tce-dream-sense}
 
 There were holes in the collar, and they were counting
@@ -65,12 +65,12 @@ Cedric hadn't put the collar up there. But he knew he was the only one who could
 
 He just had to find it first.
 
-[ one two ]
+one two
 {: .tce-dream-sense}
 
 find it.
 
-[ one ]
+one
 {: .tce-dream-sense}
 
 <hr class="break-minor" />

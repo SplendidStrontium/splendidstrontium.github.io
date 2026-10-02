@@ -54,10 +54,14 @@
   border: 1px solid #eee;
   border-radius: 3px;
   text-align: center;
+  text-wrap: balance;
+  &::before { content: "[\00a0"; }
+  &::after { content: "\00a0]"; }
   text-shadow: 
     0 0 4px rgba(255,255,255, 0.9),
     0 0 10px rgba(245,245,245, 0.8),
     0 0 15px rgba(230,230,230, 0.6);
+  &.bold { font-weight: bold; }
 }
 
 .tce-half-dream {
@@ -73,6 +77,9 @@
   border: 1px solid #777;
   border-radius: 3px;
   text-align: center;
+  text-wrap: balance;
+  &::before { content: "[\00a0"; }
+  &::after { content: "\00a0]"; }
   text-shadow: 
     0 0 4px rgba(10,10,10, 0.9),
     0 0 10px rgba(25,25,25, 0.8),
@@ -84,6 +91,7 @@
   font-family: 'Verdana', 'sans-serif';
   margin: 2.5rem auto;
   text-align: center;
+  text-wrap: balance;
   font-style: italic;
   background: #bbb;
   max-width: 36rem;
@@ -159,4 +167,14 @@
     text-shadow: 
       0 0 5px rgba(255,255,255,0.9),
       0 0 10px rgba(245,245,245,0.8);
+}
+
+/* ---- Incantations ------------------------------------------ */
+.tce-incantation {
+  font-family: ui-monospace, "Courier New", monospace;
+  white-space: pre-line;
+  margin: 2.5em 0 2.5em 2.5em;
+  padding-left: 1em;
+  border-left: 4px solid #555;
+  line-height: 1.7;
 }
