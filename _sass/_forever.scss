@@ -1,0 +1,91 @@
+.fv-heading {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  padding-bottom: 0.2em;
+  border-bottom: 1px solid #888;
+}
+
+.fv-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.fv-row {
+  display: flex;
+  gap: 0.7em;
+  align-items: flex-start;
+  margin-bottom: 0.5em;
+  padding: 0.5em;
+  background-color: #ddd;
+  border: 1px solid #888;
+  border-radius: 4px;
+  box-shadow: 2px 2px 3px rgba(85, 85, 85, 0.3);
+  color: $text-color;
+  text-decoration: none;
+
+  &:visited { color: $text-color; }
+
+  &:hover, &:focus {
+    background-color: #e6e6e6;
+    border-color: $brand-color;
+    text-decoration: none;
+  }
+}
+
+.fv-thumb {
+  flex: 0 0 64px;
+  width: 64px;
+  height: 64px;
+  img {
+    display: block;
+    width: 64px;
+    height: 64px;
+    border: 1px solid #888;
+  }
+}
+
+.fv-thumb--empty {
+  background: #c4c4c4;
+  border: 1px solid #888;
+}
+
+.fv-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.fv-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1em;
+}
+
+.fv-title {
+  font-weight: bold;
+  font-size: 1.15em;
+  line-height: 1.3;
+  color: $brand-color;
+}
+
+.fv-date {
+  flex-shrink: 0;
+  font-size: 0.75em;
+  color: #666;
+}
+
+.fv-desc {
+  margin: 0.15em 0 0;
+  font-style: italic;
+  font-size: 0.8em;
+  line-height: 1.4;
+}
+
+@include media-query($on-palm) {
+  .fv-head {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0;
+  }
+}

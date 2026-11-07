@@ -1,0 +1,44 @@
+---
+layout: warcraft
+title: "Warcraft: Classic"
+permalink: /warcraft/classic/
+---
+
+<div id="warcft-list">
+
+<p>If you once played World of Warcraft(魔兽世界), you might understand some of this stuff.</p>
+
+<ul>
+{% for post in site.categories.classic %}
+	<li class="warcft-post">
+		<div class="warcft-link-box"><a class="warcft-link-txt" href="{{ post.url | relative_url }}">{{ post.title | truncate: 31 }}</a></div>
+
+		{% if post.thumbnail_id %}
+		<div class="warcft-tb">
+		<img src="{{ '/assets/tb/' | append: post.thumbnail_id | relative_url }}" alt="" class="warcft-tb-img">
+		</div>
+		{% endif %}
+
+		<div class="warcft-desc">
+			<span class="warcft-tags">{{ post.tags | array_to_sentence_string }}</span><br/>
+			{{ post.description }}
+		</div>
+
+		<span class="warcft-date">
+		<span id="dayname-cn">
+		{% assign day = post.date | date: "%w" %}
+		{% case day %}
+		{% when '0' %}周日
+		{% when '1' %}周一
+		{% when '2' %}周二
+		{% when '3' %}周三
+		{% when '4' %}周四
+		{% when '5' %}周五
+		{% else %}周六
+		{% endcase %}</span>
+		{{ post.date | date: "%d %b, %Y" }}</span>
+	</li>
+{% endfor %}
+</ul>
+
+</div>

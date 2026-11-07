@@ -1,0 +1,16 @@
+<li>
+  <a class="fv-row" href="{{ include.post.url | relative_url }}">
+    {% if include.post.thumbnail_id %}
+    <div class="fv-thumb"><img src="{{ '/assets/tb/' | append: include.post.thumbnail_id | relative_url }}" alt="" loading="lazy"></div>
+    {% else %}
+    <div class="fv-thumb fv-thumb--empty"></div>
+    {% endif %}
+    <div class="fv-text">
+      <div class="fv-head">
+        <span class="fv-title">{{ include.post.title }}</span>
+        <span class="fv-date">{{ include.post.date | date: "%b %-d, %Y" }}</span>
+      </div>
+      {% if include.post.description %}<p class="fv-desc">{{ include.post.description }}</p>{% endif %}
+    </div>
+  </a>
+</li>

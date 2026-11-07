@@ -33,6 +33,18 @@ defaults:
       layout: "tce-chapter"
       permalink: /tce/:path/
       footer: "cc-by-nc-nd"
+  - scope:
+      path: "warcraft/classic"
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: /warcraft/classic/:title/
+  - scope: 
+      path: "warcraft/forever"
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: /warcraft/forever/:title/
 
 # Build settings
 markdown: kramdown

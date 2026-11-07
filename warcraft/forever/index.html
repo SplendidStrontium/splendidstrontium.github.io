@@ -1,0 +1,37 @@
+---
+layout: warcraft
+title: "Warcraft: Forever"
+permalink: /warcraft/forever/
+sections:
+  - tag: whisper
+    title: Whispers
+---
+
+<p>Change your hearth, empty your bags, and read the quest.</p>
+
+{% assign forever = site.categories.forever %}
+{% assign listed = "" | split: "" %}
+
+{% for section in page.sections %}
+  {% assign items = forever | where_exp: "p", "p.tags contains section.tag" %}
+  {% if items.size > 0 %}
+  <h2 class="fv-heading">{{ section.title }}</h2>
+  <ul class="fv-list">
+    {% for post in items %}
+      {% include forever-row.html post=post %}
+      {% assign listed = listed | push: post.url %}
+    {% endfor %}
+  </ul>
+  {% endif %}
+{% endfor %}
+
+{% assign leftovers = "" | split: "" %}
+{% for post in forever %}
+  {% unless listed contains post.url %}{% assign leftovers = leftovers | push: post %}{% endunless %}
+{% endfor %}
+{% if leftovers.size > 0 %}
+  <h2 class="fv-heading">Miscellany</h2>
+  <ul class="fv-list">
+    {% for post in leftovers %}{% include forever-row.html post=post %}{% endfor %}
+  </ul>
+{% endif %}
